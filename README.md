@@ -6,6 +6,10 @@
 
 [Explainer: What is the 'metaverse'?](https://www.youtube.com/watch?v=99BnZ8js1_k)
 
+[The new metaverse gold rush](https://www.youtube.com/watch?v=8zbQhb2siHs)
+
+[The Metaverse could be a problem](https://www.youtube.com/watch?v=RgJwPco3wew)
+
 
 ## Metaverse is the Future
 
@@ -16,6 +20,7 @@
 The Information estimates that the metaverse could be worth about [$82B by 2025](https://www.theinformation.com/articles/what-will-metaverse-be-worth-in-2025-our-guess-is-82-billion)
 
 [The Metaverse Is Coming And It’s A Very Big Deal](https://www.forbes.com/sites/cathyhackl/2020/07/05/the-metaverse-is-coming--its-a-very-big-deal/?sh=3c6ee273440f)
+
 
 ## The Players and the Development Platforms
 
@@ -30,6 +35,21 @@ The Information estimates that the metaverse could be worth about [$82B by 2025]
 [The Key To Unlocking The Metaverse Is Nvidia’s Omniverse](https://www.techspot.com/news/92064-microsoft-nvidia-working-their-own-more-practical-metaverse.html)
 
 [Clash of the Metaverse Titans: Microsoft, Meta and Apple](https://medium.com/building-the-metaverse/clash-of-the-metaverse-titans-microsoft-meta-and-apple-ce505b010376)
+
+
+## Metaverse and Web3
+
+[Goldman Sachs Says Blockchain Is Key to Metaverse and Web 3 Development](https://www.coindesk.com/business/2021/12/17/goldman-sachs-says-blockchain-is-key-to-metaverse-and-web-3-development/)
+
+[Web 3.0 vs. Metaverse: similarities and differences](https://experty.io/web-3-0-vs-metaverse-similarities-and-differences)
+
+[Metaverse Explained In 10 Mins I Why Will Web3 Be A 100x Opportunity?](https://www.youtube.com/watch?v=hAkbAqVpII0)
+
+[Why NFTs Are The Keys To Accessing The Metaverse](https://www.binance.com/en/blog/nft/why-nfts-are-the-keys-to-accessing-the-metaverse-421499824684903085)
+
+[Metaverse, NFT, And DeFi: Here's Why They Matter In The Blockchain World](https://www.ndtv.com/business/metaverse-nft-and-defi-heres-why-they-matter-in-the-blockchain-world-2654667)
+
+[MetaFi: DeFi for the Metaverse](https://outlierventures.io/research/metafi-defi-for-the-metaverse/)
 
 
 
