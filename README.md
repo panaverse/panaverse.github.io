@@ -59,6 +59,14 @@ Read and Understand the above articles
 Make a Metaverse presentation from the Articles you have read in Assignment 1 using Google slides. 
 Please Donot share the slides with anyone except me, until I instruct you to do so.
 
+Five reasons we are doing this:
+
+1. When making something we remember
+2. To make a summary of the material
+3. To teach others from this material
+4. Have reference material for ourselves
+5. To see who are the leaders and best workers in this group
+
 
 
 
