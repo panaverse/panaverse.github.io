@@ -52,4 +52,13 @@ The Information estimates that the metaverse could be worth about [$82B by 2025]
 [MetaFi: DeFi for the Metaverse](https://outlierventures.io/research/metafi-defi-for-the-metaverse/)
 
 
+### Assignment 1:
+Read and Understand the above articles
+
+### Assignment 2:
+Make a Metaverse presentation from the Articles you have read in Assignment 1 using Google slides. 
+Please Donot share the slides with anyone except me, until I instruct you to do so.
+
+
+
 
