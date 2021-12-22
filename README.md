@@ -68,5 +68,10 @@ Five reasons we are doing this:
 5. To see who are the leaders and best workers in this group
 
 
+## Omniverse
+
+[Series Introduction - Part 1: Platform Overview | NVIDIA Omniverse Tutorials](https://www.youtube.com/watch?v=9T40HolIYNA&t=64s)
+
+
 
 
