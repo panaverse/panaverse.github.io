@@ -70,7 +70,7 @@ Five reasons we are doing this:
 
 ## Omniverse
 
-[Series Introduction - Part 1: Platform Overview | NVIDIA Omniverse Tutorials](https://www.youtube.com/watch?v=9T40HolIYNA&t=64s)
+[Series Introduction - Part 1: Platform Overview](https://www.youtube.com/watch?v=9T40HolIYNA)
 
 
 
