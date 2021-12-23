@@ -73,7 +73,7 @@ Five reasons we are doing this:
 
 [Blender 3.0 Beginner Tutorial - Part 1](https://www.youtube.com/watch?v=nIoXOplUvAw)
 
-[Blender 3.0 Beginner Object Editing Tutorial (Donut part 2](https://www.youtube.com/watch?v=imdYIdv8F4w)
+[Blender 3.0 Beginner Object Editing Tutorial - Donut part 2](https://www.youtube.com/watch?v=imdYIdv8F4w)
 
 
 ## Learning Smart Contract Development
