@@ -67,6 +67,19 @@ Five reasons we are doing this:
 4. Have reference material for ourselves
 5. To see who are the leaders and best workers in this group
 
+## Learning Blender
+
+[Blender Download](https://www.blender.org/download/)
+
+[Blender 3.0 Beginner Tutorial - Part 1](https://www.youtube.com/watch?v=nIoXOplUvAw)
+
+[Blender 3.0 Beginner Object Editing Tutorial (Donut part 2](https://www.youtube.com/watch?v=imdYIdv8F4w)
+
+
+## Learning Smart Contract Development
+
+[Learning Smart Contract Development](https://github.com/panacloud-modern-global-apps/defi-dapps-solidity-smart-contracts)
+
 
 ## Omniverse
 
