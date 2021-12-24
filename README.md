@@ -91,6 +91,8 @@ Build a 3D Donut using Blender as shown in the video tutorials.
 
 ## Universal Scene Description (USD) for Metaverse
 
+[To 3D and Beyond: Pixar’s USD Coming to an Industry Near You](https://blogs.nvidia.com/blog/2020/10/05/usd-ecosystem-omniverse/)
+
 [Watch Introduction to Pixar's Universal Scene Description](https://www.youtube.com/watch?v=LHoHUT1telk)
 
 [What is USD: A Primer](https://www.youtube.com/watch?v=Yp_TRVD3wjQ)
@@ -104,6 +106,16 @@ Build a 3D Donut using Blender as shown in the video tutorials.
 [USD Official Docs](https://graphics.pixar.com/usd/release/index.html)
 
 [USD Tutorials](https://graphics.pixar.com/usd/dev/tut_usd_tutorials.html)
+
+
+## OpenXR for Metaverse
+
+[OpenXR](https://en.wikipedia.org/wiki/OpenXR)
+
+[The time to embrace OpenXR is now](https://www.linkedin.com/pulse/time-embrace-openxr-now-ivana-tilca/)
+
+[Oculus is “All in on OpenXR,” New Developer Features Will Come to OpenXR Only](https://www.roadtovr.com/oculus-openxr-shift-unity-unreal-engine/)
+
 
 
 ## Omniverse
@@ -136,9 +148,13 @@ Build a 3D Donut using Blender as shown in the video tutorials.
 
 [We’re the underlying tool set for creating the metaverse, Unity CEO says](https://www.cnbc.com/video/2021/11/10/were-the-underlying-tool-set-for-creating-the-metaverse-unity-ceo-says.html)
 
+[Unity is buying VFX giant Weta Digital in preparation for the metaverse boom](https://www.notebookcheck.net/Unity-is-buying-VFX-giant-Weta-Digital-in-preparation-for-the-metaverse-boom.578155.0.html)
+
 [Why Unity scooped up Weta Digital’s 3D tools for $1.6B](https://venturebeat.com/2021/11/14/why-unity-scooped-up-weta-digitals-3d-tools-for-1-6b/)
 
 [Unity's Weta acquisition doesn't need the Metaverse to make sense](https://www.gamesindustry.biz/articles/2021-11-12-unitys-weta-acquisition-doesnt-need-the-metaverse-to-make-sense-opinion)
+
+[Unity and USD](https://docs.unity3d.com/Manual/com.unity.formats.usd.html)
 
 
 
