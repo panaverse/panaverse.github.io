@@ -111,5 +111,34 @@ Build a 3D Donut using Blender as shown in the video tutorials.
 [Series Introduction - Part 1: Platform Overview](https://www.youtube.com/watch?v=9T40HolIYNA)
 
 
+## Meta
+
+[We can now explore Meta’s first virtual world](https://bigthink.com/the-future/meta-virtual-world/)
+
+[Horizon Worlds](https://www.oculus.com/experiences/quest/2532035600194083/)
+
+[Project Cambria: Release Date, Latest News, Leaks, And More](https://www.gfinityesports.com/tech/project-cambria-oculus-release-date/)
+
+
+## Apple
+
+[Apple AR Headset: Release Date, Rumours And Latest News](https://www.gfinityesports.com/vr/apple-ar-headset-release-date-news-price-specs/)
+
+
+## Roblox
+
+[Roblox’s metaverse is already here, and it’s wildly popular](https://www.morningbrew.com/emerging-tech/stories/2021/12/10/roblox-s-metaverse-is-already-here-and-it-s-wildly-popular)
+
+[Roblox Website](https://www.roblox.com/)
+
+
+## Unity
+
+[We’re the underlying tool set for creating the metaverse, Unity CEO says](https://www.cnbc.com/video/2021/11/10/were-the-underlying-tool-set-for-creating-the-metaverse-unity-ceo-says.html)
+
+
+
+
+
 
 
