@@ -89,6 +89,10 @@ Build a 3D Donut using Blender as shown in the video tutorials.
 
 ## Universal Scene Description (USD) for Metaverse
 
+[Watch Introduction to Pixar's Universal Scene Description](https://www.youtube.com/watch?v=LHoHUT1telk)
+
+[What is USD: A Primer](https://www.youtube.com/watch?v=Yp_TRVD3wjQ)
+
 [Plumbing for the Metaverse with Universal Scene Description (USD)](https://medium.com/@nvidiaomniverse/plumbing-for-the-metaverse-with-universal-scene-description-usd-856a863d9b12)
 
 [It started at Pixar. Now it's the Apple-backed 3D file format viewed as HTML of metaverse](https://www.theregister.com/2021/11/10/usd_3d_format/)
