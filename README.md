@@ -97,6 +97,8 @@ Build a 3D Donut using Blender as shown in the video tutorials.
 
 [USD Official Docs](https://graphics.pixar.com/usd/release/index.html)
 
+[USD Tutorials](https://graphics.pixar.com/usd/dev/tut_usd_tutorials.html)
+
 
 ## Omniverse
 
