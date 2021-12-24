@@ -36,6 +36,8 @@ The Information estimates that the metaverse could be worth about [$82B by 2025]
 
 [Clash of the Metaverse Titans: Microsoft, Meta and Apple](https://medium.com/building-the-metaverse/clash-of-the-metaverse-titans-microsoft-meta-and-apple-ce505b010376)
 
+[Metaverse… Closer Than You Think](https://croftgroup.com/metaverse-closer-than-you-think/)
+
 
 ## Metaverse and Web3
 
