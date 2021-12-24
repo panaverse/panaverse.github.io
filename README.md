@@ -75,6 +75,8 @@ Five reasons we are doing this:
 
 [Blender 3.0 Beginner Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD)
 
+[Blender 3.0 Hotkey](https://docs.google.com/document/d/1zPBgZAdftWa6WVa7UIFUqW_7EcqOYE0X743RqFuJL3o/edit)
+
 ### Assignment 3:
 
 Build a 3D Donut using Blender as shown in the video tutorials.
