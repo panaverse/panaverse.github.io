@@ -136,6 +136,8 @@ Build a 3D Donut using Blender as shown in the video tutorials.
 
 [We’re the underlying tool set for creating the metaverse, Unity CEO says](https://www.cnbc.com/video/2021/11/10/were-the-underlying-tool-set-for-creating-the-metaverse-unity-ceo-says.html)
 
+[Why Unity scooped up Weta Digital’s 3D tools for $1.6B](https://venturebeat.com/2021/11/14/why-unity-scooped-up-weta-digitals-3d-tools-for-1-6b/)
+
 [Unity's Weta acquisition doesn't need the Metaverse to make sense](https://www.gamesindustry.biz/articles/2021-11-12-unitys-weta-acquisition-doesnt-need-the-metaverse-to-make-sense-opinion)
 
 
