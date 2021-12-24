@@ -53,9 +53,11 @@ The Information estimates that the metaverse could be worth about [$82B by 2025]
 
 
 ### Assignment 1:
+
 Read and Understand the above articles
 
 ### Assignment 2:
+
 Make a Metaverse presentation from the Articles you have read in Assignment 1 using Google slides. 
 Please Donot share the slides with anyone except me, until I instruct you to do so.
 
@@ -72,6 +74,10 @@ Five reasons we are doing this:
 [Blender Download](https://www.blender.org/download/)
 
 [Blender 3.0 Beginner Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD)
+
+### Assignment 3:
+
+Build a 3D Donut using Blender as shown in the video tutorials.
 
 
 ## Learning Smart Contract Development with Solidity
