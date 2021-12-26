@@ -89,6 +89,8 @@ Build a 3D Donut using Blender as shown in the video tutorials.
 
 [Evolution of the Creator Economy](https://medium.com/building-the-metaverse/evolution-of-the-creator-economy-9e038e8411af)
 
+[How to Get Paid in the Metaverse Creator Economy Today](https://hackernoon.com/how-to-get-paid-in-the-metaverse-creator-economy-today)
+
 
 ## Learning Smart Contract Development with Solidity for Metaverse Economy
 
