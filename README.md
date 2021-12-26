@@ -71,10 +71,6 @@ Five reasons we are doing this:
 4. Have reference material for ourselves
 5. To see who are the leaders and best workers in this group
 
-## Creator Economy of the Metaverse
-
-[Creator Economy of the Metaverse - Roblox, Unity, Unreal and more!](https://www.youtube.com/watch?v=VLwqivmWM_I)
-
 ## Learning 3D with Blender
 
 [Blender Download](https://www.blender.org/download/)
@@ -120,7 +116,9 @@ Build a 3D Donut using Blender as shown in the video tutorials.
 
 [Oculus is “All in on OpenXR,” New Developer Features Will Come to OpenXR Only](https://www.roadtovr.com/oculus-openxr-shift-unity-unreal-engine/)
 
+## Creator Economy of the Metaverse
 
+[Creator Economy of the Metaverse - Roblox, Unity, Unreal and more!](https://www.youtube.com/watch?v=VLwqivmWM_I)
 
 ## Omniverse
 
