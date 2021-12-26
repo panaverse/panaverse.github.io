@@ -83,6 +83,12 @@ Five reasons we are doing this:
 
 Build a 3D Donut using Blender as shown in the video tutorials.
 
+## Creator Economy of the Metaverse
+
+[Creator Economy of the Metaverse - Roblox, Unity, Unreal and more!](https://www.youtube.com/watch?v=VLwqivmWM_I)
+
+[Evolution of the Creator Economy](https://medium.com/building-the-metaverse/evolution-of-the-creator-economy-9e038e8411af)
+
 
 ## Learning Smart Contract Development with Solidity for Metaverse Economy
 
@@ -116,9 +122,7 @@ Build a 3D Donut using Blender as shown in the video tutorials.
 
 [Oculus is “All in on OpenXR,” New Developer Features Will Come to OpenXR Only](https://www.roadtovr.com/oculus-openxr-shift-unity-unreal-engine/)
 
-## Creator Economy of the Metaverse
 
-[Creator Economy of the Metaverse - Roblox, Unity, Unreal and more!](https://www.youtube.com/watch?v=VLwqivmWM_I)
 
 ## Omniverse
 
