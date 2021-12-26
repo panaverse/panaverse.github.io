@@ -71,6 +71,10 @@ Five reasons we are doing this:
 4. Have reference material for ourselves
 5. To see who are the leaders and best workers in this group
 
+## Creator Economy of the Metaverse
+
+[Creator Economy of the Metaverse - Roblox, Unity, Unreal and more!](https://www.youtube.com/watch?v=VLwqivmWM_I)
+
 ## Learning 3D with Blender
 
 [Blender Download](https://www.blender.org/download/)
