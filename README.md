@@ -101,7 +101,7 @@ Build a 3D Donut using Blender as shown in these [video tutorials](https://www.y
 
 ## Universal Scene Description (USD) for Metaverse
 
-It format is being supported by Nvidia, Apple, etc.
+More than a dozen companies from Apple, Nvidia, Adobe, to Unity support USD. The standard is on the cusp of becoming the solder that fuses all sorts of virtual and physical worlds into a metaverse.
 
 [To 3D and Beyond: Pixar’s USD Coming to an Industry Near You](https://blogs.nvidia.com/blog/2020/10/05/usd-ecosystem-omniverse/)
 
