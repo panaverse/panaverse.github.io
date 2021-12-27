@@ -85,6 +85,8 @@ Blender development is being funded by heavyweights in the real-time 3D (RT3D) s
 
 [Blender 3.0 Hotkey](https://docs.google.com/document/d/1zPBgZAdftWa6WVa7UIFUqW_7EcqOYE0X743RqFuJL3o/edit)
 
+[Best Hardware Performance for Blender Rendering](https://www.youtube.com/watch?v=H7T0SzdFHwg)
+
 ### Assignment 3:
 
 Build a 3D Donut using Blender as shown in these [video tutorials](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD).
