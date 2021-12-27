@@ -73,7 +73,7 @@ Five reasons we are doing this:
 
 ## Learning 3D with Blender
 
-Blender development is being funded by heavyweights in the real-time 3D (RT3D) space such as Apple, Unity, AMD, Intel, Facebook, NVIDIA, AWS, Epic Games, Adobe, and Microsoft. It is expected to become the standard creation tool for metaverse. 
+Blender development is being funded by heavyweights in the real-time 3D (RT3D) space such as Apple, Unity, AMD, Intel, Meta, NVIDIA, AWS, Epic Games, Adobe, and Microsoft. It is expected to become the standard creation tool for metaverse. 
 
 [Blender Download](https://www.blender.org/download/)
 
@@ -83,7 +83,7 @@ Blender development is being funded by heavyweights in the real-time 3D (RT3D) s
 
 ### Assignment 3:
 
-Build a 3D Donut using Blender as shown in the video tutorials.
+Build a 3D Donut using Blender as shown in these [video tutorials](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD).
 
 ## Creator Economy of the Metaverse
 
