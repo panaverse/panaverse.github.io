@@ -73,6 +73,8 @@ Five reasons we are doing this:
 
 ## Learning 3D with Blender
 
+Blender development is being funded by heavyweights in the real-time 3D (RT3D) space such as Apple, Unity, AMD, Intel, Facebook, NVIDIA, AWS, Epic Games, Adobe, and Microsoft. It is expected to become the standard creation tool for metaverse. 
+
 [Blender Download](https://www.blender.org/download/)
 
 [Blender 3.0 Beginner Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD)
@@ -98,6 +100,8 @@ Build a 3D Donut using Blender as shown in the video tutorials.
 
 
 ## Universal Scene Description (USD) for Metaverse
+
+It format is being supported by Nvidia, Apple, etc.
 
 [To 3D and Beyond: Pixar’s USD Coming to an Industry Near You](https://blogs.nvidia.com/blog/2020/10/05/usd-ecosystem-omniverse/)
 
