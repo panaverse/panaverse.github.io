@@ -1,6 +1,8 @@
 # Learning Metaverse Development in Baby Steps
 
-[![The enabling technology for Metaverse](video_image.png)](https://www.youtube.com/watch?v=LNpjKZnsdfI "NVIDIA Marbles at Night")
+Watch this video to Understand the level 3D Technology has reached
+
+[![The enabling technology for Metaverse](video_image.png)](https://www.youtube.com/watch?v=NgcYLIvlp_k "NVIDIA Marbles at Night")
 
 ## What is Metaverse
 
