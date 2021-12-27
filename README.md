@@ -133,6 +133,13 @@ More than a dozen companies from Apple, Nvidia, Adobe, to Unity support USD. The
 [Oculus is “All in on OpenXR,” New Developer Features Will Come to OpenXR Only](https://www.roadtovr.com/oculus-openxr-shift-unity-unreal-engine/)
 
 
+## APIs for Metaverse
+
+Metaverse is the next version of the internet. We will need highly scalable cloud based APIs for the Metaverse as well.
+
+[Learn API Development from Bootcamp 2021](https://panacloud.github.io/bootcamp-2021/)
+
+
 
 ## Omniverse
 
