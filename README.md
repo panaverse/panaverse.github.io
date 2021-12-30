@@ -59,6 +59,14 @@ The Information estimates that the metaverse could be worth about [$82B by 2025]
 
 [MetaFi: DeFi for the Metaverse](https://outlierventures.io/research/metafi-defi-for-the-metaverse/)
 
+## Creator Economy of the Metaverse
+
+[Creator Economy of the Metaverse - Roblox, Unity, Unreal and more!](https://www.youtube.com/watch?v=VLwqivmWM_I)
+
+[Evolution of the Creator Economy](https://medium.com/building-the-metaverse/evolution-of-the-creator-economy-9e038e8411af)
+
+[How to Get Paid in the Metaverse Creator Economy Today](https://hackernoon.com/how-to-get-paid-in-the-metaverse-creator-economy-today)
+
 
 ### Assignment 1:
 
@@ -93,13 +101,10 @@ Blender development is being funded by heavyweights in the real-time 3D (RT3D) s
 
 Build a 3D Donut using Blender as shown in these [video tutorials](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD).
 
-## Creator Economy of the Metaverse
+## Computer Graphics Programming
 
-[Creator Economy of the Metaverse - Roblox, Unity, Unreal and more!](https://www.youtube.com/watch?v=VLwqivmWM_I)
+[A Very Gentle Introduction to Computer Graphics Programming](https://www.scratchapixel.com/lessons/3d-basic-rendering/get-started)
 
-[Evolution of the Creator Economy](https://medium.com/building-the-metaverse/evolution-of-the-creator-economy-9e038e8411af)
-
-[How to Get Paid in the Metaverse Creator Economy Today](https://hackernoon.com/how-to-get-paid-in-the-metaverse-creator-economy-today)
 
 
 ## Learning Smart Contract Development with Solidity for Metaverse Economy
@@ -128,6 +133,8 @@ More than a dozen companies from Apple, Nvidia, Adobe, to Unity support USD. The
 [USD Official Docs](https://graphics.pixar.com/usd/release/index.html)
 
 [USD Tutorials](https://graphics.pixar.com/usd/dev/tut_usd_tutorials.html)
+
+[Getting Started with USD for Collaborative 3D Workflows](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-02+V1/about)
 
 
 ## OpenXR for Metaverse
