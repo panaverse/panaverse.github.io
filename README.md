@@ -4,7 +4,7 @@ Watch this video to Understand the level 3D Graphics Technology has reached
 
 [![The enabling technology for Metaverse](video_image.png)](https://www.youtube.com/watch?v=NgcYLIvlp_k "NVIDIA Marbles at Night")
 
-<img src="metaverse.jpeg" alt="metaverse diagram"  style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/>
+<img src="metaverse.jpeg" alt="metaverse diagram"  style="display: block; margin-left: auto; margin-right: auto; "/>
 
 ## What is Metaverse
 
