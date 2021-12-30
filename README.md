@@ -105,7 +105,7 @@ Build a 3D Donut using Blender as shown in these [video tutorials](https://www.y
 
 [A Very Gentle Introduction to Computer Graphics Programming](https://www.scratchapixel.com/lessons/3d-basic-rendering/get-started)
 
-
+[Computer Graphics from Scratch: A Programmer's Introduction to 3D Rendering](https://www.amazon.com/Computer-Graphics-Scratch-Gabriel-Gambetta/dp/1718500769/ref=sr_1_9)
 
 ## Learning Smart Contract Development with Solidity for Metaverse Economy
 
