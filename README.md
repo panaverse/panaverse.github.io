@@ -153,6 +153,10 @@ Metaverse is the next version of the internet. We will need highly scalable clou
 [Learn API Development from Bootcamp 2021](https://panacloud.github.io/bootcamp-2021/)
 
 
+## Decentraland
+
+[How to get started in the Metaverse? Decentraland Tutorial](https://www.youtube.com/watch?v=z5-QaCq9mh8)
+
 
 ## Omniverse
 
