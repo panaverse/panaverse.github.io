@@ -157,6 +157,8 @@ Metaverse is the next version of the internet. We will need highly scalable clou
 
 [How to get started in the Metaverse? Decentraland Tutorial](https://www.youtube.com/watch?v=z5-QaCq9mh8)
 
+[The Metaverse Land Rush Is an Illusion](https://www.wired.com/story/metaverse-land-rush-illusion/)
+
 
 ## Omniverse
 
