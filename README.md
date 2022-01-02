@@ -166,6 +166,8 @@ Metaverse is the next version of the internet. We will need highly scalable clou
 
 [The Sandbox Vs Decentraland: Which Metaverse Is The Best?](https://stealthoptional.com/metaverse/the-sandbox-vs-decentraland/)
 
+[The Sandbox vs Decentraland — Where Should You Set Your Bets](https://medium.datadriveninvestor.com/the-sandbox-vs-decentraland-where-should-you-set-your-bets-3b80785b985b)
+
 
 ## Omniverse
 
