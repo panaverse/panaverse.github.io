@@ -103,6 +103,10 @@ Blender development is being funded by heavyweights in the real-time 3D (RT3D) s
 
 Build a 3D Donut using Blender as shown in these [video tutorials](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD).
 
+### Assignment 4:
+
+Build a 3D Sword in the Stone using Blender as shown in these [video tutorials](https://www.youtube.com/watch?v=bpvh-9H8S1g)
+
 ## Designing Immersive 3D XR Experiences
 
 [Designing XR Textbook: Designing Immersive 3D Experiences - A Designer's Guide to Creating Realistic 3D Experiences for Extended Reality](https://www.amazon.com/Designing-Immersive-Experiences-Designers-Realistic/dp/0137282834/ref=sr_1_8)
