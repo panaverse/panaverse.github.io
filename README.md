@@ -18,6 +18,8 @@ Watch this video to Understand the level 3D Graphics Technology has reached
 
 [The Metaverse could be a problem](https://www.youtube.com/watch?v=RgJwPco3wew)
 
+[Facebook, Walmart and How Companies Shouldn’t Set Up in the Metaverse](https://www.coindesk.com/layer2/2022/01/05/facebook-walmart-and-how-companies-shouldnt-set-up-in-the-metaverse/)
+
 
 ## Metaverse is the Future
 
