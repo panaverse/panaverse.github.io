@@ -1,5 +1,7 @@
 # Learning Metaverse Development in Baby Steps
 
+[Join the Metaverse Discord Channel](https://discord.gg/GggDkBwJDr)
+
 Watch this video to Understand the level 3D Graphics Technology has reached
 
 [![The enabling technology for Metaverse](video_image.png)](https://www.youtube.com/watch?v=NgcYLIvlp_k "NVIDIA Marbles at Night")
@@ -95,6 +97,8 @@ Blender development is being funded by heavyweights in the real-time 3D (RT3D) s
 
 [Blender 3.0 Hotkey](https://docs.google.com/document/d/1zPBgZAdftWa6WVa7UIFUqW_7EcqOYE0X743RqFuJL3o/edit)
 
+[Blender Projects Textbook: Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
+
 [Blender Textbook: The Complete Guide to Blender Graphics: Computer Modeling & Animation 7th Edition by John M. Blain](https://www.amazon.com/Complete-Guide-Blender-Graphics-Animation/dp/103212167X/ref=sr_1_5)
 
 [Best Hardware Performance for Blender Rendering](https://www.youtube.com/watch?v=H7T0SzdFHwg)
@@ -163,6 +167,13 @@ Metaverse is the next version of the internet. We will need highly scalable clou
 [Learn API Development from Bootcamp 2021](https://panacloud.github.io/bootcamp-2021/)
 
 
+## Omniverse
+
+[NVIDIA Makes Free Version of Omniverse Available to Millions of Individual Creators and Artists Worldwide](https://blogs.nvidia.com/blog/2022/01/04/omniverse-available-free-to-creators/)
+
+[Series Introduction - Part 1: Platform Overview](https://www.youtube.com/watch?v=9T40HolIYNA)
+
+
 ## Decentraland
 
 [How to get started in the Metaverse? Decentraland Tutorial](https://www.youtube.com/watch?v=z5-QaCq9mh8)
@@ -179,9 +190,7 @@ Metaverse is the next version of the internet. We will need highly scalable clou
 [The Sandbox vs Decentraland — Where Should You Set Your Bets](https://medium.datadriveninvestor.com/the-sandbox-vs-decentraland-where-should-you-set-your-bets-3b80785b985b)
 
 
-## Omniverse
 
-[Series Introduction - Part 1: Platform Overview](https://www.youtube.com/watch?v=9T40HolIYNA)
 
 
 ## Meta
