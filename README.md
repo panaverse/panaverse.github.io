@@ -113,10 +113,6 @@ Build a 3D Donut using Blender as shown in these [video tutorials](https://www.y
 
 Build a 3D Sword in the Stone using Blender as shown in these [video tutorials](https://www.youtube.com/watch?v=bpvh-9H8S1g)
 
-## Designing Immersive 3D XR Experiences
-
-[Designing XR Textbook: Designing Immersive 3D Experiences - A Designer's Guide to Creating Realistic 3D Experiences for Extended Reality](https://www.amazon.com/Designing-Immersive-Experiences-Designers-Realistic/dp/0137282834/ref=sr_1_8)
-
 ## Learning Smart Contract Development with Solidity for Metaverse Economy
 
 [Learning Smart Contract Development Repo](https://github.com/panacloud-modern-global-apps/defi-dapps-solidity-smart-contracts)
@@ -131,13 +127,15 @@ Build a 3D Sword in the Stone using Blender as shown in these [video tutorials](
 
 [Class for Step 00 and 01: Blockchain, Ethereum Smart Contract, and Hardhat Intro in Urdu on YouTube](https://youtu.be/wXFi1wkn_5o)
 
+## Designing Immersive 3D XR Experiences
+
+[Designing XR Textbook: Designing Immersive 3D Experiences - A Designer's Guide to Creating Realistic 3D Experiences for Extended Reality](https://www.amazon.com/Designing-Immersive-Experiences-Designers-Realistic/dp/0137282834/ref=sr_1_8)
+
 ## Computer Graphics Programming
 
 [A Very Gentle Introduction to Computer Graphics Programming](https://www.scratchapixel.com/lessons/3d-basic-rendering/get-started)
 
 [Computer Graphics Textbook: Computer Graphics from Scratch - A Programmer's Introduction to 3D Rendering](https://www.amazon.com/Computer-Graphics-Scratch-Gabriel-Gambetta/dp/1718500769/ref=sr_1_9)
-
-
 
 
 ## Universal Scene Description (USD) for Metaverse
