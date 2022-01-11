@@ -193,6 +193,8 @@ Metaverse is the next version of the internet. We will need highly scalable clou
 
 [NVIDIA Makes Free Version of Omniverse Available to Millions of Individual Creators and Artists Worldwide](https://blogs.nvidia.com/blog/2022/01/04/omniverse-available-free-to-creators/)
 
+[Nvidia Announces Expansion of Omniverse to Consumer Internet](https://thenewstack.io/nvidia-announces-expansion-of-omniverse-to-consumer-internet/)
+
 [Series Introduction - Part 1: Platform Overview](https://www.youtube.com/watch?v=9T40HolIYNA)
 
 
