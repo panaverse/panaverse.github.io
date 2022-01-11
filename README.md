@@ -51,6 +51,8 @@ The Information estimates that the metaverse could be worth about [$82B by 2025]
 
 ## Metaverse and Web3
 
+[WEB 3.0 VS METAVERSE: SIMILARITIES AND DIFFERENCES YOU NEED TO KNOW IN 2022](https://www.analyticsinsight.net/web-3-0-vs-metaverse-similarities-and-differences-you-need-to-know-in-2022/)
+
 [Goldman Sachs Says Blockchain Is Key to Metaverse and Web 3 Development](https://www.coindesk.com/business/2021/12/17/goldman-sachs-says-blockchain-is-key-to-metaverse-and-web-3-development/)
 
 [Web 3.0 vs. Metaverse: similarities and differences](https://experty.io/web-3-0-vs-metaverse-similarities-and-differences)
