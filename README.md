@@ -119,13 +119,21 @@ Build a 3D Sword in the Stone using Blender as shown in these [video tutorials](
 
 ### Class Videos
 
-[Class for Steps 00 and 01: Blockchain, Ethereum Smart Contract, and Hardhat Intro in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/611810023268930)
+[Class 1: Steps 00 and 01: Blockchain, Ethereum Smart Contract, and Hardhat Intro in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/611810023268930)
 
-[Class for Steps 00 and 01: Blockchain, Ethereum Smart Contract, and Hardhat Intro in English on YouTube](https://youtu.be/24Nl4fVGH6g)
+[Class 1: Steps 00 and 01: Blockchain, Ethereum Smart Contract, and Hardhat Intro in English on YouTube](https://youtu.be/24Nl4fVGH6g)
 
-[Class for Step 00 and 01: Blockchain, Ethereum Smart Contract, and Hardhat Intro in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/394282572468467)
+[Class 1: Step 00 and 01: Blockchain, Ethereum Smart Contract, and Hardhat Intro in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/394282572468467)
 
-[Class for Step 00 and 01: Blockchain, Ethereum Smart Contract, and Hardhat Intro in Urdu on YouTube](https://youtu.be/wXFi1wkn_5o)
+[Class 1: Step 00 and 01: Blockchain, Ethereum Smart Contract, and Hardhat Intro in Urdu on YouTube](https://youtu.be/wXFi1wkn_5o)
+
+[Class 2: Step 03 Part 1 - Solidity Tutorial in English on Facebook](https://web.facebook.com/trouble.maker121/videos/448321510117377)
+
+[Class 2: Step 03 Part 1 - Solidity Tutorial in English on YouTube](https://youtu.be/NcZMDsjJ-OA)
+
+[Class 2: Step 03 Part 1 - Solidity Tutorial in Urdu on Facebook](https://web.facebook.com/Ai.SirQasim/videos/322455473108467)
+
+[Class 2: Step 03 Part 1 - Solidity Tutorial in Urdu on YouTube](https://youtu.be/rfnAsGNH14E)
 
 ## Designing Immersive 3D XR Experiences
 
