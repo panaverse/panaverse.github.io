@@ -91,6 +91,47 @@ Five reasons we are doing this:
 4. Have reference material for ourselves
 5. To see who are the leaders and best workers in this group
 
+## 2022 Best Developer/Creator Laptop to Buy for Metaverse, AI, Web3, and IoT Matter Development
+
+### Unlimited Budget Developer/Creator Laptops
+
+CPU: Intel Core i9-12900HK (6+8/20) – the fastest mobile processor ever (6 Golden Cove cores & 8 Grace Mont cores)
+
+RAM: 64 GB DDR5
+
+GPU: NVIDIA RTX 3080 Ti
+
+VRAM: 16GB GDDR6 
+
+HD: 1TB M.2 SSD with NVMe support
+
+Stack: Windows 11, Blender 3.1, Omniverse, Tensorflow, Ethereum 2, IoT Matter 
+
+Programming Languages: Python, TypeScript, and Rust
+
+Price: $2,500+
+
+
+
+### More Affordable Developer/Creator Laptops
+
+CPU: Intel Core i5-12600H (4+8/16)
+
+RAM: 32 GB DDR5
+
+GPU: NVIDIA RTX 3070 Ti
+
+VRAM: 10 GB GDDR6
+
+HD: 500 M.2 SSD with NVMe support
+
+Stack: Windows 11, Blender 3.1, Omniverse, Tensorflow, Ethereum 2, IoT Matter 
+
+Programming Languages: Python, TypeScript, and Rust
+
+Price: $1,500+
+
+
 ## Learning 3D with Blender
 
 Blender development is being funded by heavyweights in the real-time 3D (RT3D) space such as Apple, Unity, AMD, Intel, Meta, NVIDIA, AWS, Epic Games, Adobe, Microsoft, and Decentraland. It is expected to become the standard asset creation tool for metaverse. 
