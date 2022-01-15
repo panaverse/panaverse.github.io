@@ -73,6 +73,10 @@ The Information estimates that the metaverse could be worth about [$82B by 2025]
 
 [How to Get Paid in the Metaverse Creator Economy Today](https://hackernoon.com/how-to-get-paid-in-the-metaverse-creator-economy-today)
 
+## Problems that Metaverse Needs to Solve
+
+[The DeanBeat: The problem of the sniper and the metaverse](https://venturebeat.com/2022/01/14/the-deanbeat-the-problem-of-the-sniper-and-the-metaverse/amp/)
+
 
 ### Assignment 1:
 
