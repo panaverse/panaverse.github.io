@@ -215,6 +215,14 @@ Create a Baby Dragon as shown in chapters 11, 12, 13, 14, and 15 of the Book [Bl
 
 [Class 2: Step 03 Part 1 - Solidity Tutorial in Urdu on YouTube](https://youtu.be/rfnAsGNH14E)
 
+[Class 3: Step 03 Part 2 - Solidity Tutorial in English on Facebook](https://web.facebook.com/fb.anees.ahmed/videos/7151001034909886)
+
+[Class 3: Step 03 Part 2 - Solidity Tutorial in English on YouTube](https://youtu.be/mXuY7Sp5jmw)
+
+[Class 3: Step 03 Part 2 - Solidity Tutorial in Urdu on Facebook](https://web.facebook.com/Ai.SirQasim/videos/2126325780860897)
+
+[Class 3: Step 03 Part 2 - Solidity Tutorial in Urdu on YouTube]()
+
 ## Designing Immersive 3D XR Experiences
 
 [Designing XR Textbook: Designing Immersive 3D Experiences - A Designer's Guide to Creating Realistic 3D Experiences for Extended Reality](https://www.amazon.com/Designing-Immersive-Experiences-Designers-Realistic/dp/0137282834/ref=sr_1_8)
