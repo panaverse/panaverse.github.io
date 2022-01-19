@@ -10,6 +10,8 @@ Watch this video to Understand the level 3D Graphics Technology has reached
 
 ## What is Metaverse
 
+[What’s All the Hype About the Metaverse?](https://www.nytimes.com/2022/01/18/technology/personaltech/metaverse-gaming-definition.html)
+
 [The Metaverse Has Already Arrived. Here’s What That Actually Means](https://time.com/6116826/what-is-the-metaverse/)
 
 [Explainer: What is the 'metaverse'?](https://www.youtube.com/watch?v=99BnZ8js1_k)
