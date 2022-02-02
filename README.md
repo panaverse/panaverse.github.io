@@ -2,13 +2,15 @@
 
 [Join the Metaverse Discord Channel](https://discord.gg/GggDkBwJDr)
 
+## Module I: Metaverse Introduction and Theory
+
 Watch this video to Understand the level 3D Graphics Technology has reached
 
 [![The enabling technology for Metaverse](video_image.png)](https://www.youtube.com/watch?v=NgcYLIvlp_k "NVIDIA Marbles at Night")
 
 <img src="metaverse.jpeg" alt="metaverse diagram"  style="display: block; margin-left: auto; margin-right: auto; "/>
 
-## What is Metaverse
+### What is Metaverse
 
 [What’s All the Hype About the Metaverse?](https://www.nytimes.com/2022/01/18/technology/personaltech/metaverse-gaming-definition.html)
 
@@ -25,7 +27,7 @@ Watch this video to Understand the level 3D Graphics Technology has reached
 [How Metaverse Works? | Secrets of Metaverse | Explained in Hindi](https://www.youtube.com/watch?v=0azMpBagjI4)
 
 
-## Metaverse is the Future
+### Metaverse is the Future
 
 [Nvidia CEO: The metaverse will be 'much, much bigger than the physical world'](https://finance.yahoo.com/news/nvidia-ceo-the-metaverse-will-be-much-much-bigger-than-the-physical-world-174256652.html)
 
@@ -36,7 +38,7 @@ The Information estimates that the metaverse could be worth about [$82B by 2025]
 [The Metaverse Is Coming And It’s A Very Big Deal](https://www.forbes.com/sites/cathyhackl/2020/07/05/the-metaverse-is-coming--its-a-very-big-deal/?sh=3c6ee273440f)
 
 
-## The Players and the Development Platforms
+### The Players and the Development Platforms
 
 [What the Metaverse Means for Developers](https://thenewstack.io/metaverse-developers/)
 
@@ -53,7 +55,7 @@ The Information estimates that the metaverse could be worth about [$82B by 2025]
 [Metaverse… Closer Than You Think](https://croftgroup.com/metaverse-closer-than-you-think/)
 
 
-## Metaverse and Web3
+### Metaverse and Web3
 
 [WEB 3.0 VS METAVERSE: SIMILARITIES AND DIFFERENCES YOU NEED TO KNOW IN 2022](https://www.analyticsinsight.net/web-3-0-vs-metaverse-similarities-and-differences-you-need-to-know-in-2022/)
 
@@ -69,7 +71,7 @@ The Information estimates that the metaverse could be worth about [$82B by 2025]
 
 [MetaFi: DeFi for the Metaverse](https://outlierventures.io/research/metafi-defi-for-the-metaverse/)
 
-## Creator Economy of the Metaverse
+### Creator Economy of the Metaverse
 
 [Creator Economy of the Metaverse - Roblox, Unity, Unreal and more!](https://www.youtube.com/watch?v=VLwqivmWM_I)
 
@@ -77,7 +79,7 @@ The Information estimates that the metaverse could be worth about [$82B by 2025]
 
 [How to Get Paid in the Metaverse Creator Economy Today](https://hackernoon.com/how-to-get-paid-in-the-metaverse-creator-economy-today)
 
-## Challenges of Metaverse that Needs to be Solved
+### Challenges of Metaverse that Needs to be Solved
 
 [The DeanBeat: The problem of the sniper and the metaverse](https://venturebeat.com/2022/01/14/the-deanbeat-the-problem-of-the-sniper-and-the-metaverse/amp/)
 
@@ -101,52 +103,12 @@ Five reasons we are doing this:
 4. Have reference material for ourselves
 5. To see who are the leaders and best workers in this group
 
-## 2022 Best Developer/Creator Laptop to Buy for Metaverse, AI, Web3, and IoT Matter Development
 
-### Unlimited Budget Developer/Creator Laptops
-
-CPU: Intel Core i9-12900HK (6+8/20) – the fastest mobile processor ever (6 Golden Cove cores & 8 Grace Mont cores)
-
-RAM: 64 GB DDR5
-
-GPU: NVIDIA RTX 3080 Ti
-
-VRAM: 16GB GDDR6 
-
-HD: 1TB M.2 SSD with NVMe support
-
-Stack: Windows 11, Blender 3.1, Omniverse, Tensorflow, Ethereum 2, IoT Matter 
-
-Programming Languages: Python, TypeScript, and Rust
-
-Price: $2,500+
-
-
-
-### More Affordable Developer/Creator Laptops
-
-CPU: Intel Core i5-12600H (4+8/16)
-
-RAM: 32 GB DDR5
-
-GPU: NVIDIA RTX 3070 Ti
-
-VRAM: 10 GB GDDR6
-
-HD: 500 M.2 SSD with NVMe support
-
-Stack: Windows 11, Blender 3.1, Omniverse, Tensorflow, Ethereum 2, IoT Matter 
-
-Programming Languages: Python, TypeScript, and Rust
-
-Price: $1,500+
-
-
-## Learning 3D with Blender
+## Module I: Learning 3D with Blender
 
 Blender development is being funded by heavyweights in the real-time 3D (RT3D) space such as Apple, Unity, AMD, Intel, Meta, NVIDIA, AWS, Epic Games, Adobe, Microsoft, and Decentraland. It is expected to become the standard asset creation tool for metaverse. 
 
-[Blender Download](https://www.blender.org/download/)
+[Blender 3.0+ Download](https://www.blender.org/download/)
 
 [Blender 3.0 Beginner Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD)
 
@@ -194,10 +156,63 @@ Animating a Stylish Short with Grease Pencil as shown in chapter 10 of the Book 
 
 Create a Baby Dragon as shown in chapters 11, 12, 13, 14, and 15 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
 
+## Module II: Computer Graphics Programming
+
+[A Very Gentle Introduction to Computer Graphics Programming](https://www.scratchapixel.com/lessons/3d-basic-rendering/get-started)
+
+[Computer Graphics Textbook: Computer Graphics from Scratch - A Programmer's Introduction to 3D Rendering](https://www.amazon.com/Computer-Graphics-Scratch-Gabriel-Gambetta/dp/1718500769/ref=sr_1_9)
+
+## Module III: Learning C# and OpenXR with Unity 2021
+
+[Learning C# by Developing Games with Unity 2021](https://www.amazon.com/Learning-Developing-Games-Unity-2021/dp/1801813949/ref=sr_1_1)
+
+[OpenXR](https://en.wikipedia.org/wiki/OpenXR)
+
+[The time to embrace OpenXR is now](https://www.linkedin.com/pulse/time-embrace-openxr-now-ivana-tilca/)
+
+[Oculus is “All in on OpenXR,” New Developer Features Will Come to OpenXR Only](https://www.roadtovr.com/oculus-openxr-shift-unity-unreal-engine/)
+
+[Unity OpenXR Plugin](https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.3/manual/index.html)
+
+
+## Module IV: 3D Simulation and Design collaboration with Omniverse, Universal Scene Description (USD) and Python
+
+[OMNIVERSE DEVELOPER RESOURCE CENTER](https://developer.nvidia.com/nvidia-omniverse-developer-resource-center)
+
+[Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_1)
+
+[Assignment: Developing a Tetris game with PixarUSD and Python Scripting in Omniverse Kit](https://www.youtube.com/watch?v=nF_bue13vNc)
+
+More than a dozen companies from Apple, Nvidia, Adobe, to Unity support USD. The standard is on the cusp of becoming the solder that fuses all sorts of virtual and physical worlds into a metaverse.
+
+[Five Things to Know About USD](https://www.youtube.com/watch?v=vFxytzQlOEs)
+
+[To 3D and Beyond: Pixar’s USD Coming to an Industry Near You](https://blogs.nvidia.com/blog/2020/10/05/usd-ecosystem-omniverse/)
+
+[Watch Introduction to Pixar's Universal Scene Description](https://www.youtube.com/watch?v=LHoHUT1telk)
+
+[What is USD: A Primer](https://www.youtube.com/watch?v=Yp_TRVD3wjQ)
+
+[Plumbing for the Metaverse with Universal Scene Description (USD)](https://medium.com/@nvidiaomniverse/plumbing-for-the-metaverse-with-universal-scene-description-usd-856a863d9b12)
+
+[It started at Pixar. Now it's the Apple-backed 3D file format viewed as HTML of metaverse](https://www.theregister.com/2021/11/10/usd_3d_format/)
+
+[USD at Nvidia](https://developer.nvidia.com/usd)
+
+[USD Official Docs](https://graphics.pixar.com/usd/release/index.html)
+
+[USD Tutorials](https://graphics.pixar.com/usd/dev/tut_usd_tutorials.html)
+
+[Getting Started with USD for Collaborative 3D Workflows](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-02+V1/about)
 
 
 
-## Learning Smart Contract Development with Solidity for Metaverse Economy
+## Module V: Designing Immersive 3D XR Experiences
+
+[Designing XR Textbook: Designing Immersive 3D Experiences - A Designer's Guide to Creating Realistic 3D Experiences for Extended Reality](https://www.amazon.com/Designing-Immersive-Experiences-Designers-Realistic/dp/0137282834/ref=sr_1_8)
+
+
+## Module VI: Learning Smart Contract Development with Solidity for Metaverse Economy
 
 [Learning Smart Contract Development Repo](https://github.com/panacloud-modern-global-apps/defi-dapps-solidity-smart-contracts)
 
@@ -229,57 +244,57 @@ Create a Baby Dragon as shown in chapters 11, 12, 13, 14, and 15 of the Book [Bl
 
 [Class 3 Part 2: Step 03 Part 2B - Solidity Tutorial in Urdu on YouTube](https://youtu.be/J3C9KGG61pA)
 
-## Designing Immersive 3D XR Experiences
 
-[Designing XR Textbook: Designing Immersive 3D Experiences - A Designer's Guide to Creating Realistic 3D Experiences for Extended Reality](https://www.amazon.com/Designing-Immersive-Experiences-Designers-Realistic/dp/0137282834/ref=sr_1_8)
-
-## Computer Graphics Programming
-
-[A Very Gentle Introduction to Computer Graphics Programming](https://www.scratchapixel.com/lessons/3d-basic-rendering/get-started)
-
-[Computer Graphics Textbook: Computer Graphics from Scratch - A Programmer's Introduction to 3D Rendering](https://www.amazon.com/Computer-Graphics-Scratch-Gabriel-Gambetta/dp/1718500769/ref=sr_1_9)
-
-
-## Universal Scene Description (USD) for Metaverse
-
-More than a dozen companies from Apple, Nvidia, Adobe, to Unity support USD. The standard is on the cusp of becoming the solder that fuses all sorts of virtual and physical worlds into a metaverse.
-
-[Five Things to Know About USD](https://www.youtube.com/watch?v=vFxytzQlOEs)
-
-[To 3D and Beyond: Pixar’s USD Coming to an Industry Near You](https://blogs.nvidia.com/blog/2020/10/05/usd-ecosystem-omniverse/)
-
-[Watch Introduction to Pixar's Universal Scene Description](https://www.youtube.com/watch?v=LHoHUT1telk)
-
-[What is USD: A Primer](https://www.youtube.com/watch?v=Yp_TRVD3wjQ)
-
-[Plumbing for the Metaverse with Universal Scene Description (USD)](https://medium.com/@nvidiaomniverse/plumbing-for-the-metaverse-with-universal-scene-description-usd-856a863d9b12)
-
-[It started at Pixar. Now it's the Apple-backed 3D file format viewed as HTML of metaverse](https://www.theregister.com/2021/11/10/usd_3d_format/)
-
-[USD at Nvidia](https://developer.nvidia.com/usd)
-
-[USD Official Docs](https://graphics.pixar.com/usd/release/index.html)
-
-[USD Tutorials](https://graphics.pixar.com/usd/dev/tut_usd_tutorials.html)
-
-[Getting Started with USD for Collaborative 3D Workflows](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-02+V1/about)
-
-
-## OpenXR for Metaverse
-
-[OpenXR](https://en.wikipedia.org/wiki/OpenXR)
-
-[The time to embrace OpenXR is now](https://www.linkedin.com/pulse/time-embrace-openxr-now-ivana-tilca/)
-
-[Oculus is “All in on OpenXR,” New Developer Features Will Come to OpenXR Only](https://www.roadtovr.com/oculus-openxr-shift-unity-unreal-engine/)
-
-
-## APIs for Metaverse
+## Module VII: API Development for Metaverse
 
 Metaverse is the next version of the internet. We will need highly scalable cloud based APIs for the Metaverse as well.
 
 [Learn API Development from Bootcamp 2021](https://panacloud.github.io/bootcamp-2021/)
 
+
+## Appendix
+
+### Appendix A: 2022 Best Developer/Creator Laptop to Buy for Metaverse Development
+
+### Unlimited Budget Developer/Creator Laptops
+
+CPU: Intel Core i9-12900HK (6+8/20) – the fastest mobile processor ever (6 Golden Cove cores & 8 Grace Mont cores)
+
+RAM: 64 GB DDR5
+
+GPU: NVIDIA RTX 3080 Ti
+
+VRAM: 16GB GDDR6 
+
+HD: 1TB M.2 SSD with NVMe support
+
+Stack: Windows 11, Blender 3.1, Omniverse, Tensorflow, Ethereum 2, IoT Matter 
+
+Programming Languages: Python, TypeScript, and Rust
+
+Price: $2,500+
+
+
+
+### More Affordable Developer/Creator Laptops
+
+CPU: Intel Core i5-12600H (4+8/16)
+
+RAM: 32 GB DDR5
+
+GPU: NVIDIA RTX 3070 Ti
+
+VRAM: 10 GB GDDR6
+
+HD: 500 M.2 SSD with NVMe support
+
+Stack: Windows 11, Blender 3.1, Omniverse, Tensorflow, Ethereum 2, IoT Matter 
+
+Programming Languages: Python, TypeScript, and Rust
+
+Price: $1,500+
+
+### Appendix B: Metaverse Major Players
 
 ## Omniverse
 
@@ -287,7 +302,7 @@ Metaverse is the next version of the internet. We will need highly scalable clou
 
 [Nvidia Announces Expansion of Omniverse to Consumer Internet](https://thenewstack.io/nvidia-announces-expansion-of-omniverse-to-consumer-internet/)
 
-[Series Introduction - Part 1: Platform Overview](https://www.youtube.com/watch?v=9T40HolIYNA)
+
 
 
 ## Decentraland
@@ -304,8 +319,6 @@ Metaverse is the next version of the internet. We will need highly scalable clou
 [The Sandbox Vs Decentraland: Which Metaverse Is The Best?](https://stealthoptional.com/metaverse/the-sandbox-vs-decentraland/)
 
 [The Sandbox vs Decentraland — Where Should You Set Your Bets](https://medium.datadriveninvestor.com/the-sandbox-vs-decentraland-where-should-you-set-your-bets-3b80785b985b)
-
-
 
 
 
