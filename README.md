@@ -1,6 +1,6 @@
-# Metaverse Application Development
+# Designing and Developing Immersive 3D Metaverse Experiences
 
-[Goldman Sachs Sees the Metaverse as $8 Trillion Opportunity.](https://news.bitcoin.com/goldman-sachs-metaverse-8-trillion-opportunity/) This program will teach you to build 3D Metaverse Experience to take advantage of this opportunity. 
+[Goldman Sachs Sees the Metaverse as $8 Trillion Opportunity.](https://news.bitcoin.com/goldman-sachs-metaverse-8-trillion-opportunity/) This program will teach you to design and build 3D Metaverse Experiences to take advantage of this opportunity. 
 
 The online program consists of seven modules (three semisters) listed below and will mainly be focused on imparting knowledge by training students to develop projects. The classes will mainly be taught on the weekends using Zoom. 
 
@@ -233,7 +233,7 @@ More than a dozen companies from Apple, Nvidia, Adobe, to Unity support USD. The
 
 ### Module VII: Building Avatars for the Metaverse
 
-This module focused to bring ultra realistic humans and creatures to metaverse using machine learning and biomechanics. We will use Ziva tools which has been acquired by Unity for this purpose. We will also use other tools.
+This module focused to bring ultra realistic humans and creatures to metaverse using machine learning and biomechanics. We will use Ziva tools which has been acquired by Unity for this purpose.
 
 
 
@@ -275,7 +275,7 @@ This module focused to bring ultra realistic humans and creatures to metaverse u
 
 ### Appendix B: Metaverse Major Players
 
-## Nvidia
+## Omniverse
 
 [NVIDIA Makes Free Version of Omniverse Available to Millions of Individual Creators and Artists Worldwide](https://blogs.nvidia.com/blog/2022/01/04/omniverse-available-free-to-creators/)
 
