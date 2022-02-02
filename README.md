@@ -1,5 +1,9 @@
 # Metaverse Application Development
 
+[Goldman Sachs Sees the Metaverse as $8 Trillion Opportunity.](https://news.bitcoin.com/goldman-sachs-metaverse-8-trillion-opportunity/) This program will teach you to build 3D Metaverse Experience to take advantage of this opportunity. 
+
+The program consists of seven modules (three semisters) listed below and will mainly be focused on imparting knowledge by training students to develop projects. 
+
 [Join the Metaverse Discord Channel](https://discord.gg/GggDkBwJDr)
 
 ## Program Modules
