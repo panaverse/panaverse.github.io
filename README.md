@@ -104,7 +104,7 @@ Five reasons we are doing this:
 5. To see who are the leaders and best workers in this group
 
 
-## Module I: Learning 3D with Blender
+## Module II: Learning 3D with Blender
 
 Blender development is being funded by heavyweights in the real-time 3D (RT3D) space such as Apple, Unity, AMD, Intel, Meta, NVIDIA, AWS, Epic Games, Adobe, Microsoft, and Decentraland. It is expected to become the standard asset creation tool for metaverse. 
 
@@ -156,13 +156,13 @@ Animating a Stylish Short with Grease Pencil as shown in chapter 10 of the Book 
 
 Create a Baby Dragon as shown in chapters 11, 12, 13, 14, and 15 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
 
-## Module II: Computer Graphics Programming
+## Module III: Computer Graphics Programming
 
 [A Very Gentle Introduction to Computer Graphics Programming](https://www.scratchapixel.com/lessons/3d-basic-rendering/get-started)
 
 [Computer Graphics Textbook: Computer Graphics from Scratch - A Programmer's Introduction to 3D Rendering](https://www.amazon.com/Computer-Graphics-Scratch-Gabriel-Gambetta/dp/1718500769/ref=sr_1_9)
 
-## Module III: Learning C# and OpenXR with Unity 2021
+## Module IV: Learning C# and OpenXR with Unity 2021
 
 [Learning C# by Developing Games with Unity 2021](https://www.amazon.com/Learning-Developing-Games-Unity-2021/dp/1801813949/ref=sr_1_1)
 
@@ -175,7 +175,7 @@ Create a Baby Dragon as shown in chapters 11, 12, 13, 14, and 15 of the Book [Bl
 [Unity OpenXR Plugin](https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.3/manual/index.html)
 
 
-## Module IV: 3D Simulation and Design collaboration with Omniverse, Universal Scene Description (USD) and Python
+## Module V: 3D Simulation and Design collaboration with Omniverse, Universal Scene Description (USD) and Python
 
 [OMNIVERSE DEVELOPER RESOURCE CENTER](https://developer.nvidia.com/nvidia-omniverse-developer-resource-center)
 
@@ -207,12 +207,12 @@ More than a dozen companies from Apple, Nvidia, Adobe, to Unity support USD. The
 
 
 
-## Module V: Designing Immersive 3D XR Experiences
+## Module VI: Designing Immersive 3D XR Experiences
 
 [Designing XR Textbook: Designing Immersive 3D Experiences - A Designer's Guide to Creating Realistic 3D Experiences for Extended Reality](https://www.amazon.com/Designing-Immersive-Experiences-Designers-Realistic/dp/0137282834/ref=sr_1_8)
 
 
-## Module VI: Learning Smart Contract Development with Solidity for Metaverse Economy
+## Module VII: Learning Smart Contract Development with Solidity for Metaverse Economy
 
 [Learning Smart Contract Development Repo](https://github.com/panacloud-modern-global-apps/defi-dapps-solidity-smart-contracts)
 
@@ -245,7 +245,7 @@ More than a dozen companies from Apple, Nvidia, Adobe, to Unity support USD. The
 [Class 3 Part 2: Step 03 Part 2B - Solidity Tutorial in Urdu on YouTube](https://youtu.be/J3C9KGG61pA)
 
 
-## Module VII: API Development for Metaverse
+## Module VIII: API Development for Metaverse
 
 Metaverse is the next version of the internet. We will need highly scalable cloud based APIs for the Metaverse as well.
 
