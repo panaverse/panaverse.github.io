@@ -20,7 +20,7 @@ The online program consists of seven modules (three semisters) listed below and 
 
 [Module VI: 3D Simulation and Design collaboration with Omniverse, Universal Scene Description (USD) and Python](#module-vi-3d-simulation-and-design-collaboration-with-omniverse-universal-scene-description-usd-and-python)
 
-[Module VII: Building Avatars for the Metaverse](#module-vii-learning-smart-contract-development-with-solidity-for-metaverse-economy)
+[Module VII: Building Avatars for the Metaverse](#module-vii-building-avatars-for-the-metaverse)
 
 
 
