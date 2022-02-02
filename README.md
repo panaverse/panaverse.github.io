@@ -20,7 +20,7 @@ The online program consists of seven modules (three semisters) listed below and 
 
 [Module VI: 3D Simulation and Design collaboration with Omniverse, Universal Scene Description (USD) and Python](#module-vi-3d-simulation-and-design-collaboration-with-omniverse-universal-scene-description-usd-and-python)
 
-[Module VII: Learning Smart Contract Development with Solidity for Metaverse Economy](#module-vii-learning-smart-contract-development-with-solidity-for-metaverse-economy)
+[Module VII: Building Avatars for the Metaverse](#module-vii-learning-smart-contract-development-with-solidity-for-metaverse-economy)
 
 
 
@@ -231,9 +231,15 @@ More than a dozen companies from Apple, Nvidia, Adobe, to Unity support USD. The
 
 [Getting Started with USD for Collaborative 3D Workflows](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-02+V1/about)
 
+### Module VII: Building Avatars for the Metaverse
+
+This module focused to bring ultra realistic humans and creatures to metaverse using machine learning and biomechanics. We will use Ziva tools which has been acquired by Unity for this purpose.
 
 
-## Module VII: Learning Smart Contract Development with Solidity for Metaverse Economy
+
+## Appendix
+
+## Appendix A: Learning Smart Contract Development with Solidity for Metaverse Economy
 
 [Learning Smart Contract Development Repo](https://github.com/panacloud-modern-global-apps/defi-dapps-solidity-smart-contracts)
 
@@ -266,48 +272,6 @@ More than a dozen companies from Apple, Nvidia, Adobe, to Unity support USD. The
 [Class 3 Part 2: Step 03 Part 2B - Solidity Tutorial in Urdu on YouTube](https://youtu.be/J3C9KGG61pA)
 
 
-
-## Appendix
-
-### Appendix A: 2022 Best Developer/Creator Laptop to Buy for Metaverse Development
-
-### Unlimited Budget Developer/Creator Laptops
-
-CPU: Intel Core i9-12900HK (6+8/20) – the fastest mobile processor ever (6 Golden Cove cores & 8 Grace Mont cores)
-
-RAM: 64 GB DDR5
-
-GPU: NVIDIA RTX 3080 Ti
-
-VRAM: 16GB GDDR6 
-
-HD: 1TB M.2 SSD with NVMe support
-
-Stack: Windows 11, Blender 3.1, Omniverse, Tensorflow, Ethereum 2, IoT Matter 
-
-Programming Languages: Python, TypeScript, and Rust
-
-Price: $2,500+
-
-
-
-### More Affordable Developer/Creator Laptops
-
-CPU: Intel Core i5-12600H (4+8/16)
-
-RAM: 32 GB DDR5
-
-GPU: NVIDIA RTX 3070 Ti
-
-VRAM: 10 GB GDDR6
-
-HD: 500 M.2 SSD with NVMe support
-
-Stack: Windows 11, Blender 3.1, Omniverse, Tensorflow, Ethereum 2, IoT Matter 
-
-Programming Languages: Python, TypeScript, and Rust
-
-Price: $1,500+
 
 ### Appendix B: Metaverse Major Players
 
