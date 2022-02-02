@@ -174,8 +174,12 @@ Create a Baby Dragon as shown in chapters 11, 12, 13, 14, and 15 of the Book [Bl
 
 [Unity OpenXR Plugin](https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.3/manual/index.html)
 
+## Module V: Designing Immersive 3D XR Experiences
 
-## Module V: 3D Simulation and Design collaboration with Omniverse, Universal Scene Description (USD) and Python
+[Designing XR Textbook: Designing Immersive 3D Experiences - A Designer's Guide to Creating Realistic 3D Experiences for Extended Reality](https://www.amazon.com/Designing-Immersive-Experiences-Designers-Realistic/dp/0137282834/ref=sr_1_8)
+
+
+## Module VI: 3D Simulation and Design collaboration with Omniverse, Universal Scene Description (USD) and Python
 
 [OMNIVERSE DEVELOPER RESOURCE CENTER](https://developer.nvidia.com/nvidia-omniverse-developer-resource-center)
 
@@ -205,11 +209,6 @@ More than a dozen companies from Apple, Nvidia, Adobe, to Unity support USD. The
 
 [Getting Started with USD for Collaborative 3D Workflows](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-02+V1/about)
 
-
-
-## Module VI: Designing Immersive 3D XR Experiences
-
-[Designing XR Textbook: Designing Immersive 3D Experiences - A Designer's Guide to Creating Realistic 3D Experiences for Extended Reality](https://www.amazon.com/Designing-Immersive-Experiences-Designers-Realistic/dp/0137282834/ref=sr_1_8)
 
 
 ## Module VII: Learning Smart Contract Development with Solidity for Metaverse Economy
