@@ -1,4 +1,4 @@
-# Learning Metaverse Development in Baby Steps
+# Learning Metaverse Development
 
 [Join the Metaverse Discord Channel](https://discord.gg/GggDkBwJDr)
 
