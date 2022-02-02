@@ -1,6 +1,24 @@
-# Learning Metaverse Development
+# Metaverse Application Development
 
 [Join the Metaverse Discord Channel](https://discord.gg/GggDkBwJDr)
+
+## Program Modules
+
+[Module I: Metaverse Introduction and Theory](#module-i-metaverse-introduction-and-theory)
+
+[Module II: Learning 3D with Blender](#module-ii-learning-3d-with-blender)
+
+[Module III: Computer Graphics Programming](#module-iii-computer-graphics-programming)
+
+[Module IV: Learning C# and OpenXR with Unity 2021](#module-iv-learning-c-and-openxr-with-unity-2021)
+
+[Module V: Designing Immersive 3D XR Experiences](#module-v-designing-immersive-3d-xr-experiences)
+
+[Module VI: 3D Simulation and Design collaboration with Omniverse, Universal Scene Description (USD) and Python](#module-vi-3d-simulation-and-design-collaboration-with-omniverse-universal-scene-description-usd-and-python)
+
+[Module VII: Learning Smart Contract Development with Solidity for Metaverse Economy](#module-vii-learning-smart-contract-development-with-solidity-for-metaverse-economy)
+
+
 
 ## Module I: Metaverse Introduction and Theory
 
@@ -243,12 +261,6 @@ More than a dozen companies from Apple, Nvidia, Adobe, to Unity support USD. The
 
 [Class 3 Part 2: Step 03 Part 2B - Solidity Tutorial in Urdu on YouTube](https://youtu.be/J3C9KGG61pA)
 
-
-## Module VIII: API Development for Metaverse
-
-Metaverse is the next version of the internet. We will need highly scalable cloud based APIs for the Metaverse as well.
-
-[Learn API Development from Bootcamp 2021](https://panacloud.github.io/bootcamp-2021/)
 
 
 ## Appendix
