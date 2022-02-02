@@ -233,7 +233,7 @@ More than a dozen companies from Apple, Nvidia, Adobe, to Unity support USD. The
 
 ### Module VII: Building Avatars for the Metaverse
 
-This module focused to bring ultra realistic humans and creatures to metaverse using machine learning and biomechanics. We will use Ziva tools which has been acquired by Unity for this purpose.
+This module focused to bring ultra realistic humans and creatures to metaverse using machine learning and biomechanics. We will use Ziva tools which has been acquired by Unity for this purpose. We will also use other tools.
 
 
 
@@ -275,7 +275,7 @@ This module focused to bring ultra realistic humans and creatures to metaverse u
 
 ### Appendix B: Metaverse Major Players
 
-## Omniverse
+## Nvidia
 
 [NVIDIA Makes Free Version of Omniverse Available to Millions of Individual Creators and Artists Worldwide](https://blogs.nvidia.com/blog/2022/01/04/omniverse-available-free-to-creators/)
 
