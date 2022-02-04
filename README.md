@@ -4,6 +4,14 @@
 
 The online program consists of seven modules (three semisters) listed below and will mainly be focused on imparting knowledge by training students to develop projects. The classes will mainly be taught on the weekends or after 7:00 pm (Pakistan Time) on weekdays so that everyone can attend. We will being using Zoom to conduct classes so that students from anywhere in the world can attend. 
 
+## Faculty Application Form
+
+If you are interested in teaching in this program, you are requested to fill out the following form (if shortlisted we will schedule an interview with you):
+
+https://forms.gle/SUhyJiqTjABMpeHr9
+
+Please note that all faculty members will be paid as per industry standards.
+
 [Join the Metaverse Discord Channel](https://discord.gg/GggDkBwJDr)
 
 ## Program Modules
@@ -270,6 +278,14 @@ This module focused to bring ultra realistic humans and creatures to metaverse u
 [Class 3: Step 03 Part 2 - Solidity Tutorial in Urdu on YouTube](https://youtu.be/nhlchB7Mij4)
 
 [Class 3 Part 2: Step 03 Part 2B - Solidity Tutorial in Urdu on YouTube](https://youtu.be/J3C9KGG61pA)
+
+[Class 4: Step 03 Part 3 - Solidity Tutorial in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/319111146832336)
+
+[Class 4: Step 03 Part 3 - Solidity Tutorial in English on YouTube](https://youtu.be/t-8fHUpbjb8)
+
+[Class 4: Step 03 Part 3 - Solidity Tutorial in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/1812389385622735)
+
+[Class 4: Step 03 Part 3 - Solidity Tutorial in Urdu on YouTube](https://youtu.be/nbG_FhoCLoE)
 
 
 
