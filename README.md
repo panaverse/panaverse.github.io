@@ -1,6 +1,6 @@
 # Designing and Developing Immersive 3D Metaverse Experiences
 
-[Goldman Sachs Sees the Metaverse as $8 Trillion Opportunity.](https://news.bitcoin.com/goldman-sachs-metaverse-8-trillion-opportunity/) This program will teach you to design and build 3D Metaverse Experiences to take advantage of this opportunity. 
+[Goldman Sachs Sees the Metaverse as $8 Trillion Opportunity.](https://news.bitcoin.com/goldman-sachs-metaverse-8-trillion-opportunity/) It is the future and next generation of the internet. This program will teach you to design and build 3D Metaverse Experiences to take advantage of this opportunity. 
 
 The online program consists of seven modules (three semisters) listed below and will mainly be focused on imparting knowledge by training students to develop projects. The classes will mainly be taught on the weekends or after 7:00 pm (Pakistan Time) on weekdays so that everyone can attend. We will being using Zoom to conduct classes so that students from anywhere in the world can attend. 
 
@@ -108,6 +108,14 @@ The Information estimates that the metaverse could be worth about [$82B by 2025]
 [Evolution of the Creator Economy](https://medium.com/building-the-metaverse/evolution-of-the-creator-economy-9e038e8411af)
 
 [How to Get Paid in the Metaverse Creator Economy Today](https://hackernoon.com/how-to-get-paid-in-the-metaverse-creator-economy-today)
+
+
+## Metaverse in the Enterprise
+
+[7 ways the metaverse will change the enterprise](https://venturebeat.com/2022/01/26/7-ways-the-metaverse-will-change-the-enterprise/)
+
+[How the metaverse will let you simulate everything](https://venturebeat.com/2022/01/26/omniverse-ability-to-simulate-anything-self-driving-cars-energy-power-consumption/)
+
 
 ### Challenges of Metaverse that Needs to be Solved
 
