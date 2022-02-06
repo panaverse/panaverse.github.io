@@ -223,13 +223,13 @@ Create a Baby Dragon as shown in chapters 11, 12, 13, 14, and 15 of the Book [Bl
 
 ## Module VI: 3D Simulation and Design collaboration with Omniverse, Universal Scene Description (USD) and Python
 
-[OMNIVERSE DEVELOPER RESOURCE CENTER](https://developer.nvidia.com/nvidia-omniverse-developer-resource-center)
+### Part 1: Python
 
 [Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_1)
 
-[Assignment: Developing a Tetris game with PixarUSD and Python Scripting in Omniverse Kit](https://www.youtube.com/watch?v=nF_bue13vNc)
+### Part 2: Pixar's Universal Scene Description (USD)
 
-More than a dozen companies from Apple, Nvidia, Adobe, to Unity support USD. The standard is on the cusp of becoming the solder that fuses all sorts of virtual and physical worlds into a metaverse.
+Universal Scene Description (USD) is an open source framework developed by Pixar for exchanging 3D computer graphics data across different applications. It is designed to be flexible and extensible to other collaborative environments that run interconnected tools, such as NVIDIA Omniverse. More than a dozen companies from Apple, Nvidia, Adobe, to Unity support USD. The standard is on the cusp of becoming the solder that fuses all sorts of virtual and physical worlds into a metaverse.
 
 [Five Things to Know About USD](https://www.youtube.com/watch?v=vFxytzQlOEs)
 
@@ -238,6 +238,13 @@ More than a dozen companies from Apple, Nvidia, Adobe, to Unity support USD. The
 [Watch Introduction to Pixar's Universal Scene Description](https://www.youtube.com/watch?v=LHoHUT1telk)
 
 [What is USD: A Primer](https://www.youtube.com/watch?v=Yp_TRVD3wjQ)
+
+[OMNIVERSE DEVELOPER RESOURCE CENTER](https://developer.nvidia.com/nvidia-omniverse-developer-resource-center)
+
+[Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_1)
+
+[Assignment: Developing a Tetris game with PixarUSD and Python Scripting in Omniverse Kit](https://www.youtube.com/watch?v=nF_bue13vNc)
+
 
 [Plumbing for the Metaverse with Universal Scene Description (USD)](https://medium.com/@nvidiaomniverse/plumbing-for-the-metaverse-with-universal-scene-description-usd-856a863d9b12)
 
@@ -250,6 +257,53 @@ More than a dozen companies from Apple, Nvidia, Adobe, to Unity support USD. The
 [USD Tutorials](https://graphics.pixar.com/usd/dev/tut_usd_tutorials.html)
 
 [Getting Started with USD for Collaborative 3D Workflows](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-02+V1/about)
+
+Outline
+Introduction
+
+Overview of Pixar USD features and components
+
+Understanding the USD composition
+
+Preparing the Development Environment
+
+Building and installing dependencies and components
+
+Setting the environment variables for Python
+
+Authoring USD
+
+Creating a USD stage
+
+Creating and editing prims
+
+Referencing layers
+
+Converting layers into different USD file formats
+
+Traversing prims in a stage
+
+Creating and editing variants
+
+Applying transformations, animations, layer offsets, and shading
+
+Working with Plugins and Examples
+
+Modifying variant examples in Blender
+
+Generating USD assets from Blender
+
+Modifying USD scenes with Blender
+
+Setting up and using Usdview plugin
+
+Building schema classes
+
+### Part 3: Omniverse
+
+[OMNIVERSE DEVELOPER RESOURCE CENTER](https://developer.nvidia.com/nvidia-omniverse-developer-resource-center)
+
+[Assignment: Developing a Tetris game with PixarUSD and Python Scripting in Omniverse Kit](https://www.youtube.com/watch?v=nF_bue13vNc)
 
 ## Module VII: Building Avatars for the Metaverse
 
