@@ -8,7 +8,7 @@ The online program consists of seven modules (three semisters) listed below and 
 
 If you are interested in teaching in this program, you are requested to fill out the following form (if shortlisted we will schedule an interview with you):
 
-https://forms.gle/SUhyJiqTjABMpeHr9
+[Submit the Form](https://forms.gle/SUhyJiqTjABMpeHr9)
 
 Please note that all faculty members will be paid as per industry standards.
 
