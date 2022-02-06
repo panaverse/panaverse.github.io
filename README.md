@@ -14,7 +14,12 @@ Please note that all faculty members will be paid as per industry standards.
 
 ## Program Duration and Fee
 
-The program will consist of three semisters. The fee will be Rs. 10,000 per semister. The students will have an option to pay an one time fee of Rs. 20,000 for the entire program covering all three semisters i.e. instead of paying Rs. 30,000 for the program they will pay Rs. 20,000 and get a discount of Rs. 10,000.    
+The program will consist of three semisters. The fee will be Rs. 10,000 per semister. The students will have an option to pay an one time fee of Rs. 20,000 for the entire program covering all three semisters i.e. instead of paying Rs. 30,000 for the program they will pay Rs. 20,000 and get a discount of Rs. 10,000.  
+
+Per Semister: Rs. 10,000 
+One Time: Rs. 20,000 (Covers 3 Semisters) 
+
+## Panaverse Community
 
 [Join the Metaverse Discord Channel](https://discord.gg/GggDkBwJDr)
 
