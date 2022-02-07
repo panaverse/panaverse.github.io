@@ -63,9 +63,11 @@ We suggest that you join the Panaverse community on Discord and Facebook, and st
 
 [The Metaverse: Prepare Now For the Next Big Thing!](https://www.amazon.com/Metaverse-Prepare-Now-Next-Thing/dp/B09DMRF373/ref=pd_sbs_1/132-9505128-5572430)
 
-Watch this video to Understand the level 3D Graphics Technology has reached
+Watch these videos to Understand the level 3D Graphics Technology has reached
 
 [![The enabling technology for Metaverse](video_image.png)](https://www.youtube.com/watch?v=NgcYLIvlp_k "NVIDIA Marbles at Night")
+
+[![Designing, Optimizing and Operating the Factory of the Future](factory.png)](https://www.youtube.com/watch?v=6-DaWgg4zF8 "factory of future")
 
 <img src="metaverse.jpeg" alt="metaverse diagram"  style="display: block; margin-left: auto; margin-right: auto; "/>
 
