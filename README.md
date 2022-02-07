@@ -31,11 +31,13 @@ When the program is about to start and you are selected for the classes, you wil
 
 Currenly, Panaverse cannot specify when the program will start. Currently the program is under development and start date is at least many months in the future. 
 
-We suggest that you join the Panaverse community on Discord, and start learning Blender skills to begin with.
+We suggest that you join the Panaverse community on Discord and Facebook, and start learning Blender skills to begin with.
 
 ## Panaverse Community
 
 [Join the Metaverse Discord Channel](https://discord.gg/GggDkBwJDr)
+
+[Join the Metaverse Facebook Group](https://www.facebook.com/groups/metaverse.dev/)
 
 ## Program Modules
 
