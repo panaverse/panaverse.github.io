@@ -44,6 +44,10 @@ One Time: Rs. 20,000 (Covers 3 Semisters)
 
 ## Module I: Metaverse Introduction and Theory
 
+[The Metaverse: And How it Will Revolutionize Everything](https://www.amazon.com/Metaverse-How-Will-Revolutionize-Everything/dp/1324092033/ref=sr_1_4)
+
+[The Metaverse: Prepare Now For the Next Big Thing!](https://www.amazon.com/Metaverse-Prepare-Now-Next-Thing/dp/B09DMRF373/ref=pd_sbs_1/132-9505128-5572430)
+
 Watch this video to Understand the level 3D Graphics Technology has reached
 
 [![The enabling technology for Metaverse](video_image.png)](https://www.youtube.com/watch?v=NgcYLIvlp_k "NVIDIA Marbles at Night")
@@ -209,6 +213,10 @@ Create a Baby Dragon as shown in chapters 11, 12, 13, 14, and 15 of the Book [Bl
 [A Very Gentle Introduction to Computer Graphics Programming](https://www.scratchapixel.com/lessons/3d-basic-rendering/get-started)
 
 [Computer Graphics Textbook: Computer Graphics from Scratch - A Programmer's Introduction to 3D Rendering](https://www.amazon.com/Computer-Graphics-Scratch-Gabriel-Gambetta/dp/1718500769/ref=sr_1_9)
+
+[Basic Math for Game Development with Unity 3D: A Beginner's Guide to Mathematical Foundations](https://www.amazon.com/Basic-Math-Game-Development-Unity/dp/1484254422/ref=sr_1_fkmr0_1)
+
+[Math for Programmers: 3D graphics, machine learning, and simulations with Python](https://www.amazon.com/Math-Programmers-Paul-Orland/dp/1617295353/ref=sr_1_1)
 
 ## Module IV: Learning C# and OpenXR with Unity 2021
 
