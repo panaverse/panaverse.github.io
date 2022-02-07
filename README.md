@@ -85,7 +85,7 @@ Watch these videos to Understand the level 3D Graphics Technology has reached
 
 [Facebook, Walmart and How Companies Shouldn’t Set Up in the Metaverse](https://www.coindesk.com/layer2/2022/01/05/facebook-walmart-and-how-companies-shouldnt-set-up-in-the-metaverse/)
 
-[How Metaverse Works? | Secrets of Metaverse | Explained in Hindi](https://www.youtube.com/watch?v=0azMpBagjI4)
+[How Metaverse Works? Secrets of Metaverse Explained in Hindi](https://www.youtube.com/watch?v=0azMpBagjI4)
 
 
 ### Metaverse is the Future
