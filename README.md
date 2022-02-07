@@ -12,6 +12,7 @@ If you are interested in teaching in this program, you are requested to fill out
 
 Please note that all faculty members will be paid as per industry standards.
 
+
 ## Program Duration and Fee
 
 The program will consist of three semesters. The fee will be Rs. 10,000 per semester. The students will have an option to pay an one time fee of Rs. 20,000 for the entire program covering all three semesters i.e. instead of paying Rs. 30,000 for the program they will pay Rs. 20,000 and get a discount of Rs. 10,000.
@@ -19,6 +20,18 @@ The program will consist of three semesters. The fee will be Rs. 10,000 per seme
 Per Semester: Rs. 10,000
 
 One Time: Rs. 20,000 (Covers 3 Semesters)
+
+## Student Waiting List Application Form
+
+If you want to be added to the Student waiting list. 
+
+[Submit the Form](https://forms.gle/BYqLH1atDDcbsHUB7)
+
+When the program is about to start and you are selected for the classes, you will receive a message to submit the fee and start attending classes.
+
+Currenly, Panaverse cannot specify when the program will start. Currently the program is under development and start date is at least many months in the future. 
+
+We suggest that you join the Panaverse community on Discord, and start learning Blender skills to begin with.
 
 ## Panaverse Community
 
