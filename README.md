@@ -175,6 +175,8 @@ Five reasons we are doing this:
 
 ## Module II: Learning 3D with Blender
 
+## Part A: Introduction to Blender
+
 Blender development is being funded by heavyweights in the real-time 3D (RT3D) space such as Apple, Unity, AMD, Intel, Meta, NVIDIA, AWS, Epic Games, Adobe, Microsoft, and Decentraland. It is expected to become the standard asset creation tool for metaverse. 
 
 [Blender 3.0+ Download](https://www.blender.org/download/)
@@ -225,7 +227,13 @@ Animating a Stylish Short with Grease Pencil as shown in chapter 10 of the Book 
 
 Create a Baby Dragon as shown in chapters 11, 12, 13, 14, and 15 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
 
+## Part B: 3D Scanning
+
+[Real 3D Scanner vs iPhone 13 Pro Max LIDAR Comparison Revopoint Pop 2](https://www.youtube.com/watch?v=D5-0Youeb5E)
+
 ## Module III: Computer Graphics Programming
+
+### Part A: Graphics Programming
 
 [A Very Gentle Introduction to Computer Graphics Programming](https://www.scratchapixel.com/lessons/3d-basic-rendering/get-started)
 
@@ -234,6 +242,12 @@ Create a Baby Dragon as shown in chapters 11, 12, 13, 14, and 15 of the Book [Bl
 [Basic Math for Game Development with Unity 3D: A Beginner's Guide to Mathematical Foundations](https://www.amazon.com/Basic-Math-Game-Development-Unity/dp/1484254422/ref=sr_1_fkmr0_1)
 
 [Math for Programmers: 3D graphics, machine learning, and simulations with Python](https://www.amazon.com/Math-Programmers-Paul-Orland/dp/1617295353/ref=sr_1_1)
+
+### Part B: 3D File Formats
+
+[Going 3D -> glTF, USD, USDz -> Let's Break These File Formats Down](https://www.linkedin.com/pulse/going-3d-file-formats-lets-break-down-4d-pipeline/)
+
+[gltf vs USD](https://news.ycombinator.com/item?id=22336361)
 
 ## Module IV: Learning C# and OpenXR with Unity 2021
 
