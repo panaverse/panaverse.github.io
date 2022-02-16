@@ -249,6 +249,10 @@ Create a Baby Dragon as shown in chapters 11, 12, 13, 14, and 15 of the Book [Bl
 
 [gltf vs USD](https://news.ycombinator.com/item?id=22336361)
 
+## Module IV: Decentraland Development
+
+[Let’s build the metaverse together](https://docs.decentraland.org/content-intro/)
+
 ## Module IV: Learning C# and OpenXR with Unity 2021
 
 [Learning C# by Developing Games with Unity 2021](https://www.amazon.com/Learning-Developing-Games-Unity-2021/dp/1801813949/ref=sr_1_1)
