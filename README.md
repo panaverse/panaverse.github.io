@@ -1,6 +1,7 @@
 # Designing and Developing Immersive 3D Metaverse Experiences
 
-[Goldman Sachs Sees the Metaverse as $8 Trillion Opportunity.](https://news.bitcoin.com/goldman-sachs-metaverse-8-trillion-opportunity/) It is the future and next generation of the internet. This program will teach you to design and build 3D Metaverse Experiences to take advantage of this opportunity. 
+[Goldman Sachs Sees the Metaverse as $8 Trillion Opportunity.](https://news.bitcoin.com/goldman-sachs-metaverse-8-trillion-opportunity/) [Read the paper Opportunities
+in the metaverse by JP Morgan.](https://www.jpmorgan.com/content/dam/jpm/treasury-services/documents/opportunities-in-the-metaverse.pdf)  It is the future and next generation of the internet. This program will teach you to design and build 3D Metaverse Experiences to take advantage of this opportunity. 
 
 The online program consists of seven modules (three semisters) listed below and will mainly be focused on imparting knowledge by training students to develop projects. The classes will mainly be taught on the weekends or after 7:00 pm (Pakistan Time) on weekdays so that everyone can attend. We will be using Zoom to conduct classes so that students from anywhere in the world can attend. 
 
