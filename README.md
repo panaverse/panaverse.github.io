@@ -411,6 +411,14 @@ This module focused to bring ultra realistic humans and creatures to metaverse u
 
 [Class 5: Step 03 Part 4 - Solidity Tutorial in Urdu on YouTube](https://youtu.be/Rq7q8ztRs70)
 
+[Class 6: Step 03 Part 5 - Solidity Tutorial in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/352545383194950)
+
+[Class 6: Step 03 Part 5 - Solidity Tutorial in English on YouTube](https://youtu.be/56StWx7V4vM)
+
+[Class 6: Step 03 Part 5 - Solidity Tutorial in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/2210008845814579)
+
+[Class 6: Step 03 Part 5 - Solidity Tutorial in Urdu on YouTube](https://youtu.be/lyQUb7vuvpY)
+
 
 
 ### Appendix B: Metaverse Major Players
