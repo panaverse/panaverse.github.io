@@ -232,6 +232,12 @@ Create a Baby Dragon as shown in chapters 11, 12, 13, 14, and 15 of the Book [Bl
 
 [Real 3D Scanner vs iPhone 13 Pro Max LIDAR Comparison Revopoint Pop 2](https://www.youtube.com/watch?v=D5-0Youeb5E)
 
+## Module IIB: Learning 3D with Maya
+
+[Download Maya Free Trial](https://www.autodesk.com/products/maya/free-trial)
+
+[Maya Tutorial for Beginners: 2020](https://www.youtube.com/playlist?list=PLsPHRLf6UN4k0_AfrTzLmK4iDV9J97-qR)
+
 ## Module III: Computer Graphics Programming
 
 ### Part A: Graphics Programming
