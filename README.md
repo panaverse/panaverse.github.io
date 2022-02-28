@@ -176,7 +176,7 @@ Five reasons we are doing this:
 
 ## Module II: Learning 3D with Maya
 
-## Part A: Introduction to Blender
+## Part A: Introduction to Maya
 
 [Download Maya Free Trial](https://www.autodesk.com/products/maya/free-trial)
 
@@ -205,7 +205,7 @@ Read and Understand the above articles and follow this [tutorial](https://www.yo
 [Making a stylized refrigerator](https://www.youtube.com/watch?v=itnP-SYJizw)
 
 
-
+[Autodesk Maya 2022 Basics Guide](https://www.amazon.com/Autodesk-Maya-2022-Basics-Guide/dp/1630574503/ref=pd_sbs_2/132-9505128-5572430)
 
 
 ## Part B: 3D Scanning
