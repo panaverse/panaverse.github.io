@@ -44,7 +44,7 @@ We suggest that you join the Panaverse community on Discord and Facebook, and st
 
 [Module I: Metaverse Introduction and Theory](#module-i-metaverse-introduction-and-theory)
 
-[Module II: Learning 3D with Blender](#module-ii-learning-3d-with-blender)
+[Module II: Learning 3D with Maya](#module-ii-learning-3d-with-maya)
 
 [Module III: Computer Graphics Programming](#module-iii-computer-graphics-programming)
 
@@ -174,69 +174,24 @@ Five reasons we are doing this:
 5. To see who are the leaders and best workers in this group
 
 
-## Module II: Learning 3D with Blender
+## Module II: Learning 3D with Maya
 
 ## Part A: Introduction to Blender
 
-Blender development is being funded by heavyweights in the real-time 3D (RT3D) space such as Apple, Unity, AMD, Intel, Meta, NVIDIA, AWS, Epic Games, Adobe, Microsoft, and Decentraland. It is expected to become the standard asset creation tool for metaverse. 
+[Download Maya Free Trial](https://www.autodesk.com/products/maya/free-trial)
 
-[Blender 3.0+ Download](https://www.blender.org/download/)
+[Download Maya](https://drive.google.com/file/d/1SPbRYo5VsDEAIp4hzZ4rPriJQpCUi3dQ/view?usp=sharing)
 
-[Blender 3.0 Beginner Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD)
+[Download Maya Torrent](https://thepiratebay0.org/torrent/43208847/Autodesk_Maya_2022_Pre-cracked)
 
-[Blender 3.0 Hotkey](https://docs.google.com/document/d/1zPBgZAdftWa6WVa7UIFUqW_7EcqOYE0X743RqFuJL3o/edit)
+[Maya Tutorial for Beginners: 2020](https://www.youtube.com/playlist?list=PLsPHRLf6UN4k0_AfrTzLmK4iDV9J97-qR)
 
-[Blender Projects Textbook: Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
-
-[Blender Textbook: The Complete Guide to Blender Graphics: Computer Modeling & Animation 7th Edition by John M. Blain](https://www.amazon.com/Complete-Guide-Blender-Graphics-Animation/dp/103212167X/ref=sr_1_5)
-
-[Best Hardware Performance for Blender Rendering](https://www.youtube.com/watch?v=H7T0SzdFHwg)
-
-### Assignment 3:
-
-Build a 3D Donut using Blender 3 as shown in these [video tutorials](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD).
-
-### Assignment 4:
-
-Build a 3D Sword in the Stone using Blender 3 as shown in these [video tutorials](https://www.youtube.com/watch?v=bpvh-9H8S1g)
-
-### Assignment 5:
-
-Build a Viking Scene using Blender 3 as shown in chapter 2 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
-
-### Assignment 6:
-
-Modeling a Time Machine using Blender 3 as shown in chapters 3 and 4 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
-
-### Assignment 7:
-
-Build a Modern Kitchen using Blender 3 as shown in chapters 5, 6, and 7 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
-
-### Assignment 8:
-
-Illustrating an Alien Hero with Grease Pencil as shown in chapter 8 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
-
-### Assignment 9:
-
-Animating an Exquisite Corpse in Grease Pencil as shown in chapter 9 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
-
-### Assignment 10:
-
-Animating a Stylish Short with Grease Pencil as shown in chapter 10 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
-
-### Assignment 11:
-
-Create a Baby Dragon as shown in chapters 11, 12, 13, 14, and 15 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
 
 ## Part B: 3D Scanning
 
 [Real 3D Scanner vs iPhone 13 Pro Max LIDAR Comparison Revopoint Pop 2](https://www.youtube.com/watch?v=D5-0Youeb5E)
 
-## Module IIB: Learning 3D with Maya
 
-[Download Maya Free Trial](https://www.autodesk.com/products/maya/free-trial)
-
-[Maya Tutorial for Beginners: 2020](https://www.youtube.com/playlist?list=PLsPHRLf6UN4k0_AfrTzLmK4iDV9J97-qR)
 
 ## Module III: Computer Graphics Programming
 
