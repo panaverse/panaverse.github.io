@@ -186,6 +186,18 @@ Five reasons we are doing this:
 
 [Maya Tutorial for Beginners: 2020](https://www.youtube.com/playlist?list=PLsPHRLf6UN4k0_AfrTzLmK4iDV9J97-qR)
 
+[Maya: Interactive Tutorials New in Maya 2022.1](https://www.youtube.com/watch?v=r0fGD30eL6E)
+
+### Assignment 3: Creating a simple 3D cabinet
+
+Read and Understand the above articles and follow this [tutorial](https://www.youtube.com/watch?v=I39EtyKuT0w)
+
+### Assignment 4: Model a Tennis Ball
+
+[Model a Tennis Ball](https://www.youtube.com/watch?v=IfSis4ns8SY)
+
+
+
 
 ## Part B: 3D Scanning
 
