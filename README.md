@@ -188,13 +188,20 @@ Five reasons we are doing this:
 
 [Maya: Interactive Tutorials New in Maya 2022.1](https://www.youtube.com/watch?v=r0fGD30eL6E)
 
-### Assignment 3: Creating a simple 3D cabinet
+### Assignment 3: Creating a Simple 3D cabinet
 
 Read and Understand the above articles and follow this [tutorial](https://www.youtube.com/watch?v=I39EtyKuT0w)
 
 ### Assignment 4: Model a Tennis Ball
 
 [Model a Tennis Ball](https://www.youtube.com/watch?v=IfSis4ns8SY)
+
+### Assignment 5: Model a Dinner Table
+
+[Model a Dinner Table](https://www.youtube.com/watch?v=wdhYQdx0x3E)
+
+
+
 
 
 
