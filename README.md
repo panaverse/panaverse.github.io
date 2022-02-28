@@ -200,7 +200,9 @@ Read and Understand the above articles and follow this [tutorial](https://www.yo
 
 [Model a Dinner Table](https://www.youtube.com/watch?v=wdhYQdx0x3E)
 
+### Assignment 6: Making a Stylized Refrigerator
 
+[Making a stylized refrigerator](https://www.youtube.com/watch?v=itnP-SYJizw)
 
 
 
