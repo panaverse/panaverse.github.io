@@ -46,15 +46,17 @@ We suggest that you join the Panaverse community on Discord and Facebook, and st
 
 [Module II: Learning 3D with Maya](#module-ii-learning-3d-with-maya)
 
-[Module III: Computer Graphics Programming](#module-iii-computer-graphics-programming)
+[Module III: Apple’s Augmented Reality ARKit and USDz Development](#module-iii-apples-augmented-reality-arkit-and-usdz-development)
 
-[Module IV: Learning C# and OpenXR with Unity 2021](#module-iv-learning-c-and-openxr-with-unity-2021)
+[Module IV: Computer Graphics Programming](#module-iv-computer-graphics-programming)
 
-[Module V: Designing Immersive 3D XR Experiences](#module-v-designing-immersive-3d-xr-experiences)
+[Module V: Decentraland Development](#module-v-decentraland-development)
 
-[Module VI: 3D Simulation and Design collaboration with Omniverse, Universal Scene Description (USD) and Python](#module-vi-3d-simulation-and-design-collaboration-with-omniverse-universal-scene-description-usd-and-python)
+[Module VI: Learning C# and OpenXR with Unity 2021](#module-vi-learning-c-and-openxr-with-unity-2021)
 
-[Module VII: Building Avatars for the Metaverse](#module-vii-building-avatars-for-the-metaverse)
+[Module VII: Designing Immersive 3D XR Experiences](#module-vii-designing-immersive-3d-xr-experiences)
+
+[Module VIII: 3D Simulation and Design collaboration with Omniverse, Universal Scene Description (USD) and Python](#module-viii-3d-simulation-and-design-collaboration-with-omniverse-universal-scene-description-usd-and-python)
 
 
 
@@ -341,9 +343,7 @@ Building schema classes
 
 [Assignment: Developing a Tetris game with PixarUSD and Python Scripting in Omniverse Kit](https://www.youtube.com/watch?v=nF_bue13vNc)
 
-## Module IX: Building Avatars for the Metaverse
 
-This module focused to bring ultra realistic humans and creatures to metaverse using machine learning and biomechanics. We will use Ziva tools which has been acquired by Unity for this purpose. We will also use Blender and Unity Character tools. 
 
 
 
