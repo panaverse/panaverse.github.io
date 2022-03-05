@@ -72,7 +72,7 @@ Watch these videos to Understand the level 3D Graphics Technology has reached
 
 <img src="metaverse.jpeg" alt="metaverse diagram"  style="display: block; margin-left: auto; margin-right: auto; "/>
 
-### What is Metaverse
+#### What is Metaverse
 
 [What’s All the Hype About the Metaverse?](https://www.nytimes.com/2022/01/18/technology/personaltech/metaverse-gaming-definition.html)
 
@@ -89,7 +89,7 @@ Watch these videos to Understand the level 3D Graphics Technology has reached
 [How Metaverse Works? Secrets of Metaverse Explained in Hindi](https://www.youtube.com/watch?v=0azMpBagjI4)
 
 
-### Metaverse is the Future
+#### Metaverse is the Future
 
 [Nvidia CEO: The metaverse will be 'much, much bigger than the physical world'](https://finance.yahoo.com/news/nvidia-ceo-the-metaverse-will-be-much-much-bigger-than-the-physical-world-174256652.html)
 
@@ -100,7 +100,7 @@ The Information estimates that the metaverse could be worth about [$82B by 2025]
 [The Metaverse Is Coming And It’s A Very Big Deal](https://www.forbes.com/sites/cathyhackl/2020/07/05/the-metaverse-is-coming--its-a-very-big-deal/?sh=3c6ee273440f)
 
 
-### The Players and the Development Platforms
+#### The Players and the Development Platforms
 
 [What the Metaverse Means for Developers](https://thenewstack.io/metaverse-developers/)
 
@@ -117,7 +117,7 @@ The Information estimates that the metaverse could be worth about [$82B by 2025]
 [Metaverse… Closer Than You Think](https://croftgroup.com/metaverse-closer-than-you-think/)
 
 
-### Metaverse and Web3
+#### Metaverse and Web3
 
 [WEB 3.0 VS METAVERSE: SIMILARITIES AND DIFFERENCES YOU NEED TO KNOW IN 2022](https://www.analyticsinsight.net/web-3-0-vs-metaverse-similarities-and-differences-you-need-to-know-in-2022/)
 
@@ -133,7 +133,7 @@ The Information estimates that the metaverse could be worth about [$82B by 2025]
 
 [MetaFi: DeFi for the Metaverse](https://outlierventures.io/research/metafi-defi-for-the-metaverse/)
 
-### Creator Economy of the Metaverse
+#### Creator Economy of the Metaverse
 
 [Creator Economy of the Metaverse - Roblox, Unity, Unreal and more!](https://www.youtube.com/watch?v=VLwqivmWM_I)
 
@@ -142,14 +142,14 @@ The Information estimates that the metaverse could be worth about [$82B by 2025]
 [How to Get Paid in the Metaverse Creator Economy Today](https://hackernoon.com/how-to-get-paid-in-the-metaverse-creator-economy-today)
 
 
-## Metaverse in the Enterprise
+#### Metaverse in the Enterprise
 
 [7 ways the metaverse will change the enterprise](https://venturebeat.com/2022/01/26/7-ways-the-metaverse-will-change-the-enterprise/)
 
 [How the metaverse will let you simulate everything](https://venturebeat.com/2022/01/26/omniverse-ability-to-simulate-anything-self-driving-cars-energy-power-consumption/)
 
 
-### Challenges of Metaverse that Needs to be Solved
+#### Challenges of Metaverse that Needs to be Solved
 
 [The DeanBeat: The problem of the sniper and the metaverse](https://venturebeat.com/2022/01/14/the-deanbeat-the-problem-of-the-sniper-and-the-metaverse/amp/)
 
@@ -213,10 +213,19 @@ Read and Understand the above articles and follow this [tutorial](https://www.yo
 [Real 3D Scanner vs iPhone 13 Pro Max LIDAR Comparison Revopoint Pop 2](https://www.youtube.com/watch?v=D5-0Youeb5E)
 
 
+## Module III: Apple’s Augmented Reality ARKit and USDz Development
 
-## Module III: Computer Graphics Programming
+[Swift Programming: The Big Nerd Ranch Guide](https://www.amazon.com/Swift-Programming-Ranch-Guide-Guides/dp/0135264200/ref=sr_1_1)
 
-### Part A: Graphics Programming
+[Mastering ARKit: Apple’s Augmented Reality App Development Platform](https://www.amazon.com/Mastering-ARKit-Augmented-Development-Platform-ebook/dp/B09TDKXFK6/ref=sr_1_1)
+
+3D File Formats
+
+[Going 3D -> glTF, USD, USDz -> Let's Break These File Formats Down](https://www.linkedin.com/pulse/going-3d-file-formats-lets-break-down-4d-pipeline/)
+
+[gltf vs USD](https://news.ycombinator.com/item?id=22336361)
+
+## Module IV: Computer Graphics Programming
 
 [A Very Gentle Introduction to Computer Graphics Programming](https://www.scratchapixel.com/lessons/3d-basic-rendering/get-started)
 
@@ -226,17 +235,12 @@ Read and Understand the above articles and follow this [tutorial](https://www.yo
 
 [Math for Programmers: 3D graphics, machine learning, and simulations with Python](https://www.amazon.com/Math-Programmers-Paul-Orland/dp/1617295353/ref=sr_1_1)
 
-### Part B: 3D File Formats
 
-[Going 3D -> glTF, USD, USDz -> Let's Break These File Formats Down](https://www.linkedin.com/pulse/going-3d-file-formats-lets-break-down-4d-pipeline/)
-
-[gltf vs USD](https://news.ycombinator.com/item?id=22336361)
-
-## Module IV: Decentraland Development
+## Module V: Decentraland Development
 
 [Let’s build the metaverse together](https://docs.decentraland.org/content-intro/)
 
-## Module IV: Learning C# and OpenXR with Unity 2021
+## Module VI: Learning C# and OpenXR with Unity 2021
 
 [Learning C# by Developing Games with Unity 2021](https://www.amazon.com/Learning-Developing-Games-Unity-2021/dp/1801813949/ref=sr_1_1)
 
@@ -248,12 +252,12 @@ Read and Understand the above articles and follow this [tutorial](https://www.yo
 
 [Unity OpenXR Plugin](https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.3/manual/index.html)
 
-## Module V: Designing Immersive 3D XR Experiences
+## Module VII: Designing Immersive 3D XR Experiences
 
 [Designing XR Textbook: Designing Immersive 3D Experiences - A Designer's Guide to Creating Realistic 3D Experiences for Extended Reality](https://www.amazon.com/Designing-Immersive-Experiences-Designers-Realistic/dp/0137282834/ref=sr_1_8)
 
 
-## Module VI: 3D Simulation and Design collaboration with Omniverse, Universal Scene Description (USD) and Python
+## Module VIII: 3D Simulation and Design collaboration with Omniverse, Universal Scene Description (USD) and Python
 
 ### Part 1: Python
 
@@ -337,7 +341,7 @@ Building schema classes
 
 [Assignment: Developing a Tetris game with PixarUSD and Python Scripting in Omniverse Kit](https://www.youtube.com/watch?v=nF_bue13vNc)
 
-## Module VII: Building Avatars for the Metaverse
+## Module IX: Building Avatars for the Metaverse
 
 This module focused to bring ultra realistic humans and creatures to metaverse using machine learning and biomechanics. We will use Ziva tools which has been acquired by Unity for this purpose. We will also use Blender and Unity Character tools. 
 
