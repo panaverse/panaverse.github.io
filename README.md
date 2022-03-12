@@ -414,6 +414,15 @@ Building schema classes
 [Class 7: Step 03 Part 6 - Solidity Tutorial in Urdu on YouTube](https://youtu.be/ynRJq88pJQo)
 
 
+[Class 8: Step 04 - Chapter 02 Textbook in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/480580873784502)
+
+[Class 8: Step 04 - Chapter 02 Textbook in English on YouTube](https://youtu.be/eLxMxhfEZ9g)
+
+[Class 8: Step 04 - Chapter 02 Textbook in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/647528262963595)
+
+[Class 8: Step 04 - Chapter 02 Textbook in Urdu on YouTube](https://youtu.be/HYgh3Nix7jQ)
+
+
 
 
 
