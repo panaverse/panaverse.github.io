@@ -5,13 +5,17 @@ in the metaverse by JP Morgan.](https://www.jpmorgan.com/content/dam/jpm/treasur
 
 Panaverse Development Platform
 
-As discussed in detail in this [article](https://www.computerworld.com/article/3654197/enterprise-ar-will-be-dominated-by-apple-and-magic-leap.html) we also beleave that Apple will lead the AR and Metaverse space on the client side. There [M1 processors](https://en.wikipedia.org/wiki/Apple_M1) are the most efficient processors in the world. Some derivative of the M1 will power the Apple AR glasses. Apple's [ARKit](https://developer.apple.com/augmented-reality/arkit/) is also quite mature. Apple's [Swift](https://developer.apple.com/swift/) programming language is extremely powerfull. The combination of the hardware and the software stacks will be extremely difficult to beat in the next few years. The main competetors Nvidia, Microsoft, Meta, Amazon, and Google are three to five years behind right now. As developers the only down side is going to be the total lockin.  
+As discussed in detail in this [article](https://www.computerworld.com/article/3654197/enterprise-ar-will-be-dominated-by-apple-and-magic-leap.html) we also believe that Apple will lead the AR and Metaverse space on the client side. There [M1 processors](https://en.wikipedia.org/wiki/Apple_M1) are the most efficient processors in the world. Some derivative of the M1 will power the Apple AR glasses. Apple's [ARKit](https://developer.apple.com/augmented-reality/arkit/) is also quite mature. Apple's [Swift](https://developer.apple.com/swift/) programming language is extremely powerfull. The combination of the hardware and the software stacks will be extremely difficult to beat in the next few years. The main competetors Nvidia, Microsoft, Meta, Amazon, and Google are three to five years behind right now. As developers the only down side is going to be the total lock-in.  
 
-On the backend [AWS Serverless](https://aws.amazon.com/serverless/) Cloud combined with [AWS CDK](https://aws.amazon.com/cdk/) will provide an extremely scalabale platform, with Typescript as the programming language of choice.
+On the backend [AWS Serverless](https://aws.amazon.com/serverless/) Cloud combined with [AWS CDK](https://aws.amazon.com/cdk/) will provide an extremely scalable platform, with Typescript as the programming language of choice.
 
-To provide Web 3 functionality we will use the [Ethereum](https://ethereum.org/en/) blockchain and [Solidity](https://docs.soliditylang.org/en/v0.8.13/) programing language for smart contract development. 
+To provide Web 3 functionality we will use the [Ethereum](https://ethereum.org/en/) blockchain and [Solidity](https://docs.soliditylang.org/en/v0.8.13/) programming language for smart contract development. 
 
 We will be using [Maya](https://www.autodesk.com/products/maya/) for 3D Asset development and [USD](https://en.wikipedia.org/wiki/Universal_Scene_Description) file format.
+
+The only hurdle I see in training world class metaverse developers is that every developer will need a at least a [Mac Book Air](https://www.apple.com/macbook-air/). We can buy Apple AR glass on a shared bases when they become available. 
+
+
 
 The online program consists of seven modules (three semisters) listed below and will mainly be focused on imparting knowledge by training students to develop projects. The classes will mainly be taught on the weekends or after 7:00 pm (Pakistan Time) on weekdays so that everyone can attend. We will be using Zoom to conduct classes so that students from anywhere in the world can attend. 
 
