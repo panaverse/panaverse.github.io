@@ -437,6 +437,15 @@ Building schema classes
 [Class 8: Step 04 - Chapter 02 Textbook in Urdu on YouTube](https://youtu.be/HYgh3Nix7jQ)
 
 
+[Class 9: Step 04 and 05 - Chapter 02 and 03 Textbook in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/7014356888634818)
+
+[Class 9: Step 04 and 05 - Chapter 02 and 03 Textbook in English on YouTube]()
+
+[Class 9: Step 04 and 05  - Chapter 02 and 03 Textbook in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/1050761768987494)
+
+[Class 9: Step 04 and 05 - Chapter 02 and 03 Textbook in Urdu on YouTube](https://youtu.be/1DmqDVVv0Wg)
+
+
 
 
 
