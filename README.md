@@ -475,13 +475,13 @@ Also check these links for latest listings:
 
 [Binance Launchpad](https://www.coinspeaker.com/ieo/platform/binance-launchpad/)
 
-[IEO List]{https://icomarks.com/ieo)
+[IEO List](https://icomarks.com/ieo)
 
 [Polkastarter](https://polkastarter.com/)
 
 Porject Part 1: How to Launch a IEO on Binance Lauchpad
 
-[Read how tgo Lauch an IEO](https://appinventiv.com/blog/how-to-launch-an-ieo/)
+[Read how to Lauch an IEO](https://appinventiv.com/blog/how-to-launch-an-ieo/)
 
 Your first task of the project is to make a google slides presentation on how to start a IEO on the [Binance Launch Pad](https://www.binance.com/en/support/faq/94ed108ce89d44ab8602aa3c476dfb04).
 
