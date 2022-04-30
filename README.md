@@ -1,7 +1,28 @@
-# Designing and Developing Immersive 3D Metaverse Experiences
+# Designing and Developing Web3 and Metaverse Experiences: Getting Ready for Market of $13 Trillion and 5 Billion Users
+
+The internet is undoubtedly the most significant technological development in human history. Although the industry has progressed immensely since its inception, we are just scratching the surface of what it can do for us. Web3 and metaverse technologies improves the internet as we know it today by adding innovative new features and enhancements. Web 3.0 and the Metaverse complement each other. The metaverse reimagines the frontend, and web3 the backend of the web. 
+
+Citi is the latest Wall Street firm to issue a bullish forecast for web3 and the metaverse, which describe a future internet vision based on decentralised technologies and virtual worlds. Citi said in a [research report published in March 2022](https://ir.citi.com/gps/BGrBay2thaQaH9HYofo3Uf3ThNldHDse_iJbe_md8Xk2SX5N3rdCq70nBWVa5mRqVYO3BHcw4Htuf7ihwIzrP6f0AN2kKVQZ) that the metaverse economy could have a total addressable market of up to $13 trillion and can capture five bullion users by 2030.
+
+The bank's definition of the metaverse extends beyond virtual worlds such as gaming and virtual reality applications. Citi's broad vision of the metaverse includes smart manufacturing technology, virtual advertising, online events such as concerts, and digital currencies such as Ethereum.
+
+
+## Web 3.0
+
+[Web 3.0](https://medium.com/fabric-ventures/what-is-web-3-0-why-it-matters-934eb07f3d2b) is a concept for the internet's next generation. It is the evolution of user control and ownership over their creations and online content, digital assets, and online identities. Users in Web 3.0 can create content while owning, controlling, and monetizing it through the use of blockchain and cryptocurrencies.
+
+## Metaverse
 
 [Goldman Sachs Sees the Metaverse as $8 Trillion Opportunity.](https://news.bitcoin.com/goldman-sachs-metaverse-8-trillion-opportunity/) [Read the paper Opportunities
-in the metaverse by JP Morgan.](https://www.jpmorgan.com/content/dam/jpm/treasury-services/documents/opportunities-in-the-metaverse.pdf)  It is the future and next generation of the internet. This program will teach you to design and build 3D Metaverse Experiences to take advantage of this opportunity.
+in the metaverse by JP Morgan.](https://www.jpmorgan.com/content/dam/jpm/treasury-services/documents/opportunities-in-the-metaverse.pdf)  It is the future and next generation of the internet. 
+
+## Serverless Cloud Computing
+
+Web2 centralized serverless cloud technologies will also play a major role on the internet in the short to medium term until Web3 technologies mature and totally replace web2 technologies. 
+
+This program focuses on developing full-stack web3 and metaverse experiences for the next generation of the internet by specializing in building software that merges the best of cutting-edge decentralized distributed blockchains with 3D metaverse client expeiences and web2 centralized serverless cloud technologies. 
+
+This program will teach you to design and build Web 3 and 3D Metaverse Experiences to take advantage of this opportunity.
 
 Panaverse Development Platform
 
