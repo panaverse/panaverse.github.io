@@ -1,11 +1,11 @@
-# Designing and Developing Web3 and Metaverse Experiences: Getting Ready for Market of $13 Trillion and 5 Billion Users
+# Designing and Developing Web3 and Metaverse Experiences: Getting Ready for 5 Billion Users and a Market of $13 Trillion
 
-The internet is undoubtedly the most significant technological development in human history. Although the industry has progressed immensely since its inception, we are just scratching the surface of what it can do for us. Web3 and metaverse technologies improves the internet as we know it today by adding innovative new features and enhancements. Web 3.0 and the Metaverse complement each other. The metaverse reimagines the frontend, and web3 the backend of the web. 
+The internet is undoubtedly the most significant technological development in human history. Although the industry has progressed immensely since its inception, we are just scratching the surface of what it can do for us. Web3 and metaverse technologies improves the internet as we know it today by adding innovative new features and enhancements. The metaverse reimagines the frontend, and web3 the backend of the web. Web 3.0 and the Metaverse will work together and complement each other in the future. Whereas Web 3.0 is primarily concerned with who will own and rule the internet of the future, the metaverse concept is concerned with how users will interact with it. When the metaverse world would come to fruition, it may be centralised (as in Web 2.0), decentralised (as in Web 3.0), or a hybrid of the two. In any case, it is likely that the world will be powered by NFTs (i.e. unique tokens).
 
-Citi is the latest Wall Street firm to issue a bullish forecast for web3 and the metaverse, which describe a future internet vision based on decentralised technologies and virtual worlds. Citi said in a [research report published in March 2022](https://ir.citi.com/gps/BGrBay2thaQaH9HYofo3Uf3ThNldHDse_iJbe_md8Xk2SX5N3rdCq70nBWVa5mRqVYO3BHcw4Htuf7ihwIzrP6f0AN2kKVQZ) that the metaverse economy could have a total addressable market of up to $13 trillion and can capture five bullion users by 2030.
+Citi is the latest Wall Street firm to issue a bullish forecast for web3 and the metaverse, which describe a future internet vision based on decentralised technologies and virtual worlds. Citi said in a [research report published in March 2022](https://www.citivelocity.com/citigps/metaverse-and-money/) that the metaverse economy could have a total addressable market of up to $13 trillion and can capture five bullion users by 2030. We suggest you download the Citi's research report from [here].
 
-The bank's definition of the metaverse extends beyond virtual worlds such as gaming and virtual reality applications. Citi's broad vision of the metaverse includes smart manufacturing technology, virtual advertising, online events such as concerts, and digital currencies such as Ethereum.
-
+(https://ir.citi.com/gps/x5%2BFQJT3BoHXVu9MsqVRoMdiws3RhL4yhF6Fr8us8oHaOe1W9smOy1%2B8aaAgT3SPuQVtwC5B2%2Fc%3D)[Goldman Sachs Sees the Metaverse as $8 Trillion Opportunity.](https://news.bitcoin.com/goldman-sachs-metaverse-8-trillion-opportunity/) [Read the paper Opportunities
+in the metaverse by JP Morgan.](https://www.jpmorgan.com/content/dam/jpm/treasury-services/documents/opportunities-in-the-metaverse.pdf)  
 
 ## Web 3.0
 
@@ -13,30 +13,36 @@ The bank's definition of the metaverse extends beyond virtual worlds such as gam
 
 ## Metaverse
 
-[Goldman Sachs Sees the Metaverse as $8 Trillion Opportunity.](https://news.bitcoin.com/goldman-sachs-metaverse-8-trillion-opportunity/) [Read the paper Opportunities
-in the metaverse by JP Morgan.](https://www.jpmorgan.com/content/dam/jpm/treasury-services/documents/opportunities-in-the-metaverse.pdf)  It is the future and next generation of the internet. 
+While precise definitions are difficult to come by, the metaverse is generally thought to be a network of 3-D virtual worlds where people can interact, conduct business, and form social connections using their virtual "avatars." Consider it a virtual reality version of today's internet.
 
-## Serverless Cloud Computing
+The definition of the metaverse extends beyond virtual worlds such as gaming and virtual reality applications. The broader vision of the metaverse includes smart manufacturing technology, virtual advertising, online events such as concerts, and digital currencies such as Ethereum.
+
+## Note: Serverless Cloud Computing
 
 Web2 centralized serverless cloud technologies will also play a major role on the internet in the short to medium term until Web3 technologies mature and totally replace web2 technologies. 
 
-This program focuses on developing full-stack web3 and metaverse experiences for the next generation of the internet by specializing in building software that merges the best of cutting-edge decentralized distributed blockchains with 3D metaverse client expeiences and web2 centralized serverless cloud technologies. 
+## Panaverse DeVelopment Tranining Program
 
-This program will teach you to design and build Web 3 and 3D Metaverse Experiences to take advantage of this opportunity.
+This program focuses on developing full-stack web3 and metaverse experiences for the next generation of the internet by specializing in building worlds that merge the best of cutting-edge decentralized distributed blockchains with 3D metaverse client experiences (including web2 centralized serverless cloud technologies). 
 
-Panaverse Development Platform
+### Web3 Metaverse: Decentraland and Sandbox on Ethereum
 
-As discussed in detail in this [article](https://www.computerworld.com/article/3654197/enterprise-ar-will-be-dominated-by-apple-and-magic-leap.html) we also believe that Apple will lead the AR and Metaverse space on the client side. There [M1 processors](https://en.wikipedia.org/wiki/Apple_M1) are the most efficient processors in the world. Some derivative of the M1 will power the Apple AR glasses. Apple's [ARKit](https://developer.apple.com/augmented-reality/arkit/) is also quite mature. Apple's [Swift](https://developer.apple.com/swift/) programming language is extremely powerfull. The combination of the hardware and the software stacks will be extremely difficult to beat in the next few years. The main competetors Nvidia, Microsoft, Meta, Amazon, and Google are three to five years behind right now. As developers the only down side is going to be the total lock-in.  
-
-On the backend [AWS Serverless](https://aws.amazon.com/serverless/) Cloud combined with [AWS CDK](https://aws.amazon.com/cdk/) will provide an extremely scalable platform, with Typescript as the programming language of choice.
+The most popular Metaverse projects at the moment are Decentraland (MANA) and The Sandbox (SAND), which provide virtual worlds where users can interact, buy land via an Ethereum smart contract, and live in an alternate reality. Both operate entirely on the Ethereum blockchain and allow users to buy real estate and build properties with cryptocurrencies, with SAND offering user-generated content that gives it limitless creative power. Panaverse will cover these projects in depth. 
 
 To provide Web 3 functionality we will use the [Ethereum](https://ethereum.org/en/) blockchain and [Solidity](https://docs.soliditylang.org/en/v0.8.13/) programming language for smart contract development. 
 
+
+### The AR Glasses: Apple AR Glasses
+
+As discussed in detail in this [article](https://www.computerworld.com/article/3654197/enterprise-ar-will-be-dominated-by-apple-and-magic-leap.html) we also believe that Apple will lead the AR and Metaverse space on the glasses side. There [M1 processors](https://en.wikipedia.org/wiki/Apple_M1) are the most efficient processors in the world. Some derivative of the M1 will power the Apple AR glasses. Apple's [ARKit](https://developer.apple.com/augmented-reality/arkit/) is also quite mature. Apple's [Swift](https://developer.apple.com/swift/) programming language is extremely powerfull. The combination of the hardware and the software stacks will be extremely difficult to beat in the next few years. The main competetors Nvidia, Microsoft, Meta, Amazon, and Google are three to five years behind right now. As developers the only down side is going to be the total lock-in.  
+
+### Cloud Computing: AWS Serverless Computing
+
+On the backend in the medium term Web3 technologies will be complemented by Web2 [AWS Serverless](https://aws.amazon.com/serverless/) Cloud combined with [AWS CDK](https://aws.amazon.com/cdk/) will provide an extremely scalable platform, with Typescript as the programming language of choice.
+
+### 3D Content Creation: Maya
+
 We will be using [Maya](https://www.autodesk.com/products/maya/) for 3D Asset development and [USD](https://en.wikipedia.org/wiki/Universal_Scene_Description) file format.
-
-The only hurdle I see in training world class metaverse developers is that every developer will need a at least a [Mac Book Air](https://www.apple.com/macbook-air/). We can buy Apple AR glass on a shared bases when they become available. 
-
-
 
 The online program consists of seven modules (three semisters) listed below and will mainly be focused on imparting knowledge by training students to develop projects. The classes will mainly be taught on the weekends or after 7:00 pm (Pakistan Time) on weekdays so that everyone can attend. We will be using Zoom to conduct classes so that students from anywhere in the world can attend. 
 
