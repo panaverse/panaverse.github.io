@@ -22,9 +22,6 @@ The definition of the metaverse extends beyond virtual worlds such as gaming and
 
 Web2 centralized serverless cloud technologies will also play a major role on the internet in the short to medium term until Web3 technologies mature and totally replace web2 technologies. 
 
-## Panaverse DeVelopment Tranining Program
-
-This program focuses on developing full-stack web3 and metaverse experiences for the next generation of the internet by specializing in building worlds that merge the best of cutting-edge decentralized distributed blockchains with 3D metaverse client experiences (including web2 centralized serverless cloud technologies). 
 
 ### Web3 Metaverse: Decentraland and Sandbox on Ethereum
 
@@ -45,7 +42,11 @@ On the backend in the medium term Web3 technologies will be complemented by Web2
 
 We will be using [Maya](https://www.autodesk.com/products/maya/) for 3D Asset development and [USD](https://en.wikipedia.org/wiki/Universal_Scene_Description) file format.
 
-## Faculty Application Form
+## Panaverse Certified Web3 and Metaverse Developer Tranining Program
+
+This program focuses on developing full-stack web3 and metaverse experiences for the next generation of the internet by specializing in building worlds that merge the best of cutting-edge decentralized distributed blockchains with 3D metaverse client experiences (including web2 centralized serverless cloud technologies). 
+
+### Faculty Application Form
 
 If you are interested in teaching in this program, you are requested to fill out the following form (if shortlisted we will schedule an interview with you):
 
@@ -54,15 +55,15 @@ If you are interested in teaching in this program, you are requested to fill out
 Please note that all faculty members will be paid as per industry standards.
 
 
-## Program Duration and Fee
+### Program Duration and Fee
 
-The program will consist of three semesters. The fee will be Rs. 10,000 per semester. The students will have an option to pay an one time fee of Rs. 20,000 for the entire program covering all three semesters i.e. instead of paying Rs. 30,000 for the program they will pay Rs. 20,000 and get a discount of Rs. 10,000.
+The program will consist of four semesters. The fee will be Rs. 10,000 per semester. The students will have an option to pay an one time fee of Rs. 25,000 for the entire program covering all four semesters i.e. instead of paying Rs. 40,000 for the program they will pay Rs. 25,000 and get a discount of Rs. 15,000.
 
 Per Semester: Rs. 10,000
 
-One Time: Rs. 20,000 (Covers 3 Semesters)
+One Time: Rs. 25,000 (Covers 4 Semesters)
 
-## Student Waiting List Application Form
+### Student Waiting List Application Form
 
 If you want to be added to the Student waiting list. 
 
@@ -74,15 +75,15 @@ Currenly, Panaverse cannot specify when the program will start. Currently the pr
 
 We suggest that you join the Panaverse community on Discord and Facebook, and start learning Blender skills to begin with.
 
-## Panaverse Community
+### Panaverse Community
 
 [Join the Metaverse Discord Channel](https://discord.gg/GggDkBwJDr)
 
 [Join the Metaverse Facebook Group](https://www.facebook.com/groups/metaverse.dev/)
 
-## Program Modules
+## Program Semisters
 
-The online program consists of seven modules (three semisters) listed below and will mainly be focused on imparting knowledge by training students to develop projects. The classes will mainly be taught on the weekends or after 7:00 pm (Pakistan Time) on weekdays so that everyone can attend. We will be using Zoom to conduct classes so that students from anywhere in the world can attend. 
+The online program consists of four semisters listed below and will mainly be focused on imparting knowledge by training students to develop projects. The classes will mainly be taught on the weekends or after 7:00 pm (Pakistan Time) on weekdays so that everyone can attend. We will be using Zoom to conduct classes so that students from anywhere in the world can attend. 
 
 [Module I: Metaverse Introduction and Theory](#module-i-metaverse-introduction-and-theory)
 
@@ -102,7 +103,7 @@ The online program consists of seven modules (three semisters) listed below and 
 
 
 
-## Module IA: Web3 and Metaverse Introduction and Theory
+## Semester IA: Web3 and Metaverse Introduction and Theory
 
 (Video: What Is The Difference Between Web3 And The Metaverse?)[https://www.youtube.com/watch?v=BCr6XxOd9eE]
 
@@ -228,7 +229,7 @@ Five reasons we are doing this:
 5. To see who are the leaders and best workers in this group
 
 
-## Module IB: Learning 3D with Maya
+## Semester IB: Learning 3D with Maya
 
 ## Part A: Introduction to Maya
 
@@ -266,18 +267,18 @@ Read and Understand the above articles and follow this [tutorial](https://www.yo
 
 [Real 3D Scanner vs iPhone 13 Pro Max LIDAR Comparison Revopoint Pop 2](https://www.youtube.com/watch?v=D5-0Youeb5E)
 
-## Module IC: Object Oriented Programming with TypeScript
+## Semester IC: Object Oriented Programming with TypeScript
 
 [Essential TypeScript 4: From Beginner to Pro: Chapter 1](https://smallpdf.com/shared#st=94a9a751-91d8-446a-a8e4-666f0bfd3c49&fn=Adam+Freeman+-+Essential+TypeScript+4_+From+Beginner+to+Pro.pdf&ct=1622794833554&tl=share-document&rf=link)
 
 [Book Source Code](https://github.com/Apress/essential-typescript-4)
 
 
-## Module IIA: Decentraland Development
+## Semester IIA: Web3 Metaverse Development
 
 [Let’s build the metaverse together](https://docs.decentraland.org/content-intro/)
 
-## Module IIB: Learning Smart Contract Development with Solidity for Metaverse Economy
+## Semester IIB: Learning Smart Contract Development with Solidity for Metaverse Economy
 
 [Learning Smart Contract Development Repo](https://github.com/panacloud-modern-global-apps/defi-dapps-solidity-smart-contracts)
 
@@ -492,7 +493,7 @@ Deploy your NFT contract on a testnet, mint it, and view it on the MetaMask wall
 [Implement a ERC721 Market](https://ethereum.org/en/developers/tutorials/how-to-implement-an-erc721-market/)
 
 
-## Module III: Cross Platform Metaverse Programming with Unity and C#
+## Semester III: Cross Platform Metaverse Development with Unity and C#
 
 [Learning C# by Developing Games with Unity 2021](https://www.amazon.com/Learning-Developing-Games-Unity-2021/dp/1801813949/ref=sr_1_1)
 
@@ -506,7 +507,7 @@ Deploy your NFT contract on a testnet, mint it, and view it on the MetaMask wall
 
 
 
-## Module IVA: Computer Graphics Programming
+## Semester IVA: Computer Graphics Programming
 
 [A Very Gentle Introduction to Computer Graphics Programming](https://www.scratchapixel.com/lessons/3d-basic-rendering/get-started)
 
@@ -518,7 +519,7 @@ Deploy your NFT contract on a testnet, mint it, and view it on the MetaMask wall
 
 
 
-## Module VIB: Designing Immersive 3D XR Experiences
+## Semester VIB: Designing Immersive 3D XR Experiences
 
 [Designing XR Textbook: Designing Immersive 3D Experiences - A Designer's Guide to Creating Realistic 3D Experiences for Extended Reality](https://www.amazon.com/Designing-Immersive-Experiences-Designers-Realistic/dp/0137282834/ref=sr_1_8)
 
