@@ -85,7 +85,7 @@ We suggest that you join the Panaverse community on Discord and Facebook, and st
 
 The online program consists of four semesters listed below and will mainly be focused on imparting knowledge by training students to develop projects. The classes will mainly be taught on the weekends or after 7:00 pm (Pakistan Time) on weekdays so that everyone can attend. We will be using Zoom to conduct classes so that students from anywhere in the world can attend. 
 
-Semester I:
+### Semester I:
 
 [Semester IA: Web3 and Metaverse Introduction and Theory](#semester-ia-web3-and-metaverse-introduction-and-theory)
 
@@ -93,25 +93,25 @@ Semester I:
 
 [Semester IC: Object Oriented Programming with TypeScript](#semester-ic-object-oriented-programming-with-typescript)
 
-Semester II:
+### Semester II:
 
 [Semester IIA: Web3 Metaverse Development](#semester-iia-web3-metaverse-development)
 
 [Semester IIB: Learning Smart Contract Development with Solidity for Metaverse Economy](#semester-iib-learning-smart-contract-development-with-solidity-for-metaverse-economy)
 
-Semester III:
+### Semester III:
 
 [Semester IIIA: Cross Platform Metaverse Development with Unity and C#](#semester-iiia-cross-platform-metaverse-development-with-unity-and-c)
 
 [Semester IIIB: Serverless API Development](#semester-iiib-serverless-api-development)
 
-Semester IV:
+### Semester IV:
 
 [Semester IVA: Computer Graphics Programming](#semester-iva-computer-graphics-programming)
 
 [Semester VIB: Designing Immersive 3D XR Experiences](#semester-vib-designing-immersive-3d-xr-experiences)
 
-##Details:
+## Semester Details:
 
 ## Semester IA: Web3 and Metaverse Introduction and Theory
 
