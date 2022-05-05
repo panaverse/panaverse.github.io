@@ -1,4 +1,4 @@
-# Designing and Developing Web3 and Metaverse Experiences: Getting Ready for 5 Billion Users and a Market of $13 Trillion
+# Certified Web3 and Metaverse Developer: Getting Ready for 5 Billion Users and a Market of $13 Trillion
 
 The internet is undoubtedly the most significant technological development in human history. Although the industry has progressed immensely since its inception, we are just scratching the surface of what it can do for us. Web3 and metaverse technologies improves the internet as we know it today by adding innovative new features and enhancements. The metaverse reimagines the frontend, and web3 the backend of the web. Web 3.0 and the Metaverse will work together and complement each other in the future. Whereas Web 3.0 is primarily concerned with who will own and rule the internet of the future, the metaverse concept is concerned with how users will interact with it. When the metaverse world would come to fruition, it may be centralised (as in Web 2.0), decentralised (as in Web 3.0), or a hybrid of the two. In any case, it is likely that the world will be powered by NFTs (i.e. unique tokens).
 
@@ -44,8 +44,6 @@ On the backend in the medium term Web3 technologies will be complemented by Web2
 
 We will be using [Maya](https://www.autodesk.com/products/maya/) for 3D Asset development and [USD](https://en.wikipedia.org/wiki/Universal_Scene_Description) file format.
 
-The online program consists of seven modules (three semisters) listed below and will mainly be focused on imparting knowledge by training students to develop projects. The classes will mainly be taught on the weekends or after 7:00 pm (Pakistan Time) on weekdays so that everyone can attend. We will be using Zoom to conduct classes so that students from anywhere in the world can attend. 
-
 ## Faculty Application Form
 
 If you are interested in teaching in this program, you are requested to fill out the following form (if shortlisted we will schedule an interview with you):
@@ -83,6 +81,8 @@ We suggest that you join the Panaverse community on Discord and Facebook, and st
 
 ## Program Modules
 
+The online program consists of seven modules (three semisters) listed below and will mainly be focused on imparting knowledge by training students to develop projects. The classes will mainly be taught on the weekends or after 7:00 pm (Pakistan Time) on weekdays so that everyone can attend. We will be using Zoom to conduct classes so that students from anywhere in the world can attend. 
+
 [Module I: Metaverse Introduction and Theory](#module-i-metaverse-introduction-and-theory)
 
 [Module II: Learning 3D with Maya](#module-ii-learning-3d-with-maya)
@@ -101,7 +101,11 @@ We suggest that you join the Panaverse community on Discord and Facebook, and st
 
 
 
-## Module I: Metaverse Introduction and Theory
+## Module IA: Web3 and Metaverse Introduction and Theory
+
+(Video: What Is The Difference Between Web3 And The Metaverse?)[https://www.youtube.com/watch?v=BCr6XxOd9eE]
+
+[Citi research report published in March 2022](https://www.citivelocity.com/citigps/metaverse-and-money/) 
 
 [The Metaverse: And How it Will Revolutionize Everything](https://www.amazon.com/Metaverse-How-Will-Revolutionize-Everything/dp/1324092033/ref=sr_1_4)
 
@@ -158,6 +162,12 @@ The Information estimates that the metaverse could be worth about [$82B by 2025]
 [Clash of the Metaverse Titans: Microsoft, Meta and Apple](https://medium.com/building-the-metaverse/clash-of-the-metaverse-titans-microsoft-meta-and-apple-ce505b010376)
 
 [Metaverse… Closer Than You Think](https://croftgroup.com/metaverse-closer-than-you-think/)
+
+#### What Web3?
+
+(Video: What is Web3 with Examples?)[https://www.youtube.com/watch?v=WEsO8OuAnjE]
+
+(Video: What is Web3?)[https://www.youtube.com/watch?v=nHhAEkG1y2U]
 
 
 #### Metaverse and Web3
@@ -217,7 +227,7 @@ Five reasons we are doing this:
 5. To see who are the leaders and best workers in this group
 
 
-## Module II: Learning 3D with Maya
+## Module IB: Learning 3D with Maya
 
 ## Part A: Introduction to Maya
 
@@ -254,6 +264,8 @@ Read and Understand the above articles and follow this [tutorial](https://www.yo
 ## Part B: 3D Scanning
 
 [Real 3D Scanner vs iPhone 13 Pro Max LIDAR Comparison Revopoint Pop 2](https://www.youtube.com/watch?v=D5-0Youeb5E)
+
+## Module IC: Object Oriented Programming with TypeScript and C#
 
 
 ## Module III: Apple’s Augmented Reality ARKit and USDz Development
