@@ -177,7 +177,7 @@ The Information estimates that the metaverse could be worth about [$82B by 2025]
 
 #### What Web3?
 
-[Video: What is Web3 with Examples?](https://www.youtube.com/watch?v=WEsO8OuAnjE}
+[Video: What is Web3 with Examples?](https://www.youtube.com/watch?v=WEsO8OuAnjE)
 
 [Video: What is Web3?](https://www.youtube.com/watch?v=nHhAEkG1y2U)
 
