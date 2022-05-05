@@ -85,23 +85,33 @@ We suggest that you join the Panaverse community on Discord and Facebook, and st
 
 The online program consists of four semesters listed below and will mainly be focused on imparting knowledge by training students to develop projects. The classes will mainly be taught on the weekends or after 7:00 pm (Pakistan Time) on weekdays so that everyone can attend. We will be using Zoom to conduct classes so that students from anywhere in the world can attend. 
 
+Semester I:
+
 [Semester IA: Web3 and Metaverse Introduction and Theory](#semester-ia-web3-and-metaverse-introduction-and-theory)
 
-[Module II: Learning 3D with Maya](#module-ii-learning-3d-with-maya)
+[Semester IB: Learning 3D with Maya]($semester-ib-learning-3d-with-maya)
 
-[Module III: Apple’s Augmented Reality ARKit and USDz Development](#module-iii-apples-augmented-reality-arkit-and-usdz-development)
+[Semester IC: Object Oriented Programming with TypeScript](#semester-ic-object-oriented-programming-with-typescript)
 
-[Module IV: Computer Graphics Programming](#module-iv-computer-graphics-programming)
+Semester II:
 
-[Module V: Decentraland Development](#module-v-decentraland-development)
+[Semester IIA: Web3 Metaverse Development](#semester-iia-web3-metaverse-development)
 
-[Module VI: Learning C# and OpenXR with Unity 2021](#module-vi-learning-c-and-openxr-with-unity-2021)
+[Semester IIB: Learning Smart Contract Development with Solidity for Metaverse Economy](#semester-iib-learning-smart-contract-development-with-solidity-for-metaverse-economy)
 
-[Module VII: Designing Immersive 3D XR Experiences](#module-vii-designing-immersive-3d-xr-experiences)
+Semester III:
 
-[Module VIII: 3D Simulation and Design collaboration with Omniverse, Universal Scene Description (USD) and Python](#module-viii-3d-simulation-and-design-collaboration-with-omniverse-universal-scene-description-usd-and-python)
+[Semester IIIA: Cross Platform Metaverse Development with Unity and C#](#semester-iiia-cross-platform-metaverse-development-with-unity-and-c)
 
+[Semester IIIB: Serverless API Development](#semester-iiib-serverless-api-development)
 
+Semester IV:
+
+[Semester IVA: Computer Graphics Programming](#semester-iva-computer-graphics-programming)
+
+[Semester VIB: Designing Immersive 3D XR Experiences](#semester-vib-designing-immersive-3d-xr-experiences)
+
+##Details:
 
 ## Semester IA: Web3 and Metaverse Introduction and Theory
 
