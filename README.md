@@ -81,11 +81,11 @@ We suggest that you join the Panaverse community on Discord and Facebook, and st
 
 [Join the Metaverse Facebook Group](https://www.facebook.com/groups/metaverse.dev/)
 
-## Program Semisters
+## Program Semesters
 
-The online program consists of four semisters listed below and will mainly be focused on imparting knowledge by training students to develop projects. The classes will mainly be taught on the weekends or after 7:00 pm (Pakistan Time) on weekdays so that everyone can attend. We will be using Zoom to conduct classes so that students from anywhere in the world can attend. 
+The online program consists of four semesters listed below and will mainly be focused on imparting knowledge by training students to develop projects. The classes will mainly be taught on the weekends or after 7:00 pm (Pakistan Time) on weekdays so that everyone can attend. We will be using Zoom to conduct classes so that students from anywhere in the world can attend. 
 
-[Module I: Metaverse Introduction and Theory](#module-i-metaverse-introduction-and-theory)
+[Semester IA: Web3 and Metaverse Introduction and Theory](#semester-ia-web3-and-metaverse-introduction-and-theory)
 
 [Module II: Learning 3D with Maya](#module-ii-learning-3d-with-maya)
 
@@ -493,7 +493,7 @@ Deploy your NFT contract on a testnet, mint it, and view it on the MetaMask wall
 [Implement a ERC721 Market](https://ethereum.org/en/developers/tutorials/how-to-implement-an-erc721-market/)
 
 
-## Semester III: Cross Platform Metaverse Development with Unity and C#
+## Semester IIIA: Cross Platform Metaverse Development with Unity and C#
 
 [Learning C# by Developing Games with Unity 2021](https://www.amazon.com/Learning-Developing-Games-Unity-2021/dp/1801813949/ref=sr_1_1)
 
@@ -505,6 +505,17 @@ Deploy your NFT contract on a testnet, mint it, and view it on the MetaMask wall
 
 [Unity OpenXR Plugin](https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.3/manual/index.html)
 
+## Semester IIIB: Serverless API Development 
+
+[Expert Advice on Moving to Serverless](https://dashbird.io/blog/expert-advice-moving-to-serverless/)
+
+[Going Serverless with 7 Core AWS Services](https://levelup.gitconnected.com/going-serverless-with-7-core-aws-services-fcbd063985cd)
+
+We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in TypeScript:
+
+[Working with CDK V2](https://docs.aws.amazon.com/cdk/latest/guide/work-with-cdk-v2.html)
+
+[Getting Started with CDK](https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html)
 
 
 ## Semester IVA: Computer Graphics Programming
