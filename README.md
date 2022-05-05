@@ -115,7 +115,7 @@ The online program consists of four semesters listed below and will mainly be fo
 
 ## Semester IA: Web3 and Metaverse Introduction and Theory
 
-(Video: What Is The Difference Between Web3 And The Metaverse?)[https://www.youtube.com/watch?v=BCr6XxOd9eE]
+[Video: What Is The Difference Between Web3 And The Metaverse?](https://www.youtube.com/watch?v=BCr6XxOd9eE)
 
 [Citi research report published in March 2022](https://www.citivelocity.com/citigps/metaverse-and-money/) 
 
