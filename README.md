@@ -265,144 +265,18 @@ Read and Understand the above articles and follow this [tutorial](https://www.yo
 
 [Real 3D Scanner vs iPhone 13 Pro Max LIDAR Comparison Revopoint Pop 2](https://www.youtube.com/watch?v=D5-0Youeb5E)
 
-## Module IC: Object Oriented Programming with TypeScript and C#
+## Module IC: Object Oriented Programming with TypeScript
+
+[Essential TypeScript 4: From Beginner to Pro: Chapter 1](https://smallpdf.com/shared#st=94a9a751-91d8-446a-a8e4-666f0bfd3c49&fn=Adam+Freeman+-+Essential+TypeScript+4_+From+Beginner+to+Pro.pdf&ct=1622794833554&tl=share-document&rf=link)
+
+[Book Source Code](https://github.com/Apress/essential-typescript-4)
 
 
-## Module III: Apple’s Augmented Reality ARKit and USDz Development
-
-[Swift Programming: The Big Nerd Ranch Guide](https://www.amazon.com/Swift-Programming-Ranch-Guide-Guides/dp/0135264200/ref=sr_1_1)
-
-[Mastering ARKit: Apple’s Augmented Reality App Development Platform](https://www.amazon.com/Mastering-ARKit-Augmented-Development-Platform-ebook/dp/B09TDKXFK6/ref=sr_1_1)
-
-3D File Formats
-
-[Going 3D -> glTF, USD, USDz -> Let's Break These File Formats Down](https://www.linkedin.com/pulse/going-3d-file-formats-lets-break-down-4d-pipeline/)
-
-[gltf vs USD](https://news.ycombinator.com/item?id=22336361)
-
-## Module IV: Computer Graphics Programming
-
-[A Very Gentle Introduction to Computer Graphics Programming](https://www.scratchapixel.com/lessons/3d-basic-rendering/get-started)
-
-[Computer Graphics Textbook: Computer Graphics from Scratch - A Programmer's Introduction to 3D Rendering](https://www.amazon.com/Computer-Graphics-Scratch-Gabriel-Gambetta/dp/1718500769/ref=sr_1_9)
-
-[Basic Math for Game Development with Unity 3D: A Beginner's Guide to Mathematical Foundations](https://www.amazon.com/Basic-Math-Game-Development-Unity/dp/1484254422/ref=sr_1_fkmr0_1)
-
-[Math for Programmers: 3D graphics, machine learning, and simulations with Python](https://www.amazon.com/Math-Programmers-Paul-Orland/dp/1617295353/ref=sr_1_1)
-
-
-## Module V: Decentraland Development
+## Module IIA: Decentraland Development
 
 [Let’s build the metaverse together](https://docs.decentraland.org/content-intro/)
 
-## Module VI: Learning C# and OpenXR with Unity 2021
-
-[Learning C# by Developing Games with Unity 2021](https://www.amazon.com/Learning-Developing-Games-Unity-2021/dp/1801813949/ref=sr_1_1)
-
-[OpenXR](https://en.wikipedia.org/wiki/OpenXR)
-
-[The time to embrace OpenXR is now](https://www.linkedin.com/pulse/time-embrace-openxr-now-ivana-tilca/)
-
-[Oculus is “All in on OpenXR,” New Developer Features Will Come to OpenXR Only](https://www.roadtovr.com/oculus-openxr-shift-unity-unreal-engine/)
-
-[Unity OpenXR Plugin](https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.3/manual/index.html)
-
-## Module VII: Designing Immersive 3D XR Experiences
-
-[Designing XR Textbook: Designing Immersive 3D Experiences - A Designer's Guide to Creating Realistic 3D Experiences for Extended Reality](https://www.amazon.com/Designing-Immersive-Experiences-Designers-Realistic/dp/0137282834/ref=sr_1_8)
-
-
-## Module VIII: 3D Simulation and Design collaboration with Omniverse, Universal Scene Description (USD) and Python
-
-### Part 1: Python
-
-[Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_1)
-
-### Part 2: Pixar's Universal Scene Description (USD)
-
-Universal Scene Description (USD) is an open source framework developed by Pixar for exchanging 3D computer graphics data across different applications. It is designed to be flexible and extensible to other collaborative environments that run interconnected tools, such as NVIDIA Omniverse. More than a dozen companies from Apple, Nvidia, Adobe, to Unity support USD. The standard is on the cusp of becoming the solder that fuses all sorts of virtual and physical worlds into a metaverse.
-
-[Five Things to Know About USD](https://www.youtube.com/watch?v=vFxytzQlOEs)
-
-[To 3D and Beyond: Pixar’s USD Coming to an Industry Near You](https://blogs.nvidia.com/blog/2020/10/05/usd-ecosystem-omniverse/)
-
-[Watch Introduction to Pixar's Universal Scene Description](https://www.youtube.com/watch?v=LHoHUT1telk)
-
-[What is USD: A Primer](https://www.youtube.com/watch?v=Yp_TRVD3wjQ)
-
-[OMNIVERSE DEVELOPER RESOURCE CENTER](https://developer.nvidia.com/nvidia-omniverse-developer-resource-center)
-
-[Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_1)
-
-[Assignment: Developing a Tetris game with PixarUSD and Python Scripting in Omniverse Kit](https://www.youtube.com/watch?v=nF_bue13vNc)
-
-
-[Plumbing for the Metaverse with Universal Scene Description (USD)](https://medium.com/@nvidiaomniverse/plumbing-for-the-metaverse-with-universal-scene-description-usd-856a863d9b12)
-
-[It started at Pixar. Now it's the Apple-backed 3D file format viewed as HTML of metaverse](https://www.theregister.com/2021/11/10/usd_3d_format/)
-
-[USD at Nvidia](https://developer.nvidia.com/usd)
-
-[USD Official Docs](https://graphics.pixar.com/usd/release/index.html)
-
-[USD Tutorials](https://graphics.pixar.com/usd/dev/tut_usd_tutorials.html)
-
-[Getting Started with USD for Collaborative 3D Workflows](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-02+V1/about)
-
-Outline
-Introduction
-
-Overview of Pixar USD features and components
-
-Understanding the USD composition
-
-Preparing the Development Environment
-
-Building and installing dependencies and components
-
-Setting the environment variables for Python
-
-Authoring USD
-
-Creating a USD stage
-
-Creating and editing prims
-
-Referencing layers
-
-Converting layers into different USD file formats
-
-Traversing prims in a stage
-
-Creating and editing variants
-
-Applying transformations, animations, layer offsets, and shading
-
-Working with Plugins and Examples
-
-Modifying variant examples in Blender
-
-Generating USD assets from Blender
-
-Modifying USD scenes with Blender
-
-Setting up and using Usdview plugin
-
-Building schema classes
-
-### Part 3: Omniverse
-
-[OMNIVERSE DEVELOPER RESOURCE CENTER](https://developer.nvidia.com/nvidia-omniverse-developer-resource-center)
-
-[Assignment: Developing a Tetris game with PixarUSD and Python Scripting in Omniverse Kit](https://www.youtube.com/watch?v=nF_bue13vNc)
-
-
-
-
-
-## Appendix
-
-## Appendix A: Learning Smart Contract Development with Solidity for Metaverse Economy
+## Module IIB: Learning Smart Contract Development with Solidity for Metaverse Economy
 
 [Learning Smart Contract Development Repo](https://github.com/panacloud-modern-global-apps/defi-dapps-solidity-smart-contracts)
 
@@ -502,10 +376,9 @@ Building schema classes
 
 [Class 11: Step 6B - Vacation Project Assignment in Urdu on YouTube](https://youtu.be/hLVxr-1seaA)
 
-## We will take a 1 month Ramdan/Summer Vacation and do the following project during this vacation. The project is due after Eid. Classes will also continue after Eid.
 
 
-## Blockchain Project 1: Create a Token and Launch ICO/IEO/IDO
+### Blockchain Project 1: Create a Token and Launch ICO/IEO/IDO
 
 
 As you probably know, the ICO ("Initial Coin Offering") industry has been booming, and it's completely reinventing the way new startups kickstart themselves. In fact, go have a look at [Wikipedia's list of highest crowdfunding projects](https://en.wikipedia.org/wiki/List_of_highest-funded_crowdfunding_projects), and you'll notice that blockchain projects absolutely dominate the list.
@@ -618,10 +491,144 @@ Deploy your NFT contract on a testnet, mint it, and view it on the MetaMask wall
 [Implement a ERC721 Market](https://ethereum.org/en/developers/tutorials/how-to-implement-an-erc721-market/)
 
 
+## Module III: Cross Platform Metaverse Programming with Unity and C#
 
-### Appendix B: Metaverse Major Players
+[Learning C# by Developing Games with Unity 2021](https://www.amazon.com/Learning-Developing-Games-Unity-2021/dp/1801813949/ref=sr_1_1)
 
-## Nvidia
+[OpenXR](https://en.wikipedia.org/wiki/OpenXR)
+
+[The time to embrace OpenXR is now](https://www.linkedin.com/pulse/time-embrace-openxr-now-ivana-tilca/)
+
+[Oculus is “All in on OpenXR,” New Developer Features Will Come to OpenXR Only](https://www.roadtovr.com/oculus-openxr-shift-unity-unreal-engine/)
+
+[Unity OpenXR Plugin](https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.3/manual/index.html)
+
+
+
+## Module IVA: Computer Graphics Programming
+
+[A Very Gentle Introduction to Computer Graphics Programming](https://www.scratchapixel.com/lessons/3d-basic-rendering/get-started)
+
+[Computer Graphics Textbook: Computer Graphics from Scratch - A Programmer's Introduction to 3D Rendering](https://www.amazon.com/Computer-Graphics-Scratch-Gabriel-Gambetta/dp/1718500769/ref=sr_1_9)
+
+[Basic Math for Game Development with Unity 3D: A Beginner's Guide to Mathematical Foundations](https://www.amazon.com/Basic-Math-Game-Development-Unity/dp/1484254422/ref=sr_1_fkmr0_1)
+
+[Math for Programmers: 3D graphics, machine learning, and simulations with Python](https://www.amazon.com/Math-Programmers-Paul-Orland/dp/1617295353/ref=sr_1_1)
+
+
+
+## Module VIB: Designing Immersive 3D XR Experiences
+
+[Designing XR Textbook: Designing Immersive 3D Experiences - A Designer's Guide to Creating Realistic 3D Experiences for Extended Reality](https://www.amazon.com/Designing-Immersive-Experiences-Designers-Realistic/dp/0137282834/ref=sr_1_8)
+
+
+
+
+
+
+
+## Appendix
+
+## Appendix A: Apple’s Augmented Reality ARKit and USDz Development
+
+[Swift Programming: The Big Nerd Ranch Guide](https://www.amazon.com/Swift-Programming-Ranch-Guide-Guides/dp/0135264200/ref=sr_1_1)
+
+[Mastering ARKit: Apple’s Augmented Reality App Development Platform](https://www.amazon.com/Mastering-ARKit-Augmented-Development-Platform-ebook/dp/B09TDKXFK6/ref=sr_1_1)
+
+3D File Formats
+
+[Going 3D -> glTF, USD, USDz -> Let's Break These File Formats Down](https://www.linkedin.com/pulse/going-3d-file-formats-lets-break-down-4d-pipeline/)
+
+[gltf vs USD](https://news.ycombinator.com/item?id=22336361)
+
+
+## Appendix C: 3D Simulation and Design collaboration with Omniverse, Universal Scene Description (USD) and Python
+
+### Part 1: Python
+
+[Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_1)
+
+### Part 2: Pixar's Universal Scene Description (USD)
+
+Universal Scene Description (USD) is an open source framework developed by Pixar for exchanging 3D computer graphics data across different applications. It is designed to be flexible and extensible to other collaborative environments that run interconnected tools, such as NVIDIA Omniverse. More than a dozen companies from Apple, Nvidia, Adobe, to Unity support USD. The standard is on the cusp of becoming the solder that fuses all sorts of virtual and physical worlds into a metaverse.
+
+[Five Things to Know About USD](https://www.youtube.com/watch?v=vFxytzQlOEs)
+
+[To 3D and Beyond: Pixar’s USD Coming to an Industry Near You](https://blogs.nvidia.com/blog/2020/10/05/usd-ecosystem-omniverse/)
+
+[Watch Introduction to Pixar's Universal Scene Description](https://www.youtube.com/watch?v=LHoHUT1telk)
+
+[What is USD: A Primer](https://www.youtube.com/watch?v=Yp_TRVD3wjQ)
+
+[OMNIVERSE DEVELOPER RESOURCE CENTER](https://developer.nvidia.com/nvidia-omniverse-developer-resource-center)
+
+[Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_1)
+
+[Assignment: Developing a Tetris game with PixarUSD and Python Scripting in Omniverse Kit](https://www.youtube.com/watch?v=nF_bue13vNc)
+
+
+[Plumbing for the Metaverse with Universal Scene Description (USD)](https://medium.com/@nvidiaomniverse/plumbing-for-the-metaverse-with-universal-scene-description-usd-856a863d9b12)
+
+[It started at Pixar. Now it's the Apple-backed 3D file format viewed as HTML of metaverse](https://www.theregister.com/2021/11/10/usd_3d_format/)
+
+[USD at Nvidia](https://developer.nvidia.com/usd)
+
+[USD Official Docs](https://graphics.pixar.com/usd/release/index.html)
+
+[USD Tutorials](https://graphics.pixar.com/usd/dev/tut_usd_tutorials.html)
+
+[Getting Started with USD for Collaborative 3D Workflows](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-02+V1/about)
+
+Outline
+Introduction
+
+Overview of Pixar USD features and components
+
+Understanding the USD composition
+
+Preparing the Development Environment
+
+Building and installing dependencies and components
+
+Setting the environment variables for Python
+
+Authoring USD
+
+Creating a USD stage
+
+Creating and editing prims
+
+Referencing layers
+
+Converting layers into different USD file formats
+
+Traversing prims in a stage
+
+Creating and editing variants
+
+Applying transformations, animations, layer offsets, and shading
+
+Working with Plugins and Examples
+
+Modifying variant examples in Blender
+
+Generating USD assets from Blender
+
+Modifying USD scenes with Blender
+
+Setting up and using Usdview plugin
+
+Building schema classes
+
+### Part 3: Omniverse
+
+[OMNIVERSE DEVELOPER RESOURCE CENTER](https://developer.nvidia.com/nvidia-omniverse-developer-resource-center)
+
+[Assignment: Developing a Tetris game with PixarUSD and Python Scripting in Omniverse Kit](https://www.youtube.com/watch?v=nF_bue13vNc)
+
+## Appendix B: Metaverse Major Players
+
+### Nvidia
 
 [NVIDIA Makes Free Version of Omniverse Available to Millions of Individual Creators and Artists Worldwide](https://blogs.nvidia.com/blog/2022/01/04/omniverse-available-free-to-creators/)
 
@@ -630,14 +637,14 @@ Deploy your NFT contract on a testnet, mint it, and view it on the MetaMask wall
 
 
 
-## Decentraland
+### Decentraland
 
 [How to get started in the Metaverse? Decentraland Tutorial](https://www.youtube.com/watch?v=z5-QaCq9mh8)
 
 [The Metaverse Land Rush Is an Illusion](https://www.wired.com/story/metaverse-land-rush-illusion/)
 
 
-## Sandbox
+### Sandbox
 
 [The Sandbox Tutorial](https://token-information.com/instruction-tutorial-for-metaverse-game-the-sandbox/)
 
@@ -647,7 +654,7 @@ Deploy your NFT contract on a testnet, mint it, and view it on the MetaMask wall
 
 
 
-## Meta
+### Meta
 
 [We can now explore Meta’s first virtual world](https://bigthink.com/the-future/meta-virtual-world/)
 
@@ -656,19 +663,19 @@ Deploy your NFT contract on a testnet, mint it, and view it on the MetaMask wall
 [Project Cambria: Release Date, Latest News, Leaks, And More](https://www.gfinityesports.com/tech/project-cambria-oculus-release-date/)
 
 
-## Apple
+### Apple
 
 [Apple AR Headset: Release Date, Rumours And Latest News](https://www.gfinityesports.com/vr/apple-ar-headset-release-date-news-price-specs/)
 
 
-## Roblox
+### Roblox
 
 [Roblox’s metaverse is already here, and it’s wildly popular](https://www.morningbrew.com/emerging-tech/stories/2021/12/10/roblox-s-metaverse-is-already-here-and-it-s-wildly-popular)
 
 [Roblox Website](https://www.roblox.com/)
 
 
-## Unity
+### Unity
 
 [We’re the underlying tool set for creating the metaverse, Unity CEO says](https://www.cnbc.com/video/2021/11/10/were-the-underlying-tool-set-for-creating-the-metaverse-unity-ceo-says.html)
 
@@ -679,6 +686,7 @@ Deploy your NFT contract on a testnet, mint it, and view it on the MetaMask wall
 [Unity's Weta acquisition doesn't need the Metaverse to make sense](https://www.gamesindustry.biz/articles/2021-11-12-unitys-weta-acquisition-doesnt-need-the-metaverse-to-make-sense-opinion)
 
 [Unity and USD](https://docs.unity3d.com/Manual/com.unity.formats.usd.html)
+
 
 
 
