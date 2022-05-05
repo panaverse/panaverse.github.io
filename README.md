@@ -3,7 +3,9 @@
 The internet is undoubtedly the most significant technological development in human history. Although the industry has progressed immensely since its inception, we are just scratching the surface of what it can do for us. Web3 and metaverse technologies improves the internet as we know it today by adding innovative new features and enhancements. The metaverse reimagines the frontend, and web3 the backend of the web. Web 3.0 and the Metaverse will work together and complement each other in the future. Whereas Web 3.0 is primarily concerned with who will own and rule the internet of the future, the metaverse concept is concerned with how users will interact with it. When the metaverse world would come to fruition, it may be centralised (as in Web 2.0), decentralised (as in Web 3.0), or a hybrid of the two. In any case, it is likely that the world will be powered by NFTs (i.e. unique tokens).
 
 Citi is the latest Wall Street firm to issue a bullish forecast for web3 and the metaverse, which describe a future internet vision based on decentralised technologies and virtual worlds. Citi said in a [research report published in March 2022](https://www.citivelocity.com/citigps/metaverse-and-money/) that the metaverse economy could have a total addressable market of up to $13 trillion and can capture five bullion users by 2030. We suggest you download the Citi's research report from [here](https://ir.citi.com/gps/x5%2BFQJT3BoHXVu9MsqVRoMdiws3RhL4yhF6Fr8us8oHaOe1W9smOy1%2B8aaAgT3SPuQVtwC5B2%2Fc%3D)
+
 [Goldman Sachs Sees the Metaverse as $8 Trillion Opportunity.](https://news.bitcoin.com/goldman-sachs-metaverse-8-trillion-opportunity/) 
+
 [Read the paper Opportunities in the metaverse by JP Morgan.](https://www.jpmorgan.com/content/dam/jpm/treasury-services/documents/opportunities-in-the-metaverse.pdf)  
 
 ## Web 3.0
