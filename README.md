@@ -85,6 +85,8 @@ We suggest that you join the Panaverse community on Discord and Facebook, and st
 
 The online program consists of four semesters listed below and will mainly be focused on imparting knowledge by training students to develop projects. The classes will mainly be taught on the weekends or after 7:00 pm (Pakistan Time) on weekdays so that everyone can attend. We will be using Zoom to conduct classes so that students from anywhere in the world can attend. 
 
+### Foundation Certification Program
+
 ### Semester I:
 
 [Semester IA: Web3 and Metaverse Introduction and Theory](#semester-ia-web3-and-metaverse-introduction-and-theory)
@@ -98,6 +100,8 @@ The online program consists of four semesters listed below and will mainly be fo
 [Semester IIA: Web3 Metaverse Development](#semester-iia-web3-metaverse-development)
 
 [Semester IIB: Learning Smart Contract Development with Solidity for Metaverse Economy](#semester-iib-learning-smart-contract-development-with-solidity-for-metaverse-economy)
+
+### Advanced Certification Program
 
 ### Semester III:
 
