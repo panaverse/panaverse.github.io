@@ -96,9 +96,13 @@ The online program consists of four semesters listed below and will mainly be fo
 
 ### Semester II:
 
-[Semester IIA: Web3 Metaverse Development](#semester-iia-web3-metaverse-development)
+[Semester IIA: Decentralized Metaverse Development](#semester-iia-decentralized-metaverse-development)
 
-[Semester IIB: Learning Smart Contract Development with Solidity for Metaverse Economy](#semester-iib-learning-smart-contract-development-with-solidity-for-metaverse-economy)
+[Semester IIB: Serverless API Development](https://github.com/panaverse/panaverse.github.io#semester-iib-serverless-api-development)
+
+[Semester IIC: Computer Graphics Programming](#semester-iib-learning-smart-contract-development-with-solidity-for-metaverse-economy)
+
+[Semester IID: Designing Immersive 3D XR Experiences](#semester-iid-designing-immersive-3d-xr-experiences)
 
 
 ## Semester Details:
@@ -467,7 +471,7 @@ Deploy your NFT contract on a testnet, mint it, and view it on the MetaMask wall
 
 ## Semester IIA: Decentralized Metaverse Development
 
-[Buiding Decentraland Experiences](https://docs.decentraland.org/content-intro/)
+[Building Decentraland Experiences](https://docs.decentraland.org/content-intro/)
 
 ## Semester IIB: Serverless API Development 
 
