@@ -1,5 +1,4 @@
-# Certified Web 3.0 and Metaverse Developer: Prepare for 5 Billion Users and a $13 Trillion Market
-
+# Certified Web 3.0 and Metaverse Developer: Pakistan Nationwide Program
 The internet is undoubtedly the most significant technological development in human history. Although the industry has progressed immensely since its inception, we are just scratching the surface of what it can do for us. Web3 and metaverse technologies improves the internet as we know it today by adding innovative new features and enhancements. The metaverse reimagines the frontend, and web3 the backend of the web. Web 3.0 and the Metaverse will work together and complement each other in the future. Whereas Web 3.0 is primarily concerned with who will own and rule the internet of the future, the metaverse concept is concerned with how users will interact with it. When the metaverse world would come to fruition, it may be centralised (as in Web 2.0), decentralised (as in Web 3.0), or a hybrid of the two. In any case, it is likely that the world will be powered by NFTs (i.e. unique tokens).
 
 Citi is the latest Wall Street firm to issue a bullish forecast for web3 and the metaverse, which describe a future internet vision based on decentralised technologies and virtual worlds. Citi said in a [research report published in March 2022](https://www.citivelocity.com/citigps/metaverse-and-money/) that the metaverse economy could have a total addressable market of up to $13 trillion and can capture five bullion users by 2030. We suggest you download the Citi's research report from [here](https://ir.citi.com/gps/x5%2BFQJT3BoHXVu9MsqVRoMdiws3RhL4yhF6Fr8us8oHaOe1W9smOy1%2B8aaAgT3SPuQVtwC5B2%2Fc%3D)
@@ -243,43 +242,17 @@ Five reasons we are doing this:
 5. To see who are the leaders and best workers in this group
 
 
-## Semester IB: Learning 3D with Maya
+## Semester IB: Cross Platform Metaverse Development with Unity and C#
 
-## Part A: Introduction to Maya
+[Learning C# by Developing Games with Unity 2021](https://www.amazon.com/Learning-Developing-Games-Unity-2021/dp/1801813949/ref=sr_1_1)
 
-[Download Maya Free Trial](https://www.autodesk.com/products/maya/free-trial)
+[OpenXR](https://en.wikipedia.org/wiki/OpenXR)
 
-[Download Maya](https://drive.google.com/file/d/1SPbRYo5VsDEAIp4hzZ4rPriJQpCUi3dQ/view?usp=sharing)
+[The time to embrace OpenXR is now](https://www.linkedin.com/pulse/time-embrace-openxr-now-ivana-tilca/)
 
-[Download Maya Torrent](https://thepiratebay0.org/torrent/43208847/Autodesk_Maya_2022_Pre-cracked)
+[Oculus is “All in on OpenXR,” New Developer Features Will Come to OpenXR Only](https://www.roadtovr.com/oculus-openxr-shift-unity-unreal-engine/)
 
-[Maya Tutorial for Beginners: 2020](https://www.youtube.com/playlist?list=PLsPHRLf6UN4k0_AfrTzLmK4iDV9J97-qR)
-
-[Maya: Interactive Tutorials New in Maya 2022.1](https://www.youtube.com/watch?v=r0fGD30eL6E)
-
-### Assignment 3: Creating a Simple 3D cabinet
-
-Read and Understand the above articles and follow this [tutorial](https://www.youtube.com/watch?v=I39EtyKuT0w)
-
-### Assignment 4: Model a Tennis Ball
-
-[Model a Tennis Ball](https://www.youtube.com/watch?v=IfSis4ns8SY)
-
-### Assignment 5: Model a Dinner Table
-
-[Model a Dinner Table](https://www.youtube.com/watch?v=wdhYQdx0x3E)
-
-### Assignment 6: Making a Stylized Refrigerator
-
-[Making a stylized refrigerator](https://www.youtube.com/watch?v=itnP-SYJizw)
-
-
-[Autodesk Maya 2022 Basics Guide](https://www.amazon.com/Autodesk-Maya-2022-Basics-Guide/dp/1630574503/ref=pd_sbs_2/132-9505128-5572430)
-
-
-## Part B: 3D Scanning
-
-[Real 3D Scanner vs iPhone 13 Pro Max LIDAR Comparison Revopoint Pop 2](https://www.youtube.com/watch?v=D5-0Youeb5E)
+[Unity OpenXR Plugin](https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.3/manual/index.html)
 
 ## Semester IC: Object Oriented Programming with TypeScript
 
@@ -288,11 +261,7 @@ Read and Understand the above articles and follow this [tutorial](https://www.yo
 [Book Source Code](https://github.com/Apress/essential-typescript-4)
 
 
-## Semester IIA: Web3 Metaverse Development
-
-[Let’s build the metaverse together](https://docs.decentraland.org/content-intro/)
-
-## Semester IIB: Learning Smart Contract Development with Solidity for Metaverse Economy
+## Semester ID: Learning Smart Contract Development with Solidity for Metaverse Economy
 
 [Learning Smart Contract Development Repo](https://github.com/panacloud-modern-global-apps/defi-dapps-solidity-smart-contracts)
 
@@ -507,19 +476,13 @@ Deploy your NFT contract on a testnet, mint it, and view it on the MetaMask wall
 [Implement a ERC721 Market](https://ethereum.org/en/developers/tutorials/how-to-implement-an-erc721-market/)
 
 
-## Semester IIIA: Cross Platform Metaverse Development with Unity and C#
 
-[Learning C# by Developing Games with Unity 2021](https://www.amazon.com/Learning-Developing-Games-Unity-2021/dp/1801813949/ref=sr_1_1)
 
-[OpenXR](https://en.wikipedia.org/wiki/OpenXR)
+## Semester IIA: Web3 Metaverse Development
 
-[The time to embrace OpenXR is now](https://www.linkedin.com/pulse/time-embrace-openxr-now-ivana-tilca/)
+[Let’s build the metaverse together](https://docs.decentraland.org/content-intro/)
 
-[Oculus is “All in on OpenXR,” New Developer Features Will Come to OpenXR Only](https://www.roadtovr.com/oculus-openxr-shift-unity-unreal-engine/)
-
-[Unity OpenXR Plugin](https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.3/manual/index.html)
-
-## Semester IIIB: Serverless API Development 
+## Semester IIB: Serverless API Development 
 
 [Expert Advice on Moving to Serverless](https://dashbird.io/blog/expert-advice-moving-to-serverless/)
 
@@ -532,7 +495,7 @@ We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in
 [Getting Started with CDK](https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html)
 
 
-## Semester IVA: Computer Graphics Programming
+## Semester IIC: Computer Graphics Programming
 
 [A Very Gentle Introduction to Computer Graphics Programming](https://www.scratchapixel.com/lessons/3d-basic-rendering/get-started)
 
@@ -544,7 +507,7 @@ We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in
 
 
 
-## Semester VIB: Designing Immersive 3D XR Experiences
+## Semester IID: Designing Immersive 3D XR Experiences
 
 [Designing XR Textbook: Designing Immersive 3D Experiences - A Designer's Guide to Creating Realistic 3D Experiences for Extended Reality](https://www.amazon.com/Designing-Immersive-Experiences-Designers-Realistic/dp/0137282834/ref=sr_1_8)
 
