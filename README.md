@@ -88,7 +88,7 @@ The online program consists of four semesters listed below and will mainly be fo
 
 [Semester IA: Web3 and Metaverse Introduction and Theory](#semester-ia-web3-and-metaverse-introduction-and-theory)
 
-[Semester IB: Cross Platform Metaverse Development with Unity and C#]([#semester-ib-cross-platform-metaverse-development-with-unity-and-c))
+[Semester IB: Cross Platform Metaverse Development with Unity and C#](#semester-ib-cross-platform-metaverse-development-with-unity-and-c)
 
 [Semester IC: Object Oriented Programming with TypeScript](#semester-ic-object-oriented-programming-with-typescript)
 
