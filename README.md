@@ -37,9 +37,7 @@ As discussed in detail in this [article](https://www.computerworld.com/article/3
 
 On the backend in the medium term Web3 technologies will be complemented by Web2 [AWS Serverless](https://aws.amazon.com/serverless/) Cloud combined with [AWS CDK](https://aws.amazon.com/cdk/) will provide an extremely scalable platform, with Typescript as the programming language of choice.
 
-### 3D Content Creation: Maya
 
-We will be using [Maya](https://www.autodesk.com/products/maya/) for 3D Asset development and [USD](https://en.wikipedia.org/wiki/Universal_Scene_Description) file format.
 
 ## Panaverse Certified Web3 and Metaverse Developer Tranining Program
 
@@ -84,15 +82,17 @@ We suggest that you join the Panaverse community on Discord and Facebook, and st
 
 The online program consists of four semesters listed below and will mainly be focused on imparting knowledge by training students to develop projects. The classes will mainly be taught on the weekends or after 7:00 pm (Pakistan Time) on weekdays so that everyone can attend. We will be using Zoom to conduct classes so that students from anywhere in the world can attend. 
 
-### Foundation Certification Program
+### Certification Program
 
 ### Semester I:
 
 [Semester IA: Web3 and Metaverse Introduction and Theory](#semester-ia-web3-and-metaverse-introduction-and-theory)
 
-[Semester IB: Learning 3D with Maya]($semester-ib-learning-3d-with-maya)
+[Semester IB: Cross Platform Metaverse Development with Unity and C#]([#semester-ib-cross-platform-metaverse-development-with-unity-and-c))
 
 [Semester IC: Object Oriented Programming with TypeScript](#semester-ic-object-oriented-programming-with-typescript)
+
+[Semester ID: Learning Smart Contract Development with Solidity for Metaverse Economy](#semester-id-learning-smart-contract-development-with-solidity-for-metaverse-economy)
 
 ### Semester II:
 
@@ -100,19 +100,6 @@ The online program consists of four semesters listed below and will mainly be fo
 
 [Semester IIB: Learning Smart Contract Development with Solidity for Metaverse Economy](#semester-iib-learning-smart-contract-development-with-solidity-for-metaverse-economy)
 
-### Advanced Certification Program
-
-### Semester III:
-
-[Semester IIIA: Cross Platform Metaverse Development with Unity and C#](#semester-iiia-cross-platform-metaverse-development-with-unity-and-c)
-
-[Semester IIIB: Serverless API Development](#semester-iiib-serverless-api-development)
-
-### Semester IV:
-
-[Semester IVA: Computer Graphics Programming](#semester-iva-computer-graphics-programming)
-
-[Semester VIB: Designing Immersive 3D XR Experiences](#semester-vib-designing-immersive-3d-xr-experiences)
 
 ## Semester Details:
 
@@ -478,9 +465,9 @@ Deploy your NFT contract on a testnet, mint it, and view it on the MetaMask wall
 
 
 
-## Semester IIA: Web3 Metaverse Development
+## Semester IIA: Decentralized Metaverse Development
 
-[Let’s build the metaverse together](https://docs.decentraland.org/content-intro/)
+[Buiding Decentraland Experiences](https://docs.decentraland.org/content-intro/)
 
 ## Semester IIB: Serverless API Development 
 
