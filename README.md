@@ -9,37 +9,6 @@ Citi is the latest Wall Street firm to issue a bullish forecast for web3 and the
 
 [Read the paper Opportunities in the metaverse by JP Morgan.](https://www.jpmorgan.com/content/dam/jpm/treasury-services/documents/opportunities-in-the-metaverse.pdf)  
 
-## Web 3.0
-
-[Web 3.0](https://medium.com/fabric-ventures/what-is-web-3-0-why-it-matters-934eb07f3d2b) is a concept for the internet's next generation. It is the evolution of user control and ownership over their creations and online content, digital assets, and online identities. Users in Web 3.0 can create content while owning, controlling, and monetizing it through the use of blockchain and cryptocurrencies.
-
-## Metaverse
-
-While precise definitions are difficult to come by, the metaverse is generally thought to be a network of 3-D virtual worlds where people can interact, conduct business, and form social connections using their virtual "avatars." Consider it a virtual reality version of today's internet.
-
-The definition of the metaverse extends beyond virtual worlds such as gaming and virtual reality applications. The broader vision of the metaverse includes smart manufacturing technology, virtual advertising, online events such as concerts, and digital currencies such as Ethereum.
-
-## Note: Serverless Cloud Computing
-
-Web2 centralized serverless cloud technologies will also play a major role on the internet in the short to medium term until Web3 technologies mature and totally replace web2 technologies. 
-
-
-### Web3 Metaverse: Decentraland and Sandbox on Ethereum
-
-The most popular Metaverse projects at the moment are Decentraland (MANA) and The Sandbox (SAND), which provide virtual worlds where users can interact, buy land via an Ethereum smart contract, and live in an alternate reality. Both operate entirely on the Ethereum blockchain and allow users to buy real estate and build properties with cryptocurrencies, with SAND offering user-generated content that gives it limitless creative power. Panaverse will cover these projects in depth. 
-
-To provide Web 3 functionality we will use the [Ethereum](https://ethereum.org/en/) blockchain and [Solidity](https://docs.soliditylang.org/en/v0.8.13/) programming language for smart contract development. 
-
-
-### The AR Glasses: Apple AR Glasses
-
-As discussed in detail in this [article](https://www.computerworld.com/article/3654197/enterprise-ar-will-be-dominated-by-apple-and-magic-leap.html) we also believe that Apple will lead the AR and Metaverse space on the glasses side. There [M1 processors](https://en.wikipedia.org/wiki/Apple_M1) are the most efficient processors in the world. Some derivative of the M1 will power the Apple AR glasses. Apple's [ARKit](https://developer.apple.com/augmented-reality/arkit/) is also quite mature. Apple's [Swift](https://developer.apple.com/swift/) programming language is extremely powerfull. The combination of the hardware and the software stacks will be extremely difficult to beat in the next few years. The main competetors Nvidia, Microsoft, Meta, Amazon, and Google are three to five years behind right now. As developers the only down side is going to be the total lock-in.  
-
-### Cloud Computing: AWS Serverless Computing
-
-On the backend in the medium term Web3 technologies will be complemented by Web2 [AWS Serverless](https://aws.amazon.com/serverless/) Cloud combined with [AWS CDK](https://aws.amazon.com/cdk/) will provide an extremely scalable platform, with Typescript as the programming language of choice.
-
-
 
 ## Panaverse Certified Web3 and Metaverse Developer Tranining Program
 
@@ -508,7 +477,39 @@ We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in
 
 ## Appendix
 
-## Appendix A: Apple’s Augmented Reality ARKit and USDz Development
+## Appendix A: Key Concepts
+
+## Web 3.0
+
+[Web 3.0](https://medium.com/fabric-ventures/what-is-web-3-0-why-it-matters-934eb07f3d2b) is a concept for the internet's next generation. It is the evolution of user control and ownership over their creations and online content, digital assets, and online identities. Users in Web 3.0 can create content while owning, controlling, and monetizing it through the use of blockchain and cryptocurrencies.
+
+## Metaverse
+
+While precise definitions are difficult to come by, the metaverse is generally thought to be a network of 3-D virtual worlds where people can interact, conduct business, and form social connections using their virtual "avatars." Consider it a virtual reality version of today's internet.
+
+The definition of the metaverse extends beyond virtual worlds such as gaming and virtual reality applications. The broader vision of the metaverse includes smart manufacturing technology, virtual advertising, online events such as concerts, and digital currencies such as Ethereum.
+
+## Serverless Cloud Computing
+
+Web2 centralized serverless cloud technologies will also play a major role on the internet in the short to medium term until Web3 technologies mature and totally replace web2 technologies. 
+
+
+### Web3 Metaverse: Decentraland and Sandbox on Ethereum
+
+The most popular Metaverse projects at the moment are Decentraland (MANA) and The Sandbox (SAND), which provide virtual worlds where users can interact, buy land via an Ethereum smart contract, and live in an alternate reality. Both operate entirely on the Ethereum blockchain and allow users to buy real estate and build properties with cryptocurrencies, with SAND offering user-generated content that gives it limitless creative power. Panaverse will cover these projects in depth. 
+
+To provide Web 3 functionality we will use the [Ethereum](https://ethereum.org/en/) blockchain and [Solidity](https://docs.soliditylang.org/en/v0.8.13/) programming language for smart contract development. 
+
+
+### The AR Glasses: Apple AR Glasses
+
+As discussed in detail in this [article](https://www.computerworld.com/article/3654197/enterprise-ar-will-be-dominated-by-apple-and-magic-leap.html) we also believe that Apple will lead the AR and Metaverse space on the glasses side. There [M1 processors](https://en.wikipedia.org/wiki/Apple_M1) are the most efficient processors in the world. Some derivative of the M1 will power the Apple AR glasses. Apple's [ARKit](https://developer.apple.com/augmented-reality/arkit/) is also quite mature. Apple's [Swift](https://developer.apple.com/swift/) programming language is extremely powerfull. The combination of the hardware and the software stacks will be extremely difficult to beat in the next few years. The main competetors Nvidia, Microsoft, Meta, Amazon, and Google are three to five years behind right now. As developers the only down side is going to be the total lock-in.  
+
+### Cloud Computing: AWS Serverless Computing
+
+On the backend in the medium term Web3 technologies will be complemented by Web2 [AWS Serverless](https://aws.amazon.com/serverless/) Cloud combined with [AWS CDK](https://aws.amazon.com/cdk/) will provide an extremely scalable platform, with Typescript as the programming language of choice.
+
+## Appendix B: Apple’s Augmented Reality ARKit and USDz Development
 
 [Swift Programming: The Big Nerd Ranch Guide](https://www.amazon.com/Swift-Programming-Ranch-Guide-Guides/dp/0135264200/ref=sr_1_1)
 
@@ -605,7 +606,7 @@ Building schema classes
 
 [Assignment: Developing a Tetris game with PixarUSD and Python Scripting in Omniverse Kit](https://www.youtube.com/watch?v=nF_bue13vNc)
 
-## Appendix B: Metaverse Major Players
+## Appendix D: Metaverse Major Players
 
 ### Nvidia
 
