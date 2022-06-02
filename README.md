@@ -14,30 +14,11 @@ Citi is the latest Wall Street firm to issue a bullish forecast for web3 and the
 
 This program focuses on developing full-stack web3 and metaverse experiences for the next generation of the internet by specializing in building worlds that merge the best of cutting-edge decentralized distributed blockchains with 3D metaverse client experiences (including web2 centralized serverless cloud technologies). 
 
-### Faculty Application Form
-
-If you are interested in teaching in this program, you are requested to fill out the following form (if shortlisted we will schedule an interview with you):
-
-[Submit the Form](https://forms.gle/SUhyJiqTjABMpeHr9)
-
-Please note that all faculty members will be paid as per industry standards.
-
 
 ### Program Duration and Fee
 
 The program will consist of two semesters. The first semister of the program will be onsite and totally free. The details for the second semister will be announced latter.
 
-### Student Waiting List Application Form
-
-If you want to be added to the Student waiting list. 
-
-[Submit the Form](https://forms.gle/BYqLH1atDDcbsHUB7)
-
-When the program is about to start and you are selected for the classes, you will receive a message to submit the fee and start attending classes.
-
-Currenly, Panaverse cannot specify when the program will start. Currently the program is under development and start date is at least many months in the future. 
-
-We suggest that you join the Panaverse community on Discord and Facebook, and start learning Blender skills to begin with.
 
 ### Panaverse Community
 
