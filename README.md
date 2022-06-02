@@ -25,7 +25,7 @@ Please note that all faculty members will be paid as per industry standards.
 
 ### Program Duration and Fee
 
-The program will consist of two semesters. The first semister of the program will be totally free. The details for the second semister will be announced latter.
+The program will consist of two semesters. The first semister of the program will be onsite and totally free. The details for the second semister will be announced latter.
 
 ### Student Waiting List Application Form
 
