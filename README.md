@@ -19,6 +19,16 @@ This program focuses on developing full-stack web3 and metaverse experiences for
 
 The program will consist of two semesters. The first semister of the program will be onsite and totally free. The details for the second semister will be announced latter.
 
+## Prerequisite: Object Oriented Programming with Typescript
+
+All students are required to start learning Typescript immediately, even before the program starts. You are required to study chapters 1, 7, 8, 9, 10, and 11 of the following Typescript book:
+
+[Essential TypeScript 4: From Beginner to Pro: Chapter 1](https://smallpdf.com/shared#st=94a9a751-91d8-446a-a8e4-666f0bfd3c49&fn=Adam+Freeman+-+Essential+TypeScript+4_+From+Beginner+to+Pro.pdf&ct=1622794833554&tl=share-document&rf=link)
+
+[Book Source Code](https://github.com/Apress/essential-typescript-4)
+
+Note: You will asked to take a Typescript quiz at the start of classes.
+
 
 ### Panaverse Community
 
