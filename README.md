@@ -23,7 +23,7 @@ The program will consist of two semesters. The first semister of the program wil
 
 All students are required to start learning Typescript immediately, even before the program starts. You are required to study chapters 1, 7, 8, 9, 10, and 11 of the following Typescript book:
 
-[Essential TypeScript 4: From Beginner to Pro: Chapter 1](https://smallpdf.com/shared#st=94a9a751-91d8-446a-a8e4-666f0bfd3c49&fn=Adam+Freeman+-+Essential+TypeScript+4_+From+Beginner+to+Pro.pdf&ct=1622794833554&tl=share-document&rf=link)
+[Essential TypeScript 4: From Beginner to Pro: Chapter 1](https://www.oreilly.com/library/view/essential-typescript-4/9781484270110/)
 
 [Book Source Code](https://github.com/Apress/essential-typescript-4)
 
@@ -205,7 +205,7 @@ Five reasons we are doing this:
 
 ## Semester IC: Object Oriented Programming with TypeScript
 
-[Essential TypeScript 4: From Beginner to Pro: Chapter 1](https://smallpdf.com/shared#st=94a9a751-91d8-446a-a8e4-666f0bfd3c49&fn=Adam+Freeman+-+Essential+TypeScript+4_+From+Beginner+to+Pro.pdf&ct=1622794833554&tl=share-document&rf=link)
+[Essential TypeScript 4: From Beginner to Pro: Chapter 1](https://www.oreilly.com/library/view/essential-typescript-4/9781484270110/)
 
 [Book Source Code](https://github.com/Apress/essential-typescript-4)
 
