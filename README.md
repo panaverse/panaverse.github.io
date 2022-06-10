@@ -19,9 +19,9 @@ This program focuses on developing full-stack web3 and metaverse experiences for
 
 The program will consist of two semesters. The first semister of the program will be onsite and totally free. The details for the second semister will be announced latter.
 
-## Prerequisite: Object Oriented Programming with Typescript
+## Prerequisite: Object Oriented Programming with Typescript Quiz
 
-All students are required to start learning Typescript immediately, even before the program starts. You are required to study chapters 1, 7, 8, 9, 10, and 11 of the following Typescript book:
+All students are required to start learning Typescript immediately, even before the program starts. If the number of students who apply for the program are greater than the seats available the applicants will be selected on the basis of Typescript Quiz scores, which will be take at the start of classes. You are required to study chapters 1, 7, 8, 9, 10, and 11 of the following Typescript book:
 
 [Essential TypeScript 4: From Beginner to Pro: Chapter 1](https://www.oreilly.com/library/view/essential-typescript-4/9781484270110/)
 
