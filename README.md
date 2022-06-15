@@ -1,4 +1,4 @@
-# Certified Web 3.0 and Metaverse Developer: A Free Nationwide Program in Karachi, Lahore, Islamabad, Peshawar, Multan and Faisalabad
+# Certified Web 3.0 and Metaverse Developer: A Free Nationwide Program in Karachi, Lahore, Islamabad, Peshawar, and Faisalabad
 The internet is undoubtedly the most significant technological development in human history. Although the industry has progressed immensely since its inception, we are just scratching the surface of what it can do for us. Web3 and metaverse technologies improves the internet as we know it today by adding innovative new features and enhancements. The metaverse reimagines the frontend, and web3 the backend of the web. Web 3.0 and the Metaverse will work together and complement each other in the future. Whereas Web 3.0 is primarily concerned with who will own and rule the internet of the future, the metaverse concept is concerned with how users will interact with it. When the metaverse world would come to fruition, it may be centralised (as in Web 2.0), decentralised (as in Web 3.0), or a hybrid of the two. In any case, it is likely that the world will be powered by NFTs (i.e. unique tokens).
 
 [Watch the Insane Future of Web 3.0 and Metaverse Video in Urdu](https://www.youtube.com/watch?v=eEz1rnmCfn4)
@@ -29,6 +29,28 @@ All students are required to start learning Typescript immediately, even before 
 
 Note: You will asked to take a Typescript quiz at the start of classes.
 
+## Faculty Members
+
+[Zia Khan](https://www.linkedin.com/in/ziaukhan/)
+
+## Faculty Schedule
+
+Landed in Islamabad on Friday Afternoon
+
+Friday, Islamabad Class from 6 pm to 10 pm
+
+Saturday 9:00 am - 12:30 pm travel time from Islamabad to Peshawar
+
+Saturday Peshawar Class from 1 pm to 5 pm
+
+Saturday 5:00 pm - 10:30 am travel time from Peshawar to Faisalabad
+
+Sunday Faisalabad Class from 9:00 pm to 1:00 pm
+
+Sunday 1:15 pm - 4:15 am travel time from Faisalabad to Lahore
+
+Sunday Lahore Class 5:00 pm to 9:00 pm
+
 
 ### Panaverse Community
 
@@ -48,7 +70,7 @@ The online program consists of four semesters listed below and will mainly be fo
 
 [Semester IB: Cross Platform Metaverse Development with Unity and C#](#semester-ib-cross-platform-metaverse-development-with-unity-and-c)
 
-[Semester IC: Object Oriented Programming with TypeScript](#semester-ic-object-oriented-programming-with-typescript)
+[Semester IC: TypeScript and Next.js](#semester-ic-typescript-and-next.js)
 
 [Semester ID: Learning Smart Contract Development with Solidity for Metaverse Economy](#semester-id-learning-smart-contract-development-with-solidity-for-metaverse-economy)
 
@@ -203,11 +225,13 @@ Five reasons we are doing this:
 
 [Unity OpenXR Plugin](https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.3/manual/index.html)
 
-## Semester IC: Object Oriented Programming with TypeScript
+## Semester IC: TypeScript and Next.js
 
 [Essential TypeScript 4: From Beginner to Pro: Chapter 1](https://www.oreilly.com/library/view/essential-typescript-4/9781484270110/)
 
 [Book Source Code](https://github.com/Apress/essential-typescript-4)
+
+[Real-World Next.js](https://www.packtpub.com/product/real-world-next-js/9781801073493)
 
 
 ## Semester ID: Learning Smart Contract Development with Solidity for Metaverse Economy
