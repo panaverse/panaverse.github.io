@@ -17,7 +17,7 @@ This program focuses on developing full-stack web3 and metaverse experiences for
 
 ### Program Duration and Fee
 
-The program will consist of two semesters. The first semister of the program will be onsite and totally free. The details for the second semister will be announced latter.
+The program will consist of two semesters. The first semister of the program will be onsite and totally free. The details for the second semister will be announced latter. Every week there will 4 hours of onsite classes and 2 hours of online classes.
 
 ## Prerequisite: Object Oriented Programming with Typescript Quiz
 
@@ -70,7 +70,7 @@ The online program consists of four semesters listed below and will mainly be fo
 
 [Semester IB: Cross Platform Metaverse Development with Unity and C#](#semester-ib-cross-platform-metaverse-development-with-unity-and-c)
 
-[Semester IC: TypeScript and Next.js](#semester-ic-typescript-and-next.js)
+[Semester IC: TypeScript and Next.js]([#semester-ic-typescript-and-next.js](#semester-ic-typescript-and-nextjs))
 
 [Semester ID: Learning Smart Contract Development with Solidity for Metaverse Economy](#semester-id-learning-smart-contract-development-with-solidity-for-metaverse-economy)
 
