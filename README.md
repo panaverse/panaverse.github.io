@@ -68,9 +68,9 @@ The online program consists of four semesters listed below and will mainly be fo
 
 [Semester IA: Web3 and Metaverse Introduction and Theory](#semester-ia-web3-and-metaverse-introduction-and-theory)
 
-[Semester IB: Cross Platform Metaverse Development with Unity and C#](#semester-ib-cross-platform-metaverse-development-with-unity-and-c)
+[Semester IB: TypeScript and Next.js](#semester-ic-typescript-and-next.js)
 
-[Semester IC: TypeScript and Next.js]([#semester-ic-typescript-and-next.js](#semester-ic-typescript-and-nextjs))
+[Semester IC: Cross Platform Metaverse Development with Unity and C#](#semester-ib-cross-platform-metaverse-development-with-unity-and-c)
 
 [Semester ID: Learning Smart Contract Development with Solidity for Metaverse Economy](#semester-id-learning-smart-contract-development-with-solidity-for-metaverse-economy)
 
@@ -213,7 +213,19 @@ Five reasons we are doing this:
 5. To see who are the leaders and best workers in this group
 
 
-## Semester IB: Cross Platform Metaverse Development with Unity and C#
+## Semester IB: TypeScript and Next.js
+
+[Essential TypeScript 4: From Beginner to Pro](https://www.oreilly.com/library/view/essential-typescript-4/9781484270110/)
+
+[Book Source Code](https://github.com/Apress/essential-typescript-4)
+
+[Real-World Next.js](https://www.packtpub.com/product/real-world-next-js/9781801073493)
+
+[Next.js Learning Repo](https://github.com/panacloud-modern-global-apps/nextjs)
+
+
+
+## Semester IC: Cross Platform Metaverse Development with Unity and C#
 
 [Learning C# by Developing Games with Unity 2021](https://www.amazon.com/Learning-Developing-Games-Unity-2021/dp/1801813949/ref=sr_1_1)
 
@@ -225,13 +237,6 @@ Five reasons we are doing this:
 
 [Unity OpenXR Plugin](https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.3/manual/index.html)
 
-## Semester IC: TypeScript and Next.js
-
-[Essential TypeScript 4: From Beginner to Pro: Chapter 1](https://www.oreilly.com/library/view/essential-typescript-4/9781484270110/)
-
-[Book Source Code](https://github.com/Apress/essential-typescript-4)
-
-[Real-World Next.js](https://www.packtpub.com/product/real-world-next-js/9781801073493)
 
 
 ## Semester ID: Learning Smart Contract Development with Solidity for Metaverse Economy
