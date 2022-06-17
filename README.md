@@ -33,6 +33,8 @@ Note: You will asked to take a Typescript quiz at the start of classes.
 
 [Zia Khan](https://www.linkedin.com/in/ziaukhan/)
 
+[Khurram Shaikh](https://www.linkedin.com/in/khurram-shaikh-88524513/)
+
 ## Faculty Schedule
 
 Landed in Islamabad on Friday Afternoon
@@ -70,9 +72,11 @@ The online program consists of four semesters listed below and will mainly be fo
 
 [Semester IB: TypeScript and Next.js](#semester-ib-typescript-and-next.js)
 
-[Semester IC: Cross Platform Metaverse Development with Unity and C#](#semester-ic-cross-platform-metaverse-development-with-unity-and-c)
+[Semester IC: MoneyMates](#semester-ic-moneymates)
 
-[Semester ID: Learning Smart Contract Development with Solidity for Metaverse Economy](#semester-id-learning-smart-contract-development-with-solidity-for-metaverse-economy)
+[Semester ID: Cross Platform Metaverse Development with Unity and C#](#semester-id-cross-platform-metaverse-development-with-unity-and-c)
+
+[Semester IE: Learning Smart Contract Development with Solidity for Metaverse Economy](#semester-ie-learning-smart-contract-development-with-solidity-for-metaverse-economy)
 
 ### Semester II:
 
