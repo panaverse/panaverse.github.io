@@ -70,7 +70,7 @@ The online program consists of four semesters listed below and will mainly be fo
 
 [Semester IA: Web3 and Metaverse Introduction and Theory](#semester-ia-web3-and-metaverse-introduction-and-theory)
 
-[Semester IB: TypeScript and Next.js](#semester-ib-typescript-and-next.js)
+[Semester IB: TypeScript and Next.js](#semester-ib-typescript-and-nextjs)
 
 [Semester IC: MoneyMates](#semester-ic-moneymates)
 
