@@ -68,9 +68,9 @@ The online program consists of four semesters listed below and will mainly be fo
 
 [Semester IA: Web3 and Metaverse Introduction and Theory](#semester-ia-web3-and-metaverse-introduction-and-theory)
 
-[Semester IB: TypeScript and Next.js](#semester-ic-typescript-and-next.js)
+[Semester IB: TypeScript and Next.js](#semester-ib-typescript-and-next.js)
 
-[Semester IC: Cross Platform Metaverse Development with Unity and C#](#semester-ib-cross-platform-metaverse-development-with-unity-and-c)
+[Semester IC: Cross Platform Metaverse Development with Unity and C#](#semester-ic-cross-platform-metaverse-development-with-unity-and-c)
 
 [Semester ID: Learning Smart Contract Development with Solidity for Metaverse Economy](#semester-id-learning-smart-contract-development-with-solidity-for-metaverse-economy)
 
@@ -224,8 +224,19 @@ Five reasons we are doing this:
 [Next.js Learning Repo](https://github.com/panacloud-modern-global-apps/nextjs)
 
 
+## Semester IC: MoneyMates
 
-## Semester IC: Cross Platform Metaverse Development with Unity and C#
+This will be a Zoom Class Section covering:
+
+1. Importance of Investment
+2. Digital Methods of Investment
+3. Importance of Owning Digital Assets
+4. How to do due delligence (DYOR)
+5. Convert $1 to $100
+
+
+
+## Semester ID: Cross Platform Metaverse Development with Unity and C#
 
 [Learning C# by Developing Games with Unity 2021](https://www.amazon.com/Learning-Developing-Games-Unity-2021/dp/1801813949/ref=sr_1_1)
 
@@ -239,7 +250,7 @@ Five reasons we are doing this:
 
 
 
-## Semester ID: Learning Smart Contract Development with Solidity for Metaverse Economy
+## Semester IE: Learning Smart Contract Development with Solidity for Metaverse Economy
 
 [Learning Smart Contract Development Repo](https://github.com/panacloud-modern-global-apps/defi-dapps-solidity-smart-contracts)
 
