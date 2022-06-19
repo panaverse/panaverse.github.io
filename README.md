@@ -12,7 +12,45 @@ Citi is the latest Wall Street firm to issue a bullish forecast for web3 and the
 
 ## Panaverse Certified Web3 and Metaverse Developer Tranining Program
 
-This program focuses on developing full-stack web3 and metaverse experiences for the next generation of the internet by specializing in building worlds that merge the best of cutting-edge decentralized distributed blockchains with 3D metaverse client experiences (including web2 centralized serverless cloud technologies). 
+This program focuses on developing full-stack Web 3.0 and Metaverse experiences for the next generation of the internet by specializing in building worlds that merge the best of cutting-edge decentralized distributed blockchains with 3D metaverse client experiences (including Web 2.0 centralized serverless cloud technologies). 
+
+After completing this program you will be able to develop 2D and 3D experiences that scale instantly to support even the most demanding applications, while at the same time delivering up to 90% cost savings. This stack which will be covered in this program is ideal for a broad set of applications. For example, enterprises that have hundreds of thousands of applications, or software as a service (SaaS) vendors that have multi-tenant environments with hundreds or thousands of databases, can use this stack across the entire enterprise both for 2D and 3D development.
+
+You can think of the stack which we will cover in this course in terms of layers. The first layer is the Web 2.0 technologies which provide the tools to develop 2D frontends and a highly scable and cost effective cloud backend. The second layer is the Web 3.0 technolgies that is built using the first layer and the Ethererum blockchain. The third layer replaces the 2D frontends with 3D and XR technolgies for developing metaverse experiences. In the third layer we use all the backend technologies included in the first two layers, only the frontend changes.
+
+The Web 2.0 full stack applicatios are build using these technologies, this is the first layer of our development stack:
+
+1. [Typescript Programming Language for Front-end and Backend Development](https://www.typescriptlang.org/)
+2. [Visual Studio Code Editor](https://code.visualstudio.com/)
+3. [Front-end Web 2.0 Development Using Next.js](https://nextjs.org/)
+4. [Infrastructure as Code using AWS Cloud Development Kit](https://aws.amazon.com/cdk/)
+5. [AWS Lambda for Serverless Computing](https://aws.amazon.com/lambda/)
+6. [Panacloud CLI for API Development](https://www.npmjs.com/package/@panacloud/cli)
+7. [Amazon Aurora Serverless v2 PostgreSQL 13-compatible edition](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless-v2.html)
+
+
+This Web 2.0 stack can be easily extended to develop Web 3.0 Dapps using these technologies, this is the second layer:
+
+1. [Ethereum Blockchain](https://ethereum.org/en/)
+2. [Solidity Smart Contract Programming Language](https://docs.soliditylang.org/)
+3. [OpenZepllin Smart Contracts](https://www.openzeppelin.com/contracts)
+4. [Hardhat Ethereum Development Envirnoment](https://hardhat.org/)
+5. [Ethers.js](https://docs.ethers.io/v5/)
+6. [Metamask Wallet](https://metamask.io/)
+7. [Alchemy](https://www.alchemy.com/)
+8. [The Graph](https://thegraph.com/en/)
+9. [Chainlink](https://chain.link/)
+10. Panacloud Panaweb Web 3 Framework (Under development)
+
+For more details check out the [Panacloud Web 3 Learning Repo](https://github.com/panacloud-modern-global-apps/defi-dapps-solidity-smart-contracts)
+
+The Web 2.0 and Web 3.0 layers can easily be extended to develop Metaverse experiences, which is the third layer in our stack. The backend will remain more less the same, the front-end will move towards 3D XR experiences from 2D user interfaces:
+
+1. [Unity 3D XR Development Platform](https://docs.unity3d.com/Manual/XR.html)
+2. [C# for Unity XR Programming](https://docs.unity3d.com/Manual/ScriptingSection.html)
+
+
+
 
 
 ### Program Duration and Fee
