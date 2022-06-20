@@ -12,11 +12,15 @@ Citi is the latest Wall Street firm to issue a bullish forecast for web3 and the
 
 ## Panaverse Certified Web3 and Metaverse Developer Tranining Program
 
+
+### [Apply for the Certified Web 3 and Metaverse Program](https://www.piaic.org/)
+
 This program focuses on developing full-stack Web 3.0 and Metaverse experiences for the next generation of the internet by specializing in building worlds that merge the best of cutting-edge decentralized distributed blockchains with 3D metaverse client experiences (including Web 2.0 centralized serverless cloud technologies). 
 
 After completing this program you will be able to develop 2D and 3D experiences that scale instantly to support even the most demanding applications, while at the same time delivering up to 90% cost savings. This stack which will be covered in this program is ideal for a broad set of applications. For example, enterprises that have hundreds of thousands of applications, or software as a service (SaaS) vendors that have multi-tenant environments with hundreds or thousands of databases, can use this stack across the entire enterprise both for 2D and 3D development.
 
 You can think of the stack which we will cover in this course in terms of layers. The first layer is the Web 2.0 technologies which provide the tools to develop 2D frontends and a highly sclable and cost effective cloud backend. The second layer is the Web 3.0 technolgies that is built using the first layer and the Ethererum blockchain. The third layer replaces the 2D frontends with 3D and XR technolgies for developing metaverse experiences. In the third layer we use all the backend technologies included in the first two layers, only the frontend changes.
+
 
 The Web 2.0 full stack applicatios are build using these technologies, this is the first layer of our development stack:
 
@@ -50,9 +54,6 @@ The Web 2.0 and Web 3.0 layers can easily be extended to develop Metaverse exper
 2. [C# for Unity XR Programming](https://docs.unity3d.com/Manual/ScriptingSection.html)
 
 
-
-
-
 ### Program Duration and Fee
 
 The program will consist of two semesters. The first semister of the program will be onsite and totally free. The details for the second semister will be announced latter. Every week there will 4 hours of onsite classes and 2 hours of online classes.
@@ -69,9 +70,7 @@ Note: You will asked to take a Typescript quiz at the start of classes.
 
 ## Faculty Members
 
-[Zia Khan](https://www.linkedin.com/in/ziaukhan/)
-
-[Khurram Shaikh](https://www.linkedin.com/in/khurram-shaikh-88524513/)
+[Zia Khan](https://www.linkedin.com/in/ziaukhan/), Zeeshan Hanif, Asif Shah, Daniyal Nagori, Hira Khan, and [Khurram Shaikh](https://www.linkedin.com/in/khurram-shaikh-88524513/)
 
 ## Faculty Schedule
 
