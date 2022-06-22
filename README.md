@@ -2,6 +2,18 @@
 
 ## [APPLY FOR ADMISSION NOW](https://www.piaic.org/)
 
+## All Students Should Start Preparing Object Oriented Programming with Typescript Quiz
+
+All students are required to start learning Typescript immediately, even before the program starts. If the number of students who apply for the program are greater than the seats available the applicants will be selected on the basis of Typescript Quiz scores, which will be take at the start of classes. You are required to study chapters 1, 7, 8, 9, 10, and 11 of the following Typescript book:
+
+[Essential TypeScript 4: From Beginner to Pro: Chapter 1](https://www.oreilly.com/library/view/essential-typescript-4/9781484270110/)
+
+[Book Source Code](https://github.com/Apress/essential-typescript-4)
+
+Note: You will asked to take a Typescript quiz at the start of classes.
+
+## Panaverse Certified Web 3.0 and Metaverse Developer Tranining Program
+
 The internet is undoubtedly the most significant technological development in human history. Although the industry has progressed immensely since its inception, we are just scratching the surface of what it can do for us. Web3 and metaverse technologies improves the internet as we know it today by adding innovative new features and enhancements. The metaverse reimagines the frontend, and web3 the backend of the web. Web 3.0 and the Metaverse will work together and complement each other in the future. Whereas Web 3.0 is primarily concerned with who will own and rule the internet of the future, the metaverse concept is concerned with how users will interact with it. When the metaverse world would come to fruition, it may be centralised (as in Web 2.0), decentralised (as in Web 3.0), or a hybrid of the two. In any case, it is likely that the world will be powered by NFTs (i.e. unique tokens).
 
 [Watch the Insane Future of Web 3.0 and Metaverse Video in Urdu](https://www.youtube.com/watch?v=eEz1rnmCfn4)
@@ -12,11 +24,7 @@ Citi is the latest Wall Street firm to issue a bullish forecast for web3 and the
 
 [Read the paper Opportunities in the metaverse by JP Morgan.](https://www.jpmorgan.com/content/dam/jpm/treasury-services/documents/opportunities-in-the-metaverse.pdf)  
 
-
-## Panaverse Certified Web3 and Metaverse Developer Tranining Program
-
-
-### [Apply for the Certified Web 3 and Metaverse Program](https://www.piaic.org/)
+[Tech Giants Create Metaverse Standards Forum for Software and Terminology Standards](https://www.coindesk.com/tech/2022/06/22/tech-giants-create-metaverse-standards-forum-for-software-and-terminology-standards/)
 
 This program focuses on developing full-stack Web 3.0 and Metaverse experiences for the next generation of the internet by specializing in building worlds that merge the best of cutting-edge decentralized distributed blockchains with 3D metaverse client experiences (including Web 2.0 centralized serverless cloud technologies). 
 
@@ -61,15 +69,6 @@ The Web 2.0 and Web 3.0 layers can easily be extended to develop Metaverse exper
 
 The program will consist of two semesters. The first semister of the program will be onsite and totally free. The details for the second semister will be announced latter. Every week there will 4 hours of onsite classes and 2 hours of online classes.
 
-## Prerequisite: Object Oriented Programming with Typescript Quiz
-
-All students are required to start learning Typescript immediately, even before the program starts. If the number of students who apply for the program are greater than the seats available the applicants will be selected on the basis of Typescript Quiz scores, which will be take at the start of classes. You are required to study chapters 1, 7, 8, 9, 10, and 11 of the following Typescript book:
-
-[Essential TypeScript 4: From Beginner to Pro: Chapter 1](https://www.oreilly.com/library/view/essential-typescript-4/9781484270110/)
-
-[Book Source Code](https://github.com/Apress/essential-typescript-4)
-
-Note: You will asked to take a Typescript quiz at the start of classes.
 
 ## Faculty Members
 
