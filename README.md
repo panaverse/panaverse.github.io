@@ -1,4 +1,4 @@
-# Certified Web 3.0 and Metaverse Developer: A Free Nationwide Program in Karachi, Lahore, Islamabad, Peshawar, and Faisalabad
+# Certified Web 3.0 and Metaverse Developer: A Nationwide Program in Karachi, Lahore, Islamabad, Peshawar, and Faisalabad
 
 ## [APPLY FOR ADMISSION NOW](https://www.piaic.org/)
 
@@ -69,7 +69,7 @@ The Web 2.0 and Web 3.0 layers can easily be extended to develop Metaverse exper
 
 ### Program Duration and Fee
 
-The program will consist of two semesters. The first semister of the program will be onsite and totally free. The details for the second semister will be announced latter. Every week there will 4 hours of onsite classes and 2 hours of online classes.
+The program will consist of two semesters. The first semister of the program will be onsite and the fee will be Rs. 3,000 per semister. The details for the second semister will be announced latter. Every week there will 3+ hours of onsite classes and 2+ hours of online classes.
 
 
 ## Faculty Members
