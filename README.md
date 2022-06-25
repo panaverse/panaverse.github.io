@@ -268,8 +268,16 @@ Five reasons we are doing this:
 
 [Next.js Learning Repo](https://github.com/panacloud-modern-global-apps/nextjs)
 
+The student should learn HTML, CSS, and Javascript by going through these videos:
 
-## Semester IC: MoneyMates
+[Learn HTML by Hira Khan](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQ3BALy86tIXICkG874wAc6)
+
+[Learn CSS Intro by Hira Khan](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQSWIen_zUSEBmtqzPLuRob)
+
+[Learn JavaScript by Zeeshan Hanif](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQdc0NSLknxmxBch5gLOqyo)
+
+
+## Semester IC: Money Mates
 
 This will be a Zoom Class Section covering:
 
