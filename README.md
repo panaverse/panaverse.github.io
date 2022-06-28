@@ -101,9 +101,9 @@ Sunday Lahore Class 5:00 pm to 9:00 pm
 
 [Join the Metaverse Facebook Group](https://www.facebook.com/groups/metaverse.dev/)
 
-## Program Semesters
+## Program Quarters
 
-The online program consists of four semesters listed below and will mainly be focused on imparting knowledge by training students to develop projects. The classes will mainly be taught on the weekends or after 7:00 pm (Pakistan Time) on weekdays so that everyone can attend. We will be using Zoom to conduct classes so that students from anywhere in the world can attend. 
+The online program consists of four quarters listed below and will mainly be focused on imparting knowledge by training students to develop projects. The classes will mainly be taught on the weekends or after 6:00 pm (Pakistan Time) on weekdays so that everyone can attend. We will have main onsite classes supplemented by Zoom labs and recorded videos.
 
 ### Certification Program
 
@@ -130,143 +130,17 @@ The online program consists of four semesters listed below and will mainly be fo
 [Semester IID: Designing Immersive 3D XR Experiences](#semester-iid-designing-immersive-3d-xr-experiences)
 
 
-## Semester Details:
+## Quarter Details:
 
-## Semester IA: Web3 and Metaverse Introduction and Theory
+## Quarter 1-A: Web 3.0 and Metaverse Theory
 
-[Video: What Is The Difference Between Web3 And The Metaverse?](https://www.youtube.com/watch?v=BCr6XxOd9eE)
+[Mastering Blockchain](https://www.packtpub.com/product/mastering-blockchain-third-edition/9781839213199)
 
-[Citi research report published in March 2022](https://www.citivelocity.com/citigps/metaverse-and-money/) 
+[The Metaverse](https://www.matthewball.vc/metaversebook)
 
-[The Metaverse: And How it Will Revolutionize Everything](https://www.amazon.com/Metaverse-How-Will-Revolutionize-Everything/dp/1324092033/ref=sr_1_4)
+Also refer to Appendix D for reading list
 
-[The Metaverse: Prepare Now For the Next Big Thing!](https://www.amazon.com/Metaverse-Prepare-Now-Next-Thing/dp/B09DMRF373/ref=pd_sbs_1/132-9505128-5572430)
-
-Watch these videos to Understand the level 3D Graphics Technology has reached
-
-[![The enabling technology for Metaverse](video_image.png)](https://www.youtube.com/watch?v=NgcYLIvlp_k "NVIDIA Marbles at Night")
-
-[![Designing, Optimizing and Operating the Factory of the Future](factory.png)](https://www.youtube.com/watch?v=6-DaWgg4zF8 "factory of future")
-
-<img src="metaverse.jpeg" alt="metaverse diagram"  style="display: block; margin-left: auto; margin-right: auto; "/>
-
-#### What is Metaverse
-
-[What’s All the Hype About the Metaverse?](https://www.nytimes.com/2022/01/18/technology/personaltech/metaverse-gaming-definition.html)
-
-[The Metaverse Has Already Arrived. Here’s What That Actually Means](https://time.com/6116826/what-is-the-metaverse/)
-
-[Explainer: What is the 'metaverse'?](https://www.youtube.com/watch?v=99BnZ8js1_k)
-
-[The new metaverse gold rush](https://www.youtube.com/watch?v=8zbQhb2siHs)
-
-[The Metaverse could be a problem](https://www.youtube.com/watch?v=RgJwPco3wew)
-
-[Facebook, Walmart and How Companies Shouldn’t Set Up in the Metaverse](https://www.coindesk.com/layer2/2022/01/05/facebook-walmart-and-how-companies-shouldnt-set-up-in-the-metaverse/)
-
-[How Metaverse Works? Secrets of Metaverse Explained in Hindi](https://www.youtube.com/watch?v=0azMpBagjI4)
-
-
-#### Metaverse is the Future
-
-[Nvidia CEO: The metaverse will be 'much, much bigger than the physical world'](https://finance.yahoo.com/news/nvidia-ceo-the-metaverse-will-be-much-much-bigger-than-the-physical-world-174256652.html)
-
-[3 Stocks to Buy With a $30 Trillion Metaverse Market on the Way](https://www.fool.com/investing/2021/12/06/3-stocks-to-buy-with-a-30-trillion-metaverse-marke/)
-
-The Information estimates that the metaverse could be worth about [$82B by 2025](https://www.theinformation.com/articles/what-will-metaverse-be-worth-in-2025-our-guess-is-82-billion)
-
-[The Metaverse Is Coming And It’s A Very Big Deal](https://www.forbes.com/sites/cathyhackl/2020/07/05/the-metaverse-is-coming--its-a-very-big-deal/?sh=3c6ee273440f)
-
-
-#### The Players and the Development Platforms
-
-[What the Metaverse Means for Developers](https://thenewstack.io/metaverse-developers/)
-
-[Nvidia Omniverse vs Facebook Metaverse](https://www.youtube.com/watch?v=fVaDO8ek57Q)
-
-[What is Microsoft's Metaverse?](https://www.youtube.com/watch?v=Qw6UCwCt4bE)
-
-[Microsoft and Nvidia are working on their own more practical metaverse](https://www.techspot.com/news/92064-microsoft-nvidia-working-their-own-more-practical-metaverse.html)
-
-[The Key To Unlocking The Metaverse Is Nvidia’s Omniverse](https://www.techspot.com/news/92064-microsoft-nvidia-working-their-own-more-practical-metaverse.html)
-
-[Clash of the Metaverse Titans: Microsoft, Meta and Apple](https://medium.com/building-the-metaverse/clash-of-the-metaverse-titans-microsoft-meta-and-apple-ce505b010376)
-
-[Metaverse… Closer Than You Think](https://croftgroup.com/metaverse-closer-than-you-think/)
-
-#### What Web3?
-
-[Video: What is Web3 with Examples?](https://www.youtube.com/watch?v=WEsO8OuAnjE)
-
-[Video: What is Web3?](https://www.youtube.com/watch?v=nHhAEkG1y2U)
-
-
-#### Metaverse and Web3
-
-[WEB 3.0 VS METAVERSE: SIMILARITIES AND DIFFERENCES YOU NEED TO KNOW IN 2022](https://www.analyticsinsight.net/web-3-0-vs-metaverse-similarities-and-differences-you-need-to-know-in-2022/)
-
-[Goldman Sachs Says Blockchain Is Key to Metaverse and Web 3 Development](https://www.coindesk.com/business/2021/12/17/goldman-sachs-says-blockchain-is-key-to-metaverse-and-web-3-development/)
-
-[Web 3.0 vs. Metaverse: similarities and differences](https://experty.io/web-3-0-vs-metaverse-similarities-and-differences)
-
-[Metaverse Explained In 10 Mins I Why Will Web3 Be A 100x Opportunity?](https://www.youtube.com/watch?v=hAkbAqVpII0)
-
-[Why NFTs Are The Keys To Accessing The Metaverse](https://www.binance.com/en/blog/nft/why-nfts-are-the-keys-to-accessing-the-metaverse-421499824684903085)
-
-[Metaverse, NFT, And DeFi: Here's Why They Matter In The Blockchain World](https://www.ndtv.com/business/metaverse-nft-and-defi-heres-why-they-matter-in-the-blockchain-world-2654667)
-
-[MetaFi: DeFi for the Metaverse](https://outlierventures.io/research/metafi-defi-for-the-metaverse/)
-
-#### Creator Economy of the Metaverse
-
-[Creator Economy of the Metaverse - Roblox, Unity, Unreal and more!](https://www.youtube.com/watch?v=VLwqivmWM_I)
-
-[Evolution of the Creator Economy](https://medium.com/building-the-metaverse/evolution-of-the-creator-economy-9e038e8411af)
-
-[How to Get Paid in the Metaverse Creator Economy Today](https://hackernoon.com/how-to-get-paid-in-the-metaverse-creator-economy-today)
-
-
-#### Metaverse in the Enterprise
-
-[7 ways the metaverse will change the enterprise](https://venturebeat.com/2022/01/26/7-ways-the-metaverse-will-change-the-enterprise/)
-
-[How the metaverse will let you simulate everything](https://venturebeat.com/2022/01/26/omniverse-ability-to-simulate-anything-self-driving-cars-energy-power-consumption/)
-
-
-#### Challenges of Metaverse that Needs to be Solved
-
-[The DeanBeat: The problem of the sniper and the metaverse](https://venturebeat.com/2022/01/14/the-deanbeat-the-problem-of-the-sniper-and-the-metaverse/amp/)
-
-[7 Challenges of The Metaverse](https://lucidrealitylabs.com/blog/7-challenges-of-the-metaverse)
-
-
-### Assignment 1:
-
-Read and Understand the above articles
-
-### Assignment 2:
-
-Make a Metaverse presentation from the Articles you have read in Assignment 1 using Google slides. 
-Please Donot share the slides with anyone except me, until I instruct you to do so.
-
-Five reasons we are doing this:
-
-1. When making something we remember
-2. To make a summary of the material
-3. To teach others from this material
-4. Have reference material for ourselves
-5. To see who are the leaders and best workers in this group
-
-
-## Semester IB: TypeScript and Next.js
-
-[Essential TypeScript 4: From Beginner to Pro](https://www.oreilly.com/library/view/essential-typescript-4/9781484270110/)
-
-[Book Source Code](https://github.com/Apress/essential-typescript-4)
-
-[Real-World Next.js](https://www.packtpub.com/product/real-world-next-js/9781801073493)
-
-[Next.js Learning Repo](https://github.com/panacloud-modern-global-apps/nextjs)
+## Quarter 1-B: Object Oriented Programming using Typescript
 
 The student should learn HTML, CSS, and Javascript by going through these videos:
 
@@ -275,6 +149,22 @@ The student should learn HTML, CSS, and Javascript by going through these videos
 [Learn CSS Intro by Hira Khan](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQSWIen_zUSEBmtqzPLuRob)
 
 [Learn JavaScript by Zeeshan Hanif](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQdc0NSLknxmxBch5gLOqyo)
+
+We will cover the following in class:
+
+[Essential TypeScript 4: From Beginner to Pro](https://www.oreilly.com/library/view/essential-typescript-4/9781484270110/)
+
+[Book Source Code](https://github.com/Apress/essential-typescript-4)
+
+
+## Quarter II-A: Next.js and Solidity
+
+[Real-World Next.js](https://www.packtpub.com/product/real-world-next-js/9781801073493)
+
+[Next.js Learning Repo](https://github.com/panacloud-modern-global-apps/nextjs)
+
+
+Quarter II-B: Solidity
 
 
 ## Semester IC: Money Mates
@@ -750,6 +640,132 @@ Building schema classes
 [Unity's Weta acquisition doesn't need the Metaverse to make sense](https://www.gamesindustry.biz/articles/2021-11-12-unitys-weta-acquisition-doesnt-need-the-metaverse-to-make-sense-opinion)
 
 [Unity and USD](https://docs.unity3d.com/Manual/com.unity.formats.usd.html)
+
+
+## Appendix D: Web3 and Metaverse Introduction and Theory
+
+[Video: What Is The Difference Between Web3 And The Metaverse?](https://www.youtube.com/watch?v=BCr6XxOd9eE)
+
+[Citi research report published in March 2022](https://www.citivelocity.com/citigps/metaverse-and-money/) 
+
+[The Metaverse: And How it Will Revolutionize Everything](https://www.amazon.com/Metaverse-How-Will-Revolutionize-Everything/dp/1324092033/ref=sr_1_4)
+
+[The Metaverse: Prepare Now For the Next Big Thing!](https://www.amazon.com/Metaverse-Prepare-Now-Next-Thing/dp/B09DMRF373/ref=pd_sbs_1/132-9505128-5572430)
+
+Watch these videos to Understand the level 3D Graphics Technology has reached
+
+[![The enabling technology for Metaverse](video_image.png)](https://www.youtube.com/watch?v=NgcYLIvlp_k "NVIDIA Marbles at Night")
+
+[![Designing, Optimizing and Operating the Factory of the Future](factory.png)](https://www.youtube.com/watch?v=6-DaWgg4zF8 "factory of future")
+
+<img src="metaverse.jpeg" alt="metaverse diagram"  style="display: block; margin-left: auto; margin-right: auto; "/>
+
+#### What is Metaverse
+
+[What’s All the Hype About the Metaverse?](https://www.nytimes.com/2022/01/18/technology/personaltech/metaverse-gaming-definition.html)
+
+[The Metaverse Has Already Arrived. Here’s What That Actually Means](https://time.com/6116826/what-is-the-metaverse/)
+
+[Explainer: What is the 'metaverse'?](https://www.youtube.com/watch?v=99BnZ8js1_k)
+
+[The new metaverse gold rush](https://www.youtube.com/watch?v=8zbQhb2siHs)
+
+[The Metaverse could be a problem](https://www.youtube.com/watch?v=RgJwPco3wew)
+
+[Facebook, Walmart and How Companies Shouldn’t Set Up in the Metaverse](https://www.coindesk.com/layer2/2022/01/05/facebook-walmart-and-how-companies-shouldnt-set-up-in-the-metaverse/)
+
+[How Metaverse Works? Secrets of Metaverse Explained in Hindi](https://www.youtube.com/watch?v=0azMpBagjI4)
+
+
+#### Metaverse is the Future
+
+[Nvidia CEO: The metaverse will be 'much, much bigger than the physical world'](https://finance.yahoo.com/news/nvidia-ceo-the-metaverse-will-be-much-much-bigger-than-the-physical-world-174256652.html)
+
+[3 Stocks to Buy With a $30 Trillion Metaverse Market on the Way](https://www.fool.com/investing/2021/12/06/3-stocks-to-buy-with-a-30-trillion-metaverse-marke/)
+
+The Information estimates that the metaverse could be worth about [$82B by 2025](https://www.theinformation.com/articles/what-will-metaverse-be-worth-in-2025-our-guess-is-82-billion)
+
+[The Metaverse Is Coming And It’s A Very Big Deal](https://www.forbes.com/sites/cathyhackl/2020/07/05/the-metaverse-is-coming--its-a-very-big-deal/?sh=3c6ee273440f)
+
+
+#### The Players and the Development Platforms
+
+[What the Metaverse Means for Developers](https://thenewstack.io/metaverse-developers/)
+
+[Nvidia Omniverse vs Facebook Metaverse](https://www.youtube.com/watch?v=fVaDO8ek57Q)
+
+[What is Microsoft's Metaverse?](https://www.youtube.com/watch?v=Qw6UCwCt4bE)
+
+[Microsoft and Nvidia are working on their own more practical metaverse](https://www.techspot.com/news/92064-microsoft-nvidia-working-their-own-more-practical-metaverse.html)
+
+[The Key To Unlocking The Metaverse Is Nvidia’s Omniverse](https://www.techspot.com/news/92064-microsoft-nvidia-working-their-own-more-practical-metaverse.html)
+
+[Clash of the Metaverse Titans: Microsoft, Meta and Apple](https://medium.com/building-the-metaverse/clash-of-the-metaverse-titans-microsoft-meta-and-apple-ce505b010376)
+
+[Metaverse… Closer Than You Think](https://croftgroup.com/metaverse-closer-than-you-think/)
+
+#### What Web3?
+
+[Video: What is Web3 with Examples?](https://www.youtube.com/watch?v=WEsO8OuAnjE)
+
+[Video: What is Web3?](https://www.youtube.com/watch?v=nHhAEkG1y2U)
+
+
+#### Metaverse and Web3
+
+[WEB 3.0 VS METAVERSE: SIMILARITIES AND DIFFERENCES YOU NEED TO KNOW IN 2022](https://www.analyticsinsight.net/web-3-0-vs-metaverse-similarities-and-differences-you-need-to-know-in-2022/)
+
+[Goldman Sachs Says Blockchain Is Key to Metaverse and Web 3 Development](https://www.coindesk.com/business/2021/12/17/goldman-sachs-says-blockchain-is-key-to-metaverse-and-web-3-development/)
+
+[Web 3.0 vs. Metaverse: similarities and differences](https://experty.io/web-3-0-vs-metaverse-similarities-and-differences)
+
+[Metaverse Explained In 10 Mins I Why Will Web3 Be A 100x Opportunity?](https://www.youtube.com/watch?v=hAkbAqVpII0)
+
+[Why NFTs Are The Keys To Accessing The Metaverse](https://www.binance.com/en/blog/nft/why-nfts-are-the-keys-to-accessing-the-metaverse-421499824684903085)
+
+[Metaverse, NFT, And DeFi: Here's Why They Matter In The Blockchain World](https://www.ndtv.com/business/metaverse-nft-and-defi-heres-why-they-matter-in-the-blockchain-world-2654667)
+
+[MetaFi: DeFi for the Metaverse](https://outlierventures.io/research/metafi-defi-for-the-metaverse/)
+
+#### Creator Economy of the Metaverse
+
+[Creator Economy of the Metaverse - Roblox, Unity, Unreal and more!](https://www.youtube.com/watch?v=VLwqivmWM_I)
+
+[Evolution of the Creator Economy](https://medium.com/building-the-metaverse/evolution-of-the-creator-economy-9e038e8411af)
+
+[How to Get Paid in the Metaverse Creator Economy Today](https://hackernoon.com/how-to-get-paid-in-the-metaverse-creator-economy-today)
+
+
+#### Metaverse in the Enterprise
+
+[7 ways the metaverse will change the enterprise](https://venturebeat.com/2022/01/26/7-ways-the-metaverse-will-change-the-enterprise/)
+
+[How the metaverse will let you simulate everything](https://venturebeat.com/2022/01/26/omniverse-ability-to-simulate-anything-self-driving-cars-energy-power-consumption/)
+
+
+#### Challenges of Metaverse that Needs to be Solved
+
+[The DeanBeat: The problem of the sniper and the metaverse](https://venturebeat.com/2022/01/14/the-deanbeat-the-problem-of-the-sniper-and-the-metaverse/amp/)
+
+[7 Challenges of The Metaverse](https://lucidrealitylabs.com/blog/7-challenges-of-the-metaverse)
+
+
+### Assignment 1:
+
+Read and Understand the above articles
+
+### Assignment 2:
+
+Make a Metaverse presentation from the Articles you have read in Assignment 1 using Google slides. 
+Please Donot share the slides with anyone except me, until I instruct you to do so.
+
+Five reasons we are doing this:
+
+1. When making something we remember
+2. To make a summary of the material
+3. To teach others from this material
+4. Have reference material for ourselves
+5. To see who are the leaders and best workers in this group
 
 
 
