@@ -193,29 +193,24 @@ Build a Modern Kitchen using Blender 3 as shown in chapters 5, 6, and 7 of the B
 Illustrating an Alien Hero with Grease Pencil as shown in chapter 8 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
 
 
-## Quarter II-A: Next.js and Solidity
+## Quarter II-A: Real World Next.js
 
 [Real-World Next.js](https://www.packtpub.com/product/real-world-next-js/9781801073493)
 
 [Next.js Learning Repo](https://github.com/panacloud-modern-global-apps/nextjs)
 
 
-Quarter II-B: Solidity
+## Quarter II-B: Smart Contract Programming using Solidity
+
+[Solidity Programming Essentials - Second Edition](https://www.packtpub.com/product/solidity-programming-essentials-second-edition/9781803231181)
+
+[Solidity Learning Repo](https://github.com/panacloud-modern-global-apps/defi-dapps-solidity-smart-contracts)
 
 
-## Semester IC: Money Mates
-
-This will be a Zoom Class Section covering:
-
-1. Importance of Investment
-2. Digital Methods of Investment
-3. Importance of Owning Digital Assets
-4. How to do due delligence (DYOR)
-5. Convert $1 to $100
+## Quarter III-A: Ethers
 
 
-
-## Semester ID: Cross Platform Metaverse Development with Unity and C#
+## Quarter III-B: Cross Platform Metaverse Development with Unity and C#
 
 [Learning C# by Developing Games with Unity 2021](https://www.amazon.com/Learning-Developing-Games-Unity-2021/dp/1801813949/ref=sr_1_1)
 
