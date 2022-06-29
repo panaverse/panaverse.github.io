@@ -2,17 +2,13 @@
 
 ## [APPLY FOR ADMISSION NOW](https://www.piaic.org/)
 
-## All Students Should Start Preparing For Object Oriented Programming with Typescript Entry Test
+## All Students Should Start Preparing For Javascript Entry Test
 
-All students are required to start learning Typescript immediately, even before the program starts. If the number of students who apply for the program are greater than the seats available the applicants will be selected on the basis of Typescript Quiz scores, which will be take at the start of classes. You are required to study chapters 1, 7, 8, 9, 10, and 11 of the following Typescript book:
+All students are required to start learning Javascript immediately, even before the program starts. If the number of students who apply for the program are greater than the seats available the applicants will be selected on the basis of Javascript Quiz scores, which will be take at the start of classes. 
 
-[Essential TypeScript 4: From Beginner to Pro](https://www.oreilly.com/library/view/essential-typescript-4/9781484270110/)
+[Watch JavaScript by Zeeshan Hanif to prepare for the Entry Test](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQdc0NSLknxmxBch5gLOqyo)
 
-[Book Source Code](https://github.com/Apress/essential-typescript-4)
-
-[Learn TypeScript 4.0+ in Baby Steps](https://github.com/panacloud-modern-global-apps/learn-typescript)
-
-Note: You will asked to take a Typescript Entry Test at the start of classes.
+Note: You will asked to take a Javascript Entry Test at the start of classes.
 
 ## Panaverse Certified Web 3.0 and Metaverse Developer Tranining Program
 
