@@ -2,9 +2,9 @@
 
 ## [APPLY FOR ADMISSION NOW](https://www.piaic.org/)
 
-## All Students Should Start Preparing For Javascript Entry Test
+## All Students Should Start Preparing For JavaScript Entry Test
 
-All students are required to start learning Javascript immediately, even before the program starts. If the number of students who apply for the program are greater than the seats available the applicants will be selected on the basis of Javascript Quiz scores, which will be take at the start of classes. 
+All students are required to start learning JavaScript immediately, even before the program starts. If the number of students who apply for the program are greater than the seats available the applicants will be selected on the basis of JavaScript Quiz scores, which will be take at the start of classes. 
 
 [Watch JavaScript by Zeeshan Hanif to prepare for the Entry Test](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQdc0NSLknxmxBch5gLOqyo)
 
