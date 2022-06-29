@@ -207,21 +207,6 @@ Illustrating an Alien Hero with Grease Pencil as shown in chapter 8 of the Book 
 [Solidity Learning Repo](https://github.com/panacloud-modern-global-apps/defi-dapps-solidity-smart-contracts)
 
 
-## Quarter III-A: Ethers
-
-
-## Quarter III-B: Cross Platform Metaverse Development with Unity and C#
-
-[Learning C# by Developing Games with Unity 2021](https://www.amazon.com/Learning-Developing-Games-Unity-2021/dp/1801813949/ref=sr_1_1)
-
-[OpenXR](https://en.wikipedia.org/wiki/OpenXR)
-
-[The time to embrace OpenXR is now](https://www.linkedin.com/pulse/time-embrace-openxr-now-ivana-tilca/)
-
-[Oculus is “All in on OpenXR,” New Developer Features Will Come to OpenXR Only](https://www.roadtovr.com/oculus-openxr-shift-unity-unreal-engine/)
-
-[Unity OpenXR Plugin](https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.3/manual/index.html)
-
 
 
 ## Semester IE: Learning Smart Contract Development with Solidity for Metaverse Economy
@@ -437,6 +422,21 @@ You may use the [Preset ERC721 contract](https://docs.openzeppelin.com/contracts
 Deploy your NFT contract on a testnet, mint it, and view it on the MetaMask wallet and list it on [OpenSea Marketplace](https://opensea.io/) for sale.
 
 [Implement a ERC721 Market](https://ethereum.org/en/developers/tutorials/how-to-implement-an-erc721-market/)
+
+## Quarter III-A: Ethers
+
+
+## Quarter III-B: Cross Platform Metaverse Development with Unity and C#
+
+[Learning C# by Developing Games with Unity 2021](https://www.amazon.com/Learning-Developing-Games-Unity-2021/dp/1801813949/ref=sr_1_1)
+
+[OpenXR](https://en.wikipedia.org/wiki/OpenXR)
+
+[The time to embrace OpenXR is now](https://www.linkedin.com/pulse/time-embrace-openxr-now-ivana-tilca/)
+
+[Oculus is “All in on OpenXR,” New Developer Features Will Come to OpenXR Only](https://www.roadtovr.com/oculus-openxr-shift-unity-unreal-engine/)
+
+[Unity OpenXR Plugin](https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.3/manual/index.html)
 
 
 
