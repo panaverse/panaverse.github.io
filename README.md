@@ -219,11 +219,12 @@ Build a Modern Kitchen using Blender 3 as shown in chapters 5, 6, and 7 of the B
 Illustrating an Alien Hero with Grease Pencil as shown in chapter 8 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
 
 
-## Quarter II-A: Real World Next.js
+## Quarter II-A: Advanced Web 2.0 Development using Next.js
 
 [Real-World Next.js](https://www.packtpub.com/product/real-world-next-js/9781801073493)
 
 [Next.js Learning Repo](https://github.com/panacloud-modern-global-apps/nextjs)
+
 
 ## Quarter II-B: Building Decentralized Metaverse
 
