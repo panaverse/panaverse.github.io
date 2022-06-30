@@ -65,7 +65,7 @@ The Web 2.0 and Web 3.0 layers can easily be extended to develop Metaverse exper
 
 ### Program Duration and Fee
 
-The program will consist of two semesters. The first semister of the program will be onsite and the fee will be Rs. 3,000 per semister. The details for the second semister will be announced latter. Every week there will 3+ hours of onsite classes and 2+ hours of online classes.
+The program will consist of four quarters. The fee will be Rs. 3,000 per semister. Every week there a combination of onsite and Zoom online classes. Students will also watch recorded videos and study textbooks. 
 
 
 ## Faculty Members
@@ -199,19 +199,17 @@ Illustrating an Alien Hero with Grease Pencil as shown in chapter 8 of the Book 
 
 [Next.js Learning Repo](https://github.com/panacloud-modern-global-apps/nextjs)
 
+## Quarter II-B: Building Decentralized Metaverse
 
-## Quarter II-B: Smart Contract Programming using Solidity
+[Building Decentraland Experiences](https://docs.decentraland.org/content-intro/)
+
+
+## Quarter II-C: Smart Contract Development with Solidity and Hardhat for Metaverse Economy
 
 [Solidity Programming Essentials - Second Edition](https://www.packtpub.com/product/solidity-programming-essentials-second-edition/9781803231181)
 
 [Solidity Learning Repo](https://github.com/panacloud-modern-global-apps/defi-dapps-solidity-smart-contracts)
 
-
-
-
-## Semester IE: Learning Smart Contract Development with Solidity for Metaverse Economy
-
-[Learning Smart Contract Development Repo](https://github.com/panacloud-modern-global-apps/defi-dapps-solidity-smart-contracts)
 
 ### Class Videos
 
@@ -423,7 +421,12 @@ Deploy your NFT contract on a testnet, mint it, and view it on the MetaMask wall
 
 [Implement a ERC721 Market](https://ethereum.org/en/developers/tutorials/how-to-implement-an-erc721-market/)
 
-## Quarter III-A: Ethers
+
+## Quarter III-A: Dapp Development using Ethers.js, Next.js, and Solidity
+
+[Ethers](https://docs.ethers.io/v5/)
+
+[Panaweb](https://github.com/panacloud/panaweb)
 
 
 ## Quarter III-B: Cross Platform Metaverse Development with Unity and C#
@@ -439,13 +442,7 @@ Deploy your NFT contract on a testnet, mint it, and view it on the MetaMask wall
 [Unity OpenXR Plugin](https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.3/manual/index.html)
 
 
-
-
-## Semester IIA: Decentralized Metaverse Development
-
-[Building Decentraland Experiences](https://docs.decentraland.org/content-intro/)
-
-## Semester IIB: Serverless API Development 
+## Quarter III-C: Serverless API Development 
 
 [Expert Advice on Moving to Serverless](https://dashbird.io/blog/expert-advice-moving-to-serverless/)
 
@@ -458,7 +455,19 @@ We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in
 [Getting Started with CDK](https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html)
 
 
-## Semester IIC: Computer Graphics Programming
+
+
+
+## Quarter IV-A: Advanced Web 3.0 Development: DAO, Oracles, and Graphs
+
+[DAO](https://ethereum.org/en/dao/)
+
+[The Graph](https://thegraph.com/en/)
+
+[Chainlink](https://chain.link/)
+
+
+## Semester IV-B: Computer Graphics Programming
 
 [A Very Gentle Introduction to Computer Graphics Programming](https://www.scratchapixel.com/lessons/3d-basic-rendering/get-started)
 
@@ -470,7 +479,9 @@ We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in
 
 
 
-## Semester IID: Designing Immersive 3D XR Experiences
+## Semester IV-C: Designing and Developing Metaverse Dapp Experiences
+
+[HOW TO BUILD A METAVERSE DAPP WITH UNITY](https://www.leewayhertz.com/metaverse-unity-development/)
 
 [Designing XR Textbook: Designing Immersive 3D Experiences - A Designer's Guide to Creating Realistic 3D Experiences for Extended Reality](https://www.amazon.com/Designing-Immersive-Experiences-Designers-Realistic/dp/0137282834/ref=sr_1_8)
 
