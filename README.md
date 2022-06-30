@@ -1,6 +1,6 @@
 # Certified Web 3.0 and Metaverse Developer: A Nationwide Program in Karachi, Lahore, Islamabad, Peshawar, and Faisalabad
 
-## [APPLY FOR ADMISSION NOW](https://www.piaic.org/)
+## [APPLY FOR ADMISSION NOW](https://www.piaic.org/) Will Open in a Few Weeks
 
 ## All Students Should Start Preparing For JavaScript Entry Test
 
