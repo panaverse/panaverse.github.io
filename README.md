@@ -483,13 +483,15 @@ We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in
 
 
 
-## Quarter IV-A: Advanced Web 3.0 Development: DAO, Oracles, Graphs, and Tokenomics
+## Quarter IV-A: Advanced Web 3.0 Development: DAO, Oracles, Graphs, DeFi and Tokenomics
 
 [DAO](https://ethereum.org/en/dao/)
 
 [The Graph](https://thegraph.com/en/)
 
 [Chainlink](https://chain.link/)
+
+[DeFi and the Future of Finance](https://www.amazon.com/DeFi-Future-Finance-Campbell-Harvey/dp/1119836018/ref=sr_1_1)
 
 [Tokenomics](https://coinmarketcap.com/alexandria/article/what-is-tokenomics)
 
