@@ -10,6 +10,23 @@ All students are required to start learning JavaScript immediately, even before 
 
 Note: You will asked to take a Javascript Entry Test at the start of classes.
 
+## Projected Outcome for Web 3.0 and Metaverse Developers
+
+The students who graduate from this one-year program will be able to earn $50 per hour, to begin with. This will be a great opportunity for students and professionals of Karachi and Faisalabad. 
+
+[Top 5 'Metaverse' jobs that will rule the future of tech industry](https://content.techgig.com/hiring/top-5-metaverse-jobs-that-will-rule-the-future-of-tech-industry/articleshow/87581325.cms)
+
+[Blockchain Developer Salary - Jun 2022](https://web3.career/web3-salaries/blockchain-developer)
+
+[Web3 Salaries Soar to $750,000 for Rank-and-File Devs](https://thedefiant.io/web3-soaring-salaries/)
+
+[The Metaverse, Blockchain Gaming, and NFTs: Navigating the Internet’s Uncharted Waters](https://newzoo.com/insights/trend-reports/newzoo-report-on-metaverse-blockchain-gaming-nft-2022)
+
+[How To Become Metaverse Developer: Scope, Skills, and Salary](https://www.blockchain-council.org/metaverse/how-to-become-metaverse-developer/)
+
+
+
+
 ## Panaverse Certified Web 3.0 and Metaverse Developer Tranining Program
 
 The internet is undoubtedly the most significant technological development in human history. Although the industry has progressed immensely since its inception, we are just scratching the surface of what it can do for us. Web3 and metaverse technologies improves the internet as we know it today by adding innovative new features and enhancements. The metaverse reimagines the frontend, and web3 the backend of the web. Web 3.0 and the Metaverse will work together and complement each other in the future. Whereas Web 3.0 is primarily concerned with who will own and rule the internet of the future, the metaverse concept is concerned with how users will interact with it. When the metaverse world would come to fruition, it may be centralised (as in Web 2.0), decentralised (as in Web 3.0), or a hybrid of the two. In any case, it is likely that the world will be powered by NFTs (i.e. unique tokens).
@@ -97,36 +114,45 @@ Sunday Lahore Class 5:00 pm to 9:00 pm
 
 [Join the Metaverse Facebook Group](https://www.facebook.com/groups/metaverse.dev/)
 
-## Program Quarters
+## Program of Studies
 
 The online program consists of four quarters listed below and will mainly be focused on imparting knowledge by training students to develop projects. The classes will mainly be taught on the weekends or after 6:00 pm (Pakistan Time) on weekdays so that everyone can attend. We will have main onsite classes supplemented by Zoom labs and recorded videos.
 
-### Certification Program
 
-### Semester I:
+### Quarter I
 
-[Semester IA: Web3 and Metaverse Introduction and Theory](#semester-ia-web3-and-metaverse-introduction-and-theory)
+[Quarter 1-A: Web 3.0 and Metaverse Theory](#quarter-1-b-object-oriented-programming-using-typescript)
 
-[Semester IB: TypeScript and Next.js](#semester-ib-typescript-and-nextjs)
+[Quarter 1-B: Object Oriented Programming using Typescript](https://github.com/panaverse/panaverse.github.io/#quarter-1-b-object-oriented-programming-using-typescript)
 
-[Semester IC: MoneyMates](#semester-ic-moneymates)
+[Quarter 1-C: Blender 3D Graphics](#quarter-1-c-blender-3d-graphics)
 
-[Semester ID: Cross Platform Metaverse Development with Unity and C#](#semester-id-cross-platform-metaverse-development-with-unity-and-c)
+### Quarter II
 
-[Semester IE: Learning Smart Contract Development with Solidity for Metaverse Economy](#semester-ie-learning-smart-contract-development-with-solidity-for-metaverse-economy)
+[Quarter II-A: Web 3 Development using Next.js](https://github.com/panaverse/panaverse.github.io/#quarter-ii-a-real-world-nextjs)
 
-### Semester II:
+[Quarter II-B: Decentralized Metaverse Development](#quarter-ii-b-building-decentralized-metaverse)
 
-[Semester IIA: Decentralized Metaverse Development](#semester-iia-decentralized-metaverse-development)
+[Quarter II-C: Smart Contract Development with Solidity and Hardhat for Metaverse Economy](#quarter-ii-c-smart-contract-development-with-solidity-and-hardhat-for-metaverse-economy)
 
-[Semester IIB: Serverless API Development](https://github.com/panaverse/panaverse.github.io#semester-iib-serverless-api-development)
+### Quarter III
 
-[Semester IIC: Computer Graphics Programming](#semester-iib-learning-smart-contract-development-with-solidity-for-metaverse-economy)
+[Quarter III-A: Dapp Development using Ethers.js, Next.js, and Solidity](https://github.com/panaverse/panaverse.github.io/#quarter-iii-a-dapp-development-using-ethersjs-nextjs-and-solidity)
 
-[Semester IID: Designing Immersive 3D XR Experiences](#semester-iid-designing-immersive-3d-xr-experiences)
+[Quarter III-B: Cross Platform Metaverse Development with Unity and C#](#quarter-iii-b-cross-platform-metaverse-development-with-unity-and-c)
+
+[Quarter III-C: Serverless API Development](#quarter-iii-c-serverless-api-development)
+
+### Quarter IV
+
+[Quarter IV-A: Advanced Web 3.0 Development: DAO, Oracles, and Graphs](#quarter-iv-a-advanced-web-30-development-dao-oracles-and-graphs)
+
+[Quarter IV-B: Computer Graphics Programming](#quarter-iv-b-computer-graphics-programming)
+
+[Quarter IV-C: Designing and Developing Metaverse Dapp Experiences](#quarter-iv-c-designing-and-developing-metaverse-dapp-experiences)
 
 
-## Quarter Details:
+## Program Details:
 
 ## Quarter 1-A: Web 3.0 and Metaverse Theory
 
@@ -467,7 +493,7 @@ We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in
 [Chainlink](https://chain.link/)
 
 
-## Semester IV-B: Computer Graphics Programming
+## Quarter IV-B: Computer Graphics Programming
 
 [A Very Gentle Introduction to Computer Graphics Programming](https://www.scratchapixel.com/lessons/3d-basic-rendering/get-started)
 
@@ -479,7 +505,7 @@ We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in
 
 
 
-## Semester IV-C: Designing and Developing Metaverse Dapp Experiences
+## Quarter IV-C: Designing and Developing Metaverse Dapp Experiences
 
 [HOW TO BUILD A METAVERSE DAPP WITH UNITY](https://www.leewayhertz.com/metaverse-unity-development/)
 
