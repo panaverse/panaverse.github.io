@@ -2,6 +2,8 @@
 
 ## [APPLY FOR ADMISSION NOW](https://www.piaic.org/) Will Open in a Few Weeks
 
+![Web3 Metaverse](metaverse.jpeg)
+
 ## All Students Should Start Preparing For JavaScript Entry Test
 
 All students are required to start learning JavaScript immediately, even before the program starts. If the number of students who apply for the program are greater than the seats available the applicants will be selected on the basis of JavaScript Quiz scores, which will be take at the start of classes. 
