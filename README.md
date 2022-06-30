@@ -10,9 +10,9 @@ All students are required to start learning JavaScript immediately, even before 
 
 Note: You will asked to take a Javascript Entry Test at the start of classes.
 
-## Projected Outcome for Web 3.0 and Metaverse Developers
+## Projected Outcome for Students
 
-The students who graduate from this one-year program will be able to earn $50 per hour, to begin with. This will be a great opportunity for students and professionals of Karachi and Faisalabad. 
+The students who graduate from this one-year program will be able to earn $50 per hour, to begin with. This will be a great opportunity for students and professionals of Pakistan. 
 
 [Top 5 'Metaverse' jobs that will rule the future of tech industry](https://content.techgig.com/hiring/top-5-metaverse-jobs-that-will-rule-the-future-of-tech-industry/articleshow/87581325.cms)
 
@@ -482,15 +482,15 @@ We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in
 
 
 
-
-
-## Quarter IV-A: Advanced Web 3.0 Development: DAO, Oracles, and Graphs
+## Quarter IV-A: Advanced Web 3.0 Development: DAO, Oracles, Graphs, and Tokenomics
 
 [DAO](https://ethereum.org/en/dao/)
 
 [The Graph](https://thegraph.com/en/)
 
 [Chainlink](https://chain.link/)
+
+[Tokenomics](https://coinmarketcap.com/alexandria/article/what-is-tokenomics)
 
 
 ## Quarter IV-B: Computer Graphics Programming
