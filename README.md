@@ -160,7 +160,7 @@ The online program consists of four quarters listed below and will mainly be foc
 
 [The Metaverse](https://www.matthewball.vc/metaversebook)
 
-Also refer to Appendix D for reading list
+Also refer to Appendix E for reading list
 
 ## Quarter 1-B: Object Oriented Programming using Typescript
 
@@ -711,7 +711,7 @@ Building schema classes
 [Unity and USD](https://docs.unity3d.com/Manual/com.unity.formats.usd.html)
 
 
-## Appendix D: Web3 and Metaverse Introduction and Theory
+## Appendix E: Web3 and Metaverse Introduction and Theory
 
 [Video: What Is The Difference Between Web3 And The Metaverse?](https://www.youtube.com/watch?v=BCr6XxOd9eE)
 
