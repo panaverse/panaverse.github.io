@@ -82,7 +82,7 @@ The Web 2.0 and Web 3.0 layers can easily be extended to develop Metaverse exper
 
 ### Program Duration and Fee
 
-The program will consist of four quarters. The fee will be Rs. 3,000 per semister. Every week there a combination of onsite and Zoom online classes. Students will also watch recorded videos and study textbooks. 
+The program will consist of four quarters. The fee will be Rs. 3,000 per quarter. Every week there a combination of onsite and online Zoom classes. Students will also watch recorded videos and study textbooks.
 
 
 ## Faculty Members
@@ -129,7 +129,7 @@ The online program consists of four quarters listed below and will mainly be foc
 
 ### Quarter II
 
-[Quarter II-A: Web 3 Development using Next.js](https://github.com/panaverse/panaverse.github.io/#quarter-ii-a-real-world-nextjs)
+[Quarter II-A: Advanced Web 2.0 Development using Next.js](#quarter-ii-a-advanced-web-20-development-using-nextjs)
 
 [Quarter II-B: Decentralized Metaverse Development](#quarter-ii-b-building-decentralized-metaverse)
 
