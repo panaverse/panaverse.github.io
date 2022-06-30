@@ -141,7 +141,7 @@ The online program consists of four quarters listed below and will mainly be foc
 
 [Quarter III-A: Dapp Development using Ethers.js, Next.js, and Solidity](https://github.com/panaverse/panaverse.github.io/#quarter-iii-a-dapp-development-using-ethersjs-nextjs-and-solidity)
 
-[Quarter III-B: Cross Platform Metaverse Development with Unity and C#](#quarter-iii-b-cross-platform-metaverse-development-with-unity-and-c)
+[Quarter III-B: Advanced Cross Platform Metaverse Development with Unity and C#](#quarter-iii-b-advanced-cross-platform-metaverse-development-with-unity-and-c)
 
 [Quarter III-C: Serverless API Development](#quarter-iii-c-serverless-api-development)
 
