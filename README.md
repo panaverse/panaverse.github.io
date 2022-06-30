@@ -127,13 +127,13 @@ The online program consists of four quarters listed below and will mainly be foc
 
 [Quarter 1-B: Object Oriented Programming using Typescript](https://github.com/panaverse/panaverse.github.io/#quarter-1-b-object-oriented-programming-using-typescript)
 
-[Quarter 1-C: Blender 3D Graphics](#quarter-1-c-blender-3d-graphics)
+[Quarter 1-C: C# Programming for Metaverse](#quarter-1-c-c-programming-for-metaverse)
 
 ### Quarter II
 
 [Quarter II-A: Advanced Web 2.0 Development using Next.js](#quarter-ii-a-advanced-web-20-development-using-nextjs)
 
-[Quarter II-B: Decentralized Metaverse Development](#quarter-ii-b-building-decentralized-metaverse)
+[Quarter II-B: Metaverse Development with Unity and C#](#quarter-ii-b-metaverse-development-with-unity-and-c)
 
 [Quarter II-C: Smart Contract Development with Solidity and Hardhat for Metaverse Economy](#quarter-ii-c-smart-contract-development-with-solidity-and-hardhat-for-metaverse-economy)
 
