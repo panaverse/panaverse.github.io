@@ -180,45 +180,14 @@ We will cover the following in class:
 
 [Book Source Code](https://github.com/Apress/essential-typescript-4)
 
-## Quarter 1-C: Blender 3D Graphics
 
-Blender development is being funded by heavyweights in the real-time 3D (RT3D) space such as Apple, Unity, AMD, Intel, Meta, NVIDIA, AWS, Epic Games, Adobe, Microsoft, and Decentraland. It is expected to become the standard asset creation tool for metaverse. 
+## Quarter 1-C: C# Programming for Metaverse
 
-[Blender 3.0+ Download](https://www.blender.org/download/)
+[Mono Project](https://www.mono-project.com/docs/)
 
-[Blender 3.0 Beginner Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD)
+[Unity Mono](https://docs.unity3d.com/2022.2/Documentation/Manual/Mono.html)
 
-[Blender 3.0 Hotkey](https://docs.google.com/document/d/1zPBgZAdftWa6WVa7UIFUqW_7EcqOYE0X743RqFuJL3o/edit)
-
-[Blender Projects Textbook: Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
-
-[Blender Textbook: The Complete Guide to Blender Graphics: Computer Modeling & Animation 7th Edition by John M. Blain](https://www.amazon.com/Complete-Guide-Blender-Graphics-Animation/dp/103212167X/ref=sr_1_5)
-
-[Best Hardware Performance for Blender Rendering](https://www.youtube.com/watch?v=H7T0SzdFHwg)
-
-### Assignment 3:
-
-Build a 3D Donut using Blender 3 as shown in these [video tutorials](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD).
-
-### Assignment 4:
-
-Build a 3D Sword in the Stone using Blender 3 as shown in these [video tutorials](https://www.youtube.com/watch?v=bpvh-9H8S1g)
-
-### Assignment 5:
-
-Build a Viking Scene using Blender 3 as shown in chapter 2 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
-
-### Assignment 6:
-
-Modeling a Time Machine using Blender 3 as shown in chapters 3 and 4 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
-
-### Assignment 7:
-
-Build a Modern Kitchen using Blender 3 as shown in chapters 5, 6, and 7 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
-
-### Assignment 8:
-
-Illustrating an Alien Hero with Grease Pencil as shown in chapter 8 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
+[The C# Player's Guide](https://www.amazon.com/C-Players-Guide-5th/dp/0985580151/ref=sr_1_1)
 
 
 ## Quarter II-A: Advanced Web 2.0 Development using Next.js
@@ -228,9 +197,9 @@ Illustrating an Alien Hero with Grease Pencil as shown in chapter 8 of the Book 
 [Next.js Learning Repo](https://github.com/panacloud-modern-global-apps/nextjs)
 
 
-## Quarter II-B: Building Decentralized Metaverse
+## Quarter II-B: Metaverse Development with Unity and C#
 
-[Building Decentraland Experiences](https://docs.decentraland.org/content-intro/)
+[Learning C# by Developing Games with Unity 2021](https://www.amazon.com/Learning-Developing-Games-Unity-2021/dp/1801813949/ref=sr_1_1)
 
 
 ## Quarter II-C: Smart Contract Development with Solidity and Hardhat for Metaverse Economy
@@ -458,7 +427,7 @@ Deploy your NFT contract on a testnet, mint it, and view it on the MetaMask wall
 [Panaweb](https://github.com/panacloud/panaweb)
 
 
-## Quarter III-B: Cross Platform Metaverse Development with Unity and C#
+## Quarter III-B: Advanced Cross Platform Metaverse Development with Unity and C#
 
 [Learning C# by Developing Games with Unity 2021](https://www.amazon.com/Learning-Developing-Games-Unity-2021/dp/1801813949/ref=sr_1_1)
 
@@ -839,6 +808,46 @@ Five reasons we are doing this:
 3. To teach others from this material
 4. Have reference material for ourselves
 5. To see who are the leaders and best workers in this group
+
+## Appendix E: Blender 3D Graphics
+
+Blender development is being funded by heavyweights in the real-time 3D (RT3D) space such as Apple, Unity, AMD, Intel, Meta, NVIDIA, AWS, Epic Games, Adobe, Microsoft, and Decentraland. It is expected to become the standard asset creation tool for metaverse. 
+
+[Blender 3.0+ Download](https://www.blender.org/download/)
+
+[Blender 3.0 Beginner Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD)
+
+[Blender 3.0 Hotkey](https://docs.google.com/document/d/1zPBgZAdftWa6WVa7UIFUqW_7EcqOYE0X743RqFuJL3o/edit)
+
+[Blender Projects Textbook: Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
+
+[Blender Textbook: The Complete Guide to Blender Graphics: Computer Modeling & Animation 7th Edition by John M. Blain](https://www.amazon.com/Complete-Guide-Blender-Graphics-Animation/dp/103212167X/ref=sr_1_5)
+
+[Best Hardware Performance for Blender Rendering](https://www.youtube.com/watch?v=H7T0SzdFHwg)
+
+### Assignment 3:
+
+Build a 3D Donut using Blender 3 as shown in these [video tutorials](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD).
+
+### Assignment 4:
+
+Build a 3D Sword in the Stone using Blender 3 as shown in these [video tutorials](https://www.youtube.com/watch?v=bpvh-9H8S1g)
+
+### Assignment 5:
+
+Build a Viking Scene using Blender 3 as shown in chapter 2 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
+
+### Assignment 6:
+
+Modeling a Time Machine using Blender 3 as shown in chapters 3 and 4 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
+
+### Assignment 7:
+
+Build a Modern Kitchen using Blender 3 as shown in chapters 5, 6, and 7 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
+
+### Assignment 8:
+
+Illustrating an Alien Hero with Grease Pencil as shown in chapter 8 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
 
 
 
