@@ -145,7 +145,7 @@ The online program consists of four quarters listed below and will mainly be foc
 
 ### Quarter IV
 
-[Quarter IV-A: Advanced Web 3.0 Development: DAO, Oracles, and Graphs](#quarter-iv-a-advanced-web-30-development-dao-oracles-and-graphs)
+[Quarter IV-A: Advanced Web 3.0 Development: DAO, Oracles, Graphs, and Tokenomics](#quarter-iv-a-advanced-web-30-development-dao-oracles-and-graphs)
 
 [Quarter IV-B: Computer Graphics Programming](#quarter-iv-b-computer-graphics-programming)
 
