@@ -185,6 +185,8 @@ We will cover the following in class:
 
 ## Quarter 1-C: C# Programming for Metaverse
 
+[Follow this Repo](https://github.com/panaverse/metaverse-dev/)
+
 [Mono Project](https://www.mono-project.com/docs/)
 
 [Unity Mono](https://docs.unity3d.com/2022.2/Documentation/Manual/Mono.html)
