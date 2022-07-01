@@ -178,6 +178,8 @@ The student should learn HTML, CSS, and Javascript by going through these videos
 
 We will cover the following in class:
 
+[TypeScript and C# both were created by the same person named Anders Hejlsberg](https://dev.to/destrodevshow/typescript-and-c-both-created-by-the-same-person-named-anders-hejlsberg-42g4)
+
 [Essential TypeScript 4: From Beginner to Pro](https://www.oreilly.com/library/view/essential-typescript-4/9781484270110/)
 
 [Book Source Code](https://github.com/Apress/essential-typescript-4)
