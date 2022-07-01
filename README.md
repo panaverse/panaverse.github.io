@@ -162,6 +162,8 @@ The online program consists of four quarters listed below and will mainly be foc
 
 [The Metaverse](https://www.matthewball.vc/metaversebook)
 
+[XR Design Principles and Best Practices](https://www.youtube.com/watch?v=TSu9SQ-hoCk)
+
 Also refer to Appendix E for reading list
 
 ## Quarter 1-B: Object Oriented Programming using Typescript
