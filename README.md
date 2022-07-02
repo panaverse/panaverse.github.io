@@ -12,7 +12,7 @@ All students are required to start learning JavaScript immediately, even before 
 
 Note: You will asked to take a Javascript Entry Test at the start of classes.
 
-## Projected Outcome for Students
+## Outcome for Students
 
 The students who graduate from this one-year program will be able to earn $50 per hour, to begin with. This will be a great opportunity for students and professionals of Pakistan. 
 
@@ -158,9 +158,11 @@ The online program consists of four quarters listed below and will mainly be foc
 
 ## Quarter 1-A: Web 3.0 and Metaverse Theory
 
-[Mastering Blockchain](https://www.packtpub.com/product/mastering-blockchain-third-edition/9781839213199)
+[Metaverse: Open for business?](https://www.technologyreview.com/2022/06/27/1054974/metaverse-open-for-business/)
 
-[The Metaverse](https://www.matthewball.vc/metaversebook)
+[Mastering Blockchain Book](https://www.packtpub.com/product/mastering-blockchain-third-edition/9781839213199)
+
+[The Metaverse Book](https://www.matthewball.vc/metaversebook)
 
 [XR Design Principles and Best Practices](https://www.youtube.com/watch?v=TSu9SQ-hoCk)
 
