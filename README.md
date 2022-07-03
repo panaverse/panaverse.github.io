@@ -200,6 +200,8 @@ We will cover the following in class:
 
 ## Quarter II-A: Advanced Web 2.0 Development using Next.js
 
+[WHAT IS NEXT JS AND WHY SHOULD YOU USE IT IN 2022?](https://pagepro.co/blog/what-is-nextjs/)
+
 [Real-World Next.js](https://www.packtpub.com/product/real-world-next-js/9781801073493)
 
 [Next.js Learning Repo](https://github.com/panacloud-modern-global-apps/nextjs)
