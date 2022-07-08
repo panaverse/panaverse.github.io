@@ -49,6 +49,8 @@ After completing this program you will be able to develop 2D and 3D experiences 
 
 You can think of the stack which we will cover in this course in terms of layers. The first layer is the Web 2.0 technologies which provide the tools to develop 2D frontends and a highly sclable and cost effective cloud backend. The second layer is the Web 3.0 technolgies that is built using the first layer and the Ethererum blockchain. The third layer replaces the 2D frontends with 3D and XR technolgies for developing metaverse experiences. In the third layer we use all the backend technologies included in the first two layers, only the frontend changes.
 
+[Why You Should Learn Web 2.0 Before Getting into Web 3.0](https://javascript.plainenglish.io/why-you-should-learn-web-2-0-before-getting-into-web-3-0-d251625990db) 
+
 
 The Web 2.0 full stack applicatios are build using these technologies, this is the first layer of our development stack:
 
