@@ -2,6 +2,10 @@
 
 ## [APPLY FOR ADMISSION NOW](https://www.piaic.org/) Will Open in a Few Weeks
 
+[Watch the Insane Future of Web 3.0 and Metaverse Video in Urdu](https://www.youtube.com/watch?v=eEz1rnmCfn4)
+
+[Study The Panaverse Plan](https://docs.google.com/presentation/d/1j8CsNVkuc1p9ctqKH_NaDoGNo2eIvZhTtcgoI-zUmLc/edit?usp=sharing)
+
 ![Web3 Metaverse](metaverse.jpeg)
 
 ## All Students Should Start Preparing For JavaScript Entry Test
@@ -32,8 +36,6 @@ The students who graduate from this one-year program will be able to earn $50 pe
 ## Panaverse Certified Web 3.0 and Metaverse Developer Tranining Program
 
 The internet is undoubtedly the most significant technological development in human history. Although the industry has progressed immensely since its inception, we are just scratching the surface of what it can do for us. Web3 and metaverse technologies improves the internet as we know it today by adding innovative new features and enhancements. The metaverse reimagines the frontend, and web3 the backend of the web. Web 3.0 and the Metaverse will work together and complement each other in the future. Whereas Web 3.0 is primarily concerned with who will own and rule the internet of the future, the metaverse concept is concerned with how users will interact with it. When the metaverse world would come to fruition, it may be centralised (as in Web 2.0), decentralised (as in Web 3.0), or a hybrid of the two. In any case, it is likely that the world will be powered by NFTs (i.e. unique tokens).
-
-[Watch the Insane Future of Web 3.0 and Metaverse Video in Urdu](https://www.youtube.com/watch?v=eEz1rnmCfn4)
 
 Citi is the latest Wall Street firm to issue a bullish forecast for web3 and the metaverse, which describe a future internet vision based on decentralised technologies and virtual worlds. Citi said in a [research report published in March 2022](https://www.citivelocity.com/citigps/metaverse-and-money/) that the metaverse economy could have a <strong>total addressable market of up to $13 trillion and can capture five bullion users by 2030</strong>. We suggest you download the Citi's research report from [here](https://ir.citi.com/gps/x5%2BFQJT3BoHXVu9MsqVRoMdiws3RhL4yhF6Fr8us8oHaOe1W9smOy1%2B8aaAgT3SPuQVtwC5B2%2Fc%3D)
 
@@ -441,7 +443,7 @@ Deploy your NFT contract on a testnet, mint it, and view it on the MetaMask wall
 
 ## Quarter III-B: Advanced Cross Platform Metaverse Development with Unity and C#
 
-[Learning C# by Developing Games with Unity 2021](https://www.amazon.com/Learning-Developing-Games-Unity-2021/dp/1801813949/ref=sr_1_1)
+[Mind-Melding Unity and Blender for 3D Game Development](https://www.packtpub.com/product/mind-melding-unity-and-blender-for-3d-game-development/9781801071550)
 
 [OpenXR](https://en.wikipedia.org/wiki/OpenXR)
 
