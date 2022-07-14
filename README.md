@@ -166,6 +166,8 @@ The online program consists of four quarters listed below and will mainly be foc
 
 [Mastering Blockchain Book](https://www.packtpub.com/product/mastering-blockchain-third-edition/9781839213199)
 
+[Download Mastering Blockchain Book](https://pk1lib.org/book/11269630/9409cf)
+
 [The Metaverse Book](https://www.matthewball.vc/metaversebook)
 
 [XR Design Principles and Best Practices](https://www.youtube.com/watch?v=TSu9SQ-hoCk)
