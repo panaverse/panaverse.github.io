@@ -4,7 +4,7 @@
 
 [Watch the Insane Future of Web 3.0 and Metaverse Video in Urdu](https://www.youtube.com/watch?v=eEz1rnmCfn4)
 
-[Study The Panaverse Plan](https://docs.google.com/presentation/d/1j8CsNVkuc1p9ctqKH_NaDoGNo2eIvZhTtcgoI-zUmLc/edit?usp=sharing)
+[Study The Panaverse Plan](https://docs.google.com/presentation/d/12C1s4UBTlR9nZNEkRE6aAuGeRA3s92jx-8nJKo9jdH4/edit?usp=sharing)
 
 ![Web3 Metaverse](metaverse.jpeg)
 
