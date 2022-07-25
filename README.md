@@ -84,6 +84,7 @@ The Web 2.0 and Web 3.0 layers can easily be extended to develop Metaverse exper
 
 1. [Unity 3D XR Development Platform](https://docs.unity3d.com/Manual/XR.html)
 2. [C# for Unity XR Programming](https://docs.unity3d.com/Manual/ScriptingSection.html)
+3. [UX for XR: User Experience Design and Strategies for Immersive Technologies (Design Thinking)](https://www.amazon.com/UX-Experience-Strategies-Immersive-Technologies/dp/1484270193/ref=sr_1_1)
 
 
 ### Program Duration and Fee
@@ -500,6 +501,8 @@ We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in
 [HOW TO BUILD A METAVERSE DAPP WITH UNITY](https://www.leewayhertz.com/metaverse-unity-development/)
 
 [Designing XR Textbook: Designing Immersive 3D Experiences - A Designer's Guide to Creating Realistic 3D Experiences for Extended Reality](https://www.amazon.com/Designing-Immersive-Experiences-Designers-Realistic/dp/0137282834/ref=sr_1_8)
+
+[UX for XR: User Experience Design and Strategies for Immersive Technologies (Design Thinking)](https://www.amazon.com/UX-Experience-Strategies-Immersive-Technologies/dp/1484270193/ref=sr_1_1)
 
 
 
