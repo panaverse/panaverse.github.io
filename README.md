@@ -125,6 +125,8 @@ Sunday Lahore Class 5:00 pm to 9:00 pm
 
 The online program consists of four quarters listed below and will mainly be focused on imparting knowledge by training students to develop projects. The classes will mainly be taught on the weekends or after 6:00 pm (Pakistan Time) on weekdays so that everyone can attend. We will have main onsite classes supplemented by Zoom labs and recorded videos.
 
+![Web3 Metaverse](metaweb3.png)
+
 
 ### Quarter I
 
