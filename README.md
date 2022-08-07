@@ -96,23 +96,17 @@ The program will consist of four quarters. The fee will be Rs. 3,000 per quarter
 
 [Zia Khan](https://www.linkedin.com/in/ziaukhan/), Zeeshan Hanif, Asif Shah, Daniyal Nagori, Hira Khan, and [Khurram Shaikh](https://www.linkedin.com/in/khurram-shaikh-88524513/)
 
-## Faculty Schedule
+## Class Schedule
 
-Landed in Islamabad on Friday Afternoon
+Karachi: Wednesday 6:00 pm - 10:00 pm, Bahria Auditorium Karsaz
 
-Friday, Islamabad Class from 6 pm to 10 pm
+Peshawar: Friday 5:30 pm - 9:30 pm, A number of Auditorium's under consideration
 
-Saturday 9:00 am - 12:30 pm travel time from Islamabad to Peshawar
+Islamabad: Saturday, National University of Technology (NUTEC) Auditorium and others
 
-Saturday Peshawar Class from 1 pm to 5 pm
+Lahore: Sunday, UMT Auditorium and others
 
-Saturday 5:00 pm - 10:30 am travel time from Peshawar to Faisalabad
-
-Sunday Faisalabad Class from 9:00 pm to 1:00 pm
-
-Sunday 1:15 pm - 4:15 am travel time from Faisalabad to Lahore
-
-Sunday Lahore Class 5:00 pm to 9:00 pm
+Note: Those who do not live in the cities mentioned above should plan to travel to attend the class.
 
 
 ### Panaverse Community
