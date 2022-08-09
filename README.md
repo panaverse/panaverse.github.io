@@ -100,7 +100,7 @@ The program will consist of four quarters. The fee will be Rs. 3,000 per quarter
 
 Karachi: Wednesday 6:00 pm - 10:00 pm, Bahria Auditorium Karsaz
 
-Peshawar: Friday 5:30 pm - 9:30 pm, A number of Auditorium's under consideration
+Peshawar: Friday 3:00 pm - 7:00 pm, A number of Auditorium's under consideration
 
 Islamabad: Saturday, National University of Technology (NUTEC) Auditorium and others
 
