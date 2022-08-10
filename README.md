@@ -4,6 +4,8 @@
 
 [Watch the Insane Future of Web 3.0 and Metaverse Video in Urdu](https://www.youtube.com/watch?v=eEz1rnmCfn4)
 
+[JavaScript from Beginner to Professional: Learn JavaScript quickly by building fun, interactive, and dynamic web apps, games, and pages](https://www.amazon.com/JavaScript-Beginner-Professional-building-interactive/dp/1800562527/ref=sr_1_4)
+
 [Study The Panaverse Plan](https://docs.google.com/presentation/d/12C1s4UBTlR9nZNEkRE6aAuGeRA3s92jx-8nJKo9jdH4/edit?usp=sharing)
 
 ![Web3 Metaverse](metaverse.jpeg)
@@ -189,9 +191,9 @@ We will cover the following in class:
 
 [TypeScript and C# both were created by the same person named Anders Hejlsberg](https://dev.to/destrodevshow/typescript-and-c-both-created-by-the-same-person-named-anders-hejlsberg-42g4)
 
-[Essential TypeScript 4: From Beginner to Pro](https://www.oreilly.com/library/view/essential-typescript-4/9781484270110/)
+[JavaScript from Beginner to Professional: Learn JavaScript quickly by building fun, interactive, and dynamic web apps, games, and pages](https://www.amazon.com/JavaScript-Beginner-Professional-building-interactive/dp/1800562527/ref=sr_1_4)
 
-[Book Source Code](https://github.com/Apress/essential-typescript-4)
+[Learning TypeScript: Enhance Your Web Development Skills Using Type-Safe JavaScript](https://www.amazon.com/Learning-TypeScript-Development-Type-Safe-JavaScript/dp/1098110331/ref=sr_1_1)
 
 
 ## Quarter 1-C: C# Programming for Metaverse
