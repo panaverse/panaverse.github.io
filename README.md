@@ -89,6 +89,9 @@ The Web 2.0 and Web 3.0 layers can easily be extended to develop Metaverse exper
 3. [UX for XR: User Experience Design and Strategies for Immersive Technologies (Design Thinking)](https://www.amazon.com/UX-Experience-Strategies-Immersive-Technologies/dp/1484270193/ref=sr_1_1)
 4. [Brain-Computer Interfaces (BCI)](https://metaverse.acm.org/bci-for-interaction-with-metaverse/)
 5. [AI In The Metaverse](https://www.forbes.com/sites/forbestechcouncil/2022/04/18/the-metaverse-driven-by-ai-along-with-the-old-fashioned-kind-of-intelligence/)
+6. [Metaverse Avatar](https://metamandrill.com/metaverse-avatar/)
+7. [Digital Twins](https://www.businessofapps.com/insights/how-does-the-digital-twin-and-metaverse-technologies-relate/)
+8. [IoT and Metaverse](https://www.blockchain-council.org/metaverse/how-will-iot-integrate-the-real-world-with-the-metaverse/)
 
 ![Metaverse Relationships](metaverse_relationships.jpeg)
 
