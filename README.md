@@ -87,6 +87,7 @@ The Web 2.0 and Web 3.0 layers can easily be extended to develop Metaverse exper
 1. [Unity 3D XR Development Platform](https://docs.unity3d.com/Manual/XR.html)
 2. [C# for Unity XR Programming](https://docs.unity3d.com/Manual/ScriptingSection.html)
 3. [UX for XR: User Experience Design and Strategies for Immersive Technologies (Design Thinking)](https://www.amazon.com/UX-Experience-Strategies-Immersive-Technologies/dp/1484270193/ref=sr_1_1)
+4. [Brain-Computer Interfaces (BCI)](https://metaverse.acm.org/bci-for-interaction-with-metaverse/)
 
 ![Metaverse Relationships](metaverse_relationships.jpeg)
 
