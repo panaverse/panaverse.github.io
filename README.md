@@ -95,12 +95,14 @@ The metaverse development stack can be may be an open ecosystem with browser act
 3. [Three.js](https://threejs.org/manual/#en/fundamentals)
 4. [Webaverse](https://docs.webaverse.com/docs/index)
 
+For more details check out the [Panaverse's Open Metaverse learning repo](https://github.com/panaverse/metaverse-web).
+
 Currently, it seems that Apple, Meta, and Microsoft are going to introduce closed metaverse ecosystems. Unity 3D may be the best option to develop for these platforms: 
 
 1. [Unity 3D XR Development Platform](https://docs.unity3d.com/Manual/XR.html)
 2. [C# for Unity XR Programming](https://docs.unity3d.com/Manual/ScriptingSection.html)
 
-The following concepts and technologies will also help us build the metaverse of tomorrow:
+The following concepts and technologies will also help us build the metaverse experiences:
 
 1. [UX for XR: User Experience Design and Strategies for Immersive Technologies (Design Thinking)](https://www.amazon.com/UX-Experience-Strategies-Immersive-Technologies/dp/1484270193/ref=sr_1_1)
 2. [Brain-Computer Interfaces (BCI)](https://metaverse.acm.org/bci-for-interaction-with-metaverse/)
@@ -157,7 +159,6 @@ The online program consists of four quarters listed below and will mainly be foc
 
 [Quarter 1-B: Object Oriented Programming using Typescript](https://github.com/panaverse/panaverse.github.io/#quarter-1-b-object-oriented-programming-using-typescript)
 
-[Quarter 1-C: C# Programming for Metaverse](#quarter-1-c-c-programming-for-metaverse)
 
 ### Quarter II
 
@@ -219,17 +220,6 @@ Chapters 2-6, 13 of [JavaScript from Beginner to Professional: Learn JavaScript 
 Chapters 1-11 of [Learning TypeScript: Enhance Your Web Development Skills Using Type-Safe JavaScript](https://www.amazon.com/Learning-TypeScript-Development-Type-Safe-JavaScript/dp/1098110331/ref=sr_1_1)
 
 
-## Quarter 1-C: C# Programming for Metaverse
-
-[Follow this Repo](https://github.com/panaverse/metaverse-dev/)
-
-[Mono Project](https://www.mono-project.com/docs/)
-
-[Unity Mono](https://docs.unity3d.com/2022.2/Documentation/Manual/Mono.html)
-
-[The C# Player's Guide](https://www.amazon.com/C-Players-Guide-5th/dp/0985580151/ref=sr_1_1)
-
-
 ## Quarter II-A: Advanced Web 2.0 Development using Next.js
 
 [WHAT IS NEXT JS AND WHY SHOULD YOU USE IT IN 2022?](https://pagepro.co/blog/what-is-nextjs/)
@@ -242,6 +232,14 @@ Chapters 1-11 of [Learning TypeScript: Enhance Your Web Development Skills Using
 ## Quarter II-B: Metaverse Development with Unity and C#
 
 [Learning C# by Developing Games with Unity 2021](https://www.amazon.com/Learning-Developing-Games-Unity-2021/dp/1801813949/ref=sr_1_1)
+
+[Follow this Repo](https://github.com/panaverse/metaverse-dev/)
+
+[Mono Project](https://www.mono-project.com/docs/)
+
+[Unity Mono](https://docs.unity3d.com/2022.2/Documentation/Manual/Mono.html)
+
+[The C# Player's Guide](https://www.amazon.com/C-Players-Guide-5th/dp/0985580151/ref=sr_1_1)
 
 
 ## Quarter II-C: Smart Contract Development with Solidity and Hardhat for Metaverse Economy
@@ -494,6 +492,10 @@ We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in
 
 [Getting Started with CDK](https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html)
 
+
+Quarter III-D: Open Metaverse Development
+
+[Follow this Repo](https://github.com/panaverse/metaverse-dev/)
 
 
 ## Quarter IV-A: Advanced Web 3.0 Development: DAO, Oracles, Graphs, DeFi and Tokenomics
