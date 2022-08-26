@@ -1,6 +1,6 @@
 # Certified Web 3.0 and Metaverse Developer: A Nationwide Program in Karachi, Lahore, Islamabad, Peshawar, and Faisalabad
 
-## [APPLY FOR ADMISSION NOW](https://www.piaic.org/) Will Open in a Few Weeks
+## [APPLY FOR ADMISSION NOW](https://www.piaic.org/) 
 
 [Watch the Insane Future of Web 3.0 and Metaverse Video in Urdu](https://www.youtube.com/watch?v=eEz1rnmCfn4)
 
@@ -51,7 +51,9 @@ This program focuses on developing full-stack Web 3.0 and Metaverse experiences 
 
 After completing this program you will be able to develop 2D and 3D experiences that scale instantly to support even the most demanding applications, while at the same time delivering up to 90% cost savings. This stack which will be covered in this program is ideal for a broad set of applications. For example, enterprises that have hundreds of thousands of applications, or software as a service (SaaS) vendors that have multi-tenant environments with hundreds or thousands of databases, can use this stack across the entire enterprise both for 2D and 3D development.
 
-You can think of the stack which we will cover in this course in terms of layers. The first layer is the Web 2.0 technologies which provide the tools to develop 2D frontends and a highly sclable and cost effective cloud backend. The second layer is the Web 3.0 technolgies that is built using the first layer and the Ethererum blockchain. The third layer replaces the 2D frontends with 3D and XR technolgies for developing metaverse experiences. In the third layer we use all the backend technologies included in the first two layers, only the frontend changes.
+The term metaverse is a combination of the Greek words meta, which means "beyond," "transcending," or "more comprehensive," and english word universe, which means "all existing matter and space." The options for entering virtual reality are limited to open and closed metaverses. Because there is no single, universal vision of a 3D virtual world on which everyone can agree, we believe the Metaverse will be made up of a number of open and closed ecosystems.
+
+You can think of the stack which we will cover in this course in terms of layers. The first layer is the Web 2.0 technologies which provide the tools to develop 2D frontends and a highly sclable and cost effective cloud backend. The second layer is the Web 3.0 technolgies that is built using the first layer and the Ethererum blockchain. The third layer replaces the 2D frontends with 3D and XR technolgies for developing metaverse experiences. In the third layer we use all the backend technologies included in the first two layers, only the frontend changes. The third metaverse layer can be based on open and closed ecosystems. 
 
 [Why You Should Learn Web 2.0 Before Getting into Web 3.0](https://javascript.plainenglish.io/why-you-should-learn-web-2-0-before-getting-into-web-3-0-d251625990db) 
 
@@ -65,6 +67,8 @@ The Web 2.0 full stack applicatios are build using these technologies, this is t
 5. [AWS Lambda for Serverless Computing](https://aws.amazon.com/lambda/)
 6. [Panacloud CLI for API Development](https://www.npmjs.com/package/@panacloud/cli)
 7. [Amazon Aurora Serverless v2 PostgreSQL 13-compatible edition](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless-v2.html)
+
+For more details check out the [Panacloud Web 2 Learning Repo](https://github.com/panacloud-modern-global-apps/nextjs) and [projects repo](https://github.com/panacloud-modern-global-apps/chakra-nextjs-projects)
 
 
 This Web 2.0 stack can be easily extended to develop Web 3.0 Dapps using these technologies, this is the second layer:
@@ -80,18 +84,30 @@ This Web 2.0 stack can be easily extended to develop Web 3.0 Dapps using these t
 9. [Chainlink](https://chain.link/)
 10. Panacloud Panaweb Web 3 Framework (Under development)
 
-For more details check out the [Panacloud Web 3 Learning Repo](https://github.com/panacloud-modern-global-apps/defi-dapps-solidity-smart-contracts)
+For more details check out the [Panacloud Web 3 Learning Repo](https://github.com/panacloud-modern-global-apps/dapps-nextjs) and [Smart Contract Learning Repo](https://github.com/panacloud-modern-global-apps/defi-dapps-solidity-smart-contracts)
 
-The Web 2.0 and Web 3.0 layers can easily be extended to develop Metaverse experiences, which is the third layer in our stack. The backend will remain more less the same, the front-end will move towards 3D XR experiences from 2D user interfaces:
+The Web 2.0 and Web 3.0 layers can easily be extended to develop Metaverse experiences, which is the third layer in our stack. The backend will remain more less the same, the front-end will move towards 3D XR experiences from 2D user interfaces.
+
+The metaverse development stack can be may be an open ecosystem with browser acting as a sort of operating system:
+
+1. [WebGPU](https://www.w3.org/TR/webgpu/)
+2. [WebXR](https://immersiveweb.dev/)
+3. [Three.js](https://threejs.org/manual/#en/fundamentals)
+4. [Webaverse](https://docs.webaverse.com/docs/index)
+
+Currently, it seems that Apple, Meta, and Microsoft are going to introduce closed metaverse ecosystems. Unity 3D may be the best option to develop for these platforms: 
 
 1. [Unity 3D XR Development Platform](https://docs.unity3d.com/Manual/XR.html)
 2. [C# for Unity XR Programming](https://docs.unity3d.com/Manual/ScriptingSection.html)
-3. [UX for XR: User Experience Design and Strategies for Immersive Technologies (Design Thinking)](https://www.amazon.com/UX-Experience-Strategies-Immersive-Technologies/dp/1484270193/ref=sr_1_1)
-4. [Brain-Computer Interfaces (BCI)](https://metaverse.acm.org/bci-for-interaction-with-metaverse/)
-5. [AI In The Metaverse](https://www.forbes.com/sites/forbestechcouncil/2022/04/18/the-metaverse-driven-by-ai-along-with-the-old-fashioned-kind-of-intelligence/)
-6. [Metaverse Avatar](https://metamandrill.com/metaverse-avatar/)
-7. [Digital Twins](https://www.businessofapps.com/insights/how-does-the-digital-twin-and-metaverse-technologies-relate/)
-8. [IoT and Metaverse](https://www.blockchain-council.org/metaverse/how-will-iot-integrate-the-real-world-with-the-metaverse/)
+
+The following concepts and technologies will also help us build the metaverse of tomorrow:
+
+1. [UX for XR: User Experience Design and Strategies for Immersive Technologies (Design Thinking)](https://www.amazon.com/UX-Experience-Strategies-Immersive-Technologies/dp/1484270193/ref=sr_1_1)
+2. [Brain-Computer Interfaces (BCI)](https://metaverse.acm.org/bci-for-interaction-with-metaverse/)
+3. [AI In The Metaverse](https://www.forbes.com/sites/forbestechcouncil/2022/04/18/the-metaverse-driven-by-ai-along-with-the-old-fashioned-kind-of-intelligence/)
+4. [Metaverse Avatar](https://metamandrill.com/metaverse-avatar/)
+5. [Digital Twins](https://www.businessofapps.com/insights/how-does-the-digital-twin-and-metaverse-technologies-relate/)
+6. [IoT and Metaverse](https://www.blockchain-council.org/metaverse/how-will-iot-integrate-the-real-world-with-the-metaverse/)
 
 ![Metaverse Relationships](metaverse_relationships.jpeg)
 
