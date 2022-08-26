@@ -176,6 +176,8 @@ The online program consists of four quarters listed below and will mainly be foc
 
 [Quarter III-C: Serverless API Development](#quarter-iii-c-serverless-api-development)
 
+[Quarter III-D: Open Metaverse Web Development](#quarter-iii-d-open-metaverse-web-development)
+
 ### Quarter IV
 
 [Quarter IV-A: Advanced Web 3.0 Development: DAO, Oracles, Graphs, DeFi and Tokenomics](#quarter-iv-a-advanced-web-30-development-dao-oracles-graphs-defi-and-tokenomics)
@@ -495,7 +497,7 @@ We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in
 
 ## Quarter III-D: Open Metaverse Web Development 
 
-[Follow this Repo](https://github.com/panaverse/metaverse-dev/)
+[Follow this Repo](https://github.com/panaverse/metaverse-web)
 
 
 ## Quarter IV-A: Advanced Web 3.0 Development: DAO, Oracles, Graphs, DeFi and Tokenomics
