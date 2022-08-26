@@ -493,7 +493,7 @@ We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in
 [Getting Started with CDK](https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html)
 
 
-Quarter III-D: Open Metaverse Development
+## Quarter III-D: Open Metaverse Web Development 
 
 [Follow this Repo](https://github.com/panaverse/metaverse-dev/)
 
