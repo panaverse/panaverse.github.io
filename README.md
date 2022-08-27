@@ -155,9 +155,9 @@ The online program consists of four quarters listed below and will mainly be foc
 
 ### Quarter I
 
-[Quarter 1-A: Web 3.0 and Metaverse Theory](#quarter-1-b-object-oriented-programming-using-typescript)
+[Quarter 1-A: Web 3.0 and Metaverse Theory](#quarter-1-a-web-30-and-metaverse-theory)
 
-[Quarter 1-B: Object Oriented Programming using Typescript](https://github.com/panaverse/panaverse.github.io/#quarter-1-b-object-oriented-programming-using-typescript)
+[Quarter 1-B: Object Oriented Programming using Typescript](#quarter-1-b-object-oriented-programming-using-typescript)
 
 
 ### Quarter II
@@ -170,7 +170,7 @@ The online program consists of four quarters listed below and will mainly be foc
 
 ### Quarter III
 
-[Quarter III-A: Dapp Development using Ethers.js, Next.js, and Solidity](https://github.com/panaverse/panaverse.github.io/#quarter-iii-a-dapp-development-using-ethersjs-nextjs-and-solidity)
+[Quarter III-A: Dapp Development using Ethers.js, Next.js, and Solidity](#quarter-iii-a-dapp-development-using-ethersjs-nextjs-and-solidity)
 
 [Quarter III-B: Advanced Cross Platform Metaverse Development with Unity and C#](#quarter-iii-b-advanced-cross-platform-metaverse-development-with-unity-and-c)
 
