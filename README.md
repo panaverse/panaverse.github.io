@@ -18,6 +18,14 @@ All students are required to start learning JavaScript immediately, even before 
 
 Note: You will asked to take a Javascript Entry Test at the start of classes.
 
+## Earn Money While You Study
+
+The student will be able to earn money while studying in this program. This program is designed in such a way that students can begin earning money after completing the first six months of the programme. They will be assigned class projects that will provide them with a revenue stream. This revenue stream will continue even after the completing of the program.
+
+## Study, Work Hard or Get Out of the Way
+
+Students who do not pass exams or complete projects will be immediately dropped from the program.
+
 ## Outcome for Students
 
 The students who graduate from this one-year program will be able to earn $50 per hour, to begin with. This will be a great opportunity for students and professionals of Pakistan. 
