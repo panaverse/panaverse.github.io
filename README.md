@@ -8,7 +8,7 @@
 
 ## Earn Money While You Study
 
-![Earn while you study](earn.jpeg)
+![Earn while you study](Earn.jpeg)
 
 The student will be able to earn money while studying in this program. This program is designed in such a way that students can begin earning money after completing the first six months of the program. They will be assigned Web 2.0, Web 3, and Metaverse projects that will provide them with a revenue stream. This revenue stream will continue even after the completing of the program.
 
