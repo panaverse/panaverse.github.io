@@ -1,4 +1,4 @@
-# Certified Web 3.0 and Metaverse Developer: A Nationwide Program in Karachi, Lahore, Islamabad, Peshawar, and Faisalabad
+# Certified Web 3.0 and Metaverse Developer: A Nationwide Program in Karachi, Lahore, Islamabad, and Peshawar
 
 ## [APPLY FOR ADMISSION NOW](https://www.piaic.org/) 
 
