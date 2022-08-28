@@ -6,6 +6,12 @@
 
 [Review The Panaverse Presentation](https://docs.google.com/presentation/d/12C1s4UBTlR9nZNEkRE6aAuGeRA3s92jx-8nJKo9jdH4/edit?usp=sharing)
 
+## Earn Money While You Study
+
+![Earn while you study](earn.jpeg)
+
+The student will be able to earn money while studying in this program. This program is designed in such a way that students can begin earning money after completing the first six months of the program. They will be assigned Web 2.0, Web 3, and Metaverse projects that will provide them with a revenue stream. This revenue stream will continue even after the completing of the program.
+
 ![Web3 Metaverse](metaverse.jpeg)
 
 ## All Students Should Start Preparing For JavaScript Entry Test
@@ -20,9 +26,6 @@ Our JavaScript Text Book:
 
 Note: You will asked to take a Javascript Entry Test at the start of classes.
 
-## Earn Money While You Study
-
-The student will be able to earn money while studying in this program. This program is designed in such a way that students can begin earning money after completing the first six months of the program. They will be assigned class projects that will provide them with a revenue stream. This revenue stream will continue even after the completing of the program.
 
 ## Study, Work Hard, or Get Out of the Way
 
