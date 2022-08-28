@@ -22,7 +22,7 @@ Note: You will asked to take a Javascript Entry Test at the start of classes.
 
 The student will be able to earn money while studying in this program. This program is designed in such a way that students can begin earning money after completing the first six months of the programme. They will be assigned class projects that will provide them with a revenue stream. This revenue stream will continue even after the completing of the program.
 
-## Study, Work Hard or Get Out of the Way
+## Study, Work Hard, or Get Out of the Way
 
 Students who do not pass exams or complete projects will be immediately dropped from the program.
 
