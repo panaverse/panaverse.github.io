@@ -2,11 +2,9 @@
 
 ## [APPLY FOR ADMISSION NOW](https://www.piaic.org/) 
 
-[Watch the Insane Future of Web 3.0 and Metaverse Video in Urdu](https://www.youtube.com/watch?v=eEz1rnmCfn4)
+[Watch the Insane Future of Web 3.0 and Metaverse Introductory Video in Urdu](https://www.youtube.com/watch?v=eEz1rnmCfn4)
 
-[JavaScript from Beginner to Professional: Learn JavaScript quickly by building fun, interactive, and dynamic web apps, games, and pages](https://www.amazon.com/JavaScript-Beginner-Professional-building-interactive/dp/1800562527/ref=sr_1_4)
-
-[Study The Panaverse Plan](https://docs.google.com/presentation/d/12C1s4UBTlR9nZNEkRE6aAuGeRA3s92jx-8nJKo9jdH4/edit?usp=sharing)
+[Review The Panaverse Presentation](https://docs.google.com/presentation/d/12C1s4UBTlR9nZNEkRE6aAuGeRA3s92jx-8nJKo9jdH4/edit?usp=sharing)
 
 ![Web3 Metaverse](metaverse.jpeg)
 
@@ -15,6 +13,10 @@
 All students are required to start learning JavaScript immediately, even beforpdatee the program starts. If the number of students who apply for the program are greater than the seats available the applicants will be selected on the basis of JavaScript Quiz scores, which will be take at the start of classes. 
 
 [Watch JavaScript by Zeeshan Hanif to prepare for the Entry Test](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQdc0NSLknxmxBch5gLOqyo)
+
+Our JavaScript Text Book:
+
+[JavaScript from Beginner to Professional: Learn JavaScript quickly by building fun, interactive, and dynamic web apps, games, and pages](https://www.amazon.com/JavaScript-Beginner-Professional-building-interactive/dp/1800562527/ref=sr_1_4)
 
 Note: You will asked to take a Javascript Entry Test at the start of classes.
 
