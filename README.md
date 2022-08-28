@@ -233,6 +233,8 @@ Chapters 2-6, 13 of [JavaScript from Beginner to Professional: Learn JavaScript 
 
 Chapters 1-11 of [Learning TypeScript: Enhance Your Web Development Skills Using Type-Safe JavaScript](https://www.amazon.com/Learning-TypeScript-Development-Type-Safe-JavaScript/dp/1098110331/ref=sr_1_1)
 
+[TypeScript Projects for Students](https://github.com/panacloud-modern-global-apps/typescript-node-projects)
+
 
 ## Quarter II-A: Advanced Web 2.0 Development using Next.js
 
