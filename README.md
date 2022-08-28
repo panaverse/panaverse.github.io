@@ -230,6 +230,9 @@ Chapters 1-11 of [Learning TypeScript: Enhance Your Web Development Skills Using
 
 [Next.js Learning Repo](https://github.com/panacloud-modern-global-apps/nextjs)
 
+[Projects repo](https://github.com/panacloud-modern-global-apps/chakra-nextjs-projects)
+
+
 
 ## Quarter II-B: Metaverse Development with Unity and C#
 
@@ -464,9 +467,7 @@ Deploy your NFT contract on a testnet, mint it, and view it on the MetaMask wall
 
 ## Quarter III-A: Dapp Development using Ethers.js, Next.js, and Solidity
 
-[Ethers](https://docs.ethers.io/v5/)
-
-[Panaweb](https://github.com/panacloud/panaweb)
+[Panacloud Web 3 Learning Repo](https://github.com/panacloud-modern-global-apps/dapps-nextjs)
 
 
 ## Quarter III-B: Advanced Cross Platform Metaverse Development with Unity and C#
