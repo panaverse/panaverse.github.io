@@ -12,7 +12,7 @@
 
 ## All Students Should Start Preparing For JavaScript Entry Test
 
-All students are required to start learning JavaScript immediately, even before the program starts. If the number of students who apply for the program are greater than the seats available the applicants will be selected on the basis of JavaScript Quiz scores, which will be take at the start of classes. 
+All students are required to start learning JavaScript immediately, even beforpdatee the program starts. If the number of students who apply for the program are greater than the seats available the applicants will be selected on the basis of JavaScript Quiz scores, which will be take at the start of classes. 
 
 [Watch JavaScript by Zeeshan Hanif to prepare for the Entry Test](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQdc0NSLknxmxBch5gLOqyo)
 
@@ -20,7 +20,7 @@ Note: You will asked to take a Javascript Entry Test at the start of classes.
 
 ## Earn Money While You Study
 
-The student will be able to earn money while studying in this program. This program is designed in such a way that students can begin earning money after completing the first six months of the programme. They will be assigned class projects that will provide them with a revenue stream. This revenue stream will continue even after the completing of the program.
+The student will be able to earn money while studying in this program. This program is designed in such a way that students can begin earning money after completing the first six months of the program. They will be assigned class projects that will provide them with a revenue stream. This revenue stream will continue even after the completing of the program.
 
 ## Study, Work Hard, or Get Out of the Way
 
