@@ -10,7 +10,7 @@
 
 ## All Students Should Start Learning JavaScript
 
-All students are required to start learning JavaScript immediately, even beforpdatee the program starts. It will help them in hit the running when the classes start. 
+All students are required to start learning JavaScript immediately, even before the program starts. It will help them prepare for the classes. 
 
 [Watch JavaScript by Zeeshan Hanif](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQdc0NSLknxmxBch5gLOqyo)
 
