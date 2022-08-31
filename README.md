@@ -145,9 +145,9 @@ The program will consist of four quarters. The fee will be Rs. 3,000 per quarter
 
 ### Karachi
 
-Wednesday: 6:00 pm to 10:00 pm in Bahria Auditorium
+Tuesday: 6:00 pm to 10:00 pm in Bahria Auditorium
 
-Thursday or Tuesday (not final yet): 6:00 pm to 10:00 pm in Bahria Auditorium
+Wednesday: 6:00 pm to 10:00 pm in Bahria Auditorium
 
 2 Sections of 750 each in Karachi = 1,500
 
