@@ -163,7 +163,7 @@ Sunday: Section D - 2:00 pm to 6:00 pm in UMT Auditorium
 
 Saturday: Section E - 9:00 am to 1:00 pm in Air University Auditorium
 
-Sunday: Section F - 2:00 pm to 6:00 pm in Air University Auditorium
+Saturday: Section F - 2:00 pm to 6:00 pm in Air University Auditorium
 
 2 Sections of 480 each in Islamabad = 960
 
