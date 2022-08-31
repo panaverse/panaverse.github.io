@@ -8,27 +8,33 @@
 
 ![Web3 Metaverse](metaverse.jpeg)
 
-## All Students Should Start Preparing For JavaScript Entry Test
+## All Students Should Start Learning JavaScript
 
-All students are required to start learning JavaScript immediately, even beforpdatee the program starts. If the number of students who apply for the program are greater than the seats available the applicants will be selected on the basis of JavaScript Quiz scores, which will be take at the start of classes. 
+All students are required to start learning JavaScript immediately, even beforpdatee the program starts. It will help them in hit the running when the classes start. 
 
-[Watch JavaScript by Zeeshan Hanif to prepare for the Entry Test](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQdc0NSLknxmxBch5gLOqyo)
+[Watch JavaScript by Zeeshan Hanif](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQdc0NSLknxmxBch5gLOqyo)
 
 Our JavaScript Text Book:
 
 [JavaScript from Beginner to Professional: Learn JavaScript quickly by building fun, interactive, and dynamic web apps, games, and pages](https://www.amazon.com/JavaScript-Beginner-Professional-building-interactive/dp/1800562527/ref=sr_1_4)
 
-Note: You will asked to take a Javascript Entry Test at the start of classes.
+## Prime Directive of the Program:
+
+Students who do not fulfill these three requirements will immediately be dropped from the program:
+
+1. Pass All Quizzes
+2. Complete and Submit All Projects (No copy-paste allowed)
+3. Earn Dollars in the International market, as per faculty direction. 
+
+## Study, Work Hard, or Get Out of the Way
+
+Students who do not pass exams or complete projects will be immediately dropped from the program.
 
 ## Earn Money While You Study
 
 ![Earn while you study](earn.jpg)
 
 The student will be able to earn money while studying in this program. This program is designed in such a way that students can begin earning money after completing the first six months of the program. They will be assigned Web 2, Web 3, and Metaverse projects that will provide them with a revenue stream. This revenue stream will continue even after the completing of the program.
-
-## Study, Work Hard, or Get Out of the Way
-
-Students who do not pass exams or complete projects will be immediately dropped from the program.
 
 ## Outcome for Students
 
@@ -137,13 +143,34 @@ The program will consist of four quarters. The fee will be Rs. 3,000 per quarter
 
 ## Class Schedule
 
-Karachi: Wednesday 6:00 pm - 10:00 pm, Bahria Auditorium Karsaz
+### Karachi
 
-Peshawar: Friday 3:00 pm - 7:00 pm, A number of Auditorium's under consideration
+Wednesday: 6:00 pm to 10:00 pm in Bahria Auditorium
 
-Islamabad: Saturday, National University of Technology (NUTEC) Auditorium and others
+Thursday or Tuesday (not final yet): 6:00 pm to 10:00 pm in Bahria Auditorium
 
-Lahore: Sunday, UMT Auditorium and others
+2 Sections of 750 each in Karachi = 1,500
+
+### Lahore
+
+Sunday: 9:00 am to 1:00 pm in UMT Auditorium
+
+Sunday: 2:00 pm to 6:00 pm in UMT Auditorium
+
+2 Sections of 500 each in Lahore = 1,000
+
+### Islamabad
+
+Saturday: 9:00 am to 1:00 pm in Air University Auditorium
+
+Sunday: 2:00 pm to 6:00 pm in Air University Auditorium
+
+2 Sections of 480 each in Islamabad = 960
+
+### Peshawar
+Friday: 3:00 pm to 7:00 pm in CECOS Auditorium
+
+1 Section of 250 in Peshawar = 250
 
 Note: Those who do not live in the cities mentioned above should plan to travel to attend the class.
 
