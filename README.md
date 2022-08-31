@@ -145,30 +145,30 @@ The program will consist of four quarters. The fee will be Rs. 3,000 per quarter
 
 ### Karachi
 
-Tuesday: 6:00 pm to 10:00 pm in Bahria Auditorium
+Tuesday: Section A - 6:00 pm to 10:00 pm in Bahria Auditorium
 
-Wednesday: 6:00 pm to 10:00 pm in Bahria Auditorium
+Wednesday: Section B - 6:00 pm to 10:00 pm in Bahria Auditorium
 
 2 Sections of 750 each in Karachi = 1,500
 
 ### Lahore
 
-Sunday: 9:00 am to 1:00 pm in UMT Auditorium
+Sunday: Section C - 9:00 am to 1:00 pm in UMT Auditorium
 
-Sunday: 2:00 pm to 6:00 pm in UMT Auditorium
+Sunday: Section D - 2:00 pm to 6:00 pm in UMT Auditorium
 
 2 Sections of 500 each in Lahore = 1,000
 
 ### Islamabad
 
-Saturday: 9:00 am to 1:00 pm in Air University Auditorium
+Saturday: Section E - 9:00 am to 1:00 pm in Air University Auditorium
 
-Sunday: 2:00 pm to 6:00 pm in Air University Auditorium
+Sunday: Section F - 2:00 pm to 6:00 pm in Air University Auditorium
 
 2 Sections of 480 each in Islamabad = 960
 
 ### Peshawar
-Friday: 3:00 pm to 7:00 pm in CECOS Auditorium
+Friday: Section G - 3:00 pm to 7:00 pm in CECOS Auditorium
 
 1 Section of 250 in Peshawar = 250
 
