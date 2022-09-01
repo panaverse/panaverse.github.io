@@ -177,7 +177,7 @@ Note: Those who do not live in the cities mentioned above should plan to travel 
 
 ### Panaverse Community
 
-[Join the Metaverse Discord Channel](https://discord.gg/GggDkBwJDr)
+[Join the Panacloud's Panaverse Discord Text and Voice Channels](https://discord.gg/GggDkBwJDr)
 
 [Join the Metaverse Facebook Group](https://www.facebook.com/groups/metaverse.dev/)
 
