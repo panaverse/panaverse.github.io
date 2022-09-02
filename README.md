@@ -240,7 +240,41 @@ The online program consists of four quarters listed below and will mainly be foc
 
 [XR Design Principles and Best Practices](https://www.youtube.com/watch?v=TSu9SQ-hoCk)
 
-Also refer to Appendix E for reading list
+Also refer to Appendix E for reading list.
+
+### Quarter I Metaverse Presentations:
+
+The students are required to make Metaverse presentations on Google slides: 
+
+1. What is the Metaverse? (Part I of The Metaverse Textbook).
+2. How the Metaverse Will Revolutionize Everything? (Part III of The Metaverse Textbook).
+3. What is Required to Build the Metaverse? (Part II of The Metaverse Textbook).
+
+In addition to the Textbook reading material you may refer to any additional material with references.
+
+Bonus Points:
+Students who upload a video presentation on YouTube will receive a large number of bonus points.
+.
+When you have completed your presentation please submit your repository URL in this form:
+
+[Web 3.0 and Metaverse Project Submission Form](https://forms.gle/H6HsTPhP3tpEaK7V7)
+
+### Quarter I Web 3.0 Presentations:
+
+The students are required to make Web 3 presentations on Google slides: 
+
+1. Blockchain 101 and Decentralization (Chapters 1 and 2 of Mastering Blockchain Textbook).
+2. Ethereum and Smart Contracts (Chapters 10, 11, 12, and 13 of Mastering Blockchain Textbook).
+3. Tokenization (Chapter 18 of Mastering Blockchain Textbook).
+
+In addition to the Textbook reading material you may refer to any additional material with references.
+
+Bonus Points:
+Students who upload a video presentation on YouTube will receive a large number of bonus points.
+
+When you have completed your presentation please submit your repository URL in this form:
+
+[Web 3.0 and Metaverse Project Submission Form](https://forms.gle/H6HsTPhP3tpEaK7V7)
 
 ## Quarter 1-B: Object Oriented Programming using Typescript
 
@@ -260,7 +294,20 @@ Chapters 2-6, 13 of [JavaScript from Beginner to Professional: Learn JavaScript 
 
 Chapters 1-11 of [Learning TypeScript: Enhance Your Web Development Skills Using Type-Safe JavaScript](https://www.amazon.com/Learning-TypeScript-Development-Type-Safe-JavaScript/dp/1098110331/ref=sr_1_1)
 
+### Quarter I TypeScript Coding Projects:
+
 [TypeScript Projects for Students](https://github.com/panacloud-modern-global-apps/typescript-node-projects)
+
+Please create a private Github repository for each project and give read access to Faculty Github IDs: 
+
+1. ziapanacloud
+2. daniyalnagori
+
+When you have completed your project please submit your repository URL in this form:
+
+[Web 3.0 and Metaverse Project Submission Form](https://forms.gle/H6HsTPhP3tpEaK7V7)
+
+Note: Plagiarism is illegal, immoral and unacceptable. Any student who plagiarizes will immediately be removed from the program.
 
 
 ## Quarter II-A: Advanced Web 2.0 Development using Next.js
@@ -272,7 +319,6 @@ Chapters 1-11 of [Learning TypeScript: Enhance Your Web Development Skills Using
 [Next.js Learning Repo](https://github.com/panacloud-modern-global-apps/nextjs)
 
 [Projects repo](https://github.com/panacloud-modern-global-apps/chakra-nextjs-projects)
-
 
 
 ## Quarter II-B: Metaverse Development with Unity and C#
