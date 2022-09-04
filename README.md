@@ -336,9 +336,11 @@ When you have completed your project please submit your repository URL in this f
 
 Note: Plagiarism is illegal, immoral and unacceptable. Any student who plagiarizes will immediately be removed from the program.
 
-### Study Material for Super-Achievers: UI/UX Design using Figma
+### Study Material for Super-Achievers: UI/UX Design using Figma and Design Patterns
 
 [Textbook for Super-Achievers: Designing and Prototyping Interfaces with Figma](https://www.packtpub.com/product/designing-and-prototyping-interfaces-with-figma/9781800564183)
+
+[Design Patterns in TypeScript](https://refactoring.guru/design-patterns/typescript)
 
 
 ## Quarter II-A: Advanced Web 2.0 Development using Next.js
