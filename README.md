@@ -36,6 +36,10 @@ Students who do not pass exams or complete projects will be immediately dropped 
 
 The student will be able to earn money while studying in this program. This program is designed in such a way that students can begin earning money after completing the first six months of the program. They will be assigned Web 2, Web 3, and Metaverse projects that will provide them with a revenue stream. This revenue stream will continue even after the completing of the program.
 
+All students of the Certified Web 3.0 and Mataverse Program will be part of the program with the objective of generating revenue in dollars ASAP.
+As soon as the students have demonstrated that he/she can do professional work using TypeScript, Next.js, Chakra UI, etc. they will become Panacloud Developer Associates. They will be assigned a project by the Faculty Leads and assigned to one of the following Project Managers who will supervise their work:
+Hira, Moshin, Aamir, Arsalan, Adil, Waris, Murtaza, Uzair, Tanzeel, and Hasan.
+
 ## Outcome for Students
 
 The students who graduate from this one-year program will be able to earn $50 per hour, to begin with. This will be a great opportunity for students and professionals of Pakistan. 
