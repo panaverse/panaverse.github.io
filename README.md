@@ -336,6 +336,20 @@ When you have completed your project please submit your repository URL in this f
 
 Note: Plagiarism is illegal, immoral and unacceptable. Any student who plagiarizes will immediately be removed from the program.
 
+### The Topic in Detail to be Covered in Class:
+
+Class 1:
+
+1. Review the Details of the Program ( www.pavaverse.co ) including the "Earn While You Learn" which is integrated in the Program.
+2. Discuss the procedure of appointing Class Representatives, Graders, and Faculty in Training.
+3. What is the Metaverse? (Initial Review of Chapters 1-4 of The Metaverse Book by Matthew Ball).
+4. Blockchain 101 (Chapter 1 of Mastering Blockchain by Imran Bashir).
+5. Install Chrome, VS Code, and Node.js
+6. JavaScript in the Browser: Chapters 1 and 2 of JavaScript from Beginners to Professional by Svekis, Putten, and Percival.
+7. JavaScript on the Server: Node and NPM Introduction https://www.tutorialspoint.com/nodejs/index.htm
+8. TypeScript is the de facto standard: https://www.innoq.com/en/articles/2022/06/dependently-typed-typescript/
+
+
 ### Study Material for Super-Achievers: UI/UX Design using Figma and Design Patterns
 
 [Textbook for Super-Achievers: Designing and Prototyping Interfaces with Figma](https://www.packtpub.com/product/designing-and-prototyping-interfaces-with-figma/9781800564183)
