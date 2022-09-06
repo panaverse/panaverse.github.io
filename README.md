@@ -4,6 +4,8 @@
 
 [Watch the Insane Future of Web 3.0 and Metaverse Introductory Video in Urdu](https://www.youtube.com/watch?v=eEz1rnmCfn4)
 
+[Watch What is Web 3.0 in Urdu](https://fb.watch/fmJYCjmoO0/)
+
 [Review The Panaverse Presentation](https://docs.google.com/presentation/d/12C1s4UBTlR9nZNEkRE6aAuGeRA3s92jx-8nJKo9jdH4/edit?usp=sharing)
 
 ![Web3 Metaverse](metaverse.jpeg)
