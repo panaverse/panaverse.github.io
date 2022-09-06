@@ -6,6 +6,8 @@
 
 [Watch What is Web 3.0 in Urdu](https://fb.watch/fmJYCjmoO0/)
 
+[What Welcome to Metaverse in Urdu](https://youtu.be/vIOuipT4LI4)
+
 [Review The Panaverse Presentation](https://docs.google.com/presentation/d/12C1s4UBTlR9nZNEkRE6aAuGeRA3s92jx-8nJKo9jdH4/edit?usp=sharing)
 
 ![Web3 Metaverse](metaverse.jpeg)
