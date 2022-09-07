@@ -206,11 +206,11 @@ The online program consists of four quarters listed below and will mainly be foc
 
 [Quarter 1-B: Object Oriented Programming using Typescript](#quarter-i-b-object-oriented-programming-using-typescript)
 
-[Quarter I Assignments and Projects](#assignments-and-projects)
+[Quarter I Assignments and Projects](#quarter-i-assignments-and-projects)
 
-[Required: Learn Fundamentals of Version Control with Git]()
+[Required: Learn Fundamentals of Version Control with Git](#required-learn-fundamentals-of-version-control-with-git)
 
-[Study Material for Super-Achievers: UI/UX Design using Figma and Design Patterns]()
+[Study Material for Super-Achievers: UI/UX Design using Figma and Design Patterns](#study-material-for-super-achievers-uiux-design-using-figma-and-design-patterns)
 
 ### Quarter II
 
@@ -219,6 +219,8 @@ The online program consists of four quarters listed below and will mainly be foc
 [Quarter II-B: Open Metaverse Web Development](#quarter-ii-b-open-metaverse-web-development)
 
 [Quarter II-C: Smart Contract Development with Solidity and Hardhat for Metaverse Economy](#quarter-ii-c-smart-contract-development-with-solidity-and-hardhat-for-metaverse-economy)
+
+[Study Material for Super-Achievers: Blender 3D Asset Creation for the Metaverse](#study-material-for-super-achievers-blender-3d-asset-creation-for-the-metaverse)
 
 ### Quarter III
 
