@@ -202,14 +202,15 @@ The online program consists of four quarters listed below and will mainly be foc
 
 ### Quarter I
 
-[Quarter 1-A: Web 3.0 and Metaverse Theory](#quarter-1-a-web-30-and-metaverse-theory)
+[Quarter 1-A: Web 3.0 and Metaverse Theory](#quarter-i-a-web-30-and-metaverse-theory)
 
-[Quarter 1-B: Object Oriented Programming using Typescript](#quarter-1-b-object-oriented-programming-using-typescript)
+[Quarter 1-B: Object Oriented Programming using Typescript](#quarter-i-b-object-oriented-programming-using-typescript)
 
-Assignments and Projects:
+[Quarter I Assignments and Projects](#assignments-and-projects)
 
-[Assignments and Projects](#quarter-i-metaverse-presentations)
+[Required: Learn Fundamentals of Version Control with Git]()
 
+[Study Material for Super-Achievers: UI/UX Design using Figma and Design Patterns]()
 
 ### Quarter II
 
@@ -239,7 +240,7 @@ Assignments and Projects:
 
 ## Program Details:
 
-## Quarter 1-A: Web 3.0 and Metaverse Theory
+## Quarter I-A: Web 3.0 and Metaverse Theory
 
 [Metaverse: Open for business?](https://www.technologyreview.com/2022/06/27/1054974/metaverse-open-for-business/)
 
@@ -254,7 +255,7 @@ Assignments and Projects:
 Also refer to Appendix E for reading list.
 
 
-## Quarter 1-B: Object Oriented Programming using Typescript
+## Quarter I-B: Object Oriented Programming using Typescript
 
 The student should learn HTML, CSS, and Javascript by going through these videos:
 
@@ -272,7 +273,7 @@ Chapters 2-6, 13 of [JavaScript from Beginner to Professional: Learn JavaScript 
 
 Chapters 1-11 of [Learning TypeScript: Enhance Your Web Development Skills Using Type-Safe JavaScript](https://www.amazon.com/Learning-TypeScript-Development-Type-Safe-JavaScript/dp/1098110331/ref=sr_1_1)
 
-### Assignments and Projects
+### Quarter I Assignments and Projects
 
 ### Quarter I Metaverse Presentations
 
@@ -312,7 +313,7 @@ When you have completed your presentation please submit your repository URL in t
 
 [TypeScript Projects for Students](https://github.com/panacloud-modern-global-apps/typescript-node-projects)
 
-### Learn Fundamentals of Version Control with Git 
+### Required: Learn Fundamentals of Version Control with Git 
 
 All projects will be sumitted by creating a public repository on GitHub. Please learn Git and GitHub by using these resources:
 
