@@ -345,7 +345,7 @@ Note: Plagiarism is illegal, immoral and unacceptable. Any student who plagiariz
 
 ### The Topic in Detail to be Covered in Class:
 
-Class 1:
+### Class 1:
 
 1. Review the Details of the Program ( www.pavaverse.co ) including the "Earn While You Learn" which is integrated in the Program.
 2. Discuss the procedure of appointing Class Representatives, Graders, and Faculty in Training.
@@ -596,6 +596,49 @@ You may use the [Preset ERC721 contract](https://docs.openzeppelin.com/contracts
 Deploy your NFT contract on a testnet, mint it, and view it on the MetaMask wallet and list it on [OpenSea Marketplace](https://opensea.io/) for sale.
 
 [Implement a ERC721 Market](https://ethereum.org/en/developers/tutorials/how-to-implement-an-erc721-market/)
+
+
+### Study Material for Super-Achievers: Blender 3D asset creation for the Metaverse
+
+Blender development is being funded by heavyweights in the real-time 3D (RT3D) space such as Apple, Unity, AMD, Intel, Meta, NVIDIA, AWS, Epic Games, Adobe, Microsoft, and Decentraland. It is expected to become the standard asset creation tool for metaverse. 
+
+[Blender 3.0+ Download](https://www.blender.org/download/)
+
+[Blender 3.0 Beginner Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD)
+
+[Blender 3.0 Hotkey](https://docs.google.com/document/d/1zPBgZAdftWa6WVa7UIFUqW_7EcqOYE0X743RqFuJL3o/edit)
+
+[Blender Projects Textbook: Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
+
+[Blender Textbook: The Complete Guide to Blender Graphics: Computer Modeling & Animation 7th Edition by John M. Blain](https://www.amazon.com/Complete-Guide-Blender-Graphics-Animation/dp/103212167X/ref=sr_1_5)
+
+[Best Hardware Performance for Blender Rendering](https://www.youtube.com/watch?v=H7T0SzdFHwg)
+
+### Assignment 3:
+
+Build a 3D Donut using Blender 3 as shown in these [video tutorials](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD).
+
+### Assignment 4:
+
+Build a 3D Sword in the Stone using Blender 3 as shown in these [video tutorials](https://www.youtube.com/watch?v=bpvh-9H8S1g)
+
+### Assignment 5:
+
+Build a Viking Scene using Blender 3 as shown in chapter 2 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
+
+### Assignment 6:
+
+Modeling a Time Machine using Blender 3 as shown in chapters 3 and 4 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
+
+### Assignment 7:
+
+Build a Modern Kitchen using Blender 3 as shown in chapters 5, 6, and 7 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
+
+### Assignment 8:
+
+Illustrating an Alien Hero with Grease Pencil as shown in chapter 8 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
+
+
 
 
 ## Quarter III-A: Dapp Development using Ethers.js, Next.js, and Solidity
@@ -997,47 +1040,6 @@ Five reasons we are doing this:
 3. To teach others from this material
 4. Have reference material for ourselves
 5. To see who are the leaders and best workers in this group
-
-## Appendix E: Blender 3D asset creation for the Metaverse:
-
-Blender development is being funded by heavyweights in the real-time 3D (RT3D) space such as Apple, Unity, AMD, Intel, Meta, NVIDIA, AWS, Epic Games, Adobe, Microsoft, and Decentraland. It is expected to become the standard asset creation tool for metaverse. 
-
-[Blender 3.0+ Download](https://www.blender.org/download/)
-
-[Blender 3.0 Beginner Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD)
-
-[Blender 3.0 Hotkey](https://docs.google.com/document/d/1zPBgZAdftWa6WVa7UIFUqW_7EcqOYE0X743RqFuJL3o/edit)
-
-[Blender Projects Textbook: Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
-
-[Blender Textbook: The Complete Guide to Blender Graphics: Computer Modeling & Animation 7th Edition by John M. Blain](https://www.amazon.com/Complete-Guide-Blender-Graphics-Animation/dp/103212167X/ref=sr_1_5)
-
-[Best Hardware Performance for Blender Rendering](https://www.youtube.com/watch?v=H7T0SzdFHwg)
-
-### Assignment 3:
-
-Build a 3D Donut using Blender 3 as shown in these [video tutorials](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD).
-
-### Assignment 4:
-
-Build a 3D Sword in the Stone using Blender 3 as shown in these [video tutorials](https://www.youtube.com/watch?v=bpvh-9H8S1g)
-
-### Assignment 5:
-
-Build a Viking Scene using Blender 3 as shown in chapter 2 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
-
-### Assignment 6:
-
-Modeling a Time Machine using Blender 3 as shown in chapters 3 and 4 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
-
-### Assignment 7:
-
-Build a Modern Kitchen using Blender 3 as shown in chapters 5, 6, and 7 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
-
-### Assignment 8:
-
-Illustrating an Alien Hero with Grease Pencil as shown in chapter 8 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
-
 
 
 
