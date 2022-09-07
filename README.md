@@ -91,8 +91,11 @@ The Web 2.0 full stack applicatios are build using these technologies, this is t
 3. [Front-end Web 2.0 Development Using Next.js](https://nextjs.org/)
 4. [Infrastructure as Code using AWS Cloud Development Kit](https://aws.amazon.com/cdk/)
 5. [AWS Lambda for Serverless Computing](https://aws.amazon.com/lambda/)
-6. [Panacloud CLI for API Development](https://www.npmjs.com/package/@panacloud/cli)
-7. [Amazon Aurora Serverless v2 PostgreSQL 13-compatible edition](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless-v2.html)
+6. [Prisma ORM](https://www.prisma.io/)
+7. [Serverless Databases](https://mobisoftinfotech.com/resources/blog/serverless-database/)
+8. [Strapi Headless CMS](https://strapi.io/)
+9. [Panacloud CLI for API Development](https://www.npmjs.com/package/@panacloud/cli)
+
 
 For more details check out the [Panacloud Web 2 Learning Repo](https://github.com/panacloud-modern-global-apps/nextjs) and [projects repo](https://github.com/panacloud-modern-global-apps/chakra-nextjs-projects)
 
