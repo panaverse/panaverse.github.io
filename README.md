@@ -376,17 +376,9 @@ Class 1:
 [Projects repo](https://github.com/panacloud-modern-global-apps/chakra-nextjs-projects)
 
 
-## Quarter II-B: Metaverse Development with Unity and C#
+## Quarter II-B: Open Metaverse Web Development 
 
-[Learning C# by Developing Games with Unity 2021](https://www.amazon.com/Learning-Developing-Games-Unity-2021/dp/1801813949/ref=sr_1_1)
-
-[Follow this Repo](https://github.com/panaverse/metaverse-dev/)
-
-[Mono Project](https://www.mono-project.com/docs/)
-
-[Unity Mono](https://docs.unity3d.com/2022.2/Documentation/Manual/Mono.html)
-
-[The C# Player's Guide](https://www.amazon.com/C-Players-Guide-5th/dp/0985580151/ref=sr_1_1)
+[Follow this Repo](https://github.com/panaverse/metaverse-web)
 
 
 ## Quarter II-C: Smart Contract Development with Solidity and Hardhat for Metaverse Economy
@@ -612,17 +604,17 @@ Deploy your NFT contract on a testnet, mint it, and view it on the MetaMask wall
 [Panacloud Web 3 Learning Repo](https://github.com/panacloud-modern-global-apps/dapps-nextjs)
 
 
-## Quarter III-B: Advanced Cross Platform Metaverse Development with Unity and C#
+## Quarter III-B: Metaverse Development with Unity and C#
 
-[Mind-Melding Unity and Blender for 3D Game Development](https://www.packtpub.com/product/mind-melding-unity-and-blender-for-3d-game-development/9781801071550)
+[Learning C# by Developing Games with Unity 2021](https://www.amazon.com/Learning-Developing-Games-Unity-2021/dp/1801813949/ref=sr_1_1)
 
-[OpenXR](https://en.wikipedia.org/wiki/OpenXR)
+[Follow this Repo](https://github.com/panaverse/metaverse-dev/)
 
-[The time to embrace OpenXR is now](https://www.linkedin.com/pulse/time-embrace-openxr-now-ivana-tilca/)
+[Mono Project](https://www.mono-project.com/docs/)
 
-[Oculus is “All in on OpenXR,” New Developer Features Will Come to OpenXR Only](https://www.roadtovr.com/oculus-openxr-shift-unity-unreal-engine/)
+[Unity Mono](https://docs.unity3d.com/2022.2/Documentation/Manual/Mono.html)
 
-[Unity OpenXR Plugin](https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.3/manual/index.html)
+[The C# Player's Guide](https://www.amazon.com/C-Players-Guide-5th/dp/0985580151/ref=sr_1_1)
 
 
 ## Quarter III-C: Serverless API Development 
@@ -637,10 +629,6 @@ We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in
 
 [Getting Started with CDK](https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html)
 
-
-## Quarter III-D: Open Metaverse Web Development 
-
-[Follow this Repo](https://github.com/panaverse/metaverse-web)
 
 
 ## Quarter IV-A: Advanced Web 3.0 Development: DAO, Oracles, Graphs, DeFi and Tokenomics
@@ -668,13 +656,24 @@ We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in
 
 
 
-## Quarter IV-C: Designing and Developing Metaverse Dapp Experiences
+## Quarter IV-C: Advanced Cross Platform Metaverse Development with Unity and C#
+
+[Mind-Melding Unity and Blender for 3D Game Development](https://www.packtpub.com/product/mind-melding-unity-and-blender-for-3d-game-development/9781801071550)
+
+[OpenXR](https://en.wikipedia.org/wiki/OpenXR)
+
+[The time to embrace OpenXR is now](https://www.linkedin.com/pulse/time-embrace-openxr-now-ivana-tilca/)
+
+[Oculus is “All in on OpenXR,” New Developer Features Will Come to OpenXR Only](https://www.roadtovr.com/oculus-openxr-shift-unity-unreal-engine/)
+
+[Unity OpenXR Plugin](https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.3/manual/index.html)
 
 [HOW TO BUILD A METAVERSE DAPP WITH UNITY](https://www.leewayhertz.com/metaverse-unity-development/)
 
 [Designing XR Textbook: Designing Immersive 3D Experiences - A Designer's Guide to Creating Realistic 3D Experiences for Extended Reality](https://www.amazon.com/Designing-Immersive-Experiences-Designers-Realistic/dp/0137282834/ref=sr_1_8)
 
 [UX for XR: User Experience Design and Strategies for Immersive Technologies (Design Thinking)](https://www.amazon.com/UX-Experience-Strategies-Immersive-Technologies/dp/1484270193/ref=sr_1_1)
+
 
 
 
