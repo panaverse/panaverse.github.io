@@ -398,8 +398,6 @@ Note: Plagiarism is illegal, immoral and unacceptable. Any student who plagiariz
 
 [Next.js Learning Repo](https://github.com/panacloud-modern-global-apps/nextjs)
 
-[Projects repo](https://github.com/panacloud-modern-global-apps/chakra-nextjs-projects)
-
 
 ## Quarter II-B: Open Metaverse Web Development 
 
@@ -509,10 +507,15 @@ Note: Plagiarism is illegal, immoral and unacceptable. Any student who plagiariz
 
 [Class 11: Step 6B - Vacation Project Assignment in Urdu on YouTube](https://youtu.be/hLVxr-1seaA)
 
-
+### Quarter II Assignments and Projects
 
 ### Blockchain Project 1: Create a Token and Launch ICO/IEO/IDO
 
+[Chakra UI Projects Repo](https://github.com/panacloud-modern-global-apps/chakra-nextjs-projects)
+
+[Next.js Projects](https://github.com/panacloud-modern-global-apps/nextjs-projects)
+
+Web 3.0 Projects:
 
 As you probably know, the ICO ("Initial Coin Offering") industry has been booming, and it's completely reinventing the way new startups kickstart themselves. In fact, go have a look at [Wikipedia's list of highest crowdfunding projects](https://en.wikipedia.org/wiki/List_of_highest-funded_crowdfunding_projects), and you'll notice that blockchain projects absolutely dominate the list.
 
