@@ -998,7 +998,7 @@ Five reasons we are doing this:
 4. Have reference material for ourselves
 5. To see who are the leaders and best workers in this group
 
-## Appendix E: Blender 3D Graphics
+## Appendix E: Blender 3D asset creation for the Metaverse:
 
 Blender development is being funded by heavyweights in the real-time 3D (RT3D) space such as Apple, Unity, AMD, Intel, Meta, NVIDIA, AWS, Epic Games, Adobe, Microsoft, and Decentraland. It is expected to become the standard asset creation tool for metaverse. 
 
