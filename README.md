@@ -219,11 +219,10 @@ The online program consists of four quarters listed below and will mainly be foc
 
 [Quarter III-A: Dapp Development using Ethers.js, Next.js, and Solidity](#quarter-iii-a-dapp-development-using-ethersjs-nextjs-and-solidity)
 
-[Quarter III-B: Advanced Cross Platform Metaverse Development with Unity and C#](#quarter-iii-b-advanced-cross-platform-metaverse-development-with-unity-and-c)
+[Quarter III-B: Metaverse Development with Unity and C#](#quarter-iii-b-metaverse-development-with-unity-and-c)
 
 [Quarter III-C: Serverless API Development](#quarter-iii-c-serverless-api-development)
 
-[Quarter III-D: Open Metaverse Web Development](#quarter-iii-d-open-metaverse-web-development)
 
 ### Quarter IV
 
@@ -231,7 +230,7 @@ The online program consists of four quarters listed below and will mainly be foc
 
 [Quarter IV-B: Computer Graphics Programming](#quarter-iv-b-computer-graphics-programming)
 
-[Quarter IV-C: Designing and Developing Metaverse Dapp Experiences](#quarter-iv-c-designing-and-developing-metaverse-dapp-experiences)
+[Quarter IV-C: Advanced Cross Platform Metaverse Development with Unity and C#](#quarter-iv-c-advanced-cross-platform-metaverse-development-with-unity-and-c)
 
 
 ## Program Details:
