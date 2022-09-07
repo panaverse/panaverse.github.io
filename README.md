@@ -643,27 +643,27 @@ Blender development is being funded by heavyweights in the real-time 3D (RT3D) s
 
 [Best Hardware Performance for Blender Rendering](https://www.youtube.com/watch?v=H7T0SzdFHwg)
 
-### Assignment 3:
+### Assignment 1:
 
 Build a 3D Donut using Blender 3 as shown in these [video tutorials](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD).
 
-### Assignment 4:
+### Assignment 2:
 
 Build a 3D Sword in the Stone using Blender 3 as shown in these [video tutorials](https://www.youtube.com/watch?v=bpvh-9H8S1g)
 
-### Assignment 5:
+### Assignment 3:
 
 Build a Viking Scene using Blender 3 as shown in chapter 2 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
 
-### Assignment 6:
+### Assignment 4:
 
 Modeling a Time Machine using Blender 3 as shown in chapters 3 and 4 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
 
-### Assignment 7:
+### Assignment 5:
 
 Build a Modern Kitchen using Blender 3 as shown in chapters 5, 6, and 7 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
 
-### Assignment 8:
+### Assignment 6:
 
 Illustrating an Alien Hero with Grease Pencil as shown in chapter 8 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
 
