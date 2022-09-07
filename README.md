@@ -202,9 +202,9 @@ The online program consists of four quarters listed below and will mainly be foc
 
 ### Quarter I
 
-[Quarter 1-A: Web 3.0 and Metaverse Theory](#quarter-i-a-web-30-and-metaverse-theory)
+[Quarter I-A: Web 3.0 and Metaverse Theory](#quarter-i-a-web-30-and-metaverse-theory)
 
-[Quarter 1-B: Object Oriented Programming using Typescript](#quarter-i-b-object-oriented-programming-using-typescript)
+[Quarter I-B: Object Oriented Programming using Typescript](#quarter-i-b-object-oriented-programming-using-typescript)
 
 [Quarter I Assignments and Projects](#quarter-i-assignments-and-projects)
 
