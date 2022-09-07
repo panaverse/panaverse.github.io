@@ -211,7 +211,7 @@ The online program consists of four quarters listed below and will mainly be foc
 
 [Quarter II-A: Advanced Web 2.0 Development using Next.js](#quarter-ii-a-advanced-web-20-development-using-nextjs)
 
-[Quarter II-B: Metaverse Development with Unity and C#](#quarter-ii-b-metaverse-development-with-unity-and-c)
+[Quarter II-B: Open Metaverse Web Development](#quarter-ii-b-open-metaverse-web-development)
 
 [Quarter II-C: Smart Contract Development with Solidity and Hardhat for Metaverse Economy](#quarter-ii-c-smart-contract-development-with-solidity-and-hardhat-for-metaverse-economy)
 
