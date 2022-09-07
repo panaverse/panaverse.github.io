@@ -117,6 +117,19 @@ For more details check out the [Panacloud Web 3 Learning Repo](https://github.co
 
 The Web 2.0 and Web 3.0 layers can easily be extended to develop Metaverse experiences, which is the third layer in our stack. The backend will remain more less the same, the front-end will move towards 3D XR experiences from 2D user interfaces.
 
+Optional Side Note: ENS Domain
+
+Web 3.0 world is about to happen. In order to be functional in this new brave world I have just registered these ENS domains:
+
+panacloud.eth
+
+ziakhan.eth
+
+[To register go to](https://ens.domains/)
+
+ENS News:
+[Ethereum Domain Names Top NFTs as Most Traded Asset on OpenSea](https://decrypt.co/109028/ethereum-domain-names-top-nfts-as-most-traded-asset-on-opensea)
+
 The metaverse development stack can be may be an open ecosystem with browser acting as a sort of operating system:
 
 1. [WebGPU](https://www.w3.org/TR/webgpu/)
