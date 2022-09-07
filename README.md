@@ -236,6 +236,8 @@ The online program consists of four quarters listed below and will mainly be foc
 
 [Quarter II-C: Smart Contract Development with Solidity and Hardhat for Metaverse Economy](#quarter-ii-c-smart-contract-development-with-solidity-and-hardhat-for-metaverse-economy)
 
+[Quarter II Assignments and Projects](#quarter-ii-assignments-and-projects)
+
 [Study Material for Super-Achievers: Blender 3D Asset Creation for the Metaverse](#study-material-for-super-achievers-blender-3d-asset-creation-for-the-metaverse)
 
 ### Quarter III
