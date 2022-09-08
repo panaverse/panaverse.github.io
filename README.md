@@ -8,6 +8,8 @@
 
 [Watch Welcome to Metaverse in Urdu](https://youtu.be/vIOuipT4LI4)
 
+[METAVERSE: A new world is in making in Urdu](https://www.youtube.com/watch?v=5TkFxGkMV7M)
+
 [Review The Panaverse Presentation](https://docs.google.com/presentation/d/12C1s4UBTlR9nZNEkRE6aAuGeRA3s92jx-8nJKo9jdH4/edit?usp=sharing)
 
 ![Web3 Metaverse](metaverse.jpeg)
