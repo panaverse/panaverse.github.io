@@ -387,11 +387,13 @@ Note: Plagiarism is illegal, immoral and unacceptable. Any student who plagiariz
 8. TypeScript is the de facto standard: https://www.innoq.com/en/articles/2022/06/dependently-typed-typescript/
 
 
-### Study Material for Super-Achievers: UI/UX Design using Figma and Design Patterns
+### Study Material for Super-Achievers: UI/UX Design using Figma and Design Patterns Part 1
 
 [Textbook for Super-Achievers: Designing and Prototyping Interfaces with Figma](https://www.packtpub.com/product/designing-and-prototyping-interfaces-with-figma/9781800564183)
 
-[Design Patterns in TypeScript](https://refactoring.guru/design-patterns/typescript)
+[Design Patterns in TypeScript Part 1](https://refactoring.guru/design-patterns/typescript)
+
+Abstract Factory, Factory Method, Singleton, Decorator, and Command. 
 
 
 ## Quarter II-A: Advanced Web 2.0 Development using Next.js
@@ -629,7 +631,7 @@ Deploy your NFT contract on a testnet, mint it, and view it on the MetaMask wall
 [Implement a ERC721 Market](https://ethereum.org/en/developers/tutorials/how-to-implement-an-erc721-market/)
 
 
-### Study Material for Super-Achievers: Blender 3D asset creation for the Metaverse
+### Study Material for Super-Achievers: Blender 3D asset creation for the Metaverse and Design Patterns Part 2
 
 Blender development is being funded by heavyweights in the real-time 3D (RT3D) space such as Apple, Unity, AMD, Intel, Meta, NVIDIA, AWS, Epic Games, Adobe, Microsoft, and Decentraland. It is expected to become the standard asset creation tool for metaverse. 
 
@@ -669,8 +671,9 @@ Build a Modern Kitchen using Blender 3 as shown in chapters 5, 6, and 7 of the B
 
 Illustrating an Alien Hero with Grease Pencil as shown in chapter 8 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
 
+[Design Patterns in TypeScript Part 2](https://refactoring.guru/design-patterns/typescript)
 
-
+Observer, Composite, Visitor, State, Strategy, and Template Method.
 
 ## Quarter III-A: Dapp Development using Ethers.js, Next.js, and Solidity
 
