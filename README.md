@@ -228,7 +228,7 @@ The online program consists of four quarters listed below and will mainly be foc
 
 [Required: Learn Fundamentals of Version Control with Git](#required-learn-fundamentals-of-version-control-with-git)
 
-[Study Material for Super-Achievers: UI/UX Design using Figma and Design Patterns](#study-material-for-super-achievers-uiux-design-using-figma-and-design-patterns)
+[Study Material for Super-Achievers: UI/UX Design using Figma and Design Patterns Part 1](#study-material-for-super-achievers-uiux-design-using-figma-and-design-patterns-part-1))
 
 ### Quarter II
 
@@ -240,7 +240,7 @@ The online program consists of four quarters listed below and will mainly be foc
 
 [Quarter II Assignments and Projects](#quarter-ii-assignments-and-projects)
 
-[Study Material for Super-Achievers: Blender 3D Asset Creation for the Metaverse](#study-material-for-super-achievers-blender-3d-asset-creation-for-the-metaverse)
+[Study Material for Super-Achievers: Blender 3D Asset Creation for the Metaverse and Design Patters Part 2](#study-material-for-super-achievers-blender-3d-asset-creation-for-the-metaverse-and-design-patterns-part-2)
 
 ### Quarter III
 
