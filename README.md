@@ -125,6 +125,8 @@ Web 3.0 world is about to happen. In order to be functional in this new brave wo
 
 panacloud.eth
 
+panaverseco.eth
+
 ziakhan.eth
 
 [To register go to](https://ens.domains/)
