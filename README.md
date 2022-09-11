@@ -139,7 +139,7 @@ The metaverse development stack can be may be an open ecosystem with browser act
 1. [WebGPU](https://www.w3.org/TR/webgpu/)
 2. [WebXR](https://immersiveweb.dev/)
 3. [Three.js](https://threejs.org/manual/#en/fundamentals)
-4. [WebRTC](https://webrtc.org/) and [Yjs](https://github.com/yjs/yjs) called [CRDTs](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
+4. [WebRTC](https://webrtc.org/) and [Yjs](https://github.com/yjs/yjs) called [CRDTs](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type) [Watch Metaverse experience with WebRTC](https://www.youtube.com/watch?v=_QPentc_Gv4)
 5. [Webaverse](https://docs.webaverse.com/docs/index)
 
 For more details check out the [Panaverse's Open Metaverse learning repo](https://github.com/panaverse/metaverse-web).
