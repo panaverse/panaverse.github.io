@@ -298,9 +298,9 @@ Chapters 2-6, 13 of [JavaScript from Beginner to Professional: Learn JavaScript 
 
 Chapters 1-11 of [Learning TypeScript: Enhance Your Web Development Skills Using Type-Safe JavaScript](https://www.amazon.com/Learning-TypeScript-Development-Type-Safe-JavaScript/dp/1098110331/ref=sr_1_1)
 
-[Companion projects and articles for Learning TypeScript](https://www.learningtypescript.com/)
+[In Class Companion projects and articles for Learning TypeScript](https://www.learningtypescript.com/)
 
-[Learning TypeScript Project Code](https://github.com/LearningTypeScript/projects)
+[Learning TypeScript Project Code in Class](https://github.com/LearningTypeScript/projects)
 
 Note:
 
@@ -342,7 +342,7 @@ When you have completed your presentation please submit your repository URL in t
 
 [Web 3.0 and Metaverse Project Submission Form](https://forms.gle/H6HsTPhP3tpEaK7V7)
 
-### Quarter I TypeScript Coding Projects:
+### Quarter I TypeScript Homework Coding Projects:
 
 [TypeScript Projects for Students](https://github.com/panacloud-modern-global-apps/typescript-node-projects)
 
