@@ -168,46 +168,52 @@ The program will consist of four quarters. The fee will be Rs. 3,000 per quarter
 
 ## Onsite Faculty Members
 
-[Zia Khan](https://www.linkedin.com/in/ziaukhan/), [Daniyal Nagori](https://www.linkedin.com/in/daniyalnagori/?originalSubdomain=pk) 
+[Zia Khan](https://www.linkedin.com/in/ziaukhan/), [Daniyal Nagori](https://www.linkedin.com/in/daniyalnagori/?originalSubdomain=pk), and [Ali Razzaq](https://www.linkedin.com/in/alirazzaquet/)
 
-## Remote Faculty Members
+## Remote (online on Discord) Faculty Members
 
 [Hira Khan](https://www.linkedin.com/in/hira-khan-76523540/), [Adil Altaf](https://www.linkedin.com/in/adilaltaf), and [Khurram Shaikh](https://www.linkedin.com/in/khurram-shaikh-88524513/)
 
+## Note: Students are Required to Participate in Both Onsite and Online Discord Classes
 
-## Class Schedule
+## Onsite Class Schedule
 
 ### Karachi
 
-Tuesday: Section A - 6:00 pm to 10:00 pm in Bahria Auditorium
+Tuesday: Section A - 6:00 pm to 10:00 pm in Bahria Auditorium, First Class Starting from September 20, 2022
 
-Wednesday: Section B - 6:00 pm to 10:00 pm in Bahria Auditorium
+Wednesday: Section B - 6:00 pm to 10:00 pm in Bahria Auditorium, First Class Starting from September 21, 2022
 
 2 Sections of 750 each in Karachi = 1,500
 
 ### Lahore
 
-Sunday: Section C - 9:00 am to 1:00 pm in UMT Auditorium
+Sunday: Section C - 9:00 am to 1:00 pm in UMT Auditorium, First Class Starting from September 24, 2022
 
-Sunday: Section D - 2:00 pm to 6:00 pm in UMT Auditorium
+Sunday: Section D - 2:00 pm to 6:00 pm in UMT Auditorium, First Class Starting from September 24, 2022
 
 2 Sections of 500 each in Lahore = 1,000
 
 ### Islamabad
 
-Saturday: Section E - 9:00 am to 1:00 pm in Air University Auditorium
+Saturday: Section E - 9:00 am to 1:00 pm in Air University Auditorium, First Class Starting from September 24, 2022
 
-Saturday: Section F - 2:00 pm to 6:00 pm in Air University Auditorium
+Saturday: Section F - 2:00 pm to 6:00 pm in Air University Auditorium, First Class Starting from September 24, 2022
 
 2 Sections of 480 each in Islamabad = 960
 
 ### Peshawar
-Friday: Section G - 3:00 pm to 7:00 pm in CECOS Auditorium
+Friday: Section G - 3:00 pm to 7:00 pm in CECOS Auditorium, First Class Starting from September 23, 2022
 
 1 Section of 250 in Peshawar = 250
 
-Note: Those who do not live in the cities mentioned above should plan to travel to attend the class.
+Note: Those who do not live in the cities mentioned above should plan to travel to attend the onsite class.
 
+## Online (on Discord) Class Schedule
+
+Saturday, 8:00 pm to 10:00 pm on [Discord Voice Panacloud/panaverse-class Channel](https://discord.gg/GggDkBwJDr). First Class starting from Saturday October 1, 2022.
+
+## Note: Students are Required to Participate in Both Onsite and Online Classes
 
 ### Panaverse Community
 
