@@ -188,9 +188,9 @@ Wednesday: Section B - 6:00 pm to 10:00 pm in Bahria Auditorium, First Class Sta
 
 ### Lahore
 
-Sunday: Section C - 9:00 am to 1:00 pm in UMT Auditorium, First Class Starting from September 24, 2022
+Sunday: Section C - 9:00 am to 1:00 pm in UMT Auditorium, First Class Starting from September 25, 2022
 
-Sunday: Section D - 2:00 pm to 6:00 pm in UMT Auditorium, First Class Starting from September 24, 2022
+Sunday: Section D - 2:00 pm to 6:00 pm in UMT Auditorium, First Class Starting from September 25, 2022
 
 2 Sections of 500 each in Lahore = 1,000
 
