@@ -290,13 +290,21 @@ The student should learn HTML, CSS, and Javascript by going through these videos
 
 [Learn JavaScript by Zeeshan Hanif](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQdc0NSLknxmxBch5gLOqyo)
 
-We will cover the following in class:
-
-[TypeScript and C# both were created by the same person named Anders Hejlsberg](https://dev.to/destrodevshow/typescript-and-c-both-created-by-the-same-person-named-anders-hejlsberg-42g4)
+We will cover the following Textbooks in class:
 
 Chapters 2-6, 13 of [JavaScript from Beginner to Professional: Learn JavaScript quickly by building fun, interactive, and dynamic web apps, games, and pages](https://www.amazon.com/JavaScript-Beginner-Professional-building-interactive/dp/1800562527/ref=sr_1_4)
 
+[JavaScript Book Code](https://github.com/PacktPublishing/JavaScript-from-Beginner-to-Professional)
+
 Chapters 1-11 of [Learning TypeScript: Enhance Your Web Development Skills Using Type-Safe JavaScript](https://www.amazon.com/Learning-TypeScript-Development-Type-Safe-JavaScript/dp/1098110331/ref=sr_1_1)
+
+[Companion projects and articles for Learning TypeScript](https://www.learningtypescript.com/)
+
+[Learning TypeScript Project Code](https://github.com/LearningTypeScript/projects)
+
+Note:
+
+[TypeScript and C# both were created by the same person named Anders Hejlsberg](https://dev.to/destrodevshow/typescript-and-c-both-created-by-the-same-person-named-anders-hejlsberg-42g4)
 
 ### Quarter I Assignments and Projects
 
