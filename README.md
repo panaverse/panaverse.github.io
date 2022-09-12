@@ -166,9 +166,14 @@ The following concepts and technologies will also help us build the metaverse ex
 The program will consist of four quarters. The fee will be Rs. 3,000 per quarter. Every week there a combination of onsite and online Zoom classes. Students will also watch recorded videos and study textbooks.
 
 
-## Faculty Members
+## Onsite Faculty Members
 
-[Zia Khan](https://www.linkedin.com/in/ziaukhan/), Zeeshan Hanif, Asif Shah, Daniyal Nagori, Hira Khan, and [Khurram Shaikh](https://www.linkedin.com/in/khurram-shaikh-88524513/)
+[Zia Khan](https://www.linkedin.com/in/ziaukhan/), [Daniyal Nagori](https://www.linkedin.com/in/daniyalnagori/?originalSubdomain=pk) 
+
+## Remote Faculty Members
+
+[Hira Khan](https://www.linkedin.com/in/hira-khan-76523540/), [Adil Altaf](https://www.linkedin.com/in/adilaltaf), and [Khurram Shaikh](https://www.linkedin.com/in/khurram-shaikh-88524513/)
+
 
 ## Class Schedule
 
