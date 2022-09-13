@@ -363,7 +363,7 @@ When you have completed your presentation please submit your repository URL in t
 
 All projects will be sumitted by creating a public repository on GitHub. Please learn Git and GitHub by using these resources:
 
-[Version Control using Git and GitHub By Sir Zeeshan Hanif Videos](https://www.youtube.com/playlist?list=PL4lZMpZtayiGkfhq9AbFTSd4GbX25C_0L)
+[Version Control using Git and GitHub By Sir Zeeshan Hanif Videos](https://www.youtube.com/playlist?list=PLKueo-cldy_HjRnPUL4G3pWHS7FREAizF)
 
 Chapters 1, 2, 3, and 4 Learn Version Control with Git: A step-by-step course for the complete beginner by Tobias Günther 
 
