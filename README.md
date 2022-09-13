@@ -178,6 +178,8 @@ The program will consist of four quarters. The fee will be Rs. 3,000 per quarter
 
 ## Onsite Class Schedule
 
+![Onsite Schedule](schedule.png)
+
 ### Karachi
 
 Tuesday: Section A - 6:00 pm to 10:00 pm in Bahria Auditorium, First Class Starting from September 20, 2022
