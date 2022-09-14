@@ -89,14 +89,15 @@ You can think of the stack which we will cover in this course in terms of layers
 The Web 2.0 full stack applicatios are build using these technologies, this is the first layer of our development stack:
 
 1. [Typescript Programming Language for Front-end and Backend Development](https://www.typescriptlang.org/)
-2. [Visual Studio Code Editor](https://code.visualstudio.com/)
-3. [Front-end Web 2.0 Development Using Next.js](https://nextjs.org/)
-4. [Infrastructure as Code using AWS Cloud Development Kit](https://aws.amazon.com/cdk/)
-5. [AWS Lambda for Serverless Computing](https://aws.amazon.com/lambda/)
-6. [Prisma ORM](https://www.prisma.io/)
-7. [Serverless Databases](https://mobisoftinfotech.com/resources/blog/serverless-database/)
-8. [Strapi Headless CMS](https://strapi.io/)
-9. [Panacloud CLI for API Development](https://www.npmjs.com/package/@panacloud/cli)
+2. [WebAssembly](https://webassembly.org/)
+3. [Visual Studio Code Editor](https://code.visualstudio.com/)
+4. [Front-end Web 2.0 Development Using Next.js](https://nextjs.org/)
+5. [Infrastructure as Code using AWS Cloud Development Kit](https://aws.amazon.com/cdk/)
+6. [AWS Lambda for Serverless Computing](https://aws.amazon.com/lambda/)
+7. [Prisma ORM](https://www.prisma.io/)
+8. [Serverless Databases](https://mobisoftinfotech.com/resources/blog/serverless-database/)
+9. [Strapi Headless CMS](https://strapi.io/)
+10. [Panacloud CLI for API Development](https://www.npmjs.com/package/@panacloud/cli)
 
 
 For more details check out the [Panacloud Web 2 Learning Repo](https://github.com/panacloud-modern-global-apps/nextjs) and [projects repo](https://github.com/panacloud-modern-global-apps/chakra-nextjs-projects)
@@ -246,7 +247,7 @@ The online program consists of four quarters listed below and will mainly be foc
 
 [Study Material for Super-Achievers: UI/UX Design using Figma and Design Patterns Part 1](#study-material-for-super-achievers-uiux-design-using-figma-and-design-patterns-part-1))
 
-[Study Material for Super-Achievers: WebAssembly and AssembleScript]()
+[Study Material for Super-Achievers: WebAssembly and AssembleScript](#study-material-for-super-achievers-webassembly-and-assemblescript)
 
 ### Quarter II
 
