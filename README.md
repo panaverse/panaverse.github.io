@@ -355,6 +355,10 @@ When you have completed your presentation please submit your repository URL in t
 
 [Web 3.0 and Metaverse Project Submission Form](https://forms.gle/H6HsTPhP3tpEaK7V7)
 
+### Quarter I JavaScript Homework Coding Exercises:
+
+[Getting Started Exercises with JavaScript and Node.js](https://github.com/panacloud-modern-global-apps/typescript-node-projects/blob/main/getting-started-exercises.md)
+
 ### Quarter I TypeScript Homework Coding Projects:
 
 [TypeScript Projects for Students](https://github.com/panacloud-modern-global-apps/typescript-node-projects)
