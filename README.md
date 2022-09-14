@@ -246,6 +246,8 @@ The online program consists of four quarters listed below and will mainly be foc
 
 [Study Material for Super-Achievers: UI/UX Design using Figma and Design Patterns Part 1](#study-material-for-super-achievers-uiux-design-using-figma-and-design-patterns-part-1))
 
+[Study Material for Super-Achievers: WebAssembly and AssembleScript]()
+
 ### Quarter II
 
 [Quarter II-A: Advanced Web 2.0 Development using Next.js](#quarter-ii-a-advanced-web-20-development-using-nextjs)
@@ -422,6 +424,10 @@ Note: Plagiarism is illegal, immoral and unacceptable. Any student who plagiariz
 [Design Patterns in TypeScript Part 1](https://refactoring.guru/design-patterns/typescript)
 
 Abstract Factory, Factory Method, Singleton, Decorator, and Command. 
+
+### Study Material for Super-Achievers: WebAssembly and AssembleScript
+
+[Learning Repo: Learn WebAssembly with AssemblyScript in Baby Steps](https://github.com/panacloud-modern-global-apps/webassembly-assemblyscript/blob/main/README.md)
 
 
 ## Quarter II-A: Advanced Web 2.0 Development using Next.js
