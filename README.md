@@ -180,34 +180,34 @@ The program will consist of four quarters. The fee will be Rs. 3,000 per quarter
 
 ## Onsite Class Schedule
 
-![Onsite Schedule](schedule.png)
 
 ### Karachi
 
-Tuesday: Section A - 6:00 pm to 10:00 pm in Bahria Auditorium, First Class Starting from September 20, 2022
+Tuesday: Section A - 6:00 pm to 10:00 pm in Bahria Auditorium, First Class Starting from September 27, 2022
 
-Wednesday: Section B - 6:00 pm to 10:00 pm in Bahria Auditorium, First Class Starting from September 21, 2022
+Wednesday: Section B - 6:00 pm to 10:00 pm in Bahria Auditorium, First Class Starting from September 28 2022
 
 2 Sections of 750 each in Karachi = 1,500
 
 ### Lahore
 
-Sunday: Section C - 9:00 am to 1:00 pm in UMT Auditorium, First Class Starting from September 25, 2022
+Sunday: Section C - 9:00 am to 1:00 pm in UMT Auditorium, First Class Starting from October 2, 2022
 
-Sunday: Section D - 2:00 pm to 6:00 pm in UMT Auditorium, First Class Starting from September 25, 2022
+Sunday: Section D - 2:00 pm to 6:00 pm in UMT Auditorium, First Class Starting from October 2, 2022
 
 2 Sections of 500 each in Lahore = 1,000
 
 ### Islamabad
 
-Saturday: Section E - 9:00 am to 1:00 pm in Air University Auditorium, First Class Starting from September 24, 2022
+Saturday: Section E - 9:00 am to 1:00 pm in Air University Auditorium, First Class Starting from October 1, 2022
 
-Saturday: Section F - 2:00 pm to 6:00 pm in Air University Auditorium, First Class Starting from September 24, 2022
+Saturday: Section F - 2:00 pm to 6:00 pm in Air University Auditorium, First Class Starting from October 1, 2022
 
 2 Sections of 480 each in Islamabad = 960
 
 ### Peshawar
-Friday: Section G - 3:00 pm to 7:00 pm in CECOS Auditorium, First Class Starting from September 23, 2022
+
+Friday: Section G - 3:00 pm to 7:00 pm in CECOS Auditorium, First Class Starting from September 30, 2022
 
 1 Section of 250 in Peshawar = 250
 
@@ -246,7 +246,7 @@ The online program consists of four quarters listed below and will mainly be foc
 
 [Required: Learn Fundamentals of Version Control with Git](#required-learn-fundamentals-of-version-control-with-git)
 
-[Study Material for Super-Achievers: UI/UX Design using Figma and Design Patterns Part 1](#study-material-for-super-achievers-uiux-design-using-figma-and-design-patterns-part-1))
+[Study Material for Super-Achievers: UI/UX Design using Figma and Design Patterns Part 1](#study-material-for-super-achievers-uiux-design-using-figma-and-design-patterns-part-1)
 
 [Study Material for Super-Achievers: WebAssembly and AssembleScript](#study-material-for-super-achievers-webassembly-and-assemblescript)
 
