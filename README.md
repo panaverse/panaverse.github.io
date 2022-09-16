@@ -180,6 +180,7 @@ The program will consist of four quarters. The fee will be Rs. 3,000 per quarter
 
 ## Onsite Class Schedule
 
+![New Schedule](newschedule.jpeg)
 
 ### Karachi
 
