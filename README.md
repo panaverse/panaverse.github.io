@@ -314,6 +314,8 @@ Chapters 2-6, 13 of [JavaScript from Beginner to Professional: Learn JavaScript 
 
 [JavaScript Book Code](https://github.com/PacktPublishing/JavaScript-from-Beginner-to-Professional)
 
+[JavaScript is no longer the favorite programming language for developers, TypeScript is the number one programming language among developers](https://www.techradar.com/news/javascript-no-longer-the-favorite-language-among-developers)
+
 Chapters 1-11 of [Learning TypeScript: Enhance Your Web Development Skills Using Type-Safe JavaScript](https://www.amazon.com/Learning-TypeScript-Development-Type-Safe-JavaScript/dp/1098110331/ref=sr_1_1)
 
 [In Class Companion projects and articles for Learning TypeScript](https://www.learningtypescript.com/)
