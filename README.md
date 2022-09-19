@@ -179,7 +179,7 @@ The following concepts and technologies will also help us build the metaverse ex
 
 ### Program Duration and Fee
 
-The program will consist of four quarters. The fee will be Rs. 3,000 per quarter. Every week there a combination of onsite and online Zoom classes. Students will also watch recorded videos and study textbooks.
+The program will consist of four quarters. The fee will be Rs. 3,000 per quarter. Every week there a combination of onsite and online live classes. Students will also watch recorded videos and study textbooks.
 
 
 ## Onsite Faculty Members
