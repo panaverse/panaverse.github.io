@@ -230,7 +230,7 @@ Note: Those who do not live in the cities mentioned above should plan to travel 
 
 ## Online (on Discord) Class Schedule
 
-Saturday, 8:00 pm to 10:00 pm on [Discord Voice Panacloud/panaverse-class Channel](https://discord.gg/GggDkBwJDr). First Class starting from Saturday October 1, 2022.
+Saturday, 8:00 pm to 10:00 pm on [Discord Voice Panacloud/panaverse-class Channel](https://discord.gg/GggDkBwJDr). First Class starting from Saturday October 8, 2022.
 
 ## Note: Students are Required to Participate in Both Onsite and Online Classes
 
