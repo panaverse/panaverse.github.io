@@ -62,7 +62,19 @@ The students who graduate from this one-year program will be able to earn $50 pe
 
 [How To Become Metaverse Developer: Scope, Skills, and Salary](https://www.blockchain-council.org/metaverse/how-to-become-metaverse-developer/)
 
+## The Plan in a Nutshell
 
+The target is to train 1 Million developers across Pakistan who are experts in Web 2.0, Web 3.0, and Metaverse Technologies. 
+
+The first batch of 3,710 students will start their training on Tuesday, September 27.
+
+Given the current financial situation in the country, we are combining our teaching and dollar-making business activities. This is going to be a totally new kind of program where students will be taught during the classes how to earn dollars i.e. Earn while you Learn.
+
+During the next phase, we will select 50 top students, make them faculty members, and start classes in 50 cities/universities across Pakistan. In this phase, we will be training 20,000 (50 x 400) students, Insha Allah.
+
+In the third phase, we will spread to all districts of Pakistan and make it a software development hub in this coming age of Web 3.0 and Metaverse. 
+
+May God help us in this movement to save Pakistan. 
 
 
 ## Panaverse Certified Web 3.0 and Metaverse Developer Tranining Program
