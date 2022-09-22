@@ -440,6 +440,8 @@ Note: Plagiarism is illegal, immoral and unacceptable. Any student who plagiariz
 
 [Textbook for Super-Achievers: Designing and Prototyping Interfaces with Figma](https://www.packtpub.com/product/designing-and-prototyping-interfaces-with-figma/9781800564183)
 
+[Follow Daily UI Design Challenge Videos](https://www.youtube.com/playlist?list=PLOFMxDQkrLGf5uU7mrPkmf3Ec3o5mL7yl)
+
 [Design Patterns in TypeScript Part 1](https://refactoring.guru/design-patterns/typescript)
 
 Abstract Factory, Factory Method, Singleton, Decorator, and Command. 
