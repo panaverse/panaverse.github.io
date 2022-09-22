@@ -346,7 +346,7 @@ Note:
 
 The students are required to make Metaverse presentations on Google slides: 
 
-1. What is the Metaverse? (Part I of The Metaverse Textbook).
+1. What is the Metaverse? (Part I of The Metaverse Textbook) **Due on Sunday, October 9, 2022 Midnight**
 2. How the Metaverse Will Revolutionize Everything? (Part III of The Metaverse Textbook).
 3. What is Required to Build the Metaverse? (Part II of The Metaverse Textbook).
 
