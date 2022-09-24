@@ -336,13 +336,21 @@ Chapters 1-11 of [Learning TypeScript: Enhance Your Web Development Skills Using
 
 [Learning TypeScript Project Code in Class](https://github.com/LearningTypeScript/projects)
 
+[TypeScript Cookbook: Future Advanced TypeScript Book](https://www.oreilly.com/library/view/typescript-cookbook/9781098136642/)
+
 Note:
 
 [TypeScript and C# both were created by the same person named Anders Hejlsberg](https://dev.to/destrodevshow/typescript-and-c-both-created-by-the-same-person-named-anders-hejlsberg-42g4)
 
 ### Learn From Matt Pocock The TypeScript Wizard:
 
+[Latest News: Matt Joins Vercel](https://twitter.com/mattpocockuk/status/1559105611995955202)
+
+[Total TypeScript Website](https://www.totaltypescript.com/)
+
 [TypeScript Crash Course for Beginners with Matt Pocock: Video](https://www.youtube.com/watch?v=p6dO9u0M7MQ&t=25s)
+
+[Learning TypeScript from Scratch with Matt Pocock: A TypeScript tutorial](https://www.youtube.com/watch?v=qcFmCKQDa2s&t=1s)
 
 [Beginner TypeScript Tutorial](https://github.com/total-typescript/beginners-typescript-tutorial)
 
