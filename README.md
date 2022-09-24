@@ -236,9 +236,13 @@ Saturday, 8:00 pm to 10:00 pm on [Discord Voice Panacloud/panaverse-class Channe
 
 ### Panaverse Community
 
+We will be using Discord, Twitter, and Facebook extensively in this course:
+
 [Join the Panacloud's Panaverse Discord Text and Voice Channels](https://discord.gg/GggDkBwJDr)
 
 [Join the Metaverse Facebook Group](https://www.facebook.com/groups/metaverse.dev/)
+
+[Zia Khan on Twitter](https://twitter.com/ziakhan)
 
 ### Books
 
