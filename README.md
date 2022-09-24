@@ -789,6 +789,8 @@ Observer, Composite, Visitor, State, Strategy, and Template Method.
 
 ### Infrastructure as Code (IaC) in TypeScript
 
+[CDK Workshop](https://cdkworkshop.com/20-typescript.html)
+
 [AWS CDK](https://thecdkbook.com/)
 
 [CDK Developer Guide](https://docs.aws.amazon.com/cdk/v2/guide/awscdk.pdf)
