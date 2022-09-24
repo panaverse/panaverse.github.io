@@ -797,6 +797,12 @@ Observer, Composite, Visitor, State, Strategy, and Template Method.
 
 [CDK for Kubernetes](https://cdk8s.io/)
 
+[CDK for Next.js](https://serverless-nextjs.com/docs/cdkconstruct/)
+
+Additional Reading:
+
+[How to deploy NextJS on AWS, the same way Vercel does?](https://stackoverflow.com/questions/70833847/how-to-deploy-nextjs-on-aws-the-same-way-vercel-does)
+
 
 
 ## Quarter IV-A: Advanced Web 3.0 Development: DAO, Oracles, Graphs, DeFi and Tokenomics
