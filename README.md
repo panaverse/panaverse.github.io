@@ -346,7 +346,7 @@ Note:
 
 [TypeScript and C# both were created by the same person named Anders Hejlsberg](https://dev.to/destrodevshow/typescript-and-c-both-created-by-the-same-person-named-anders-hejlsberg-42g4)
 
-### Learn From Matt Pocock The TypeScript Wizard:
+### Learn From Matt Pocock The TypeScript Wizard
 
 [Latest News: Matt Joins Vercel](https://twitter.com/mattpocockuk/status/1559105611995955202)
 
@@ -786,11 +786,14 @@ Observer, Composite, Visitor, State, Strategy, and Template Method.
 
 [Going Serverless with 7 Core AWS Services](https://levelup.gitconnected.com/going-serverless-with-7-core-aws-services-fcbd063985cd)
 
-We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in TypeScript:
 
-[Working with CDK V2](https://docs.aws.amazon.com/cdk/latest/guide/work-with-cdk-v2.html)
+### Infrastructure as Code (IaC) in TypeScript
 
-[Getting Started with CDK](https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html)
+[AWS CDK](https://thecdkbook.com/)
+
+[CDK for Terraform](https://learn.hashicorp.com/collections/terraform/cdktf)
+
+[CDK for Kubernetes](https://cdk8s.io/)
 
 
 
