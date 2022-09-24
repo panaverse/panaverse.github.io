@@ -336,6 +336,8 @@ Chapters 1-11 of [Learning TypeScript: Enhance Your Web Development Skills Using
 
 [Learning TypeScript Project Code in Class](https://github.com/LearningTypeScript/projects)
 
+[TypeScript Crash Course for Beginners with Matt Pocock](https://www.youtube.com/watch?v=p6dO9u0M7MQ)
+
 Note:
 
 [TypeScript and C# both were created by the same person named Anders Hejlsberg](https://dev.to/destrodevshow/typescript-and-c-both-created-by-the-same-person-named-anders-hejlsberg-42g4)
