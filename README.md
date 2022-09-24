@@ -336,11 +336,29 @@ Chapters 1-11 of [Learning TypeScript: Enhance Your Web Development Skills Using
 
 [Learning TypeScript Project Code in Class](https://github.com/LearningTypeScript/projects)
 
-[TypeScript Crash Course for Beginners with Matt Pocock](https://www.youtube.com/watch?v=p6dO9u0M7MQ)
-
 Note:
 
 [TypeScript and C# both were created by the same person named Anders Hejlsberg](https://dev.to/destrodevshow/typescript-and-c-both-created-by-the-same-person-named-anders-hejlsberg-42g4)
+
+### Learn From Matt Pocock The TypeScript Wizard:
+
+[TypeScript Crash Course for Beginners with Matt Pocock: Video](https://www.youtube.com/watch?v=p6dO9u0M7MQ&t=25s)
+
+[Beginner TypeScript Tutorial](https://github.com/total-typescript/beginners-typescript-tutorial)
+
+[Zod Tutorial: Video](https://www.totaltypescript.com/tutorials/zod)
+
+[Zod Docs](https://zod.dev/)
+
+[Advanced TypeScript Workshop](https://github.com/total-typescript/advanced-typescript-workshop)
+
+[Advanced TypeScript with Matt: Video](https://www.youtube.com/watch?v=F7O4gA0GXqI&t=389s)
+
+[TypeScript Tips](https://www.totaltypescript.com/tips)
+
+[TypeScript tips and Tricks with Matt: Video](https://www.youtube.com/watch?v=hBk4nV7q6-w&t=24s)
+
+
 
 ### Quarter I Assignments and Projects
 
