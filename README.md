@@ -791,6 +791,8 @@ Observer, Composite, Visitor, State, Strategy, and Template Method.
 
 [AWS CDK](https://thecdkbook.com/)
 
+[CDK Developer Guide](https://docs.aws.amazon.com/cdk/v2/guide/awscdk.pdf)
+
 [CDK for Terraform](https://learn.hashicorp.com/collections/terraform/cdktf)
 
 [CDK for Kubernetes](https://cdk8s.io/)
