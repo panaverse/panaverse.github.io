@@ -799,6 +799,12 @@ Observer, Composite, Visitor, State, Strategy, and Template Method.
 
 [CDK for Next.js](https://serverless-nextjs.com/docs/cdkconstruct/)
 
+[Terraform Next.js: The road to Atomic Deployments](https://milli.is/blog/the-road-to-atomic-deployments)
+
+[Terraform Next.js for AWS: First look at the new atomic deployments feature](https://www.youtube.com/watch?v=NY3zKnIcLd4)
+
+[Deploying Next.js on AWS](https://registry.terraform.io/modules/milliHQ/next-js/aws/latest?tab=readme)
+
 Additional Reading:
 
 [How to deploy NextJS on AWS, the same way Vercel does?](https://stackoverflow.com/questions/70833847/how-to-deploy-nextjs-on-aws-the-same-way-vercel-does)
