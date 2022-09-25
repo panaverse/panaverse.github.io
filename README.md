@@ -6,9 +6,9 @@
 
 ![New Schedule](newschedule.jpeg)
 
-## [All Panaverse Announcements on Twitter](https://twitter.com/Panaverse_edu)
+## [Latest Panaverse News on Twitter](https://twitter.com/Panaverse_edu)
 
-## [Discussions on Panaverse Channel on Panacloud Discord Server](https://discord.gg/GggDkBwJDr)
+## [Discussion on Panaverse Channel on Panacloud Discord Server](https://discord.gg/GggDkBwJDr)
 
 [Watch the Insane Future of Web 3.0 and Metaverse Introductory Video in Urdu](https://www.youtube.com/watch?v=eEz1rnmCfn4)
 
