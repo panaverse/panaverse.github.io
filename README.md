@@ -242,13 +242,15 @@ Saturday, 8:00 pm to 10:00 pm on [Discord Voice Panacloud/panaverse-class Channe
 
 ### Panaverse Community
 
-We will be using Discord, Twitter, and Facebook extensively in this course:
+We will be using Discord, Twitter, Facebook, and Linkedin extensively in this course:
 
 [Join the Panacloud's Panaverse Discord Text and Voice Channels](https://discord.gg/GggDkBwJDr)
 
 [Join the Metaverse Facebook Group](https://www.facebook.com/groups/metaverse.dev/)
 
 [Panaverse on Twitter, always mention this when asking questions](https://twitter.com/Panaverse_edu)
+
+[Panaverse Linkedin Page](https://www.linkedin.com/company/panaverse/)
 
 
 ### Experts to Follow
