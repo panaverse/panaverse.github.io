@@ -242,6 +242,8 @@ We will be using Discord, Twitter, and Facebook extensively in this course:
 
 [Join the Metaverse Facebook Group](https://www.facebook.com/groups/metaverse.dev/)
 
+[Panaverse on Twitter, always mention this when asking questions](https://twitter.com/Panaverse_edu)
+
 
 ### Experts to Follow
 
@@ -287,7 +289,7 @@ We will be using Discord, Twitter, and Facebook extensively in this course:
 
 [Theme Forest](https://twitter.com/themeforest), The world leader in website themes and templates
 
-
+[Panaverse](https://twitter.com/Panaverse_edu)
 
 ### Books
 
