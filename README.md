@@ -244,6 +244,44 @@ We will be using Discord, Twitter, and Facebook extensively in this course:
 
 [Zia Khan on Twitter](https://twitter.com/ziakhan)
 
+### Experts to Follow
+
+[Matt Pocock](https://twitter.com/mattpocockuk), TypeScript Expert
+
+[Bruno Simon](https://twitter.com/bruno_simon), Three.js Expert
+
+[Matt Perry](https://twitter.com/mattgperry), Framer Motion Expert
+
+
+### Technologies to Follow
+
+[TypeScript](https://twitter.com/typescript)
+
+[Next.js](https://twitter.com/nextjs)
+
+[React](https://twitter.com/reactjs)
+
+[Chakra UI](https://twitter.com/chakra_ui)
+
+[Prisma](https://twitter.com/prisma)
+
+[Three.js](https://twitter.com/threejs)
+
+[WebGPU](https://twitter.com/webgpu)
+
+[WebXR](https://twitter.com/webxrs)
+
+
+### Companies to Follow
+
+[Vercel](https://twitter.com/vercel), the creators of Nextjs
+
+[Netlify](https://twitter.com/Netlify), the advocate of Jamstack 
+
+[Theme Forest](https://twitter.com/themeforest), The world leader in website themes and templates
+
+
+
 ### Books
 
 [Download Books](https://github.com/rrizwan98/Web-3.0-Books)
