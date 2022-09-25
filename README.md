@@ -246,7 +246,7 @@ We will be using Discord, Twitter, Facebook, and Linkedin extensively in this co
 
 [Join the Panacloud's Panaverse Discord Text and Voice Channels](https://discord.gg/GggDkBwJDr)
 
-[Join the Metaverse Facebook Group](https://www.facebook.com/groups/metaverse.dev/)
+[Join the Metaverse Facebook Group](https://www.facebook.com/groups/panaverse/)
 
 [Panaverse on Twitter, always mention this when asking questions](https://twitter.com/Panaverse_edu)
 
