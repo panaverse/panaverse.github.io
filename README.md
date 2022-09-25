@@ -4,6 +4,8 @@
 
 ## [Admissions Closed, Classes Starting on September 27, 2022](https://www.piaic.org/) 
 
+![New Schedule](newschedule.jpeg)
+
 ## [All Panaverse Announcements on Twitter](https://twitter.com/Panaverse_edu)
 
 ## [Discussions on Panaverse Channel on Panacloud Discord Server](https://discord.gg/GggDkBwJDr)
@@ -199,8 +201,6 @@ The program will consist of four quarters. The fee will be Rs. 3,000 per quarter
 ## Note: Students are Required to Participate in Both Onsite and Online Discord Classes
 
 ## Onsite Class Schedule
-
-![New Schedule](newschedule.jpeg)
 
 ### Karachi
 
