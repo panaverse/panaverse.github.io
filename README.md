@@ -1,6 +1,8 @@
 # Certified Web 3.0 and Metaverse Developer: A Nationwide Program in Karachi, Lahore, Islamabad, and Peshawar
 
-## [APPLY FOR ADMISSION NOW](https://www.piaic.org/) 
+![Panaverse Logo](panaverse-logo.png)
+
+## [Admissions Closed](https://www.piaic.org/) 
 
 [Watch the Insane Future of Web 3.0 and Metaverse Introductory Video in Urdu](https://www.youtube.com/watch?v=eEz1rnmCfn4)
 
