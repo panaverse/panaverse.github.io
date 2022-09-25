@@ -2,7 +2,11 @@
 
 ![Panaverse Logo](panaverse-logo.png)
 
-## [Admissions Closed](https://www.piaic.org/) 
+## [Admissions Closed, Classes Starting on September 27, 2022](https://www.piaic.org/) 
+
+## [All Panaverse Announcements on Twitter](https://twitter.com/Panaverse_edu)
+
+## [Discussions on Panaverse Channel on Panacloud Discord Server](https://discord.gg/GggDkBwJDr)
 
 [Watch the Insane Future of Web 3.0 and Metaverse Introductory Video in Urdu](https://www.youtube.com/watch?v=eEz1rnmCfn4)
 
