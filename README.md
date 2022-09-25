@@ -242,15 +242,18 @@ We will be using Discord, Twitter, and Facebook extensively in this course:
 
 [Join the Metaverse Facebook Group](https://www.facebook.com/groups/metaverse.dev/)
 
-[Zia Khan on Twitter](https://twitter.com/ziakhan)
 
 ### Experts to Follow
+
+[Vitalik Buterin](https://twitter.com/VitalikButerin), Co-founder of Ethereum
 
 [Matt Pocock](https://twitter.com/mattpocockuk), TypeScript Expert
 
 [Bruno Simon](https://twitter.com/bruno_simon), Three.js Expert
 
 [Matt Perry](https://twitter.com/mattgperry), Framer Motion Expert
+
+[Zia Khan](https://twitter.com/ziakhan), Co-founder of Panacloud
 
 
 ### Technologies to Follow
@@ -264,6 +267,10 @@ We will be using Discord, Twitter, and Facebook extensively in this course:
 [Chakra UI](https://twitter.com/chakra_ui)
 
 [Prisma](https://twitter.com/prisma)
+
+[Ethereum](https://twitter.com/ethereum)
+
+[Solidity](https://twitter.com/solidity_lang)
 
 [Three.js](https://twitter.com/threejs)
 
