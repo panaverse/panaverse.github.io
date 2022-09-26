@@ -20,6 +20,10 @@
 
 [Andrew Grove, "Strategic Inflection Points"](https://www.techtarget.com/whatis/definition/strategic-inflection-point)
 
+[The Metaverse opens up a world of possibilities for Pakistan. Can we take advantage?](https://www.dawn.com/news/1711561/the-metaverse-opens-up-a-world-of-possibilities-for-pakistan-can-we-take-advantage)
+
+[The Metaverse From A Developer's Perspective](https://www.forbes.com/sites/forbestechcouncil/2022/09/20/the-metaverse-from-a-developers-perspective/)
+
 [Review The Panaverse Presentation](https://docs.google.com/presentation/d/12C1s4UBTlR9nZNEkRE6aAuGeRA3s92jx-8nJKo9jdH4/edit?usp=sharing)
 
 ![Web3 Metaverse](metaverse.jpeg)
