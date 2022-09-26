@@ -879,6 +879,11 @@ Additional Reading:
 [How to deploy NextJS on AWS, the same way Vercel does?](https://stackoverflow.com/questions/70833847/how-to-deploy-nextjs-on-aws-the-same-way-vercel-does)
 
 
+### Quarter III Assignments and Projects
+
+[freeCodeCamp's Web3 Curriculum Open Beta](https://www.freecodecamp.org/news/web3-curriculum-open-beta/)
+
+
 
 ## Quarter IV-A: Advanced Web 3.0 Development: DAO, Oracles, Graphs, DeFi and Tokenomics
 
