@@ -385,6 +385,8 @@ The student should learn HTML, CSS, and Javascript by going through these videos
 
 [Learn JavaScript by Zeeshan Hanif](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQdc0NSLknxmxBch5gLOqyo)
 
+[JavaScript Free Code Camp for Practice](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
+
 We will cover the following Textbooks in class:
 
 Chapters 2-6, 13 of [JavaScript from Beginner to Professional: Learn JavaScript quickly by building fun, interactive, and dynamic web apps, games, and pages](https://www.amazon.com/JavaScript-Beginner-Professional-building-interactive/dp/1800562527/ref=sr_1_4)
