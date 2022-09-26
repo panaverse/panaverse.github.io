@@ -366,12 +366,16 @@ The online program consists of four quarters listed below and will mainly be foc
 
 [The Metaverse Book](https://www.matthewball.vc/metaversebook)
 
-[XR Design Principles and Best Practices](https://www.youtube.com/watch?v=TSu9SQ-hoCk)
+Additional Material:
+
+[Blockchain | Zeeshan Usmani](https://www.youtube.com/playlist?list=PL1Xmyl4aKTRjZTZSA_gVpk2xf6QKr_QyZ)
 
 Also refer to Appendix E for reading list.
 
 
 ## Quarter I-B: Object Oriented Programming using Typescript
+
+[TypeScript is the top programming language, and our core language](https://www.helpnetsecurity.com/2022/09/20/25-most-popular-programming-languages-trends/)
 
 The student should learn HTML, CSS, and Javascript by going through these videos:
 
@@ -910,6 +914,8 @@ Additional Reading:
 [Designing XR Textbook: Designing Immersive 3D Experiences - A Designer's Guide to Creating Realistic 3D Experiences for Extended Reality](https://www.amazon.com/Designing-Immersive-Experiences-Designers-Realistic/dp/0137282834/ref=sr_1_8)
 
 [UX for XR: User Experience Design and Strategies for Immersive Technologies (Design Thinking)](https://www.amazon.com/UX-Experience-Strategies-Immersive-Technologies/dp/1484270193/ref=sr_1_1)
+
+[XR Design Principles and Best Practices](https://www.youtube.com/watch?v=TSu9SQ-hoCk)
 
 
 
