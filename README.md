@@ -372,7 +372,7 @@ The online program consists of four quarters listed below and will mainly be foc
 
 Additional Material:
 
-[Blockchain | Zeeshan Usmani](https://www.youtube.com/playlist?list=PL1Xmyl4aKTRjZTZSA_gVpk2xf6QKr_QyZ)
+[Blockchain By Zeeshan Usmani](https://www.youtube.com/playlist?list=PL1Xmyl4aKTRjZTZSA_gVpk2xf6QKr_QyZ)
 
 Also refer to Appendix E for reading list.
 
