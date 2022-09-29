@@ -193,6 +193,12 @@ The following concepts and technologies will also help us build the metaverse ex
 
 The program will consist of four quarters. The fee will be Rs. 3,000 per quarter. Every week there a combination of onsite and online live classes. Students will also watch recorded videos and study textbooks.
 
+## Panaverse is a Hybrid Organization
+
+Our Panaverse Certified Web 3.0 and Metaverse program will be a hybrid of a business entity and an educational institution i.e. it will be a division of Panacloud and a program of PIAIC. 
+
+The mission statement of the Panaverse (a division of Panacloud) is to become the largest and most profitable Jamstack, Web 3.0, and Metaverse Template provider on [Themeforest](https://themeforest.net/), [Sketchfab](https://sketchfab.com/), etc.
+
 
 ## Onsite Faculty Members
 
@@ -203,6 +209,21 @@ The program will consist of four quarters. The fee will be Rs. 3,000 per quarter
 [Hira Khan](https://www.linkedin.com/in/hira-khan-76523540/), [Adil Altaf](https://www.linkedin.com/in/adilaltaf), and [Khurram Shaikh](https://www.linkedin.com/in/khurram-shaikh-88524513/)
 
 ## Note: Students are Required to Participate in Both Onsite and Online Discord Classes
+
+## Panaverse Technical Consultants
+
+Zeeshan, Moshin, Aamir, Arsalan, Waris, Murtaza, Uzair, Tanzeel, Hasan, and Mateen.
+
+## Panaverse Management Team
+
+Panaverse CEO: [Hamzah Syed]((https://www.linkedin.com/in/webdeveloper-react-jamstack-expert/) also COO Section B Wednesday Karachi Class 
+
+COO Section A Tuesday Karachi Class: [Mubashir Ali](https://www.linkedin.com/in/dev-mubashirali/)
+
+COO of all sections will be selected soon.
+
+All COO's will create and manage Learning Cell Managers. All 3,500 students/members must belong to a learning cell.
+
 
 ## Onsite Class Schedule
 
