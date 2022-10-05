@@ -267,11 +267,27 @@ Friday: Section G - 3:00 pm to 7:00 pm in CECOS Auditorium, First Class Starting
 
 Note: Those who do not live in the cities mentioned above should plan to travel to attend the onsite class.
 
-## Online (on Discord) Class Schedule
+## Online (Zoom/YouTube) Class Schedule
 
-Saturday, 8:00 pm to 10:00 pm on [Discord Voice Panacloud/panaverse-class Channel](https://discord.gg/GggDkBwJDr). First Class starting from Saturday October 8, 2022.
+Online Classes to supplement onsite classes starting:
 
-## Note: Students are Required to Participate in Both Onsite and Online Classes
+### Programming for Absolute Beginners By Daniyal Nagori
+
+Every Thursday, 8:00 pm
+
+https://us06web.zoom.us/j/89709556558?pwd=aUpoeURFalZVR2FIRFpPNGl2TC95dz09
+
+
+### Project-Based Introduction to Programming By Hira Khan and Adil Altaf
+
+Every Saturday, 8:00 pm
+
+https://us06web.zoom.us/j/87907923809?pwd=eWdjektteFpKSlBjSDZ4M2VUT2dQdz09
+
+We have a capacity of 500 participants on Zoom, therefore the classes will also be live broadcast on Panaverse DAO YouTube Channel:
+
+https://www.youtube.com/channel/UCu8v7dLyAix44NXjKCNNgRA
+
 
 ### Panaverse Community
 
