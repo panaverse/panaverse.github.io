@@ -1,7 +1,7 @@
 # Certified Web 3.0 and Metaverse Developer: A Nationwide Program in Karachi, Lahore, Islamabad, and Peshawar
 
 ![Panaverse DAO Logo](red-p-logo-text_dao_croped.png)
-## A Global Web 3.0 and Metaverse Developer Movement
+## <div align="center">A Global Web 3.0 and Metaverse Developer Movement</div>
 
 ## [Admissions Closed, Classes Starting on September 27, 2022](https://www.piaic.org/) 
 
