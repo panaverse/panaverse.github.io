@@ -589,6 +589,8 @@ Note: Plagiarism is illegal, immoral and unacceptable. Any student who plagiariz
 
 Abstract Factory, Factory Method, Singleton, Decorator, and Command. 
 
+[Advanced TypeScript Patterns by Matt Pocock](https://github.com/total-typescript/advanced-patterns-workshop)
+
 ### Study Material for Super-Achievers: WebAssembly and AssembleScript
 
 [Learning Repo: Learn WebAssembly with AssemblyScript in Baby Steps](https://github.com/panacloud-modern-global-apps/webassembly-assemblyscript/blob/main/README.md)
