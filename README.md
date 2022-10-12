@@ -67,7 +67,7 @@ The student will be able to earn money while studying in this program. This prog
 
 All students of the Certified Web 3.0 and Mataverse Program will be part of the program with the objective of generating revenue in dollars ASAP.
 As soon as the students have demonstrated that he/she can do professional work using TypeScript, Next.js, Chakra UI, etc. they will become Panacloud Developer Associates. They will be assigned a project by the Faculty Leads and assigned to one of the following Project Managers who will supervise their work:
-Hira, Moshin, Aamir, Arsalan, Adil, Waris, Murtaza, Uzair, Tanzeel, and Hasan.
+Hira, Mohsin, Aamir, Arsalan, Adil, Waris, Murtaza, Uzair, Tanzeel, and Hasan.
 
 ## Outcome for Students
 
@@ -223,7 +223,7 @@ The mission statement of the Panaverse (a division of Panacloud) is to become th
 
 ## Panaverse Technical Consultants
 
-Zeeshan, Moshin, Aamir, Arsalan, Waris, Murtaza, Uzair, Tanzeel, Hasan, and Mateen.
+Zeeshan, Mohsin, Aamir, Arsalan, Waris, Murtaza, Uzair, Tanzeel, Hasan, and Mateen.
 
 ## Panaverse Management Team
 
