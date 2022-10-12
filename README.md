@@ -9,7 +9,7 @@
 
 ## Panaverse DAO and ERC-20 Tokens
 
-Panaverse will be managed by a [DAO](https://www.investopedia.com/tech/what-dao/) and and we will issue 1 Billion Palaverse [ERC-20 tokens](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) in 2023 to international investors.
+Panaverse will be managed by a [DAO](https://www.investopedia.com/tech/what-dao/) and we will issue 1 Billion Panaverse [ERC-20 tokens](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) in 2023 to international investors.
 
 These tokens will be issued in a [crowdsale](https://www.thebalancemoney.com/what-is-a-cryptocurrency-crowdsale-391277) to investors globally. A Percentage of them will also be issued to Panaverse DAO Leaders, Managers, Developers, Designers, and Performant Students.
 
@@ -116,12 +116,12 @@ After completing this program you will be able to develop 2D and 3D experiences 
 
 The term metaverse is a combination of the Greek words meta, which means "beyond," "transcending," or "more comprehensive," and english word universe, which means "all existing matter and space." The options for entering virtual reality are limited to open and closed metaverses. Because there is no single, universal vision of a 3D virtual world on which everyone can agree, we believe the Metaverse will be made up of a number of open and closed ecosystems.
 
-You can think of the stack which we will cover in this course in terms of layers. The first layer is the Web 2.0 technologies which provide the tools to develop 2D frontends and a highly sclable and cost effective cloud backend. The second layer is the Web 3.0 technolgies that is built using the first layer and the Ethererum blockchain. The third layer replaces the 2D frontends with 3D and XR technolgies for developing metaverse experiences. In the third layer we use all the backend technologies included in the first two layers, only the frontend changes. The third metaverse layer can be based on open and closed ecosystems. 
+You can think of the stack which we will cover in this course in terms of layers. The first layer is the Web 2.0 technologies which provide the tools to develop 2D frontends and a highly scalable and cost effective cloud backend. The second layer is the Web 3.0 technologies that is built using the first layer and the Ethereum blockchain. The third layer replaces the 2D frontends with 3D and XR technologies for developing metaverse experiences. In the third layer we use all the backend technologies included in the first two layers, only the frontend changes. The third metaverse layer can be based on open and closed ecosystems. 
 
 [Why You Should Learn Web 2.0 Before Getting into Web 3.0](https://javascript.plainenglish.io/why-you-should-learn-web-2-0-before-getting-into-web-3-0-d251625990db) 
 
 
-The Web 2.0 full stack applicatios are build using these technologies, this is the first layer of our development stack:
+The Web 2.0 full stack applications are build using these technologies, this is the first layer of our development stack:
 
 1. [Typescript Programming Language for Front-end and Backend Development](https://www.typescriptlang.org/)
 2. [WebAssembly](https://webassembly.org/)
@@ -343,7 +343,7 @@ We will be using Discord, Twitter, Facebook, and Linkedin extensively in this co
 
 ### Companies to Follow
 
-[Vercel](https://twitter.com/vercel), the creators of Nextjs
+[Vercel](https://twitter.com/vercel), the creators of Next.js
 
 [Netlify](https://twitter.com/Netlify), the advocate of Jamstack 
 
