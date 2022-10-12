@@ -140,6 +140,8 @@ For more details check out the [Panacloud Web 2 Learning Repo](https://github.co
 
 This Web 2.0 stack can be easily extended to develop Web 3.0 Dapps using these technologies, this is the second layer:
 
+![Web3 Stack](web3stack.jpeg)
+
 1. [Ethereum Blockchain](https://ethereum.org/en/)
 2. [Solidity Smart Contract Programming Language](https://docs.soliditylang.org/)
 3. [OpenZepllin Smart Contracts](https://www.openzeppelin.com/contracts)
