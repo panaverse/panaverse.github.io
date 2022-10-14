@@ -634,6 +634,13 @@ Note: Plagiarism is illegal, immoral and unacceptable. Any student who plagiariz
 5. JavaScript on the Server: Node and NPM Introduction https://www.tutorialspoint.com/nodejs/index.htm
 6. TypeScript is the de facto standard: https://www.innoq.com/en/articles/2022/06/dependently-typed-typescript/
 
+### Web 3.0 Serverless API Development Special Classes for TypeScript Developers
+
+All those student who already know JavaScript and TypeScript will learn to develop Web 3.0 Serverless APIs in the first quarter of the program from the best developers of Panacloud in Zoom/YouTube Classes. In order to be selected for this group they will have to pass a TypeScript Multiple-Choice Quiz on Sunday, October 23 at 8:00 pm. 
+The student will appear in the online Quiz from home, The details about how to appear in Quiz will be shared with you latter. 
+
+Those developers who will pass this TypeScript Quiz will help in teaching programming to other students and learn API development in the first quarter. The students who donot know TypeScript will focus on learning JavaScript/TypeScript in the first quarter and API development in the third quarter. 
+
 
 ### Study Material for Super-Achievers: UI/UX Design using Figma and Design Patterns Part 1
 
