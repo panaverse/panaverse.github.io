@@ -256,9 +256,9 @@ Sunday: Section D - 2:00 pm to 6:00 pm in UMT Auditorium, First Class Starting f
 
 ### Islamabad
 
-Saturday: Section E - 9:00 am to 1:00 pm in Air University Auditorium, First Class Starting from October 1, 2022
+Saturday: Section E - 9:30 am to 1:30 pm in Air University Auditorium, First Class Starting from October 1, 2022
 
-Saturday: Section F - 2:00 pm to 6:00 pm in Air University Auditorium, First Class Starting from October 1, 2022
+Saturday: Section F - 2:30 pm to 6:30 pm in Air University Auditorium, First Class Starting from October 1, 2022
 
 2 Sections of 480 each in Islamabad = 960
 
@@ -276,7 +276,7 @@ Online Classes to supplement onsite classes starting:
 
 ### Programming for Absolute Beginners By Daniyal Nagori
 
-Every Thursday, 8:00 pm
+Every Monday, 8:00 pm
 
 https://us06web.zoom.us/j/89709556558?pwd=aUpoeURFalZVR2FIRFpPNGl2TC95dz09
 
@@ -367,6 +367,8 @@ The online program consists of four quarters listed below and will mainly be foc
 [Quarter I-A: Web 3.0 and Metaverse Theory](#quarter-i-a-web-30-and-metaverse-theory)
 
 [Quarter I-B: Object Oriented Programming using Typescript](#quarter-i-b-object-oriented-programming-using-typescript)
+
+[Web 3.0 Serverless API Development Special Classes for TypeScript Developers](#web-30-serverless-api-development-special-classes-for-typescript-developers)
 
 [Quarter I Assignments and Projects](#quarter-i-assignments-and-projects)
 
