@@ -370,6 +370,8 @@ The online program consists of four quarters listed below and will mainly be foc
 
 [Web 3.0 Serverless API Development Special Classes for TypeScript Developers](#web-30-serverless-api-development-special-classes-for-typescript-developers)
 
+[Quarter I Quizzes](#typescript-proficiency-quiz-details-and-instructions
+
 [Quarter I Assignments and Projects](#quarter-i-assignments-and-projects)
 
 [Required: Learn Fundamentals of Version Control with Git](#required-learn-fundamentals-of-version-control-with-git)
