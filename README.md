@@ -528,6 +528,50 @@ After this we will start Learning TypeScript which is a subset of JavaScript.
 
 [TypeScript tips and Tricks with Matt: Video](https://www.youtube.com/watch?v=hBk4nV7q6-w&t=24s)
 
+### Quater I Quizzes
+
+### TypeScript Proficiency Quiz Details and Instructions
+
+All Web 3 and Metaverse Students who are already software developers will appear in the following Quiz remotely from home:
+
+Name: TypeScript Proficiency Quiz
+
+Date and Time: Sunday, Oct 23, 9:00 pm
+
+URL: https://portal.piaic.org/
+
+Total MCQs: 63 
+
+Total Time: 120 minutes
+
+Preparation Resource:
+
+https://github.com/panacloud-modern-global-apps/learn-typescript
+
+Please complete your installation, etc. ASAP i.e. before the exam.
+
+It is important to note the following:
+1. You will attempt your exam at your home using the Safe Exam Browser.
+2. Download & Install Safe Exam Browser from Portal.
+3. After Installing the safe browser, download the Config file from the PIAIC Portal.
+4. Right click on the config file and select “open with” then select SEB.
+5. After running the Config file, log in with PIAIC Portal Credentials
+6. Select your Quiz and enter the security key (which will be available on the portal in the exam section) & start the test.
+7. Make sure you have a stable internet connection before attempting the quiz.
+8. Once you have completed the quiz simply logout and close the browser, your quiz will be submitted.
+9. The Quiz can only be attempted on a Laptop or a Desktop computer running Windows or Mac only.
+10. If you miss the quiz date there will be strictly no re-scheduling
+11. Security key for the quiz will be available on Portal in exam section
+12. It is essential to note that QUIZZES WILL NOT BE RESCHEDULED FOR ANY REASON REGARDLESS OF THE CIRCUMSTANCES.
+
+Safe Exam Browser installation and configuration Guide is available here.:
+
+https://youtu.be/MhYvz-50y0Y
+
+Note: Those who are beginners in programming should not appear in this quiz now, but will appear in the quiz at the end of the quarter.
+
+![TypeScript Cheetsheet](typescript.jpeg)
+
 
 
 ### Quarter I Assignments and Projects
