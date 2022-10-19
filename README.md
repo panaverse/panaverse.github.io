@@ -370,7 +370,7 @@ The online program consists of four quarters listed below and will mainly be foc
 
 [Web 3.0 Serverless API Development Special Classes for TypeScript Developers](#web-30-serverless-api-development-special-classes-for-typescript-developers)
 
-[Quarter I Quizzes](#typescript-proficiency-quiz-details-and-instructions
+[Quarter I Quizzes](#quater-i-quizzes)
 
 [Quarter I Assignments and Projects](#quarter-i-assignments-and-projects)
 
@@ -529,6 +529,8 @@ After this we will start Learning TypeScript which is a subset of JavaScript.
 [TypeScript Tips](https://www.totaltypescript.com/tips)
 
 [TypeScript tips and Tricks with Matt: Video](https://www.youtube.com/watch?v=hBk4nV7q6-w&t=24s)
+
+
 
 ### Quater I Quizzes
 
