@@ -568,6 +568,8 @@ Safe Exam Browser installation and configuration Guide is available here.:
 
 https://youtu.be/MhYvz-50y0Y
 
+![Download Safeexam Browser](safe_exam.jpeg)
+
 Note: Those who are beginners in programming should not appear in this quiz now, but will appear in the quiz at the end of the quarter.
 
 ![TypeScript Cheetsheet](typescript.jpeg)
