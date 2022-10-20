@@ -414,6 +414,10 @@ The online program consists of four quarters listed below and will mainly be foc
 
 ## Quarter I-A: Web 3.0 and Metaverse Theory
 
+[Panaverse DAO](https://docs.google.com/presentation/d/12C1s4UBTlR9nZNEkRE6aAuGeRA3s92jx-8nJKo9jdH4/edit?usp=sharing)
+
+[Web 3 User Manual](https://docs.google.com/presentation/d/1FSbr9aJwO0-fmZHqWy_eHO2N_jwJLmQCy4cG8rd4ctw/edit?usp=sharing)
+
 [Metaverse: Open for business?](https://www.technologyreview.com/2022/06/27/1054974/metaverse-open-for-business/)
 
 [Mastering Blockchain Book](https://www.packtpub.com/product/mastering-blockchain-third-edition/9781839213199)
