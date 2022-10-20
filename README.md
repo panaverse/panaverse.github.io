@@ -225,13 +225,9 @@ The mission statement of the Panaverse (a division of Panacloud) is to become th
 
 Zeeshan, Mohsin, Aamir, Arsalan, Waris, Murtaza, Uzair, Tanzeel, Hasan, and Mateen.
 
-## Panaverse Management Team
+## Panaverse Team
 
-Panaverse CEO: [Hamzah Syed]((https://www.linkedin.com/in/webdeveloper-react-jamstack-expert/) also COO Section B Wednesday Karachi Class 
-
-COO Section A Tuesday Karachi Class: [Mubashir Ali](https://www.linkedin.com/in/dev-mubashirali/)
-
-COO of all sections will be selected soon.
+[Management Team](https://docs.google.com/spreadsheets/d/1bbRt39eoJtGtsHXd8UmLrcu23ob4i8HGPaE9TquLGgw/edit?usp=sharing)
 
 All COO's will create and manage Learning Cell Managers. All 3,500 students/members must belong to a learning cell.
 
