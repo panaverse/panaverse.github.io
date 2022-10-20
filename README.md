@@ -9,7 +9,7 @@
 
 ## Panaverse DAO and ERC-20 Tokens
 
-Panaverse will be managed by a [DAO](https://www.investopedia.com/tech/what-dao/) and and we will issue 1 Billion Palaverse [ERC-20 tokens](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) in 2023 to international investors.
+Panaverse will be managed by a [DAO](https://www.investopedia.com/tech/what-dao/) and and we will issue 1 Billion Panaverse [ERC-20 tokens](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) in 2023 to international investors.
 
 These tokens will be issued in a [crowdsale](https://www.thebalancemoney.com/what-is-a-cryptocurrency-crowdsale-391277) to investors globally. A Percentage of them will also be issued to Panaverse DAO Leaders, Managers, Developers, Designers, and Performant Students.
 
