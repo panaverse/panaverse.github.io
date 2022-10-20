@@ -215,9 +215,11 @@ The mission statement of the Panaverse (a division of Panacloud) is to become th
 
 [Zia Khan](https://www.linkedin.com/in/ziaukhan/), [Daniyal Nagori](https://www.linkedin.com/in/daniyalnagori/?originalSubdomain=pk), and [Ali Razzaq](https://www.linkedin.com/in/alirazzaquet/)
 
-## Remote (online on Discord) Faculty Members
+## Remote (online on Zoom/Youtube) Faculty Members
 
 [Hira Khan](https://www.linkedin.com/in/hira-khan-76523540/), [Adil Altaf](https://www.linkedin.com/in/adilaltaf), and [Khurram Shaikh](https://www.linkedin.com/in/khurram-shaikh-88524513/)
+
+[YouTube Channel](https://www.youtube.com/channel/UCu8v7dLyAix44NXjKCNNgRA)
 
 ## Note: Students are Required to Participate in Both Onsite and Online Discord Classes
 
@@ -285,7 +287,7 @@ https://us06web.zoom.us/j/87907923809?pwd=eWdjektteFpKSlBjSDZ4M2VUT2dQdz09
 
 We have a capacity of 500 participants on Zoom, therefore the classes will also be live broadcast on Panaverse DAO YouTube Channel:
 
-https://www.youtube.com/channel/UCu8v7dLyAix44NXjKCNNgRA
+[YouTube Channel](https://www.youtube.com/channel/UCu8v7dLyAix44NXjKCNNgRA)
 
 
 ### Panaverse Community
@@ -685,6 +687,27 @@ Note: Plagiarism is illegal, immoral and unacceptable. Any student who plagiariz
 4. JavaScript in the Browser: Chapters 1 and 2 of JavaScript from Beginners to Professional by Svekis, Putten, and Percival.
 5. JavaScript on the Server: Node and NPM Introduction https://www.tutorialspoint.com/nodejs/index.htm
 6. TypeScript is the de facto standard: https://www.innoq.com/en/articles/2022/06/dependently-typed-typescript/
+
+## Online (Zoom/YouTube) Class Schedule
+
+Online Classes to supplement onsite classes starting:
+
+### Programming for Absolute Beginners By Daniyal Nagori
+
+Every Monday, 8:00 pm
+
+https://us06web.zoom.us/j/89709556558?pwd=aUpoeURFalZVR2FIRFpPNGl2TC95dz09
+
+
+### Project-Based Introduction to Programming By Hira Khan and Adil Altaf
+
+Every Saturday, 8:00 pm
+
+https://us06web.zoom.us/j/87907923809?pwd=eWdjektteFpKSlBjSDZ4M2VUT2dQdz09
+
+We have a capacity of 500 participants on Zoom, therefore the classes will also be live broadcast on Panaverse DAO YouTube Channel:
+
+[YouTube Channel](https://www.youtube.com/channel/UCu8v7dLyAix44NXjKCNNgRA)
 
 ### Web 3.0 Serverless API Development Special Classes for TypeScript Developers
 
