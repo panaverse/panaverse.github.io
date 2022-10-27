@@ -737,7 +737,7 @@ The student will appear in the online Quiz from home, The details about how to a
 
 Those developers who will pass this TypeScript Quiz will help in teaching programming to other students and learn API development in the first quarter. The students who donot know TypeScript will focus on learning JavaScript/TypeScript in the first quarter and API development in the third quarter. 
 
-## Must Have: Create Free AWS Account
+### Must Have: Create Free AWS Account
 
 [AWS Free Tier](https://aws.amazon.com/free/)
 
@@ -746,6 +746,8 @@ Note: For AWS Free Tier you will need a credit or debit card. The easiest way fo
 Now you can create virtual VISA Debit card through [NayaPay App](https://www.nayapay.com/) which can be used to create AWS/GCP/Azure account. This is good NEWS For those students who find it difficult to create physical VISA/Master Card from Banks; this is a great option to avail.
 
 [You can also get a $300 credit](https://pages.awscloud.com/adoptf90d_GLOBAL_POC-credits.html)
+
+The mission of Panaverse DAO is to empower developers. Our developers will be developing APIs and Front-end Web 2, Web 3, and Metavers templates for a global marketplace. In this class we will learn to develop APIs. 
 
 We will cover the following material and learn how to develop AWS GraphQL Serverless APIs using Panacloud CLI:
 
