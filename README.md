@@ -737,6 +737,35 @@ The student will appear in the online Quiz from home, The details about how to a
 
 Those developers who will pass this TypeScript Quiz will help in teaching programming to other students and learn API development in the first quarter. The students who donot know TypeScript will focus on learning JavaScript/TypeScript in the first quarter and API development in the third quarter. 
 
+## Must Have: Create Free AWS Account
+
+[AWS Free Tier](https://aws.amazon.com/free/)
+
+Note: For AWS Free Tier you will need a credit or debit card. The easiest way for Pakistani students is to open a bank account in Meezan Bank. Open a Meezan Aasan Account if you have no earning proof. Meezan Bank will charge Rs. 1100 for ATM Debit Card and there is a requirement of Rs. 100 minimum deposit. The card will be delivered in a few weeks. Our students have reported that this Debit card works with AWS.
+
+Now you can create virtual VISA Debit card through [NayaPay App](https://www.nayapay.com/) which can be used to create AWS/GCP/Azure account. This is good NEWS For those students who find it difficult to create physical VISA/Master Card from Banks; this is a great option to avail.
+
+We will cover the following material and learn how to develop AWS GraphQL Serverless APIs using Panacloud CLI:
+
+1. [The CDK Book](https://www.thecdkbook.com/)
+2. [AWS Lambda](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step01_hello_lambda)
+3. [AWS AppSync Lambda as Datasource](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step03_appsync_lambda_as_datasource)
+4. [AWS Lambda with DynamoDB](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step04_appsync_lambda_dynamodb)
+5. [Connecting to Appsync GraphQL API with Apollo Client](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step05_appsync_apollo_client)
+6. [Connecting to Appsync GraphQL API with AWS Amplify](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step07_appsync_with_subscriptions_using_amplify)
+7. [Integrate AppSync with DynamoDB as a Datasource](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step08_appsync_dynamodb_as_datasource_mappingtemplate_methods)
+8. [Appsync without any data source](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step10_appsync_no_data_source)
+9. [How to use Cognito with AppSync](https://advancedweb.hu/how-to-use-cognito-with-appsync/)
+10. [How to use V2 Aurora Serverless Database with CDK v2.20.0 library](https://medium.com/@_vinz_/how-to-use-v2-aurora-serverless-database-with-cdk-v2-20-0-library-ad502ca09062)
+11. [Building Real-time Serverless APIs with PostgreSQL, CDK, TypeScript, and AWS AppSync](https://aws.amazon.com/blogs/mobile/building-real-time-serverless-apis-with-postgres-cdk-typescript-and-aws-appsync/)
+12. [AWS AppSync launches new API command to test GraphQL resolvers](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-appsync-launches-api-command-test-graphql-resolvers/)
+13. [Use Postman to test a service with GraphQL in AWS (AppSync, Apollo)](https://stackoverflow.com/questions/59287672/use-postman-to-test-a-service-with-graphql-in-aws-appsync-apollo)
+14. [Speed Up Your Local Development Cycle with the AWS AppSync Simulator](https://spin.atomicobject.com/2022/03/03/aws-appsync-simulator/)
+15. [Panacloud CLI](https://github.com/panacloud/cli)
+
+Note: Panacloud CLI is Open Source Tool we will also contribute in its development.
+
+
 
 ### Study Material for Super-Achievers: UI/UX Design using Figma and Design Patterns Part 1
 
