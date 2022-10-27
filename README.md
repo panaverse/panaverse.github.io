@@ -584,6 +584,27 @@ Note: Those who are beginners in programming should not appear in this quiz now,
 
 ### Quarter I Assignments and Projects
 
+### Wednesdays Web 3.0 Online Class by Zia and Ali available at:
+
+https://www.youtube.com/watch?v=sQuclh-Yk6A
+
+Slides for the class are available at:
+
+https://docs.google.com/presentation/d/1FSbr9aJwO0-fmZHqWy_eHO2N_jwJLmQCy4cG8rd4ctw/edit?usp=sharing
+
+In this online class, we have covered up to slide number 118.
+
+Now everyone has to submit the following five Web 3.0 challenge assignments:
+
+1. Create a Token and Become a Liquidity Provider on Uniswap (Goerli Testnet) (On Slide #75)
+2. Supply and Borrow Assets with Aave Protocol (On Slide #88)
+3. Create DAO and Add Members (On Slide #102)
+4. Create a Fundraising Presentation for a New Web3 Project (On Slide #109) 
+5. Register Your Domain at ENS Service on a Testnet (On Slide #118)
+
+Please submit your assignments as per the instructions on the slides.
+
+
 ### Quarter I Metaverse Presentations
 
 The students are required to make Metaverse presentations on Google slides: 
