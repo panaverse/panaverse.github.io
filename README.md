@@ -767,6 +767,7 @@ We will cover the following material and learn how to develop AWS GraphQL Server
 14. [Use Postman to test a service with GraphQL in AWS (AppSync, Apollo)](https://stackoverflow.com/questions/59287672/use-postman-to-test-a-service-with-graphql-in-aws-appsync-apollo)
 15. [Speed Up Your Local Development Cycle with the AWS AppSync Simulator](https://spin.atomicobject.com/2022/03/03/aws-appsync-simulator/)
 16. [Panacloud CLI](https://github.com/panacloud/cli)
+17. [The Elite team will become part of API Team, watch](https://www.youtube.com/watch?v=eTF9vqKNLek)
 
 Note: Panacloud CLI is Open Source Tool we will also contribute in its development.
 
@@ -789,11 +790,9 @@ Abstract Factory, Factory Method, Singleton, Decorator, and Command.
 [Learning Repo: Learn WebAssembly with AssemblyScript in Baby Steps](https://github.com/panacloud-modern-global-apps/webassembly-assemblyscript/blob/main/README.md)
 
 
-## Quarter II-A: Advanced Web 2.0 Development using Next.js
+## Quarter II-A: Advanced Web 2.0 Development using Next.js 13
 
 [WHAT IS NEXT JS AND WHY SHOULD YOU USE IT IN 2022?](https://pagepro.co/blog/what-is-nextjs/)
-
-[Real-World Next.js Textbook](https://www.packtpub.com/product/real-world-next-js/9781801073493)
 
 [Next.js Learning Repo](https://github.com/panacloud-modern-global-apps/nextjs)
 
