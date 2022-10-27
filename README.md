@@ -745,6 +745,8 @@ Note: For AWS Free Tier you will need a credit or debit card. The easiest way fo
 
 Now you can create virtual VISA Debit card through [NayaPay App](https://www.nayapay.com/) which can be used to create AWS/GCP/Azure account. This is good NEWS For those students who find it difficult to create physical VISA/Master Card from Banks; this is a great option to avail.
 
+[You can also get a $300 credit](https://pages.awscloud.com/adoptf90d_GLOBAL_POC-credits.html)
+
 We will cover the following material and learn how to develop AWS GraphQL Serverless APIs using Panacloud CLI:
 
 1. [The CDK Book](https://www.thecdkbook.com/)
