@@ -749,7 +749,9 @@ Now you can create virtual VISA Debit card through [NayaPay App](https://www.nay
 
 The mission of Panaverse DAO is to empower developers. Our developers will be developing APIs and Front-end Web 2, Web 3, and Metavers templates for a global marketplace. In this class we will learn to develop APIs. 
 
-We will cover the following material and learn how to develop AWS GraphQL Serverless APIs using Panacloud CLI:
+To develop GraphQL APIs we will be using this Stack: GraphQL, AWS AppSync, AWS Lambda Functions, AWS Nepture Serverless Graph Database and AWS Arora Serverless Database
+
+We will cover the following material and learn how to develop AWS GraphQL Serverless APIs:
 
 1. [The CDK Book](https://www.thecdkbook.com/)
 2. [AWS Lambda](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step01_hello_lambda)
