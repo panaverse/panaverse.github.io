@@ -762,12 +762,13 @@ We will cover the following material and learn how to develop AWS GraphQL Server
 9. [Appsync without any data source](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step10_appsync_no_data_source)
 10. [How to use Cognito with AppSync](https://advancedweb.hu/how-to-use-cognito-with-appsync/)
 11. [How to use V2 Aurora Serverless Database with CDK v2.20.0 library](https://medium.com/@_vinz_/how-to-use-v2-aurora-serverless-database-with-cdk-v2-20-0-library-ad502ca09062)
-12. [Building Real-time Serverless APIs with PostgreSQL, CDK, TypeScript, and AWS AppSync](https://aws.amazon.com/blogs/mobile/building-real-time-serverless-apis-with-postgres-cdk-typescript-and-aws-appsync/)
-13. [AWS AppSync launches new API command to test GraphQL resolvers](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-appsync-launches-api-command-test-graphql-resolvers/)
-14. [Use Postman to test a service with GraphQL in AWS (AppSync, Apollo)](https://stackoverflow.com/questions/59287672/use-postman-to-test-a-service-with-graphql-in-aws-appsync-apollo)
-15. [Speed Up Your Local Development Cycle with the AWS AppSync Simulator](https://spin.atomicobject.com/2022/03/03/aws-appsync-simulator/)
-16. [Panacloud CLI](https://github.com/panacloud/cli)
-17. [The Elite team will become part of API Team, watch](https://www.youtube.com/watch?v=eTF9vqKNLek)
+12. [Graph Database Neptune Serverless](https://techcrunch.com/2022/10/27/aws-makes-neptune-its-graph-database-service-serverless/)
+13. [Building Real-time Serverless APIs with PostgreSQL, CDK, TypeScript, and AWS AppSync](https://aws.amazon.com/blogs/mobile/building-real-time-serverless-apis-with-postgres-cdk-typescript-and-aws-appsync/)
+14. [AWS AppSync launches new API command to test GraphQL resolvers](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-appsync-launches-api-command-test-graphql-resolvers/)
+15. [Use Postman to test a service with GraphQL in AWS (AppSync, Apollo)](https://stackoverflow.com/questions/59287672/use-postman-to-test-a-service-with-graphql-in-aws-appsync-apollo)
+16. [Speed Up Your Local Development Cycle with the AWS AppSync Simulator](https://spin.atomicobject.com/2022/03/03/aws-appsync-simulator/)
+17. [Panacloud CLI](https://github.com/panacloud/cli)
+18. [The Elite team will become part of API Team, watch](https://www.youtube.com/watch?v=eTF9vqKNLek)
 
 Note: Panacloud CLI is Open Source Tool we will also contribute in its development.
 
