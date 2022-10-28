@@ -128,6 +128,7 @@ The Web 2.0 full stack applicatios are build using these technologies, this is t
 2. [WebAssembly](https://webassembly.org/)
 3. [Visual Studio Code Editor](https://code.visualstudio.com/)
 4. [Next.js 13 for Server Side Components](https://www.nextjs.org/13)
+5. [The Future of the Web: From Cloud to Edge](https://www.youtube.com/watch?v=HlXLVb3QCvQ)
 6. [Infrastructure as Code using AWS Cloud Development Kit](https://aws.amazon.com/cdk/)
 7. [AWS Lambda for Serverless Edge Computing](https://aws.amazon.com/lambda/)
 8. [The Future of the Web is on the Edge](https://deno.com/blog/the-future-of-web-is-on-the-edge)
