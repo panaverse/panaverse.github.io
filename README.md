@@ -222,7 +222,7 @@ The mission statement of the Panaverse (a division of Panacloud) is to become th
 
 [Hira Khan](https://www.linkedin.com/in/hira-khan-76523540/), [Adil Altaf](https://www.linkedin.com/in/adilaltaf), and [Khurram Shaikh](https://www.linkedin.com/in/khurram-shaikh-88524513/)
 
-[YouTube Channel](https://www.youtube.com/channel/UCu8v7dLyAix44NXjKCNNgRA)
+YouTube Channel: [https://www.youtube.com/@panaverse](https://www.youtube.com/@panaverse)
 
 ## Note: Students are Required to Participate in Both Onsite and Online Discord Classes
 
