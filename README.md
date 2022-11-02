@@ -584,6 +584,42 @@ Note: Those who are beginners in programming should not appear in this quiz now,
 ![TypeScript Cheetsheet](typescript.jpeg)
 
 
+### Fundamentals of JavaScript and Node.js Quiz on Sunday, November 13
+
+All Web 3.0 and Metaverse Students will appear in the following Quiz remotely from home:
+
+Total MCQs: 30
+
+Duration: 60 minutes 
+
+Date and Time: Sunday, November 13, 9:00 pm.
+
+Preparation Resources:
+
+1. Chapters 1, 2, 3, 4, 5, 6, and 13 of JavaScript from Beginner to Professional Download the Book From https://github.com/rrizwan98/Web-3.0-Books
+
+2. Node.js Presentation: https://docs.google.com/presentation/d/1eOLJTN0FyVAw6lMUvA_XYLORKnudWXyzXsB6sg5oPIs/edit?usp=sharing
+
+3. Onsite and online classes on Panaverse YouTube Channel:
+https://www.youtube.com/@panaverse 
+
+
+Covers the following Topics:
+
+1. Background of JavaScript and How to use JavaScript in Browser
+2. Variables, Primitive data types Analyzing and modifying data types, and Operators (Chapter 2 of JavaScript from Beginner to Professional)
+3. Intro to Node.js, .mjs files, Modules, NPM, import, export, and using external modules with npm:
+https://docs.google.com/presentation/d/1eOLJTN0FyVAw6lMUvA_XYLORKnudWXyzXsB6sg5oPIs/edit?usp=sharing 
+4. How to accept user input in your Node.js JavaScript programs, this will allow us to create interactive Node.js console programs using prompt-sync library. The last example in this presentation shows you how to use prompt-sync library in your Node.js programs:
+https://docs.google.com/presentation/d/1eOLJTN0FyVAw6lMUvA_XYLORKnudWXyzXsB6sg5oPIs/edit?usp=sharing 
+Note: After this point, we will do all our class work and exercises using Node.js in .mjs files. We will also be able to develop interactive Node.js console programs which will greatly help the students to learn.
+5. Using Arrays and Objects in Node.js Programs (chapter 3 of JavaScript from Beginner to Professional)
+6. Using if and if else statements, else if statements, Conditional ternary operators, and switch statements in Node.js programs (chapter 4 of JavaScript from Beginner to Professional)
+7. Using while loop, do while loop, for loop, for in, and for of loop in Node.js (chapter 5 of JavaScript from Beginner to Professional)
+8. Using Basic functions, Function arguments, Return, Variable scope in functions, Recursive functions, Nested functions, Anonymous functions, and Function callbacks in Node.js (chapter 6 of JavaScript from Beginner to Professional)
+9. Using Concurrency, Callbacks, Promises, async / await, and Event loop (chapter 13 of JavaScript from Beginner to Professional)
+
+
 
 ### Quarter I Assignments and Projects
 
