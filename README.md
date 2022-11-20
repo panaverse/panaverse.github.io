@@ -2,7 +2,7 @@
 
 ![Panaverse DAO Logo](red-p-logo-text_dao_croped.png)
 
-## The Future of the Web is Web 3.0, Metaverse, and Edge Computing. Panaverse DAO is a movement to spread these technolgies globally. 
+## The Future of the Web is Web 3.0, Metaverse, and Edge Computing. Panaverse DAO is a movement to spread these technolgies globally. It is community of Web 3 and Metaverse developers, designers, trainers, startup founders and service providers. 
 
 ## [Admissions Closed, Classes Started on September 27, 2022](https://www.piaic.org/) 
 
