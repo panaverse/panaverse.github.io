@@ -24,7 +24,7 @@ This curriculum is intended for beginners who want to learn software development
 
 Every participant of the program will start by completing the following two core courses:
 
-[Quarter I (Core) CS-101: Object-Oriented Programming using TypeScript]()
+[Quarter I (Core) CS-101: Object-Oriented Programming using TypeScript](https://github.com/panaverse/panaverse.github.io#quarter-i-core)
 
 [Quarter II (Core) W2-201: Developing Planet-Scale Web 2.0 Serverless Cloud Cloud Apps and APIs using Next.js 13 and Cloud Development Kit (CDK) for Terraform]()
 
@@ -175,18 +175,18 @@ Homework Project
 https://github.com/panaverse/typescript-node-projects 
 
 
-## TypeScript for React
+### TypeScript for React
 
 [Minimal TypeScript Crash Course For React
 With Interactive Code Exercises](https://profy.dev/article/react-typescript) 
 
-## TypeScript Quizzes
+### TypeScript Quizzes
 
 Fundamentals of TypeScript Quiz
 
 TypeScript Professional Proficiency Quiz
 
-## Fundamentals of Version Control with Git (Recorded Videos)
+### Fundamentals of Version Control with Git (Recorded Videos)
 
 [Version Control using Git and GitHub By Sir Zeeshan Hanif (Watch Recorded Videos)](https://www.youtube.com/playlist?list=PLKueo-cldy_HjRnPUL4G3pWHS7FREAizF)
 
@@ -206,6 +206,7 @@ http://git-scm.com/book/en/v2/Git-Branching-Remote-Branches#Tracking-Branches
 For practice: https://try.github.io/levels/1/challenges/1 
 
 Homework:
+
 https://www.datacamp.com/courses/introduction-to-git-for-data-science  
 
 Git Cheatsheet
