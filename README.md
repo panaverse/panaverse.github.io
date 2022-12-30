@@ -4,7 +4,7 @@
 
 ## The Future of the Web is Web 3.0, Metaverse, and Edge Computing. Panaverse DAO is a movement to spread these technolgies globally. It is community of Web 3 and Metaverse developers, designers, trainers, startup founders and service providers. 
 
-## [Admissions Open Now in Karachi, Lahore, Islamabad, and Peshawar](https://www.piaic.org/) 
+## [Admissions Now Open in Karachi, Lahore, Islamabad, and Peshawar](https://www.piaic.org/) 
 
 [This document on Google Docs](https://docs.google.com/document/d/13Z4tMKQmZpMEsOc1Y_qAXbOstRolGIFupHxQFgAFl98/edit?usp=sharing)
 
@@ -26,7 +26,7 @@ Every participant of the program will start by completing the following two core
 
 [Quarter I (Core) CS-101: Object-Oriented Programming using TypeScript](https://github.com/panaverse/panaverse.github.io#quarter-i-core)
 
-[Quarter II (Core) W2-201: Developing Planet-Scale Web 2.0 Serverless Cloud Cloud Apps and APIs using Next.js 13 and Cloud Development Kit (CDK) for Terraform]()
+[Quarter II (Core) W2-201: Developing Planet-Scale Web 2.0 Serverless Cloud Cloud Apps and APIs using Next.js 13 and Cloud Development Kit (CDK) for Terraform](https://github.com/panaverse/panaverse.github.io#quarter-ii-core)
 
 ## Specialized Tracks
 
