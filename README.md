@@ -228,7 +228,7 @@ The objective of this course is to teach participants to develop customer-facing
 
 Course Outline:  
 
-Next.js 13 Web Development
+### Next.js 13 Web Development
 
 [Next 13 Official Documentation](
 https://beta.nextjs.org/docs)
@@ -238,7 +238,7 @@ https://beta.nextjs.org/docs)
 [Learn Next.js 13 Learning Repo](
 https://github.com/panaverse/learn-nextjs)
 
-Next.js 13 using Chakra UI (Remote Zoom Class)
+### Next.js 13 using Chakra UI (Remote Zoom Class)
 
 Chakra UI Docs
 https://chakra-ui.com/getting-started
@@ -246,7 +246,7 @@ https://chakra-ui.com/getting-started
 CSS Flexbox Explained – Complete Guide to Flexible Containers and Flex Items
 https://www.freecodecamp.org/news/css-flexbox-complete-guide/
 
-UI/UX Design with Figma, TailwindCSS, and Chakra UI (Remote  Zoom Class)
+### UI/UX Design with Figma, TailwindCSS, and Chakra UI (Remote  Zoom Class)
 
 [Designing and Prototyping Interfaces with Figma: Learn essential UX/UI design principles by creating interactive prototypes for mobile, tablet, and desktop by Fabio Staiano](https://www.amazon.com/Designing-Prototyping-Interfaces-Figma-interactive/dp/180056418X/ref=sr_1_1_sspa)
 
@@ -254,8 +254,7 @@ UI/UX Design with Figma, TailwindCSS, and Chakra UI (Remote  Zoom Class)
 
 [Chakra UI Figma Kit](https://www.figma.com/community/file/971408767069651759)
 
-
-API Routes with Next.js
+### API Routes with Next.js
 
 [API Routes](https://nextjs.org/docs/api-routes/introduction)
 
@@ -268,7 +267,7 @@ https://codevoweb.com/build-a-trpc-crud-api-example-with-next-js/)
 Stop building REST APIs for your Next.js apps, use tRPC instead
 https://brockherion.dev/blog/posts/stop-building-rest-apis-for-your-next-apps/
 
-SQL and Prisma
+### SQL and Prisma
 
 [Start from scratch with relational databases](https://www.prisma.io/docs/getting-started/setup-prisma/start-from-scratch/relational-databases-typescript-postgres)
 
@@ -277,12 +276,11 @@ SQL and Prisma
 [Database Management Systems and SQL – Tutorial for Beginners](
 https://www.freecodecamp.org/news/dbms-and-sql-basics/)
 
-Next.js 13 using TailwindCSS (Remote Zoom Class)
+### Next.js 13 using TailwindCSS (Remote Zoom Class)
 
 [Modern CSS with Tailwind, Second Edition by Noel Rappin](https://pragprog.com/titles/tailwind2/modern-css-with-tailwind-second-edition/)
 
-
-AWS Application Composer (Remote Zoom Class)
+### AWS Application Composer (Remote Zoom Class)
 
 [What is AWS Application Composer?](https://www.youtube.com/watch?v=BujE_tik5r8)
 
@@ -303,7 +301,7 @@ Now you can create a virtual VISA Debit card through the NayaPay app (https://ww
 You can also get a $300 credit
 https://pages.awscloud.com/adoptf90d_GLOBAL_POC-credits.html 
 
-Multi-Cloud GraphQL Serverless API Development with Cloud Development Kit for Terraform (CDKTF) (Remote Zoom Class)
+### Multi-Cloud GraphQL Serverless API Development with Cloud Development Kit for Terraform (CDKTF) (Remote Zoom Class)
 
 [Learn Multicloud Serverless API Development using CDK Terraform in Baby Steps](https://github.com/panaverse/learn-multicloud-api-development)
 
@@ -320,16 +318,16 @@ https://github.com/panaverse/styling-nextjs-projects)
 [Build a Twitter Clone](https://www.youtube.com/watch?v=nzJsYJPCc80)
 
 
-Earn While You Learn Projects
+### Earn While You Learn Projects
 
-Build Full-Stack Next.js 13 Jamstack Templates
+### Build Full-Stack Next.js 13 Jamstack Templates
 
 You will be assigned to build a template which we will sell on Theme Forest and Panaverse DAO marketplace. The Panaverse DAO will receive 25% share on the sale of the template which will be used to manage the platform. An additional 20% will be spent on marketing the template. 55% of the revenues will be distributed to the developer through the Panaverse DAO in the form of Panaverse tokens. 
 
 [The Panaverse Full-Stack Template Standard](https://github.com/panaverse/panaverse-template-standard)
 
 
-Build QraphQL APIs 
+### Build QraphQL APIs 
 
 You will be assigned to build APIs for which you will sell subscriptions on the Panaverse DAO Marketplace. The Panaverse DAO will receive 25% share on the sale of the template which will be used to manage the platform. An additional 20% will be spent on marketing the template. 60% of the revenues will be distributed to the developer through the Panaverse DAO in the form of Panaverse tokens. 
 
