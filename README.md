@@ -481,7 +481,8 @@ Deploy your NFT contract on a testnet, mint it, and view it on the MetaMask wall
 Implement a ERC721 Market https://ethereum.org/en/developers/tutorials/how-to-implement-an-erc721-market/
 
 
-## Quarter IV
+## Quarter IV Web3 and Metaverse
+
 ## MV-361: Developing Planet-Scale Open Virtual and Augmented Metaverse Experiences
 
 Duration: 13 Weeks
