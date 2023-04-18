@@ -142,9 +142,9 @@ Background of JavaScript and How to use JavaScript in Browser
 Variables, Primitive data types Analyzing and modifying data types, and Operators (Chapter 2 of JavaScript from Beginner to Professional)
 
 1. Intro to Node.js, .mjs files, Modules, NPM, import, export, and using external modules with npm:
-https://docs.google.com/presentation/d/1eOLJTN0FyVAw6lMUvA_XYLORKnudWXyzXsB6sg5oPIs/edit?usp=sharing  
+[https://docs.google.com/presentation/d/1eOLJTN0FyVAw6lMUvA_XYLORKnudWXyzXsB6sg5oPIs/edit?usp=sharing](https://docs.google.com/presentation/d/1eOLJTN0FyVAw6lMUvA_XYLORKnudWXyzXsB6sg5oPIs/edit?usp=sharing)  
 How to accept user input in your Node.js JavaScript programs, this will allow us to create interactive Node.js console programs using prompt-sync library. The last example in this presentation shows you how to use prompt-sync library in your Node.js programs:
-https://docs.google.com/presentation/d/1eOLJTN0FyVAw6lMUvA_XYLORKnudWXyzXsB6sg5oPIs/edit?usp=sharing  
+[https://docs.google.com/presentation/d/1eOLJTN0FyVAw6lMUvA_XYLORKnudWXyzXsB6sg5oPIs/edit?usp=sharing](https://docs.google.com/presentation/d/1eOLJTN0FyVAw6lMUvA_XYLORKnudWXyzXsB6sg5oPIs/edit?usp=sharing)  
 Note: After this point, we will do all our class work and exercises using Node.js in .mjs files. We will also be able to develop interactive Node.js console programs which will greatly help the students to learn.
 2. Using Arrays and Objects in Node.js Programs (chapter 3 of JavaScript from Beginner to Professional)
 3. Using if and if else statements, else if statements, Conditional ternary operators, and switch statements in Node.js programs (chapter 4 of JavaScript from Beginner to Professional)
@@ -153,26 +153,26 @@ Note: After this point, we will do all our class work and exercises using Node.j
 6. Using Concurrency, Callbacks, Promises, async / await, and Event loop (chapter 13 of JavaScript from Beginner to Professional)
 7. JavaScript promises, mastering the asynchronous
 
-https://www.codingame.com/playgrounds/347/javascript-promises-mastering-the-asynchronous/what-is-asynchronous-in-javascript 
+[https://www.codingame.com/playgrounds/347/javascript-promises-mastering-the-asynchronous/what-is-asynchronous-in-javascript](https://www.codingame.com/playgrounds/347/javascript-promises-mastering-the-asynchronous/what-is-asynchronous-in-javascript) 
 
 New JavaScript Features in ECMAScript 2022 and 2021
-https://dev.to/brayanarrieta/new-javascript-features-ecmascript-2022-with-examples-4nhg 
+[https://dev.to/brayanarrieta/new-javascript-features-ecmascript-2022-with-examples-4nhg](https://dev.to/brayanarrieta/new-javascript-features-ecmascript-2022-with-examples-4nhg) 
 
 
 ### Object-Oriented Programming with TypeScript
 
 Chapters 1-11 of Learning TypeScript: Enhance Your Web Development Skills Using Type-Safe JavaScript
-https://www.amazon.com/Learning-TypeScript-Development-Type-Safe-JavaScript/dp/1098110331/ref=sr_1_1 
+[https://www.amazon.com/Learning-TypeScript-Development-Type-Safe-JavaScript/dp/1098110331/ref=sr_1_1](https://www.amazon.com/Learning-TypeScript-Development-Type-Safe-JavaScript/dp/1098110331/ref=sr_1_1 )
 
 Learning Repository
-https://github.com/panaverse/learn-typescript 
+[https://github.com/panaverse/learn-typescript](https://github.com/panaverse/learn-typescript) 
 
 In Class Companion projects and articles for Learning TypeScript
-https://www.learningtypescript.com/ 
+[https://www.learningtypescript.com/](https://www.learningtypescript.com/) 
 
 Homework Project
 
-https://github.com/panaverse/typescript-node-projects 
+[https://github.com/panaverse/typescript-node-projects](https://github.com/panaverse/typescript-node-projects )
 
 
 ### TypeScript for React
@@ -194,23 +194,23 @@ Chapters 1, 2, 3, and 4 Learn Version Control with Git: A step-by-step course fo
 
 We will also cover these readings:
 
-https://help.github.com/articles/markdown-basics/ 
+[https://help.github.com/articles/markdown-basics/](https://help.github.com/articles/markdown-basics/)
 
-http://stackoverflow.com/questions/5009600/difference-between-fork-and-branch-on-github 
-http://stackoverflow.com/questions/3329943/git-branch-fork-fetch-merge-rebase-and-clone-what-are-the-differences 
+[http://stackoverflow.com/questions/5009600/difference-between-fork-and-branch-on-github](http://stackoverflow.com/questions/5009600/difference-between-fork-and-branch-on-github) 
+[http://stackoverflow.com/questions/3329943/git-branch-fork-fetch-merge-rebase-and-clone-what-are-the-differences](http://stackoverflow.com/questions/3329943/git-branch-fork-fetch-merge-rebase-and-clone-what-are-the-differences) 
 
-https://git-scm.com/book/en/v2/Git-Branching-Rebasing 
+[https://git-scm.com/book/en/v2/Git-Branching-Rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing) 
 
-http://git-scm.com/book/en/v2/Git-Branching-Remote-Branches#Tracking-Branches 
+[http://git-scm.com/book/en/v2/Git-Branching-Remote-Branches#Tracking-Branches](http://git-scm.com/book/en/v2/Git-Branching-Remote-Branches#Tracking-Branches) 
 
-For practice: https://try.github.io/levels/1/challenges/1 
+For practice: [https://try.github.io/levels/1/challenges/1](https://try.github.io/levels/1/challenges/1) 
 
 Homework:
 
-https://www.datacamp.com/courses/introduction-to-git-for-data-science  
+[https://www.datacamp.com/courses/introduction-to-git-for-data-science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)  
 
 Git Cheatsheet
-https://www.kdnuggets.com/2022/11/git-data-science-cheatsheet.html 
+[https://www.kdnuggets.com/2022/11/git-data-science-cheatsheet.html](https://www.kdnuggets.com/2022/11/git-data-science-cheatsheet.html) 
 
 Git Quiz before the start of Quarter 2
 
@@ -230,21 +230,19 @@ Course Outline:
 
 ### Next.js 13 Web Development
 
-[Next 13 Official Documentation](
-https://beta.nextjs.org/docs)
+[Next 13 Official Documentation](https://beta.nextjs.org/docs)
 
-[Latest Learn React Official Website](https://beta.reactjs.org/learn)
+[Latest Learn React Official Website](https://react.dev/learn)
 
-[Learn Next.js 13 Learning Repo](
-https://github.com/panaverse/learn-nextjs)
+[Learn Next.js 13 Learning Repo](https://github.com/panaverse/learn-nextjs)
 
 ### Next.js 13 using Chakra UI (Remote Zoom Class)
 
 Chakra UI Docs
-https://chakra-ui.com/getting-started
+[https://chakra-ui.com/getting-started](https://chakra-ui.com/getting-started)
 
 CSS Flexbox Explained – Complete Guide to Flexible Containers and Flex Items
-https://www.freecodecamp.org/news/css-flexbox-complete-guide/
+[https://www.freecodecamp.org/news/css-flexbox-complete-guide/](https://www.freecodecamp.org/news/css-flexbox-complete-guide/)
 
 ### UI/UX Design with Figma, TailwindCSS, and Chakra UI (Remote  Zoom Class)
 
@@ -261,11 +259,10 @@ https://www.freecodecamp.org/news/css-flexbox-complete-guide/
 
 APIs with Next.js and tRPC
 
-[Build a tRPC CRUD API Example with Next.js](
-https://codevoweb.com/build-a-trpc-crud-api-example-with-next-js/)
+[Build a tRPC CRUD API Example with Next.js](https://codevoweb.com/build-a-trpc-crud-api-example-with-next-js/)
 
 Stop building REST APIs for your Next.js apps, use tRPC instead
-https://brockherion.dev/blog/posts/stop-building-rest-apis-for-your-next-apps/
+[https://brockherion.dev/blog/posts/stop-building-rest-apis-for-your-next-apps/](https://brockherion.dev/blog/posts/stop-building-rest-apis-for-your-next-apps/)
 
 ### SQL and Prisma
 
@@ -273,8 +270,7 @@ https://brockherion.dev/blog/posts/stop-building-rest-apis-for-your-next-apps/
 
 [SQL For Beginners Video Tutorial](https://www.youtube.com/watch?v=5hzZtqCNQKk)
 
-[Database Management Systems and SQL – Tutorial for Beginners](
-https://www.freecodecamp.org/news/dbms-and-sql-basics/)
+[Database Management Systems and SQL – Tutorial for Beginners](https://www.freecodecamp.org/news/dbms-and-sql-basics/)
 
 ### Next.js 13 using TailwindCSS (Remote Zoom Class)
 
@@ -284,11 +280,9 @@ https://www.freecodecamp.org/news/dbms-and-sql-basics/)
 
 [What is AWS Application Composer?](https://www.youtube.com/watch?v=BujE_tik5r8)
 
-[Event-driven apps with AWS Application Composer](
-https://www.youtube.com/watch?v=p411uh363jQ)
+[Event-driven apps with AWS Application Composer](https://www.youtube.com/watch?v=p411uh363jQ)
 
-[Visually design and build serverless applications quickly](
-https://aws.amazon.com/application-composer/)
+[Visually design and build serverless applications quickly](https://aws.amazon.com/application-composer/)
 
 Must Have: Create Free AWS Account
 
@@ -299,7 +293,7 @@ Note: For AWS Free Tier you will need a credit or debit card. The easiest way fo
 Now you can create a virtual VISA Debit card through the NayaPay app (https://www.nayapay.com/ ) which can be used to create AWS/GCP/Azure accounts. This is good news for those students who find it difficult to create physical debit and credit cards from banks.
 
 You can also get a $300 credit
-https://pages.awscloud.com/adoptf90d_GLOBAL_POC-credits.html 
+[https://pages.awscloud.com/adoptf90d_GLOBAL_POC-credits.html](https://pages.awscloud.com/adoptf90d_GLOBAL_POC-credits.html) 
 
 ### Multi-Cloud GraphQL Serverless API Development with Cloud Development Kit for Terraform (CDKTF) (Remote Zoom Class)
 
@@ -307,11 +301,9 @@ https://pages.awscloud.com/adoptf90d_GLOBAL_POC-credits.html
 
 Web 2.0 Projects
 
-[Next.js Projects](
-https://github.com/panaverse/nextjs-projects)
+[Next.js Projects](https://github.com/panaverse/nextjs-projects)
 
-[Styling Next.js Projects using TailwindCSS and Chakra UI](
-https://github.com/panaverse/styling-nextjs-projects)
+[Styling Next.js Projects using TailwindCSS and Chakra UI](https://github.com/panaverse/styling-nextjs-projects)
 
 [Todo Full-Stack App](https://github.com/ogzhanolguncu/min-todo) 
 
@@ -343,8 +335,7 @@ Course Description:
 
 In this course you will learn how to develop Web 3.0 DApps, create a project, deploy it in production, write smart contracts, unit test them, and create user interfaces for them. We will also learn to develop ERC-20 and NFT tokens, DAOs, Oracles, etc.  Please note that in order to develop Web 3 applications you also need to build on top of Web 2.0 technologies which we have already covered in the previous quarters.
 
-[The reasons for learning Web 2 before Web 3](
-https://javascript.plainenglish.io/why-you-should-learn-web-2-0-before-getting-into-web-3-0-d251625990db)
+[The reasons for learning Web 2 before Web 3](https://javascript.plainenglish.io/why-you-should-learn-web-2-0-before-getting-into-web-3-0-d251625990db)
 
 Course Outline: 
 
@@ -352,22 +343,18 @@ Course Outline:
 
 [The Metaverse: And How It Will Revolutionize Everything by Matthew Ball](https://www.amazon.com/Metaverse-How-Will-Revolutionize-Everything/dp/1324092033/ref=tmm_hrd_swatch_0)
 
-[Mastering Blockchain - Fourth Edition by Imran Bashir](
-https://www.packtpub.com/product/mastering-blockchain-fourth-edition/9781803241067)
+[Mastering Blockchain - Fourth Edition by Imran Bashir](https://www.packtpub.com/product/mastering-blockchain-fourth-edition/9781803241067)
 
 
 ### Smart Contract Development in Solidity 
 
-[Solidity Programming Essentials - Second Edition By Ritesh Modi](
-https://www.packtpub.com/product/solidity-programming-essentials-second-edition/9781803231181)
+[Solidity Programming Essentials - Second Edition By Ritesh Modi](https://www.packtpub.com/product/solidity-programming-essentials-second-edition/9781803231181)
 
-[Solidity Learning Repo](
-https://github.com/panaverse/defi-dapps-solidity-smart-contracts)
+[Solidity Learning Repo](https://github.com/panaverse/defi-dapps-solidity-smart-contracts)
 
 ### Dapp Development using Ethers.js and Next.js 13
 
-[Dapp Learning Repo](
-https://github.com/panaverse/dapps-nextjs)
+[Dapp Learning Repo](https://github.com/panaverse/dapps-nextjs)
 
 ### Tokennomics
 
@@ -379,35 +366,35 @@ As you probably know, the ICO ("Initial Coin Offering") industry has been boomin
 
 Also check these links for latest listings:
 
-ICO list at ICO Drops https://icodrops.com 
+ICO list at ICO Drops [https://icodrops.com](https://icodrops.com) 
 
-ICO List of Best New Initial Coin Offerings https://topicolist.com/ 
+ICO List of Best New Initial Coin Offerings [https://topicolist.com/](https://topicolist.com/) 
 
-Top-Rated Crypto Token Sales: List of New ICOs, STOs, IEOs and IDOsTop-Rated Crypto Token Sales: List of New ICOs, STOs, IEOs and IDOs https://cryptototem.com/ico-list/ 
+Top-Rated Crypto Token Sales: List of New ICOs, STOs, IEOs and IDOsTop-Rated Crypto Token Sales: List of New ICOs, STOs, IEOs and IDOs [https://cryptototem.com/ico-list/](https://cryptototem.com/ico-list/) 
 
-ICO List Online https://www.icolistingonline.com 
+ICO List Online [https://www.icolistingonline.com](https://www.icolistingonline.com) 
 
-Binance IEO List https://coincodex.com/ieo-list/binance/ 
+Binance IEO List [https://coincodex.com/ieo-list/binance/](https://coincodex.com/ieo-list/binance/) 
 
-Binance Launchpad https://www.coinspeaker.com/ieo/platform/binance-launchpad/ 
+Binance Launchpad [https://www.coinspeaker.com/ieo/platform/binance-launchpad/](https://www.coinspeaker.com/ieo/platform/binance-launchpad/) 
 
-IEO List https://icomarks.com/ieo 
+IEO List [https://icomarks.com/ieo](https://icomarks.com/ieo) 
 
-Polkastarter https://polkastarter.com 
+Polkastarter [https://polkastarter.com](https://polkastarter.com) 
 
 Project Part 1: How to Launch a IEO on Binance Launchpad
 
-Read How to Launch an IEO https://appinventiv.com/blog/how-to-launch-an-ieo/ 
+Read How to Launch an IEO [https://appinventiv.com/blog/how-to-launch-an-ieo/](https://appinventiv.com/blog/how-to-launch-an-ieo/) 
 
-Your first task of the project is to make a google slides presentation on how to start a IEO on the Binance Launch Pad https://www.binance.com/en/support/faq/94ed108ce89d44ab8602aa3c476dfb04 
+Your first task of the project is to make a google slides presentation on how to start a IEO on the Binance Launch Pad [https://www.binance.com/en/support/faq/94ed108ce89d44ab8602aa3c476dfb04](https://www.binance.com/en/support/faq/94ed108ce89d44ab8602aa3c476dfb04) 
 
 Note: Also document the alternatives to Binance Launchpad.
 
 Project Part 2: How to Launch a IDO on Polkastarter
 
-Review the [list of top fundraising platforms https://cryptorank.io/fundraising-platforms 
+Review the [list of top fundraising platforms](https://cryptorank.io/fundraising-platforms) 
 
-Your second task of the project is to make a google slides presentation on how to start a IDO on the Polkastarter https://polkastarter.com/ 
+Your second task of the project is to make a google slides presentation on how to start a IDO on the Polkastarter [https://polkastarter.com/](https://polkastarter.com/) 
 
 Project Part 3: Create a Pako Token
 
@@ -429,12 +416,12 @@ Transfer 75% of the Tokens to the Crowd Sale contract at deployment time. i.e. R
 
 Transfer the ownership of the Crowd Sale contract (at deploy time) to our frontend address so that we are able to withdraw the ETH.
 
-You can use the openzeppelin crowd sale contracts https://docs.openzeppelin.com/contracts/4.x/crowdsales however you will have to update the code to the latest solidity version.
+You can use the openzeppelin crowd sale contracts [https://docs.openzeppelin.com/contracts/4.x/crowdsales](https://docs.openzeppelin.com/contracts/4.x/crowdsales) however you will have to update the code to the latest solidity version.
 
 Also write extensive tests, for example we will simply send a transaction of 1 ETH from a random account to the contract. After the transaction, we should expect the account to have received Pako, while the contract's balance should have been reduced.
 
 Note: Before you get started writing the token contract we suggest you review access control
-https://docs.openzeppelin.com/contracts/4.x/access-control 
+[https://docs.openzeppelin.com/contracts/4.x/access-control](https://docs.openzeppelin.com/contracts/4.x/access-control) 
 
 Project Part 5: Trying it with MetaMask
 
@@ -456,29 +443,29 @@ After confirming that you want to add the token, you should be able to see your 
 
 Project Part 6: Trying it with Multisignature Wallets
 
-Read https://www.coindesk.com/tech/2020/11/10/multisignature-wallets-can-keep-your-coins-safer-if-you-use-them-right/ 
+Read [https://www.coindesk.com/tech/2020/11/10/multisignature-wallets-can-keep-your-coins-safer-if-you-use-them-right/](https://www.coindesk.com/tech/2020/11/10/multisignature-wallets-can-keep-your-coins-safer-if-you-use-them-right/) 
 
-Now use Gnosis Safe]{https://gnosis-safe.io/ with multi-sigs to do what you did in the last part.
+[Now use Gnosis Safe](https://gnosis-safe.io/) with multi-sigs to do what you did in the last part.
 
 
 Project Part 7: Sending Tokens using Ethers.js 
 
 Write a Typescript program to send Pako Token to some friend's address using Ethers.js.
 
-You may follow this tutorial https://ethereum.org/en/developers/tutorials/send-token-etherjs/ 
+You may follow this tutorial [https://ethereum.org/en/developers/tutorials/send-token-etherjs/](https://ethereum.org/en/developers/tutorials/send-token-etherjs/)
 
 
 Project Part 8 Advance: Create, Deploy, Mint, and Sell a NFT
 
-Read this NFT tutorial series https://ethereum.org/en/developers/tutorials/how-to-write-and-deploy-an-nft/ 
+Read this NFT tutorial series [https://ethereum.org/en/developers/tutorials/how-to-write-and-deploy-an-nft/](https://ethereum.org/en/developers/tutorials/how-to-write-and-deploy-an-nft/) 
 
-Create a NFT contract using the [OpenZepplen ERC721 NFT Standard https://docs.openzeppelin.com/contracts/4.x/erc721 
+Create a NFT contract using the [OpenZepplen ERC721 NFT Standard](https://docs.openzeppelin.com/contracts/4.x/erc721)
 
-You may use the Preset ERC721 contract https://docs.openzeppelin.com/contracts/4.x/erc721#Presets 
+You may use the Preset ERC721 contract [https://docs.openzeppelin.com/contracts/4.x/erc721#Presets](https://docs.openzeppelin.com/contracts/4.x/erc721#Presets) 
 
-Deploy your NFT contract on a testnet, mint it, and view it on the MetaMask wallet and list it on OpenSea Marketplace https://opensea.io/  for sale.
+Deploy your NFT contract on a testnet, mint it, and view it on the MetaMask wallet and list it on OpenSea Marketplace [https://opensea.io/](https://opensea.io/) for sale.
 
-Implement a ERC721 Market https://ethereum.org/en/developers/tutorials/how-to-implement-an-erc721-market/
+Implement a ERC721 Market [https://ethereum.org/en/developers/tutorials/how-to-implement-an-erc721-market/](https://ethereum.org/en/developers/tutorials/how-to-implement-an-erc721-market/)
 
 
 ## Quarter IV Web3 and Metaverse
@@ -514,59 +501,19 @@ Blender development is being funded by heavyweights in the real-time 3D (RT3D) s
 [Best Hardware Performance for Blender Rendering](https://www.youtube.com/watch?v=H7T0SzdFHwg)
 
 Assignment 1:
-
 Build a 3D Donut using Blender 3 as shown in these video tutorials https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD 
 
 Assignment 2:
-Build a Viking Scene using Blender 3 as shown in chapter 2 of the Book [Blender by Example 2nd Edition https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561 
+Build a Viking Scene using Blender 3 as shown in chapter 2 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
 
 Assignment 3:
-
-Modeling a Time Machine using Blender 3 as shown in chapters 3 and 4 of the Book Blender by Example 2nd Edition https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561 
+Modeling a Time Machine using Blender 3 as shown in chapters 3 and 4 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
 
 Assignment 4:
-
-Build a Modern Kitchen using Blender 3 as shown in chapters 5, 6, and 7 of the Book Blender by Example 2nd Edition https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561 
+Build a Modern Kitchen using Blender 3 as shown in chapters 5, 6, and 7 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
 
 Assignment 5:
-
-Illustrating an Alien Hero with Grease Pencil as shown in chapter 8 of the Book Blender by Example 2nd Edition https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561 
+Illustrating an Alien Hero with Grease Pencil as shown in chapter 8 of the Book [Blender by Example 2nd Edition](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561)
 
 Assignment 6:
-
-Build a 3D Sword in the Stone using Blender 3 as shown in these video tutorials https://www.youtube.com/watch?v=bpvh-9H8S1g 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
+Build a 3D Sword in the Stone using Blender 3 as shown in these video tutorials [https://www.youtube.com/watch?v=bpvh-9H8S1g](https://www.youtube.com/watch?v=bpvh-9H8S1g)
