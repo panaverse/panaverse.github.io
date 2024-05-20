@@ -66,16 +66,14 @@ Technologies such as Kubernetes, Docker, serverless containers, APIs, SQL Databa
 
 Students will have the option of selecting one of the following specialisations after the completion of fifth quarter:
 
-
-
 1. **Healthcare and Medical GenAI Specialization**
 2. **Web3, Blockchain, and GenAI Integration Specialization**
 3. **Metaverse, 3D, and GenAI Integration Specialization**
 4. **GenAI for Accounting, Finance, and Banking Specialization**
 5. **GenAI for Engineers Specialization**
 6. **GenAI for Sales and Marketing Specialization**
-7. **GenAI for Automation and Internet of Things (IoT) Specialisation **
 8. **GenAI for Cyber Security**
+9. **GenAI IoT**
 
 
 
