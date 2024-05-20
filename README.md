@@ -1,540 +1,467 @@
-# Certified Web 3.0 and Metaverse Developer: A Nationwide Program in Karachi, Lahore, Islamabad, and Peshawar
 
-![Panaverse DAO Logo](red-p-logo-text_dao_croped.png)
+**Master the Future of Tech: Become a Cloud Native Applied Generative AI Engineer (GenEng and CNAI)**
 
-## The Future of the Web is Web 3.0, Metaverse, and Edge Computing. Panaverse DAO is a movement to spread these technolgies globally. It is community of Web 3 and Metaverse developers, designers, trainers, startup founders and service providers. 
+Version: 10.0 (Implementation and adoption starting from July 1, 2024)
 
-## [Admissions Now Open in Karachi, Lahore, Islamabad, and Peshawar](https://www.piaic.org/) 
+Today's pivotal technological trends are Cloud Native (CN) and Generative AI (GenAI). Cloud Native technology offers a scalable and dependable platform for application operation, while AI equips these applications with intelligent, human-like capabilities. Our aim is to train you to excel as a Cloud Native Applied Generative AI developer globally.
 
-[This document on Google Docs](https://docs.google.com/document/d/13Z4tMKQmZpMEsOc1Y_qAXbOstRolGIFupHxQFgAFl98/edit?usp=sharing)
+The Cloud Native Applied Generative AI Certification program equips you to create leading-edge Cloud Native AI solutions using a comprehensive cloud-native and AI platform.
 
-The internet is without a doubt the most important technological development in human history. Web3 and metaverse technologies expand the internet as we know it by introducing novel features and advancements. Metaverse will make use of all aspects of modern technology, including 3D, VR, AR, AI, blockchain, cloud computing, voice computing, ambient computing, and more.
+This one-year program equips you with the skills to thrive in the age of Generative AI (GenAI) and cloud native computing (CN).
 
-Citi is the latest Wall Street business to give a positive prognosis for Web 3.0 and the Metaverse, terms used to depict a future internet vision centred on decentralised technologies and virtual worlds. Citi stated in a March 2022 [research paper](https://www.citivelocity.com/citigps/metaverse-and-money/) that the metaverse economy might have a total addressable market of up to $13 trillion and five billion people by 2030.
+**Why This Program?**
 
-## The Program in a Nutshell: Earn While You Learn
+* **Cutting-Edge Skills:** Develop in-demand skills to build intelligent, scalable cloud applications using Generative AI and Cloud Native technologies.
+* **Industry-Ready:** Prepare for global certifications, startup and freelance opportunities after just six months.
+* **Future-Proof Your Career:** Stay ahead of the curve in a rapidly evolving tech landscape.
 
-In this brand-new type of curriculum, students will learn how to make money and boost exports in the classroom and will begin doing so within six months of the program's beginning. It resembles a cross between a corporate venture and an educational project.
+**What You'll Learn:**
 
-## Program of Studies
 
-This curriculum is intended for beginners who want to learn software development from the ground up. The first two quarters are shared by all specialities and are dedicated to studying Object-Oriented Programming and cutting-edge Full-Stack Web 2.0 development. It is going to be a year-long hybrid programme that includes both onsite and online classes and is divided into four quarters of 13 weeks each. The emphasis will be on hands-on learning by educating students to produce projects. To accommodate everyone, courses will be held primarily on weekends or after 6:00 p.m. (Pakistan Time) on weekdays. It employs a hybrid teaching format, with core onsite classes complemented by online Zoom laboratories and recorded videos.
 
-## Core Courses (Common in All Specializations)
+* **Develop AI Powered Microservices:** Master Python, build APIs using FastAPI, SQLModel, Postgres, Kafka, Kong, and leverage cutting-edge GenAI APIs like OpenAI, and Open Source AI LLMs.
+* **Cloud Native Expertise:** Design and deploy cloud-native applications using Docker, DevContainers, TestContainers, Kubernetes, and Terraform.
+* **Custom GPTs and Multi AI Agent Systems:** Learn to fine-tuning foundational AI models, and market them in GPT stores. Learn key principles of designing effective AI agents, and organising a team of AI agents to perform complex, multi-step tasks. Apply these concepts to automate common business processes.
 
-Every participant of the program will start by completing the following two core courses:
+**Flexible Learning:**
 
-[Quarter I (Core) CS-101: Object-Oriented Programming using TypeScript](https://github.com/panaverse/panaverse.github.io#quarter-i-core)
 
-[Quarter II (Core) W2-201: Developing Planet-Scale Web 2.0 Serverless Cloud Cloud Apps and APIs using Next.js 13 and Cloud Development Kit (CDK) for Terraform](https://github.com/panaverse/panaverse.github.io#quarter-ii-core)
 
-## Specialized Tracks
+* **Hybrid Program:** Combine in-person and online classes for a comprehensive learning experience.
+* **Earn While You Learn:** Start freelancing or contributing to projects after the second quarter.
 
-After completing the first two quarters the participants will select one or more specializations consisting of two courses each:
+**Program Structure (5 Quarters):**
 
-## Web 3.0 (Blockchain) and Metaverse Specialization
 
-This Web 3.0 and Metaverse specialization focuses on developing full-stack Web 3.0 and Metaverse experiences for the next generation of the internet by specializing in building worlds that merge the best of cutting-edge decentralized distributed blockchains with 3D metaverse client experiences.
 
-[Quarter III W3-351: Developing Smart Contracts and Planet-Scale Web 3.0 Dapps]()
+* **Quarter 1: GenAI Essentials and Python Programming:** We begin the course by understanding GenAI Essentials. We will help people across roles and industries get essential AI skills to boost their productivity. Then we will master the fundamentals of Python, the go-to language for GenAI and Cloud Native API development.
+    * **Certification:** 
+        * [Google AI Essentials](https://www.coursera.org/learn/google-ai-essentials)
+        * [Generative AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone)
+        * [Certified Professional Python Programmer (CPPP1)](https://pythoninstitute.org/pcpp1)
+* **Quarter 2: AI Powered Cloud Native Microservices Development:** Build scalable AI Powered APIs using FastAPI, Postgres, Kafka, Kong, GenAI APIs like OpenAI Chat Completion APIs and Assistant APIs, and Open Source AI LLMs and deploy them using Docker containers.
+    * **Certifications:**
+        * [PostgreSQL 13 Associate Certification](https://www.enterprisedb.com/course/postgresql-13-associate-certification)
+        * [Confluent Certified Developer for Apache Kafka (CCDAK)](https://www.confluent.io/certification/)
+* **Quarter 3: Developing Custom GPTs and Multi AI Agent Systems:** Learn to create custom AI models and GPTs using OpenAI, Azure, and Google technologies and integrate them with your Microservices. Use open source libraries, like crewAI, to automate repeatable, multi-step tasks and automate business processes that are typically done by a group of people and deploy them in containers.
+    * **Certifications:**
+        * [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification)
+        * [Certified crewAI Engineer](https://www.crewai.com/)
+* **Quarter 4: Developing and Deploying Cloud Native AI and Business Intelligence:** Master Kubernetes and Terraform to train Open Source Foundation LLMs using Fastai and PyTorch and deploy your AI models and applications in the cloud. Visualise data using Power BI.
+    * **Certifications:**
+        * [Certified Kubernetes Application Developer (CKAD)](https://www.cncf.io/training/certification/ckad/)
+        * [HashiCorp Certified: Terraform Associate](https://www.hashicorp.com/certification/terraform-associate)
+        * [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/credentials/certifications/power-bi-data-analyst-associate/?practice-assessment-type=certification)
+* **Quarter 5: Front-end Web GUI Development using Next.js and TypeScript:** Next.js is designed to handle complex front-end applications well, making it a good fit for AI applications that might grow in features and data usage over time. Next.js offers features like API routes and file-based routing, which can streamline development for AI applications that need to interact with backend APIs and manage different application views. While Next.js and TypeScript aren't the only options for building AI application frontends, their focus on performance, scalability, and developer experience makes them a compelling choice for many developers.
 
-[Quarter IV MV-361: Developing Planet-Scale Open Virtual and Augmented Metaverse Experiences]()
+Generative AI is set to revolutionise our daily lives and work environments. According to McKinsey & Company, generative AI could contribute an annual economic value of $2.6 trillion to $4.4 trillion across various sectors by enhancing automation, bolstering decision-making, and providing personalised experiences. This revolution is pivotal for technology and job landscapes, making it essential knowledge in fast-evolving tech cycles. The rapid emergence of Gen AI-powered technologies and the evolving demand for skills necessitate extensive and timely professional training.
 
-## Artificial Intelligence (AI) and Deep Learning Specialization
+Cloud native is an approach in software development that enables application creation, deployment, and management in cloud environments. It involves constructing applications as a collection of small, interconnected services known as microservices, a shift from traditional monolithic structures. This modular approach enhances the agility of cloud-native applications, allowing them to operate more efficiently with fewer resources.
 
-The AI and Deep Learning specialization focuses on building and deploying intelligent APIs using OpenAI models and building custom Deep Learning Tensorflow models.
+Technologies such as Kubernetes, Docker, serverless containers, APIs, SQL Databases, and Kafka support developers in swiftly constructing cloud-native applications. These tools offer a standardised platform for application development and management across various cloud services like Azure, Google Cloud, and AWS.
 
-[Quarter III AI-351: Developing Planet-Scale Intelligent APIs and Python Programming]()
+**Advanced Specializations**
 
-[Quarter IV AI-361: Deep Learning and MLOps]()
+Students will have the option of selecting one of the following specialisations after the completion of fifth quarter:
 
-## Cloud-Native Computing Specialization
 
-The Cloud-Native Computing Specialization focuses on Containers, Kubernetes, and CDK for Kubernetes. 
 
-[Quarter III CN-351: Certified Kubernetes Application Developer (CKAD)]()
+1. **Healthcare and Medical GenAI Specialization**
+2. **Web3, Blockchain, and GenAI Integration Specialization**
+3. **Metaverse, 3D, and GenAI Integration Specialization**
+4. **GenAI for Accounting, Finance, and Banking Specialization**
+5. **GenAI for Engineers Specialization**
+6. **GenAI for Sales and Marketing Specialization**
+7. **GenAI for Automation and Internet of Things (IoT) Specialisation **
+8. **GenAI for Cyber Security**
 
-[Quarter IV CN-361: Developing Multi-Cloud APIs using CDK for Terraform]()
+**Common Questions (FAQs) with Detailed Answers**
 
-## Ambient Computing and IoT Specialization
 
-The Ambient Computing and IoT Specialization focuses on building Smart Homes, Offices, Factories, and Cities using Voice computing, Matter and Embedded Devices. 
 
-[Quarter III AC-351: Ambient Computing with Voice Assistants and Matter Devices]()
+1. **What is Cloud Native Applied Generative AI Engineering?**
 
-[Quarter IV AC-361: Embedded Programming using C and Rust]()
+    Cloud Applied Generative AI Engineering (GenEng) is the application of generative AI technologies to solve real-world problems in the cloud.
 
-## The Outcome for Participants of the Program
+* Generative AI is a type of artificial intelligence that can create new data or content from existing data.
+* Cloud Native computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (“the cloud”).
 
-The graduates of this program will own products (Full-Stack App Templates, AR and VR Experiences, and APIs) that are marketed globally by the Panaverse DAO and, if they like, will also be able to start off by offering services at a rate of $50 per hour ($96,000 per year). This would give Pakistani professionals and students a fantastic opportunity to better their financial situation while also giving the economy a much-needed boost by expanding software exports.
+    By combining generative AI with cloud native computing, businesses can solve a variety of problems, such as:
 
-[Top 5 'Metaverse' jobs that will rule the future of tech industry](
-https://content.techgig.com/hiring/top-5-metaverse-jobs-that-will-rule-the-future-of-tech-industry/articleshow/87581325.cms)
+* Creating personalised experiences for customers
+* Automating tasks
+* Improving decision-making
+* Detecting fraud
+* Developing new products and services
 
-[Blockchain Developer Salary - Jun 2022](https://web3.career/web3-salaries/blockchain-developer)
+    The potential applications of cloud native-applied generative AI are endless. As generative AI and cloud native computing continue to develop, we can expect to see even more innovative and groundbreaking uses for this technology.
 
-[Web3 Salaries Soar to $750,000 for Rank-and-File Devs](https://thedefiant.io/web3-soaring-salaries/)
+2. **How valuable are the Cloud Native Applied Generative AI developers? **Developers with expertise in Cloud Native Applied Generative AI were in extremely high demand due to the increasing adoption of GenAI technologies across various industries. However, the supply of developers skilled specifically in this niche area might not have been as abundant compared to more generalised AI or cloud computing roles. 
 
-[The Metaverse, Blockchain Gaming, and NFTs: Navigating the Internet’s Uncharted Waters](https://newzoo.com/insights/trend-reports/newzoo-report-on-metaverse-blockchain-gaming-nft-2022)
+    The demand for AI developers, especially those proficient in applying generative AI techniques within cloud native environments, has been rising due to the growing interest in using AI for creative applications, content generation, image synthesis, natural language processing, and other innovative purposes.
 
-[How To Become Metaverse Developer: Scope, Skills, and Salary](https://www.blockchain-council.org/metaverse/how-to-become-metaverse-developer/)
 
+    According to some sources, the average salary for a Cloud Native Applied Generative AI developer in the global market is around $150,000 per year. However, this may vary depending on the experience level, industry, location, and skills of the developer. For example, a senior Cloud Applied Generative AI developer with more than five years of experience can earn up to $200,000 per year. A Cloud Applied Generative AI developer working in the financial services industry can earn more than a developer working in the entertainment industry. A Cloud Applied Generative AI developer working in New York City can earn more than a developer working in Dubai. In general, highly skilled AI developers, especially those specialising in applied generative AI within cloud environments, tend to earn competitive salaries that are often above the average for software developers or AI engineers due to the specialised nature of their skills. Moreover, as generative AI technology becomes more widely adopted and integrated into various products and services, the demand for Cloud Applied Generative AI developers is likely to increase.
 
 
-## Relevant Information Links
+    Therefore, Cloud Applied Generative AI developers are valuable professionals who have a bright future ahead of them. They can leverage their creativity and technical skills to create innovative solutions that can benefit various industries and domains. They can also enjoy very competitive salary and career growth opportunities.
 
-[Admission Website](https://www.piaic.org/)
+3. **What is the potential for Cloud Applied Generative AI Developers to start their own companies?**
 
-[Facebook Group](https://www.facebook.com/groups/panaverse)
+    Cloud Applied Generative AI Developers have a significant potential to start their own companies due to several factors:
 
-[YouTube Live Channel](https://www.youtube.com/@panaverse/streams)
+1. **Emerging Field:** Generative AI, particularly when applied within cloud environments, is still an evolving field with immense potential for innovation. Developers who understand the intricacies of both generative AI techniques and cloud technologies can identify unique opportunities to create novel products, services, or solutions.
+2. **Market Demand:** There is a growing demand for AI-driven applications, especially those that involve generative capabilities such as image generation, content creation, style transfer, etc. Developers with expertise in this area can leverage this demand to create specialized products that cater to specific industries or consumer needs.
+3. **Innovation and Differentiation: **The ability to develop unique and innovative solutions using generative AI in the cloud can set apart these developers' startups from more conventional companies. They can explore new ways of generating content, enhancing user experiences, or solving complex problems with AI-generated solutions.
+4. **Access to Cloud Resources:** Cloud platforms provide scalable and cost-effective resources that are crucial for AI development. Developers starting their own companies can leverage cloud services to access powerful computing resources, storage, and AI-related services without significant upfront investment.
+5. **Entrepreneurial Opportunities:** Developers with entrepreneurial spirit and a deep understanding of AI technologies can identify gaps in the market and build startups to fill those gaps. They can create platforms, tools, or services that simplify the adoption of generative AI for businesses or developers.
+6. **Collaboration and Partnerships:** These developers can collaborate with other experts in AI, domain specialists, or businesses to create innovative solutions or explore new application areas for generative AI in the cloud.
 
-[Twitter](https://twitter.com/Panaverse_edu)
+    However, starting a company, especially in a specialised field like Cloud Applied Generative AI, requires more than technical expertise. It also demands business acumen, understanding market needs, networking, securing funding, managing resources effectively, and navigating legal and regulatory landscapes.
 
-[Github Repos](https://github.com/panaverse)
 
+    Successful entrepreneurship in this domain involves a combination of technical skills, innovation, a deep understanding of market dynamics, and the ability to transform technical expertise into viable products or services that address real-world challenges or opportunities.
 
-# Detailed Course Syllabus
 
-## Quarter I (Core)
+    Developers aspiring to start their own companies in the Cloud Applied Generative AI space can do so by conducting thorough market research, networking with industry experts, building a strong team, and developing a clear business plan that highlights the unique value proposition of their offerings.
 
-## CS-101: Object-Oriented Programming using TypeScript
 
-Duration: 13 Weeks
+    To sum up, the potential for Cloud Applied Generative AI Developers to start their own companies is high.
 
-Course Description: 
+* Generative AI is a rapidly growing field with a high demand for skilled professionals.
+* The Certified Generative AI (GenEng) Developer and Engineering Program provides students with the skills and knowledge they need to develop and apply cutting-edge generative AI technologies.
+* The program also teaches students how to start and run a successful business.
+* Graduates of the program will be well-positioned to start their own companies and capitalise on the growing demand for generative AI solutions.
+4. **Is the program not too long, one year is a long time?**
 
-We will start the program by learning the fundamentals of Object-Oriented programming using JavaScript and TypeScript. We will also understand the latest Web trends i.e. Web 3.0 and Metaverse concepts and try to understand their working from the perspective of the users. 
+    The length of the program is one year which is broken down into four quarters of three months each. The program covers a wide range of topics including Python, Front-end Development, GenAI, API, Database, Cloud Development, and DevOps. The program is designed to give students a comprehensive understanding of generative AI and prepare them for careers in this field. Nothing valuable can be achieved overnight, there are no shortcuts in life.
 
-Course Outline: 
+5. **Why don't we use TypeScript (Node.js) to develop APIs instead of using Python?**
 
-### HTML and CSS (Homework) 
+    We will not use Typescript in GenAI API development because Python is a priority with the AI community when working with AI and if any updates come in libraries they will first come for Python. Python is always a better choice when dealing with AI and API.
 
-[Learn HTML by Hira Khan (Watch Recorded Videos)](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQ3BALy86tIXICkG874wAc6)
+* **Python is the de facto standard for AI Development**.
+* TypeScript is a more modern language that is gaining popularity for Web Development, but Python is more widely used and has a larger ecosystem of libraries and frameworks available, especially for AI.
+* TypeScript is used for web user interfaces, while Python is used for APIs.
+* In the second quarter, students will learn to develop APIs using Python instead of TypeScript.
+* Python is a more commonly used language for AI and API development, and it has a larger ecosystem of libraries and frameworks available for these purposes.
+* TypeScript is a more modern language that is becoming increasingly popular for API development also, but it is still not as widely used as Python, especially for AI applications and development.
+6. **What is the difference between OpenAI Completion API, OpenAI Assistant API, Google Gemini Multi-Modal API, and LangChain?**
 
-[Learn CSS Intro by Hira Khan (Watch Recorded Videos)](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQSWIen_zUSEBmtqzPLuRob)
+    The difference between OpenAI Completion API, OpenAI Assistant API, Google Gemini Multi-Modal API, and LangChain is that they are different ways of using artificial intelligence to generate text, images, audio, and video based on some input, but they have different features and applications. Here is a summary of each one:
 
-### Web 3.0 and Metaverse Theory
 
-[Introduction to Panaverse DAO](https://docs.google.com/presentation/d/12C1s4UBTlR9nZNEkRE6aAuGeRA3s92jx-8nJKo9jdH4/edit?usp=sharing)
+    **OpenAI Completion API** is the most fundamental OpenAI model that provides a simple interface that’s extremely flexible and powerful. You give it a prompt and it returns a text completion, generated according to your instructions. You can think of it as a very advanced autocomplete where the language model processes your text prompt and tries to predict what’s most likely to come next. The Completion API can be used for various tasks such as writing stories, poems, essays, code, lyrics, etc. It also supports different models with different levels of power suitable for different tasks.
 
-[Web 3.0 User Guide](https://docs.google.com/presentation/d/1FSbr9aJwO0-fmZHqWy_eHO2N_jwJLmQCy4cG8rd4ctw/edit?usp=sharing) 
 
-Complete Web 3 Assignments included in the Web 3 User Guide
+    **OpenAI Assistant API** is an interface to OpenAI's most capable model (gpt-4) and their most cost-effective model (gpt-3.5-turbo). It provides a simple way to take text as input and use a model like gpt-4 or gpt-3.5-turbo to generate an output. The Assistant API allows you to build AI assistants within your applications. An Assistant has instructions and can leverage models, tools, and knowledge to respond to user queries. The Assistant API currently supports three types of tools: Code Interpreter, Retrieval, and Function calling.
 
-[Virtual and Augmented  Metaverse User Guide](https://docs.google.com/presentation/d/1ADk87hQ0Etr2PfmN9XH7TQ0CHl6XSP_7JWNUbzPdDNc/edit?usp=sharing)
 
-### Fundamentals of JavaScript (ECMAScript 2022 Language Specification)
+    **Google Gemini Multi-Modal API** is a new series of foundational models built and introduced by Google. It is built with a focus on multimodality from the ground up. This makes the Gemini models powerful against different combinations of information types including text, images, audio, and video. Currently, the API supports images and text. Gemini has proven by reaching state-of-the-art performance on the benchmarks and even beating the ChatGPT and the GPT4-Vision models in many of the tests.
 
-[Learn JavaScript by Zeeshan Hanif (Watch Recorded Videos)](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQdc0NSLknxmxBch5gLOqyo)
 
-[Chapters 2-6, 13 of JavaScript from Beginner to Professional: Learn JavaScript quickly by building fun, interactive, and dynamic web apps, games, and pages](https://www.amazon.com/JavaScript-Beginner-Professional-building-interactive/dp/1800562527/ref=sr_1_4)
+    There are three different Gemini models based on their size, the Gemini Ultra, Gemini Pro, and Gemini Nano in decreasing order of their size.
 
-[JavaScript Book Code](https://github.com/PacktPublishing/JavaScript-from-Beginner-to-Professional)
 
-[Getting Started Exercises with JavaScript and Node.js](https://github.com/panaverse/typescript-node-projects/blob/main/getting-started-exercises.md)
+    **LangChain** is a platform that allows you to interact with various language models from different providers such as OpenAI, Google Gemini, Hugging Face Transformers, etc. You can use LangChain to create applications that leverage the power of natural language processing without having to deal with the complexity of APIs or SDKs. LangChain provides a user-friendly interface that lets you choose the model you want to use, customize the parameters you want to apply, and see the results in real-time.
 
-Fundamentals of JavaScript and Node.js Quiz
+7. **Why don't we use Flask or Django for API development instead of FastAPI?**
+* **FastAPI is a newer and more modern framework than Flask or Django.** It is designed to be fast, efficient, and easy to use. FastAPI is also more scalable than Flask or Django, making it a better choice for large-scale projects.
+* **FastAPI is also more feature-rich than Flask or Django.** It includes several built-in features that make it easy to develop APIs, such as routing, validation, and documentation.
+* **Overall, FastAPI is a better choice for API development than Flask or Django.** It is faster, more scalable, and more feature-rich.
+8. **Why do we need to learn Cloud technologies in a Generative AI program?**
 
-Topics Covered in the Quiz:
+    Cloud technologies are essential for developing and deploying generative AI applications because they provide a scalable and reliable platform for hosting and managing complex workloads.
 
-Background of JavaScript and How to use JavaScript in Browser
-Variables, Primitive data types Analyzing and modifying data types, and Operators (Chapter 2 of JavaScript from Beginner to Professional)
+* Cloud computing offers a vast pool of resources that can be provisioned on demand, which is ideal for generative AI applications that can be computationally intensive.
+* Cloud providers offer a wide range of services that can be used to support generative AI applications, including storage, computing, networking, and machine learning.
+* Cloud services are typically more cost-effective than on-premises infrastructure, which can be a significant advantage for generative AI applications that are often used for large-scale projects.
 
-1. Intro to Node.js, .mjs files, Modules, NPM, import, export, and using external modules with npm:
-https://docs.google.com/presentation/d/1eOLJTN0FyVAw6lMUvA_XYLORKnudWXyzXsB6sg5oPIs/edit?usp=sharing  
-How to accept user input in your Node.js JavaScript programs, this will allow us to create interactive Node.js console programs using prompt-sync library. The last example in this presentation shows you how to use prompt-sync library in your Node.js programs:
-https://docs.google.com/presentation/d/1eOLJTN0FyVAw6lMUvA_XYLORKnudWXyzXsB6sg5oPIs/edit?usp=sharing  
-Note: After this point, we will do all our class work and exercises using Node.js in .mjs files. We will also be able to develop interactive Node.js console programs which will greatly help the students to learn.
-2. Using Arrays and Objects in Node.js Programs (chapter 3 of JavaScript from Beginner to Professional)
-3. Using if and if else statements, else if statements, Conditional ternary operators, and switch statements in Node.js programs (chapter 4 of JavaScript from Beginner to Professional)
-4. Using while loop, do while loop, for loop, for in, and for of loop in Node.js (chapter 5 of JavaScript from Beginner to Professional)
-5. Using Basic functions, Function arguments, Return, Variable scope in functions, Recursive functions, Nested functions, Anonymous functions, and Function callbacks in Node.js (chapter 6 of JavaScript from Beginner to Professional)
-6. Using Concurrency, Callbacks, Promises, async / await, and Event loop (chapter 13 of JavaScript from Beginner to Professional)
-7. JavaScript promises, mastering the asynchronous
+    The Certified Generative AI (GenEng) Developer and Engineering Program teaches you how to use cloud native services, including containers and Kubernetes, to deploy your applications to the cloud. You will also learn how to use **Docker containers** to package and deploy your applications, and how to use Terraform to manage your cloud infrastructure.
 
-https://www.codingame.com/playgrounds/347/javascript-promises-mastering-the-asynchronous/what-is-asynchronous-in-javascript 
 
-New JavaScript Features in ECMAScript 2022 and 2021
-https://dev.to/brayanarrieta/new-javascript-features-ecmascript-2022-with-examples-4nhg 
+    By the end of the program, you will be able to:
 
+* Use Docker containers to package and deploy your applications
+* Develop and deploy generative AI applications to the cloud
+* Manage your cloud infrastructure using Terraform
+9. **What is the purpose of Docker Containers and what are the benefits of deploying them with Docker Compose and Kubernetes?**
+* **Docker Containers** are a way to package software into a single unit that can be run on any machine, regardless of its operating system. It is used to create a Dockerfile, which is a text file that describes how to build a Docker image. The image is then used to create a container, which is a running instance of the image. This makes them ideal for deploying applications on a variety of platforms, including cloud-based services.
+* **Docker Compose** is a tool provided by Docker that allows you to define and manage multi-container Docker applications locally. It enables you to use a YAML file to configure the services, networks, and volumes needed for your application's setup. With Docker Compose, you can describe the services your application requires, their configurations, dependencies, and how they should interact with each other, all in a single file. This makes it easier to orchestrate complex applications locally composed of multiple interconnected containers.
+* **Kubernetes** is a container orchestration system that automates the deployment, scaling, and management of containerized applications. It allows you to run multiple containers on a single machine or across multiple machines. It is an open source and can be deployed in your data centre or the cloud. 
+10. **What is the purpose of learning to develop APIs in a Generative AI program?**
 
-### Object-Oriented Programming with TypeScript
+    APIs (Application Programming Interfaces) are used to connect different software applications and services together. They are the building blocks of the internet and are essential for the exchange of data between different systems.
 
-Chapters 1-11 of Learning TypeScript: Enhance Your Web Development Skills Using Type-Safe JavaScript
-https://www.amazon.com/Learning-TypeScript-Development-Type-Safe-JavaScript/dp/1098110331/ref=sr_1_1 
 
-Learning Repository
-https://github.com/panaverse/learn-typescript 
+    In the second quarter of the Certified Generative AI (GenEng) Developer and Engineering Program, students will learn to develop APIs not just as a backend for their front end but also as a **product** itself. In this model, the API is at the core of the business's value.
 
-In Class Companion projects and articles for Learning TypeScript
-https://www.learningtypescript.com/ 
+* APIs are used to make it possible for different software applications to communicate with each other.
+* APIs are used to access data from a remote server.
+* APIs are used to create new services or applications that are integrated with existing systems.
+* APIs are used to improve the security of applications by providing a way to control access to data.
+* By learning to develop APIs, students will gain the skills necessary to create powerful and efficient software applications that can be used to solve a variety of business problems.
+11. **What is the purpose of using Python-based FastAPI and related technologies in Quarter 2?**
 
-Homework Project
+    In the second quarter of the Engineering Program, students will learn how to use Python-based FastAPI as a core library for API development.
 
-https://github.com/panaverse/typescript-node-projects 
+* FastAPI is a high-performance, lightweight, and easy-to-use framework for building APIs.
+* It is designed to be fast, scalable, and secure.
+* FastAPI is compatible with a wide range of programming languages and frameworks, making it a good choice for developers with different skill sets.
+* Students will also learn about the following related technologies:
+* **Pedantic:** Pedantic is a Python library that helps to improve the quality of your code by checking for errors and potential problems.
+* **SQLModel:** SQLModel is a Python library that provides an object-relational mapping (ORM) layer for working with databases.
+* **PostgreSQL:** PostgreSQL is a free and open-source relational database management system (RDBMS) that can be used for development. Highly scalable database systems compatible with it have also been deployed by all the major cloud platforms.
 
+    By the end of the quarter, students will be able to use Python-based FastAPI to develop APIs that are fast, scalable, and secure.
 
-### TypeScript for React
+12. **What does the API-as-a-Product model entail?**
 
-[Minimal TypeScript Crash Course For React
-With Interactive Code Exercises](https://profy.dev/article/react-typescript) 
+    API-as-a-Product is a type of Software-as-a-Service that monetizes niche functionality, typically served over HTTP. In this model, the API is at the core of the business's value. The API-as-a-Product model is different from the traditional API model, where APIs are used as a means to access data or functionality from another application. In the API-as-a-Product model, the API itself is the product that is being sold.
 
-### TypeScript Quizzes
 
-Fundamentals of TypeScript Quiz
+    The benefits of the API-as-a-Product model include:
 
-TypeScript Professional Proficiency Quiz
+* **Increased flexibility:** APIs can be used to access data or functionality from any application, regardless of the underlying platform or technology. This gives businesses greater flexibility in how they integrate APIs into their applications.
+* **Reduced development costs:** APIs can be reused by multiple applications, which can save businesses the time and expense of developing their custom APIs.
+* **Improved scalability:** APIs can be scaled up or down as needed, which makes them well-suited for businesses with fluctuating or unpredictable traffic demands.
+* **Enhanced security:** APIs can be more secure than traditional methods of data exchange, as they can be protected by a variety of security measures, such as encryption and access control.
+13. **What are the benefits of using Docker Containers for development, testing, and deployment?**
 
-### Fundamentals of Version Control with Git (Recorded Videos)
+    Docker Containers are a fundamental building block for development, testing, and deployment because they provide a consistent environment that can be used across different systems. This eliminates the need to worry about dependencies or compatibility issues, and it can help to improve the efficiency of the development process. Additionally, Docker Containers can be used to isolate applications, which can help to improve security and make it easier to manage deployments.
 
-[Version Control using Git and GitHub By Sir Zeeshan Hanif (Watch Recorded Videos)](https://www.youtube.com/playlist?list=PLKueo-cldy_HjRnPUL4G3pWHS7FREAizF)
+14. **Why in this program are we not learning to build LLMs ourselves? How difficult is it to develop an LLM like ChatGPT 4 or Google’s Gemini?**
 
-Chapters 1, 2, 3, and 4 Learn Version Control with Git: A step-by-step course for the complete beginner by Tobias Günther 
+    Developing an LLM like ChatGPT 4 or Google Gemini is extremely difficult and requires a complex combination of resources, expertise, and infrastructure. Here's a breakdown of the key challenges:
 
-We will also cover these readings:
 
-https://help.github.com/articles/markdown-basics/ 
+    **Technical hurdles:**
 
-http://stackoverflow.com/questions/5009600/difference-between-fork-and-branch-on-github 
-http://stackoverflow.com/questions/3329943/git-branch-fork-fetch-merge-rebase-and-clone-what-are-the-differences 
 
-https://git-scm.com/book/en/v2/Git-Branching-Rebasing 
+    **Massive data requirements:** Training these models requires an immense amount of high-quality data, often exceeding petabytes. Compiling, cleaning, and structuring this data is a monumental task.
 
-http://git-scm.com/book/en/v2/Git-Branching-Remote-Branches#Tracking-Branches 
 
-For practice: https://try.github.io/levels/1/challenges/1 
+    **Computational power:** Training LLMs demands incredible computational resources, like high-performance GPUs and specialised AI hardware. Access to these resources and the ability to optimise training processes are crucial.
 
-Homework:
 
-https://www.datacamp.com/courses/introduction-to-git-for-data-science  
+    **Model architecture:** Designing the LLM's architecture involves complex decisions about parameters, layers, and attention mechanisms. Optimising this architecture for performance and efficiency is critical.
 
-Git Cheatsheet
-https://www.kdnuggets.com/2022/11/git-data-science-cheatsheet.html 
 
-Git Quiz before the start of Quarter 2
+    **Evaluation and bias:** Evaluating the performance of LLMs involves diverse benchmarks and careful monitoring for biases and harmful outputs. Mitigating these biases is an ongoing research challenge.
 
-Total Questions: 60, Total Time: 75 minutes
 
+    **Resource and expertise:**
 
-### Quarter II (Core)
-### W2-201: Developing Planet-Scale Web 2.0 Serverless Cloud Apps and APIs using Next.js 13 and Cloud Development Kit (CDK) for Terraform
 
-Duration: 13 Weeks
+    **Team effort:** Developing an LLM like ChatGPT 4 or Google Gemini requires a large team of experts across various disciplines, including AI researchers, machine learning engineers, data scientists, and software developers.
 
-Course Description: 
 
-The objective of this course is to teach participants to develop customer-facing planet-scale Websites, Full-Stack Apps and templates, Dashboards, and Muti-Cloud Serverless APIs. By the end of the quarter, the participants will be able to develop and deploy web platforms like Facebook, Shopify, etc. The technologies covered in this course will include Next.js 13, Figma, Tailwind CSS, Chakra UI, tRPC, QraphQL, Prisma, Cockroachdb Serverless (PostgreSQL Compatible), AWS Serverless Technologies, and Cloud Development Kit for Terraform (CDKTF).
+    **Financial investment:** The financial resources needed are substantial, covering costs for data acquisition, hardware, software, and talent. Access to sustained funding is critical.
 
-Course Outline:  
 
-### Next.js 13 Web Development
+    Additionally:
 
-[Next 13 Official Documentation](
-https://beta.nextjs.org/docs)
 
-[Latest Learn React Official Website](https://beta.reactjs.org/learn)
+    **Ethical considerations:** LLMs raise ethical concerns like potential misuse, misinformation, and societal impacts. Responsible development and deployment are crucial.
 
-[Learn Next.js 13 Learning Repo](
-https://github.com/panaverse/learn-nextjs)
 
-### Next.js 13 using Chakra UI (Remote Zoom Class)
+    **Rapidly evolving field:** The LLM landscape is constantly evolving, with new research, models, and benchmarks emerging. Staying abreast of these advancements is essential.
 
-Chakra UI Docs
-https://chakra-ui.com/getting-started
 
-CSS Flexbox Explained – Complete Guide to Flexible Containers and Flex Items
-https://www.freecodecamp.org/news/css-flexbox-complete-guide/
+    Therefore, while ChatGPT 4 and Google Gemini have made impressive strides, developing similar LLMs remains a daunting task accessible only to a handful of organizations with the necessary resources and expertise.
 
-### UI/UX Design with Figma, TailwindCSS, and Chakra UI (Remote  Zoom Class)
 
-[Designing and Prototyping Interfaces with Figma: Learn essential UX/UI design principles by creating interactive prototypes for mobile, tablet, and desktop by Fabio Staiano](https://www.amazon.com/Designing-Prototyping-Interfaces-Figma-interactive/dp/180056418X/ref=sr_1_1_sspa)
+    In simpler terms, it's like building a skyscraper of knowledge and intelligence. You need the right materials (data), the right tools (hardware and software), the right architects (experts), and a lot of hard work and attention to detail to make it stand tall and function flawlessly.
 
-[Figma Design Kit for TailwindCSS](https://www.figma.com/community/file/768809027799962739)
 
-[Chakra UI Figma Kit](https://www.figma.com/community/file/971408767069651759)
+    Developing similar models would be a daunting task for individual developers or smaller teams due to the enormous scale of resources and expertise needed. However, as technology progresses and research findings become more accessible, it might become incrementally more feasible for a broader range of organizations or researchers to work on similar models, albeit at a smaller scale or with fewer resources. At that time we might also start to focus on developing LLMs ourselves. 
 
-### API Routes with Next.js
 
-[API Routes](https://nextjs.org/docs/api-routes/introduction)
+    To sum up, the focus of the program is not on LLM model development but on applied Cloud GenAI Engineering (GenEng), application development, and fine-tuning of foundational models. The program covers a wide range of topics including Python, GenAI, Microserices, API, Database, Cloud Development, and DevOps, which will give students a comprehensive understanding of generative AI and prepare them for careers in this field.
 
+15. **Business wise does it make more sense to develop LLMs ourselves from scratch or use LLMs developed by others and build applications using these tools by using APIs and/or fine-tuning them?**
 
-APIs with Next.js and tRPC
+    Whether it makes more business sense to develop LLMs from scratch or leverage existing ones through APIs and fine-tuning depends on several factors specific to your situation. Here's a breakdown of the pros and cons to help you decide:
 
-[Build a tRPC CRUD API Example with Next.js](
-https://codevoweb.com/build-a-trpc-crud-api-example-with-next-js/)
 
-Stop building REST APIs for your Next.js apps, use tRPC instead
-https://brockherion.dev/blog/posts/stop-building-rest-apis-for-your-next-apps/
+    **Developing LLMs from scratch:**
 
-### SQL and Prisma
 
-[Start from scratch with relational databases](https://www.prisma.io/docs/getting-started/setup-prisma/start-from-scratch/relational-databases-typescript-postgres)
+    **Pros:**
 
-[SQL For Beginners Video Tutorial](https://www.youtube.com/watch?v=5hzZtqCNQKk)
 
-[Database Management Systems and SQL – Tutorial for Beginners](
-https://www.freecodecamp.org/news/dbms-and-sql-basics/)
+    **Customization:** You can tailor the LLM to your specific needs and data, potentially achieving higher performance on relevant tasks.
 
-### Next.js 13 using TailwindCSS (Remote Zoom Class)
 
-[Modern CSS with Tailwind, Second Edition by Noel Rappin](https://pragprog.com/titles/tailwind2/modern-css-with-tailwind-second-edition/)
+    Intellectual property: Owning the LLM allows you to claim intellectual property rights and potentially monetize it through licensing or other means.
 
-### AWS Application Composer (Remote Zoom Class)
 
-[What is AWS Application Composer?](https://www.youtube.com/watch?v=BujE_tik5r8)
+    **Control:** You have full control over the training data, algorithms, and biases, ensuring alignment with your ethical and business values.
 
-[Event-driven apps with AWS Application Composer](
-https://www.youtube.com/watch?v=p411uh363jQ)
 
-[Visually design and build serverless applications quickly](
-https://aws.amazon.com/application-composer/)
+    **Cons:**
 
-Must Have: Create Free AWS Account
 
-[AWS Free Tier](https://aws.amazon.com/free/) 
+    **High cost:** Building and training LLMs require significant technical expertise, computational resources, and data, translating to high financial investment.
 
-Note: For AWS Free Tier you will need a credit or debit card. The easiest way for Pakistani students is to open a bank account with Meezan Bank. Open a Meezan Aasan Account if you have no earning proof. Meezan Bank will charge Rs. 1100 for ATM Debit Card and there is a requirement of Rs. 100 minimum deposit. The card will be delivered in a few weeks. Our students have reported that this Debit card works with AWS.
 
-Now you can create a virtual VISA Debit card through the NayaPay app (https://www.nayapay.com/ ) which can be used to create AWS/GCP/Azure accounts. This is good news for those students who find it difficult to create physical debit and credit cards from banks.
+    **Time commitment:** Developing an LLM is a time-consuming process, potentially delaying your go-to-market with your application.
 
-You can also get a $300 credit
-https://pages.awscloud.com/adoptf90d_GLOBAL_POC-credits.html 
 
-### Multi-Cloud GraphQL Serverless API Development with Cloud Development Kit for Terraform (CDKTF) (Remote Zoom Class)
+    **Technical expertise:** You need a team of highly skilled AI specialists to design, train, and maintain the LLM.
 
-[Learn Multicloud Serverless API Development using CDK Terraform in Baby Steps](https://github.com/panaverse/learn-multicloud-api-development)
 
-Web 2.0 Projects
+    **Using existing LLMs:**
 
-[Next.js Projects](
-https://github.com/panaverse/nextjs-projects)
 
-[Styling Next.js Projects using TailwindCSS and Chakra UI](
-https://github.com/panaverse/styling-nextjs-projects)
+    **Pros:**
 
-[Todo Full-Stack App](https://github.com/ogzhanolguncu/min-todo) 
 
-[Build a Twitter Clone](https://www.youtube.com/watch?v=nzJsYJPCc80)
+    **Lower cost:** Leveraging existing LLMs through APIs or fine-tuning is significantly cheaper than building them from scratch.
 
 
-### Earn While You Learn Projects
+    **Faster time to market:** You can quickly integrate existing LLMs into your applications, accelerating your launch timeline.
 
-### Build Full-Stack Next.js 13 Jamstack Templates
 
-You will be assigned to build a template which we will sell on Theme Forest and Panaverse DAO marketplace. The Panaverse DAO will receive 25% share on the sale of the template which will be used to manage the platform. An additional 15% will be spent on marketing the template. 60% of the revenues will be distributed to the developer through the Panaverse DAO in the form of Panaverse tokens. 
+    **Reduced technical burden:** You don't need a large team of AI specialists to maintain the LLM itself
 
-[The Panaverse Full-Stack Template Standard](https://github.com/panaverse/panaverse-template-standard)
 
+    **Cons:**
 
-### Build QraphQL APIs 
 
-You will be assigned to build APIs for which you will sell subscriptions on the Panaverse DAO Marketplace. The Panaverse DAO will receive 25% share on the sale of the template which will be used to manage the platform. An additional 15% will be spent on marketing the template. 60% of the revenues will be distributed to the developer through the Panaverse DAO in the form of Panaverse tokens. 
+    **Less customization:** Existing LLMs are not specifically designed for your needs, potentially leading to lower performance on some tasks.
 
-## Web 3 and Metaverse Specialization
 
-### Quarter III Web3 and Metaverse
+    **Limited control:** You rely on the data and biases of the existing LLM, which might not align with your specific requirements.
 
-### W3-351: Developing Smart Contracts and Planet-Scale Web 3.0 Dapps
 
-Duration: 13 Weeks
+    **Dependency on external parties:** You are dependent on the availability and maintenance of the LLM by its developers.
 
-Course Description: 
 
-In this course you will learn how to develop Web 3.0 DApps, create a project, deploy it in production, write smart contracts, unit test them, and create user interfaces for them. We will also learn to develop ERC-20 and NFT tokens, DAOs, Oracles, etc.  Please note that in order to develop Web 3 applications you also need to build on top of Web 2.0 technologies which we have already covered in the previous quarters.
+    **Here are some additional factors to consider:**
 
-[The reasons for learning Web 2 before Web 3](
-https://javascript.plainenglish.io/why-you-should-learn-web-2-0-before-getting-into-web-3-0-d251625990db)
 
-Course Outline: 
+    **The complexity of your application:** Simpler applications might benefit more from existing LLMs, while highly complex ones might require the customization of a dedicated LLM.
 
-### Blockchain and Metaverse Theory
 
-[The Metaverse: And How It Will Revolutionize Everything by Matthew Ball](https://www.amazon.com/Metaverse-How-Will-Revolutionize-Everything/dp/1324092033/ref=tmm_hrd_swatch_0)
+    **Your available resources:** If you have the financial and technical resources, developing your own LLM might be feasible. Otherwise, existing options might be more practical.
 
-[Mastering Blockchain - Fourth Edition by Imran Bashir](
-https://www.packtpub.com/product/mastering-blockchain-fourth-edition/9781803241067)
 
+    **Your competitive landscape:** If your competitors are using LLMs, you might need to follow suit to remain competitive.
 
-### Smart Contract Development in Solidity 
 
-[Solidity Programming Essentials - Second Edition By Ritesh Modi](
-https://www.packtpub.com/product/solidity-programming-essentials-second-edition/9781803231181)
+    Ultimately, the best decision depends on your specific needs, resources, and business goals. Carefully evaluating the pros and cons of each approach will help you choose the strategy that best aligns with your success.
 
-[Solidity Learning Repo](
-https://github.com/panaverse/defi-dapps-solidity-smart-contracts)
+16. **What are Custom GPTs?**
 
-### Dapp Development using Ethers.js and Next.js 13
+    "Custom GPTs" refers to specialised versions of the Generative Pre-trained
 
-[Dapp Learning Repo](
-https://github.com/panaverse/dapps-nextjs)
 
-### Tokennomics
+    Transformer (GPT) models that are tailored for specific tasks, industries, or data types. These custom models are adapted from the base GPT architecture, which is a type of language model developed by OpenAI. Custom GPT models are trained or fine-tuned on specific datasets or for particular applications, allowing them to perform better in those contexts compared to the general-purpose models.
 
-Blockchain Project: Create a Token and Launch ICO/IEO/IDO
 
-As you probably know, the ICO ("Initial Coin Offering") industry has been booming, and it's completely reinventing the way new startups kickstart themselves. In fact, have a look at Wikipedia's list of highest crowdfunding projects  https://en.wikipedia.org/wiki/List_of_highest-funded_crowdfunding_projects, and you'll notice that blockchain projects absolutely dominate the list.
+    Here are some examples of what custom GPT models might be used for:
 
-[Understand the difference between IDO vs. IEO vs. ICO](https://phemex.com/blogs/what-is-a-dex-ido) 
 
-Also check these links for latest listings:
+    1. **Industry-Specific Needs**: A custom GPT for legal, medical, or financial industries could be trained on domain-specific texts to understand and generate industry-specific language more accurately.
 
-ICO list at ICO Drops https://icodrops.com 
 
-ICO List of Best New Initial Coin Offerings https://topicolist.com/ 
+    2. **Language and Localization**: Models can be customised for different languages or dialects that might not be well-represented in the training data of the base model.
 
-Top-Rated Crypto Token Sales: List of New ICOs, STOs, IEOs and IDOsTop-Rated Crypto Token Sales: List of New ICOs, STOs, IEOs and IDOs https://cryptototem.com/ico-list/ 
 
-ICO List Online https://www.icolistingonline.com 
+    3. **Company-Specific Applications**: Organisations might develop a custom GPT model trained on their own documents and communications to assist with internal tasks like drafting emails, generating reports, or providing customer support.
 
-Binance IEO List https://coincodex.com/ieo-list/binance/ 
 
-Binance Launchpad https://www.coinspeaker.com/ieo/platform/binance-launchpad/ 
+    4. **Educational Purposes**: Educational institutions might develop custom GPTs trained on educational material to assist in creating teaching materials or providing tutoring in specific subjects.
 
-IEO List https://icomarks.com/ieo 
 
-Polkastarter https://polkastarter.com 
+    5. **Creative Writing and Entertainment**: Custom models could be trained on specific genres of literature or scripts to assist in creative writing or content creation.
 
-Project Part 1: How to Launch a IEO on Binance Launchpad
 
-Read How to Launch an IEO https://appinventiv.com/blog/how-to-launch-an-ieo/ 
+    6. **Technical and Scientific Research**: A custom GPT model could be trained on scientific literature to assist researchers in summarising papers, generating hypotheses, or even drafting new research.
 
-Your first task of the project is to make a google slides presentation on how to start a IEO on the Binance Launch Pad https://www.binance.com/en/support/faq/94ed108ce89d44ab8602aa3c476dfb04 
 
-Note: Also document the alternatives to Binance Launchpad.
+    These custom models are created through a process of fine-tuning, where the base GPT model is further trained (or 'fine-tuned') on a specific dataset. This process allows the model to become more adept at understanding and generating text that is relevant to the specific use case. Fine-tuning requires expertise in machine learning and natural language processing, as well as access to relevant training data.
 
-Project Part 2: How to Launch a IDO on Polkastarter
+17. **What are Actions in GPTs?**
 
-Review the [list of top fundraising platforms https://cryptorank.io/fundraising-platforms 
+    Actions are a way to connect custom GPTs to external APIs, allowing them to access data or interact with the real-world. For example, you can use actions to create a GPT that can book flights, send emails, or order pizza. **Actions are defined using the OpenAPI specification**, which is a standard for describing APIs. You can import an existing OpenAPI specification or create a new one using the GPT editor. 
 
-Your second task of the project is to make a google slides presentation on how to start a IDO on the Polkastarter https://polkastarter.com/ 
+18. **What are the different specialisations offered at the end of the program and what are their benefits?**
 
-Project Part 3: Create a Pako Token
+    At the end of the GenEng certification program we offer six specialisations in different fields:
 
-By creating a token and related contracts, you'll also learn how to handle money sent to your contracts, which should come in handy if you want to create some kind of paid decentralized service in the future.
 
-Therefore, for the sake of this chapter, let's imagine that our  Pako DApp uses its own coin – the Pako Token. We will create two contracts – one for the token itself and one for the token crowd sale (the ICO).
+    **Healthcare and Medical GenAI:** This specialization will teach students how to use generative AI to improve healthcare and medical research. This is relevant to fields such as drug discovery, personalized medicine, and surgery planning.
 
-Now Create your own Pako ERC20 Token and deploy it on a testnet. The Token should be to use OpenZeppelin contracts. You will use the Hardhat development environment. Also, write at least twenty automated tests. We will be using Solidity and Typescript for development.
 
-Project Part 4: Develop Crowd Sale Contract
+    Benefits: 
 
-This contract will be responsible for allowing users to exchange ETH for our Pako Token. In order to do that we need to set a price for our token (1 ETH = 100 Pako Token)
+* Learn how to use generative AI to identify diseases, develop new drugs, and personalize treatment plans.
+* Gain a deeper understanding of the ethical implications of using generative AI in healthcare.
+* Prepare for a career in a growing field with high demand for skilled professionals.
 
-Implement a payable buyToken() function. 
+    **Web3, Blockchain, and GenAI Integration**: This specialisation will teach students how to integrate generative AI with Web3 and blockchain technologies. This is relevant to fields such as finance, healthcare, and supply chain management.
 
-Emit a BuyTokens event that will log who’s the buyer, the amount of ETH sent and the amount of Token bought
 
-Transfer 75% of the Tokens to the Crowd Sale contract at deployment time. i.e. Right after the contract is deployed, we want the token contract to send 75% of our token supply to it. While 25% remain in our personal "owner" account.
+    Benefits: 
 
-Transfer the ownership of the Crowd Sale contract (at deploy time) to our frontend address so that we are able to withdraw the ETH.
+* Learn how to create smart contracts and decentralised applications (dApps).
+* Gain a deeper understanding of the potential of blockchain technology and how it can be used to improve business processes.
+* Develop the skills necessary to work in a rapidly growing field with high demand for skilled professionals.
 
-You can use the openzeppelin crowd sale contracts https://docs.openzeppelin.com/contracts/4.x/crowdsales however you will have to update the code to the latest solidity version.
+    **Metaverse, 3D, and GenAI Integration:** This specialisation will teach students how to create and use 3D models and other immersive content manually and with generative AI. This is relevant to fields such as gaming, marketing, and architecture.
 
-Also write extensive tests, for example we will simply send a transaction of 1 ETH from a random account to the contract. After the transaction, we should expect the account to have received Pako, while the contract's balance should have been reduced.
 
-Note: Before you get started writing the token contract we suggest you review access control
-https://docs.openzeppelin.com/contracts/4.x/access-control 
+    Benefits: 
 
-Project Part 5: Trying it with MetaMask
+* Learn how to use generative AI to create realistic and immersive 3D models.
+* Develop the skills necessary to work in the growing field of virtual reality (VR) and augmented reality (AR).
+* Apply generative AI to solve real-world problems in areas such as product design, marketing, and education.
 
-While it's always good to test your code, it's often more satisfying to see the results of your work wrapped in a nice UI. Let's see how we can deploy our contracts and get some Pako tokens into our MetaMask wallet!
+    **GenAI for Accounting, Finance, and Banking:** This specialisation will teach students how to use generative AI to improve accounting, finance, and banking processes. This is relevant to fields such as fraud detection, risk management, and investment analysis.
 
-We start by running our deployment scripts for the test network so that the new token contracts are uploaded and deployed.
 
-When it's done, take note of what addresses the contracts were uploaded to and copy it!
+    Benefits: 
 
-Now head to MetaMask, and send a transaction of 1 ETH to the crowd sale contract address. If your MetaMask wallet doesn't have any ethers, remember that you can use any faucet.
+* Learn how to use generative AI to automate tasks, identify patterns, and make predictions.
+* Gain a deeper understanding of the financial industry and how generative AI can be used to improve its processes.
+* Prepare for a career in a growing field with high demand for skilled professionals.
 
-After the transaction has been confirmed, you might be confused about why you can't see any tokens in your wallet. It turns out that you need to manually add the token address in MetaMask in order to "register" it – after all, there are so many tokens out there, there's no way MetaMask could list them all by default!
+    **GenAI for Engineers:** This specialisation will teach students how to use generative AI to improve engineering design and problem-solving. This is relevant to fields such as manufacturing, construction, and product development.
 
-To do this, open the side menu and click on the "Add token" button to get started:
 
-Once you're on the token page, click on "Add custom token" and paste in the token contract's address in the address field.
+    Benefits: 
 
-After confirming that you want to add the token, you should be able to see your Pako balance right next to your ETH balance in the wallet. How cool!
+* Learn how to use generative AI to create simulations, optimize designs, and predict failures.
+* Gain a deeper understanding of the engineering design process and how generative AI can be used to improve it.
+* Prepare for a career in a growing field with high demand for skilled professionals.
 
-Project Part 6: Trying it with Multisignature Wallets
+    **GenAI for Sales and Marketing:** This specialisation will teach students how to use generative AI to improve sales and marketing campaigns. This is relevant to fields such as advertising, public relations, and customer service.
 
-Read https://www.coindesk.com/tech/2020/11/10/multisignature-wallets-can-keep-your-coins-safer-if-you-use-them-right/ 
 
-Now use Gnosis Safe]{https://gnosis-safe.io/ with multi-sigs to do what you did in the last part.
+    Benefits: 
 
+* Learn how to use generative AI to create personalised marketing messages, generate leads, and track campaign performance.
+* Gain a deeper understanding of the latest marketing trends and how generative AI can be used to improve them.
+* Prepare for a career in a growing field with high demand for skilled professionals.
 
-Project Part 7: Sending Tokens using Ethers.js 
+**GenAI for Automation and Internet of Things (IoT):**
 
-Write a Typescript program to send Pako Token to some friend's address using Ethers.js.
 
-You may follow this tutorial https://ethereum.org/en/developers/tutorials/send-token-etherjs/ 
 
+* **Provide Multi-Modal User Interface for the IoT systems:** Multimodal interaction exploits the synergic use of different modalities to optimise the interactive tasks accomplished by the users. This allows a user to use several input modes such as speech, touch, and visual to interact with IoT systems.
+* **Improve efficiency and accuracy of industrial processes:** By implementing GenAI in automation and IoT systems, industries can optimise their processes, reduce manual labour, and increase productivity while ensuring higher accuracy and consistency. 
+* **Enhance decision-making:** GenAI can analyse vast amounts of data collected by IoT sensors to derive valuable insights, enabling businesses to make informed decisions regarding operations, maintenance, and resource allocation.
+* **Personalise user experiences:** GenAI can leverage IoT data to understand user preferences and behaviours, enabling the creation of personalised experiences across smart devices and IoT-enabled systems.
 
-Project Part 8 Advance: Create, Deploy, Mint, and Sell a NFT
+**GenAI for Cyber Security:**
 
-Read this NFT tutorial series https://ethereum.org/en/developers/tutorials/how-to-write-and-deploy-an-nft/ 
 
-Create a NFT contract using the [OpenZepplen ERC721 NFT Standard https://docs.openzeppelin.com/contracts/4.x/erc721 
 
-You may use the Preset ERC721 contract https://docs.openzeppelin.com/contracts/4.x/erc721#Presets 
-
-Deploy your NFT contract on a testnet, mint it, and view it on the MetaMask wallet and list it on OpenSea Marketplace https://opensea.io/  for sale.
-
-Implement a ERC721 Market https://ethereum.org/en/developers/tutorials/how-to-implement-an-erc721-market/
-
-
-## Quarter IV Web3 and Metaverse
-
-## MV-361: Developing Planet-Scale Open Virtual and Augmented Metaverse Experiences
-
-Duration: 13 Weeks
-
-Course Description: 
-
-The Web is the Metaverse. The metaverse requires an infrastructure that connects all of the metaverses so that we can travel between them. This is only achievable with open web-based metaverses. The internet and its browsers are magical. Federated but linked experiences connect pages, people, technology, businesses, standards, and nations. It's unlike anything else. The metaverse should replicate the best qualities of the web - it should just be the web. We just have to extend online responsive design from mobile to desktop to 3D, Augmented Reality, and Virtual Reality. This course will teach you how to build the Open Social Spatial Web with WebXR and WebGPU technologies.
-
-Course Outline: 
-
-Open Metaverse Web Development 
-
-[Open Metaverse Learning Repo](https://github.com/panaverse/metaverse-web)
-
-Blender 3D asset Creation for the Metaverse (Remote Zoom Class)
-
-Blender development is being funded by heavyweights in the real-time 3D (RT3D) space such as Apple, Unity, AMD, Intel, Meta, NVIDIA, AWS, Epic Games, Adobe, Microsoft, and Decentraland. It is expected to become the standard asset creation tool for metaverse. 
-
-[Blender 3+ Download](https://www.blender.org/download/) 
-
-[Blender 3.0 Beginner Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD) 
-
-[Blender 3.0 Hotkey](https://docs.google.com/document/d/1zPBgZAdftWa6WVa7UIFUqW_7EcqOYE0X743RqFuJL3o/edit)
-
-[Blender Projects Textbook: Blender by Example 2nd Edition]( https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561) 
-
-[Blender Textbook: The Complete Guide to Blender Graphics: Computer Modeling & Animation 7th Edition by John M. Blain](https://www.amazon.com/Complete-Guide-Blender-Graphics-Animation/dp/103212167X/ref=sr_1_5) 
-
-[Best Hardware Performance for Blender Rendering](https://www.youtube.com/watch?v=H7T0SzdFHwg)
-
-Assignment 1:
-
-Build a 3D Donut using Blender 3 as shown in these video tutorials https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD 
-
-Assignment 2:
-Build a Viking Scene using Blender 3 as shown in chapter 2 of the Book [Blender by Example 2nd Edition https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561 
-
-Assignment 3:
-
-Modeling a Time Machine using Blender 3 as shown in chapters 3 and 4 of the Book Blender by Example 2nd Edition https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561 
-
-Assignment 4:
-
-Build a Modern Kitchen using Blender 3 as shown in chapters 5, 6, and 7 of the Book Blender by Example 2nd Edition https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561 
-
-Assignment 5:
-
-Illustrating an Alien Hero with Grease Pencil as shown in chapter 8 of the Book Blender by Example 2nd Edition https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561 
-
-Assignment 6:
-
-Build a 3D Sword in the Stone using Blender 3 as shown in these video tutorials https://www.youtube.com/watch?v=bpvh-9H8S1g 
+* **Strengthen threat detection and response: **GenAI can be used to rapidly detect and respond to cyber threats by analysing large volumes of security data in real time, identifying anomalies, and suggesting appropriate countermeasures.
+* **Enhance security monitoring and analysis:** GenAI can assist security analysts in monitoring and analysing security logs, automating threat detection, and providing insights into security risks and vulnerabilities.
+* **Improve threat intelligence:** GenAI can be used to gather and analyze threat intelligence from various sources, enabling organisations to stay informed about the latest threats and trends and proactively strengthen their security posture.
 
 
 
